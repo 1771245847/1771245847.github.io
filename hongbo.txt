@@ -157,7 +157,6 @@ NewTV动作,http://39.135.36.146:18890/000000001000/8103864434730665389/1.m3u8?c
 NewTV军旅,http://39.135.36.156:18890/000000001000/7485075951068666323/1.m3u8?channel-id=ystenlive&Contentid=7485075951068666323&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=7485075951068666323&owchid=ystenlive&owsid=1106497909461660587&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7gYwRY3Wxxxjm4eCFATbicSFfA3OO5y8oXZJsD0pdpNF5XUqv6ZoXjgdtsapPA003lukcFW5PcqCPu9LmSAwaU
 NewTV家庭,http://39.135.36.154:18890/000000001000/6316377948248689070/1.m3u8?channel-id=ystenlive&Contentid=6316377948248689070&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=6316377948248689070&owchid=ystenlive&owsid=1106497909461667557&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE4ZwpjUZzRJ311OOUZgk%2fdzXH6qIpYr0YPi6NvoFlPR1BKc5nFG3fYCgRA5KoFSBO69EQ0AB6jYRoTGtX%2bXoSmh
 NewTV惊悚,http://39.135.36.153:18890/000000001000/7151256057701199617/1.m3u8?channel-id=ystenlive&Contentid=7151256057701199617&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=7151256057701199617&owchid=ystenlive&owsid=1106497909461673183&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7WcU4uUemDr%2bvU%2bvnnf3N5iO4bkU4W0ueDoorDr5ibxhAm%2f7T1v8XBQNX%2bapKXQ2%2fK9yjYdVWnw2Bihh8x%2bgGK
-NewTV海外,http://39.135.36.138:18890/000000001000/7681593242002292003/1.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=7681593242002292003&owchid=ystenlive&owsid=1106497909461684320&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6duq37iJuE%2fAq4jgKsH77XOP4Et6zhgVTiPZi9lOHM23AIuPDem5ywKZGTAm3ZYV4bg0FTwS32NZpO0MD9F11W
 NewTV搏击,http://39.135.36.154:18890/000000001000/bokesen/1.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=bokesen&owchid=ystenlive&owsid=1106497909461689613&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7tWwcJ9gAtxn4aPYIw71ppLozLIK9YQrvbqFru4XbE8FIhvh4VgXNnv8f9IP4gfSA%3d
 NewTV明星大片,http://39.135.36.143:18890/000000001000/5595720619887440144/1.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=5595720619887440144&owchid=ystenlive&owsid=1106497909461695855&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6YXxE0nCCxd3dck4q0SwSBlg2o%2fvyI82ry5doiaWJPH9u%2fHCOos%2ffJGJ56Qg2QVr1cCX3bbMrMBnTh%2bHCkuVIP
 NewTV爱情喜剧,http://39.135.36.152:18890/000000001000/8393829412396288037/1.m3u8?channel-id=ystenlive&Contentid=8393829412396288037&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=8393829412396288037&owchid=ystenlive&owsid=1106497909461701287&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE4y7uVHwAxWluJXzuOABih3FGGfr%2bsJzle%2bv7q7mmo7sH%2b2t%2bWjDtNUzUdL8QTk%2bIUtEVXTAMGlgOpmFrzdrKNl
@@ -177,7 +176,6 @@ Newtv超级电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/2
 NewTV超级电视剧,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
 Newtv超级体育,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226157/1.m3u8
 Newtv超级体育,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226158/1.m3u8
-NewTV超级电视剧,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
 黑莓电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
 黑莓动画,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8
 虎牙电影,#genre#
@@ -188,6 +186,7 @@ NewTV超级电视剧,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/8888888
 李连杰电影,https://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_2000.m3u8
 洪金宝电影,https://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_2000.m3u8
 林正英电影,http://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_2000.m3u8
+邵氏电影,http://tx2play1.douyucdn.cn/live/4246519rZ6Vvqy7q.flv
 金庸武侠,https://aldirect.hls.huya.com/huyalive/29359996-2689645314-11551938661469650944-2847687586-10057-A-0-1_2000.m3u8
 神雕侠侣,https://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_2000.m3u8
 西游记,http://aldirect.hls.huya.com/backsrc/29141112-2689673336-11552059015043219456-3048991588-10057-A-0-1_2000.m3u8
@@ -226,8 +225,8 @@ NewTV超级电视剧,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/8888888
 车展 Ⅰ 泰国波动比基尼美女,http://www.zuori.cc/index/downloads?d=43165&v=8ojPWmEM
 车展 Ⅰ 泰国郊郎蓝色比基尼美女,http://www.zuori.cc/index/downloads?d=43165&v=yq8JSUqD
 xx_0212,#genre#
-18禁 朋友的义母,https://qqc1107.phpdaniu.com/japan/20191126/mmFhtpf8/1000kb/hls/index.m3u8
-18禁 姐姐的朋友,https://qqc1107.phpdaniu.com/japan/20190930/gtf5FxLF/index.m3u8
+18禁 Ⅰ 朋友的义母,https://qqc1107.phpdaniu.com/japan/20191126/mmFhtpf8/1000kb/hls/index.m3u8
+18禁 Ⅰ 姐姐的朋友,https://qqc1107.phpdaniu.com/japan/20190930/gtf5FxLF/index.m3u8
 18禁 Ⅰ 别人老婆刺激,https://qqc1107.phpdaniu.com/japan/20191126/rcahBf2Q/1000kb/hls/index.m3u8
 18禁 Ⅰ 禁止的爱善良小姨子,https://qqc1107.phpdaniu.com/japan/20190930/p4VeVi7L/index.m3u8
 18禁 Ⅰ 热吻发情的少妇,https://qqc1107.phpdaniu.com/japan/20191126/28uyhWP8/500kb/hls/index.m3u8
