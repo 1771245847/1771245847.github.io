@@ -1,6 +1,5 @@
 央视频道,#genre#
-CCTV-1综合HD,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228104/index.m3u8
-央视频道,#genre#
+CCTV-1,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228104/index.m3u8
 CCTV-1,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 CCTV-2,http://ivi.bupt.edu.cn/hls/cctv2.m3u8
 CCTV-3,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
