@@ -48,7 +48,6 @@ CCTV-17,https://cctvcnch5ca.v.wscdns.com/live/cctv17_2/10793.m3u8
 甘肃卫视,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=012&Provider_id=&Pcontent_id=index.m3u8
 河南卫视,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=019&Provider_id=&Pcontent_id=index.m3u8
 辽宁卫视,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=018&Provider_id=&Pcontent_id=index.m3u8
-
 港台新闻,#genre#
 TVB无线新闻台,vjms://121.14.222.75:8500:3502/live/cid=366#http://www.liveviptv.xyz/tv/tvb.php#p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts#vjms://23.237.33.155:8500:3502/live/cid=366
 TVBS新闻,vjms://58.215.133.185:8500:3502/live/cid=348#vjms://121.14.222.75:8500:3502/live/cid=348#vjms://23.237.33.155:8500:3502/live/cid=348
@@ -82,7 +81,6 @@ CNN,vjms://121.14.222.75:8500:3502/live/cid=428#p8p://0198.02686.cc:16871/5d1a69
 BBC,vjms://58.215.133.185:8500:3502/live/cid=418#vjms://121.14.222.75:8500:3502/live/cid=418#vjms://23.237.33.155:8500:3502/live/cid=418
 SKY NEWS,http://pili-live-hdl.qhmywl.com/dsdtv/64a4807c0cf482cffe922d7b8f091303.flv
 FOXNews,vjms://58.215.133.185:8500:3502/live/cid=97#p8p://0198.02686.cc:16871/5d1a697f0002f4fc11bd0dfb9dd398c6.ts#vjms://121.14.222.75:8500:3502/live/cid=97
-
 港台影视,#genre#
 HBO原创电影,vjms://58.215.133.185:8500:3502/live/cid=436#vjms://121.14.222.75:8500:3502/live/cid=436#vjms://23.237.33.155:8500:3502/live/cid=436#http://pili-live-hdl.qhmywl.com/dsdtv/fcdd3a3c591bdd0b07a17a92cb555cc1.flv
 HBO家庭,vjms://58.215.133.185:8500:3502/live/cid=181#vjms://121.14.222.75:8500:3502/live/cid=181#vjms://23.237.33.155:8500:3502/live/cid=181#http://pili-live-hdl.qhmywl.com/dsdtv/7e7ed5cc99029fd0d27e25009d7abdac.flv
@@ -126,9 +124,8 @@ CinemaWorld,http://pili-live-hdl.qhmywl.com/dsdtv/357252de83720e30d40c00bfba69c4
 CatchPlay电影,http://pili-live-hdl.qhmywl.com/dsdtv/65e80e1e0cd763a0302d7aa2a1135b0b.flv
 BLUEANT,p8p://0198.02686.cc:16871/5d1a69a60004767211bda6b5be685208.ts
 FX,p8p://0198.02686.cc:16871/5d1a69a50009208511bda3ff8356848f.ts
-
 综合娱乐,#genre#
-TVB J2,vjms://121.14.222.75:8500:3502/live/cid=368#vjms://121.14.222.75:8500:3502/live/cid=363#p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts#vjms://23.237.33.155:8500:3502/live/cid=368#vjms://23.237.33.155:8500:3502/live/cid=363
+TVBJ2,vjms://121.14.222.75:8500:3502/live/cid=368#vjms://121.14.222.75:8500:3502/live/cid=363#p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts#vjms://23.237.33.155:8500:3502/live/cid=368#vjms://23.237.33.155:8500:3502/live/cid=363
 TVB明珠台,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts#vjms://121.14.222.75:8500:3502/live/cid=367#vjms://23.237.33.155:8500:3502/live/cid=367
 TVB翡翠台,p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts#vjms://121.14.222.75:8500:3502/live/cid=362#vjms://23.237.33.155:8500:3502/live/cid=362#http://m.567it.com/jade.m3u8
 TVBS欢乐台,vjms://121.14.222.75:8500:3502/live/cid=438#vjms://23.237.33.155:8500:3502/live/cid=438
@@ -153,7 +150,6 @@ JET综合,p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
 中视经典,http://pili-live-hdl.qhmywl.com:80/dsdtv/75249ac8b464466a9c41c669bd27260a.m3u8
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
-
 港台体育,#genre#
 FOXSPORT1,http://pili-live-hdl.qhmywl.com/dsdtv/b00b46e382e81efd9902a848c9b89101.flv
 FOXSPORT2,p8p://0198.02686.cc:16871/5d1a69a30008cd8811bd9c1ad6dfa2ad.ts
@@ -172,7 +168,6 @@ Z频道,p8p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts
 Star Sports,rtmp://58.200.131.2:1935/livetv/starsports
 ElevenSportPlus,http://pili-live-hdl.qhmywl.com/dsdtv/b599c0682fbb5364078cb9e3093228a6.flv
 ElevenSport2,http://pili-live-hdl.qhmywl.com/dsdtv/94283c6401f80334d9acd488b649830b.flv
-
 港台娱乐,#genre#
 国家地理野生,vjms://58.215.133.185:8500:3502/live/cid=263#vjms://121.14.222.75:8500:3502/live/cid=263#vjms://23.237.33.155:8500:3502/live/cid=263
 国家地理,vjms://58.215.133.185:8500:3502/live/cid=115#vjms://121.14.222.75:8500:3502/live/cid=115#vjms://23.237.33.155:8500:3502/live/cid=115#rtmp://58.200.131.2:1935/livetv/natlgeo
@@ -192,17 +187,16 @@ TV5MONDE,vjms://58.215.133.185:8500:3502/live/cid=396#vjms://121.14.222.75:8500:
 StarWorld,p8p://0198.02686.cc:16871/5d1a69aa0008eaab11bdb77907881e7a.ts
 BBCLifestyle,http://pili-live-hdl.qhmywl.com:80/dsdtv/5e80f4a9e17c991df381030c65856687.m3u8
 CHANNEL[V],http://pili-live-hdl.qhmywl.com/dsdtv/c8ade260941e368acfdb110a04811b3e.flv#rtmp://58.200.131.2:1935/livetv/channelv
-
-轮播频道,#genre#
+轮播电影,#genre#
 科幻电影,http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 好莱坞电影,http://aldirect.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_1200.m3u8
 怪物科幻,http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 漫威电影,http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 灾难电影,http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 丧尸电影,http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
-动漫大电影,http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
-亚洲大电影,http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
-亚洲好电影,http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
+动漫电影,http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
+亚洲电影,http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
+亚洲电影,http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
 电影导视,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNDYDS/1800/vCIBNDYDS.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 电影综合,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 精品影院,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
@@ -210,8 +204,6 @@ CHANNEL[V],http://pili-live-hdl.qhmywl.com/dsdtv/c8ade260941e368acfdb110a04811b3
 喜剧影院,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNHSYX/1800/vCIBNHSYX.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 古装剧场,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 骄阳剧场,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
-
 亲子卡通,#genre#
 迪斯尼,vjms://58.215.133.185:8500:3502/live/cid=361#vjms://121.14.222.75:8500:3502/live/cid=361#vjms://23.237.33.155:8500:3502/live/cid=361
 CN卡通,vjms://121.14.222.75:8500:3502/live/cid=422#http://pili-live-hdl.qhmywl.com/dsdtv/c865782e4a131efe17651165835ca37e.flv#p8p://0198.02686.cc:16871/5d1a69b3000e2d1e11bddbfa8c491af8.ts#vjms://23.237.33.155:8500:3502/live/cid=422
@@ -219,13 +211,11 @@ CN卡通,vjms://121.14.222.75:8500:3502/live/cid=422#http://pili-live-hdl.qhmywl
 BabyFirst,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
-
 精彩4K,#genre#
 BesTV 4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 纯享 4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
-
 NewTV,#genre#
 NewTV古装,http://39.135.36.150:18890/000000001000/6859053933687922163/1.m3u8?channel-id=ystenlive&Contentid=6859053933687922163&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=6859053933687922163&owchid=ystenlive&owsid=1106497909461643183&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7rI6cyOBdMQcbb7pGYvKkkE4PU3Zf45kDZim939dEFvAtUmU8crfqEUv5zpewkRlr9zZahSqXGjBKN9OvmeMwv
 NewTV动作,http://39.135.36.146:18890/000000001000/8103864434730665389/1.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=8103864434730665389&owchid=ystenlive&owsid=1106497909461651262&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6gc5lrV9LORe1gi%2brvWfZqjqWg5r9sHf%2bhUiRSDpBuWg5lRQBeU9YctiSzPH6gfVkWNbz7C4olsbRCQkf1hNrZ
@@ -246,7 +236,6 @@ NewTV健康有约,http://39.135.36.155:18890/000000001000/7820874641606664941/1.
 NewTV精品体育,http://39.135.36.157:18890/000000001000/6460382139625130259/1.m3u8?channel-id=ystenlive&Contentid=6460382139625130259&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=6460382139625130259&owchid=ystenlive&owsid=1106497909461751360&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7bXyHXx9pcAUwTaLb5AbAmkHYZnpwVd9P8mvmphlj1JalYdRW8FBsCqY%2f8wxvQntk%2bssuunsLwIBwjlBeIJxeC
 NewTV潮妈辣婆,http://39.135.36.147:18890/000000001000/6516734029835465177/1.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=6516734029835465177&owchid=ystenlive&owsid=1106497909461757416&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7lpjlDkCigeV92%2fGgzDbl17YJnmK%2bNapvzR3hZbQitGUDQ%2f2RfKI5ienTpN%2bdmcS6qzJsR4R%2fYKs50I6pDfn83
 NewTV炫舞未来,http://39.135.36.157:18890/000000001000/1000000001000000515/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000000515&owchid=ystenlive&owsid=1106497909461764488&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRNwKLc81VtMnWmF2ZM43fEHzlD22rx2n%2flxPrsDq9A4qonSPaCT%2bEq8mzJT5jo5U4
-
 庆余年,#genre#
 第1集,http://cn7.7639616.com/hls/20191126/eebb68accf60bff8adffe64c7ac68219/1574769804/index.m3u8
 第2集,http://cn6.7639616.com/hls/20191126/5732e6c5fd2ba9580797bbac42bc3afa/1574769508/index.m3u8
