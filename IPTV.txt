@@ -53,15 +53,6 @@ CCTV17,http://111.40.205.70/PLTV/88888888/224/3221225765/index.m3u8#http://strea
 新疆卫视,http://player.200877926.top/18/tv.php?tv=shydbst&id=xjws
 康巴卫视,http://scgctvshow.sctv.com/sdlive/kangba/1.m3u8
 澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
-中华特产,http://play.zhtctv.cn/portal/btv.m3u8
-峨眉电影,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-广东珠江,http://nclive.grtn.cn/zjpd/sd/live.m3u8
-广东综艺,http://nclive.grtn.cn/4K/sd/live.m3u8
-威海海洋,http://l2.weihai.tv:8081/hls/haiyangpd.m3u8
-CETV 教育一台,http://stream.cdjsxy.cn/zgjy/sd/live.m3u8#http://220.158.149.14:9999/live/TV00000000000000000026@HHZT;LIVE?DSJTV.m3u8
-CGTN 国际频道,http://live.cgtn.com/1000/prog_index.m3u8
-CGTN 记录频道,http://live.cgtn.com/1000d/prog_index.m3u8
-CGTN 法语频道,http://live.cgtn.com/1000f/prog_index.m3u8
 地方频道,#genre#
 浙江 Ⅰ 柯桥综合台,http://live.scbtv.cn/hls/news/index.m3u8
 浙江 Ⅰ 柯桥时尚台,http://live.scbtv.cn/hls/qfc/index.m3u8
@@ -181,13 +172,22 @@ TVB 财经台,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_
 澳视澳门,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 澳门有线一台,http://202.175.127.77/live/show/ch1/index.m3u8
 澳门有线三台,http://202.175.127.77/live/show/ch3/index.m3u8
-CHTV 台湾台,http://%32%32%30%2e%31%35%38%2e%31%34%39%2e%31%34:%39%39%39%39/%6c%69%76%65/%54%56%30%30%30%30%30%30%30%30%30%30%30%30%30%30%30%30%30%30%30%32%40%48%48%5a%54%3b%4c%49%56%45?%44%53%4a%54%56%2e%6d%33%75%38
-RHK 电台31台,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
-RHK 电台32台,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
-HKC 开放电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
-HKC 直播新闻,http://%77%6f%77%67%75%61%2e%63%6f%6d/%6c%69%76%65/%63%68%61%6e%6e%65%6c%5f%31%31%30%2e%6d%33%75%38
-V I U 综合频道,https://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
+CHTV台湾台,http://%32%32%30%2e%31%35%38%2e%31%34%39%2e%31%34:%39%39%39%39/%6c%69%76%65/%54%56%30%30%30%30%30%30%30%30%30%30%30%30%30%30%30%30%30%30%30%32%40%48%48%5a%54%3b%4c%49%56%45?%44%53%4a%54%56%2e%6d%33%75%38
+RHK电台31台,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+RHK电台32台,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+HKC开放电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
+HKC直播新闻,http://%77%6f%77%67%75%61%2e%63%6f%6d/%6c%69%76%65/%63%68%61%6e%6e%65%6c%5f%31%31%30%2e%6d%33%75%38
+V I U综合频道,https://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
 综合娱乐,#genre#
+中华特产,http://play.zhtctv.cn/portal/btv.m3u8
+峨眉电影,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+广东珠江,http://nclive.grtn.cn/zjpd/sd/live.m3u8
+广东综艺,http://nclive.grtn.cn/4K/sd/live.m3u8
+威海海洋,http://l2.weihai.tv:8081/hls/haiyangpd.m3u8
+CETV教育一台,http://stream.cdjsxy.cn/zgjy/sd/live.m3u8#http://220.158.149.14:9999/live/TV00000000000000000026@HHZT;LIVE?DSJTV.m3u8
+CGTN国际频道,http://live.cgtn.com/1000/prog_index.m3u8
+CGTN记录频道,http://live.cgtn.com/1000d/prog_index.m3u8
+CGTN法语频道,http://live.cgtn.com/1000f/prog_index.m3u8
 环宇新闻,http://pili-live-hdl.qhmywl.com/dsdtv/4677cf6625ce01b236bbb58f99094d51.flv
 环宇二台,http://pili-live-hdl.qhmywl.com/dsdtv/0d192b1fb482857fb4694a12c2718302.flv
 中视新闻,http://pili-live-hdl.qhmywl.com/dsdtv/cf4d66edc142b2f0cc8c71bca56b2268.flv
@@ -202,8 +202,8 @@ V I U 综合频道,https://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m
 博斯无限,http://pili-live-hdl.qhmywl.com/dsdtv/8c9a98717ee9e5136636c3bedbb852b8.flv
 龙华影剧,http://pili-live-hdl.qhmywl.com/dsdtv/d2e1d697b31906f91d7e19a5f06f64ed.flv
 龙华偶像,http://pili-live-hdl.qhmywl.com/dsdtv/046d62141df9366aa54a66b22e095e24.flv
-TVBS 欢乐台,http://%32%32%30%2e%31%35%38%2e%31%34%39%2e%31%34:%39%39%39%39/%6c%69%76%65/%54%56%30%30%30%30%30%30%30%30%30%30%30%30%30%30%30%30%30%30%37%39%40%48%48%5a%54%3b%4c%49%56%45?%44%53%4a%54%56%2e%6d%33%75%38
-TVBS 新闻台,http://%36%30%2e%31%39%39%2e%31%38%38%2e%36%35/%48%4c%53/%57%47%5f%54%56%42%53%2d%4e/%30%31%2e%6d%33%75%38#http://%32%32%30%2e%31%35%38%2e%31%34%39%2e%31%34:%39%39%39%39/%6c%69%76%65/%54%56%30%30%30%30%30%30%30%30%30%30%30%30%30%30%30%30%30%30%38%32%40%48%48%5a%54%3b%4c%49%56%45?%44%53%4a%54%56%2e%6d%33%75%38#%72%74%6d%70://%35%39%2e%31%32%34%2e%37%35%2e%31%33%37/%73%61%74/%74%76%35%35%31?%64%73%6a%74%76%2e%6d%33%75%38
+TVBS欢乐台,http://%32%32%30%2e%31%35%38%2e%31%34%39%2e%31%34:%39%39%39%39/%6c%69%76%65/%54%56%30%30%30%30%30%30%30%30%30%30%30%30%30%30%30%30%30%30%37%39%40%48%48%5a%54%3b%4c%49%56%45?%44%53%4a%54%56%2e%6d%33%75%38
+TVBS新闻台,http://%36%30%2e%31%39%39%2e%31%38%38%2e%36%35/%48%4c%53/%57%47%5f%54%56%42%53%2d%4e/%30%31%2e%6d%33%75%38#http://%32%32%30%2e%31%35%38%2e%31%34%39%2e%31%34:%39%39%39%39/%6c%69%76%65/%54%56%30%30%30%30%30%30%30%30%30%30%30%30%30%30%30%30%30%30%38%32%40%48%48%5a%54%3b%4c%49%56%45?%44%53%4a%54%56%2e%6d%33%75%38#%72%74%6d%70://%35%39%2e%31%32%34%2e%37%35%2e%31%33%37/%73%61%74/%74%76%35%35%31?%64%73%6a%74%76%2e%6d%33%75%38
 东森电影,http://pili-live-hdl.qhmywl.com/dsdtv/d2325cfdfd53364263d307573f78e3ce.flv
 东森幼幼,http://%32%32%30%2e%31%35%38%2e%31%34%39%2e%31%34:%39%39%39%39/%6c%69%76%65/%54%56%30%30%30%30%30%30%30%30%30%30%30%30%30%30%30%30%30%30%37%36%40%48%48%5a%54%3b%4c%49%56%45?%44%53%4a%54%56%2e%6d%33%75%38
 三立台湾,http://pili-live-hdl.qhmywl.com/dsdtv/e71635b53bb874a085b2a469802bbc81.flv
@@ -212,10 +212,10 @@ TVBS 新闻台,http://%36%30%2e%31%39%39%2e%31%38%38%2e%36%35/%48%4c%53/%57%47%5
 爱尔达体育一,http://pili-live-hdl.qhmywl.com/dsdtv/b599c0682fbb5364078cb9e3093228a6.flv
 爱尔达体育二,http://pili-live-hdl.qhmywl.com/dsdtv/94283c6401f80334d9acd488b649830b.flv
 空中英语教室,http://%32%32%30%2e%31%35%38%2e%31%34%39%2e%31%34:%39%39%39%39/%6c%69%76%65/%54%56%30%30%30%30%30%30%30%30%30%30%30%30%30%30%30%30%30%30%37%37%40%48%48%5a%54%3b%4c%49%56%45?%44%53%4a%54%56%2e%6d%33%75%38
-FOX 电影台,http://pili-live-hdl.qhmywl.com/dsdtv/b3d2208824d1ca27dad3068e376ab557.m3u8
-FOX 体育三,http://pili-live-hdl.qhmywl.com/dsdtv/1a4ff6880b679dd340e42a9b61fe2d9f.flv
-HBO 亚洲台,http://pili-live-hdl.qhmywl.com/dsdtv/13e83b20bc716e68221da438d761d352.flv
-民视新闻[翻Q],http://%32%31%30%2e%36%31%2e%35%36%2e%32%33/%68%6c%73/%66%74%76%74%76/%69%6e%64%65%78%2e%6d%33%75%38#%68%74%74%70%73://%36%2e%6d%6d%73%2e%76%6c%6f%67%2e%78%75%69%74%65%2e%6e%65%74/%68%6c%73/%66%74%76%74%76/%69%6e%64%65%78%2e%6d%33%75%38
+FOX电影台,http://pili-live-hdl.qhmywl.com/dsdtv/b3d2208824d1ca27dad3068e376ab557.m3u8
+FOX体育三,http://pili-live-hdl.qhmywl.com/dsdtv/1a4ff6880b679dd340e42a9b61fe2d9f.flv
+HBO亚洲台,http://pili-live-hdl.qhmywl.com/dsdtv/13e83b20bc716e68221da438d761d352.flv
+民视新闻,http://%32%31%30%2e%36%31%2e%35%36%2e%32%33/%68%6c%73/%66%74%76%74%76/%69%6e%64%65%78%2e%6d%33%75%38#%68%74%74%70%73://%36%2e%6d%6d%73%2e%76%6c%6f%67%2e%78%75%69%74%65%2e%6e%65%74/%68%6c%73/%66%74%76%74%76/%69%6e%64%65%78%2e%6d%33%75%38
 泰国 Ⅰ PPTV,http://%31%38%33%2e%31%38%32%2e%31%30%30%2e%31%38%34/%6c%69%76%65/%70%70%74%76%74%68%61%69/%63%68%75%6e%6b%6c%69%73%74%2e%6d%33%75%38#http://%31%38%33%2e%31%38%32%2e%31%30%30%2e%31%38%34/%6c%69%76%65/%70%70%74%76%74%68%61%69/%70%6c%61%79%6c%69%73%74%2e%6d%33%75%38
 新马 Ⅰ 亚洲新闻,http://%64%32%65%31%61%73%6e%73%6c%37%62%72%37%62%2e%63%6c%6f%75%64%66%72%6f%6e%74%2e%6e%65%74/%37%37%38%32%65%32%30%35%65%37%32%66%34%33%61%65%62%34%61%34%38%65%63%39%37%66%36%36%65%62%62%65/%69%6e%64%65%78%5f%34%2e%6d%33%75%38#http://%32%31%30%2e%32%31%30%2e%31%35%35%2e%33%35/%75%71%32%36%36%33/%68/%68%32%39/%69%6e%64%65%78%32%2e%6d%33%75%38#http://%34%35%2e%31%32%36%2e%38%33%2e%35%31/%75%71%32%36%36%33/%68/%68%32%39/%69%6e%64%65%78%32%2e%6d%33%75%38
 新马 Ⅰ 妙米频道,http://%64%33%6b%77%34%76%68%62%64%70%67%74%71%6b%2e%63%6c%6f%75%64%66%72%6f%6e%74%2e%6e%65%74/%68%6c%73/%6d%69%61%6f%6d%69%70%63%77%65%62/%30%33%2e%6d%33%75%38#http://%64%33%6b%77%34%76%68%62%64%70%67%74%71%6b%2e%63%6c%6f%75%64%66%72%6f%6e%74%2e%6e%65%74/%68%6c%73/%6d%69%61%6f%6d%69%70%63%77%65%62/%30%34%2e%6d%33%75%38
