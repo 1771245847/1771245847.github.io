@@ -349,16 +349,6 @@ https://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-
 http://aldirect.hls.huya.com/backsrc/29141112-2689673336-11552059015043219456-3048991588-10057-A-0-1_2000.m3u8
 #EXTINF:-1 group-title="虎牙电影,鹿鼎记
 https://aldirect.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_2000.m3u8
-#EXTINF:-1 group-title="精彩4K,BesTV 4k
-http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 group-title="精彩4K,纯享 4K
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1 group-title="精彩4K,CCTV 4K
-http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
-#EXTINF:-1 group-title="精彩4K,广东综艺4K
-http://27.36.62.162:9090/live/GDZYHD4K_38000.m3u8
-#EXTINF:-1 group-title="精彩4K,DOX4K
-http://27.36.62.162:9090/live/dox4k_16000.m3u8
 #EXTINF:-1 group-title="NewTV,NewTV古装
 http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226323/1.m3u8
 #EXTINF:-1 group-title="NewTV,NewTV动作
@@ -399,9 +389,9 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226157/1.m3u8
 #EXTINF:-1 group-title="NewTV,Newtv超级体育
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226158/1.m3u8
-#EXTINF:-1 group-title="NewTV,黑莓电影
+#EXTINF:-1 group-title="NewTV,Newtv黑莓电影
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
-#EXTINF:-1 group-title="NewTV,黑莓动画
+#EXTINF:-1 group-title="NewTV,Newtv黑莓动画
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8
 #EXTINF:-1 group-title="嗨曲,混音 Ⅰ 美丽的人说
 http://www.zuori.cc/index/downloads?d=43165&v=6lD80AFR
@@ -467,96 +457,106 @@ http://www.zuori.cc/index/downloads?d=43165&v=fe0MmmdY
 http://www.zuori.cc/index/downloads?d=43165&v=8ojPWmEM
 #EXTINF:-1 group-title="嗨曲,车展 Ⅰ 泰国郊郎蓝色比基尼美女
 http://www.zuori.cc/index/downloads?d=43165&v=yq8JSUqD
-#EXTINF:-1 group-title=",庆余年,1集
+#EXTINF:-1 group-title="4K,BesTV 4k
+http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+#EXTINF:-1 group-title="4K,纯享 4K
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 group-title="4K,CCTV 4K
+http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
+#EXTINF:-1 group-title="4K,广东综艺4K
+http://27.36.62.162:9090/live/GDZYHD4K_38000.m3u8
+#EXTINF:-1 group-title="4K,DOX4K
+http://27.36.62.162:9090/live/dox4k_16000.m3u8
+#EXTINF:-1 group-title="庆余年,1集
 http://cn7.7639616.com/hls/20191126/eebb68accf60bff8adffe64c7ac68219/1574769804/index.m3u8
-#EXTINF:-1 group-title=",庆余年,2集
+#EXTINF:-1 group-title="庆余年,2集
 http://cn6.7639616.com/hls/20191126/5732e6c5fd2ba9580797bbac42bc3afa/1574769508/index.m3u8
-#EXTINF:-1 group-title=",庆余年,3集
+#EXTINF:-1 group-title="庆余年,3集
 http://cn6.7639616.com/hls/20191126/4a8f0703560fbf62737a5412e621106c/1574769796/index.m3u8
-#EXTINF:-1 group-title=",庆余年,4集
+#EXTINF:-1 group-title="庆余年,4集
 http://cn6.7639616.com/hls/20191126/92cd1cc6dc8b17f5af5e9ef4e4646f31/1574770052/index.m3u8
-#EXTINF:-1 group-title=",庆余年,5集
+#EXTINF:-1 group-title="庆余年,5集
 http://cn6.7639616.com/hls/20191127/dda0147253cc5614c1ee9dc07db53d4d/1574855943/index.m3u8
-#EXTINF:-1 group-title=",庆余年,6集
+#EXTINF:-1 group-title="庆余年,6集
 http://cn6.7639616.com/hls/20191127/cf70a07ea78d7a49bcb8c8ad143509cb/1574856214/index.m3u8
-#EXTINF:-1 group-title=",庆余年,7集
+#EXTINF:-1 group-title="庆余年,7集
 http://cn7.7639616.com/hls/20191202/6130d5894de49730b8efd518726af6d0/1575289774/index.m3u8
-#EXTINF:-1 group-title=",庆余年,8集
+#EXTINF:-1 group-title="庆余年,8集
 http://cn7.7639616.com/hls/20191202/5764ab97bf8d77657045a9cce212602c/1575290626/index.m3u8
-#EXTINF:-1 group-title=",庆余年,第9集
+#EXTINF:-1 group-title="庆余年,第9集
 http://cn7.7639616.com/hls/20191202/32bbb815423d075d4fa7dc5709543d70/1575290909/index.m3u8
-#EXTINF:-1 group-title=",庆余年,10集
+#EXTINF:-1 group-title="庆余年,10集
 http://cn7.7639616.com/hls/20191202/d1ba87034a6c2cafc04c426c2d36fa9c/1575290072/index.m3u8
-#EXTINF:-1 group-title=",庆余年,11集
+#EXTINF:-1 group-title="庆余年,11集
 http://cn7.7639616.com/hls/20191202/7e13c54c25302df4b91ac796630970e0/1575290345/index.m3u8
-#EXTINF:-1 group-title=",庆余年,12集
+#EXTINF:-1 group-title="庆余年,12集
 http://cn6.7639616.com/hls/20191203/53260ec7a4b66e59819a294b479f7431/1575374276/index.m3u8
-#EXTINF:-1 group-title=",庆余年,13集
+#EXTINF:-1 group-title="庆余年,13集
 http://cn6.7639616.com/hls/20191203/bcf2643ea292d4c6dc4d4a97a307bcfe/1575374517/index.m3u8
-#EXTINF:-1 group-title=",庆余年,14集
+#EXTINF:-1 group-title="庆余年,14集
 http://cn6.7639616.com/hls/20191204/b6de5e37911e398ced3222ac05bac6cd/1575461531/index.m3u8
-#EXTINF:-1 group-title=",庆余年,15集
+#EXTINF:-1 group-title="庆余年,15集
 http://cn6.7639616.com/hls/20191204/5e664c13bb769d14505ac7bde3ee4c5f/1575461816/index.m3u8
-#EXTINF:-1 group-title=",庆余年,16集
+#EXTINF:-1 group-title="庆余年,16集
 http://cn6.7639616.com/hls/20191205/22cd2b1ea49a2e23c5bced92209dbbd1/1575552029/index.m3u8
-#EXTINF:-1 group-title=",庆余年,17集
+#EXTINF:-1 group-title="庆余年,17集
 http://cn7.7639616.com/hls/20191205/916a0b5ae4898cf8d8711efae0a4c3fe/1575552019/index.m3u8
-#EXTINF:-1 group-title=",庆余年,18集
+#EXTINF:-1 group-title="庆余年,18集
 http://cn7.7639616.com/hls/20191210/b740ab52eddddd94362c6f115295147c/1575981959/index.m3u8
-#EXTINF:-1 group-title=",庆余年,19集
+#EXTINF:-1 group-title="庆余年,19集
 http://cn7.7639616.com/hls/20191210/705ead2f03fb42b5486e02ce37b60f3c/1575982216/index.m3u8
-#EXTINF:-1 group-title=",庆余年,20集
+#EXTINF:-1 group-title="庆余年,20集
 http://cn6.7639616.com/hls/20191210/7207e4d9b553eaf7dc28a6b48c4a9650/1575983199/index.m3u8
-#EXTINF:-1 group-title=",庆余年,21集
+#EXTINF:-1 group-title="庆余年,21集
 http://cn6.7639616.com/hls/20191210/4aad8f826a12afd1344ebcbea7fe5e16/1575983939/index.m3u8
-#EXTINF:-1 group-title=",庆余年,22集
+#EXTINF:-1 group-title="庆余年,22集
 http://cn7.7639616.com/hls/20191211/dc5da261da7723f499e096ba560f6b1a/1576072148/index.m3u8
-#EXTINF:-1 group-title=",庆余年,23集
+#EXTINF:-1 group-title="庆余年,23集
 http://cn7.7639616.com/hls/20191211/13717fa114b4d5acd5dcef6b80680c63/1576071284/index.m3u8
-#EXTINF:-1 group-title=",庆余年,24集
+#EXTINF:-1 group-title="庆余年,24集
 http://cn6.7639616.com/hls/20191211/18f9775f5c6a908a2e4f572326a29edf/1576071251/index.m3u8
-#EXTINF:-1 group-title=",庆余年,25集
+#EXTINF:-1 group-title="庆余年,25集
 http://cn7.7639616.com/hls/20191211/61e986ad5fad7b64958388200fae21e8/1576071659/index.m3u8
-#EXTINF:-1 group-title=",庆余年,26集
+#EXTINF:-1 group-title="庆余年,26集
 http://cn6.7639616.com/hls/20191211/60b8547d81f49a38b9b15a628cc2401d/1576072150/index.m3u8
-#EXTINF:-1 group-title=",庆余年,27集
+#EXTINF:-1 group-title="庆余年,27集
 http://cn6.7639616.com/hls/20191211/c5becb0622315154011b5eb6a8a50068/1576071720/index.m3u8
-#EXTINF:-1 group-title=",庆余年,28集
+#EXTINF:-1 group-title="庆余年,28集
 http://cn7.kankia.com/hls/20191216/1502d3f4cab18c1b420df1eb832460c8/1576499388/index.m3u8
-#EXTINF:-1 group-title=",庆余年,29集
+#EXTINF:-1 group-title="庆余年,29集
 http://cn7.kankia.com/hls/20191216/b25ca0acefce9290b34ff6039bff53da/1576499044/index.m3u8
-#EXTINF:-1 group-title=",庆余年,30集
+#EXTINF:-1 group-title="庆余年,30集
 http://cn7.kankia.com/hls/20191216/54f4d7c9b2c0ff2ad2fa16f47d47787b/1576509615/index.m3u8
-#EXTINF:-1 group-title=",庆余年,31集
+#EXTINF:-1 group-title="庆余年,31集
 http://cn7.kankia.com/hls/20191216/ce7c7408bf80ac15d23360d1be7f7673/1576509006/index.m3u8
-#EXTINF:-1 group-title=",庆余年,32集
+#EXTINF:-1 group-title="庆余年,32集
 http://cn6.kankia.com/hls/20191217/9172fdc56e0f7c5808a5971cdf037d54/1576547595/index.m3u8
-#EXTINF:-1 group-title=",庆余年,33集
+#EXTINF:-1 group-title="庆余年,33集
 http://cn6.kankia.com/hls/20191217/1e89d91110ec458634943e4e15bc8eae/1576587346/index.m3u8
-#EXTINF:-1 group-title=",庆余年,34集
+#EXTINF:-1 group-title="庆余年,34集
 http://cn1.kankia.com/hls/20191220/5b80956aae2ee3d6f1d8b3c08a621d8e/1576772292/index.m3u8
-#EXTINF:-1 group-title=",庆余年,35集
+#EXTINF:-1 group-title="庆余年,35集
 http://cn1.kankia.com/hls/20191220/965da83a216ee4cd2c5c07c2de7106b9/1576772932/index.m3u8
-#EXTINF:-1 group-title=",庆余年,36集
+#EXTINF:-1 group-title="庆余年,36集
 http://cn1.kankia.com/hls/20191220/d7bc020860d12f43157b8d7d289257bb/1576774293/index.m3u8
-#EXTINF:-1 group-title=",庆余年,37集
+#EXTINF:-1 group-title="庆余年,37集
 http://cn1.kankia.com/hls/20191220/15f859476ffa2659a22a34553c45652c/1576773629/index.m3u8
-#EXTINF:-1 group-title=",庆余年,38集
+#EXTINF:-1 group-title="庆余年,38集
 http://cn1.kankia.com/hls/20191220/11e8b18c54394bca7310b312dd93ce8c/1576774930/index.m3u8
-#EXTINF:-1 group-title=",庆余年,39集
+#EXTINF:-1 group-title="庆余年,39集
 http://cn1.kankia.com/hls/20191220/6face134b805c162536e1acc59679866/1576775577/index.m3u8
-#EXTINF:-1 group-title=",庆余年,40集
+#EXTINF:-1 group-title="庆余年,40集
 http://cn1.kankia.com/hls/20191220/545eab2e87327ddbb79c1626fd878b3a/1576776206/index.m3u8
-#EXTINF:-1 group-title=",庆余年,41集
+#EXTINF:-1 group-title="庆余年,41集
 http://cn1.kankia.com/hls/20191220/6c9061cd68c1b69c50dacff8f0f453b8/1576776857/index.m3u8
-#EXTINF:-1 group-title=",庆余年,42集
+#EXTINF:-1 group-title="庆余年,42集
 http://cn1.kankia.com/hls/20191220/949f6fb35b7fe5cee4a7851164c025ef/1576777481/index.m3u8
-#EXTINF:-1 group-title=",庆余年,43集
+#EXTINF:-1 group-title="庆余年,43集
 http://cn1.kankia.com/hls/20191220/223da575109810cba2d8d71b3ce6ab52/1576776843/index.m3u8
-#EXTINF:-1 group-title=",庆余年,44集
+#EXTINF:-1 group-title="庆余年,44集
 http://cn1.kankia.com/hls/20191220/bd636dc3c84dfbb218639f91199fabba/1576776144/index.m3u8
-#EXTINF:-1 group-title=",庆余年,45集
+#EXTINF:-1 group-title="庆余年,45集
 http://cn1.kankia.com/hls/20191220/c046cf9b2ab8e24014fb66256c8a1486/1576775998/index.m3u8
-#EXTINF:-1 group-title=",庆余年,46集
+#EXTINF:-1 group-title="庆余年,46集
 http://cn1.kankia.com/hls/20191220/596ff11e1db2c3969da01367fc41d3b0/1576776716/index.m3u8
 
