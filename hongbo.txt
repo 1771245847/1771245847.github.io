@@ -130,12 +130,23 @@ ELEVEN体育二台,http://pili-live-hdl.qhmywl.com:80/dsdtv/94283c6401f80334d9ac
 FoxSports3,http://pili-live-hdl.qhmywl.com:80/dsdtv/1a4ff6880b679dd340e42a9b61fe2d9f.m3u8
 纬来体育台,http://pili-live-hdl.qhmywl.com:80/dsdtv/464311a99c6465a1f36681b73c62fa83.m3u8
 综合娱乐,#genre#
+翡翠台,http://59.148.103.41:8000/bysid/1#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8#P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2#http://27.36.62.162:9090/live/xgfeicui_1500.m3u8
+TVB星河频道,http://192.154.103.74:8080/ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8#msc://CXHMovie#mitv://120.79.144.205:9906/5dc08f2a000c358f01b830afaa89e001.ts#http://pili-live-hdl.qhmywl.com/dsdtv/e70f35708baededbbd1d0963f76981a1.flv#P2p://sdgdklwos.finetv.tv:9906/59fd3f91000c54e4030cccd33c6f6c3c
+TVB明珠台,http://27.36.62.162:9090/live/xgmingzhu_1500.m3u8
+华视,http://pili-live-hdl.qhmywl.com:80/dsdtv/0bdf94d7f68fe3ece32048144cbf9a23.m3u8
+中视,http://pili-live-hdl.qhmywl.com:80/dsdtv/318e4839a23f9ff15e327de9bcb31687.m3u8
+霹雳台湾台,http://pili-live-hdl.qhmywl.com:80/dsdtv/14b736ee363e84918a8c43c69691faaa.m3u8
+三立台湾台,http://pili-live-hdl.qhmywl.com:80/dsdtv/e71635b53bb874a085b2a469802bbc81.m3u8
+星空卫视,rtmp://58.200.131.2:1935/livetv/startv
+CHANNEL[V],http://pili-live-hdl.qhmywl.com:80/dsdtv/c8ade260941e368acfdb110a04811b3e.m3u8
+FOXHD,http://pili-live-hdl.qhmywl.com:80/dsdtv/c2c91afe09bad325929734624c19d07b.m3u8
+中视经典,http://pili-live-hdl.qhmywl.com:80/dsdtv/75249ac8b464466a9c41c669bd27260a.m3u8
 贺岁影院,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
 动作电影,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
 仙侠玄幻,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_qingshenshenyumengmeng_1080p_t10/c15_lb_qingshenshenyumengmeng_1080p_t10.m3u8
 历史秘闻,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_lishimiwen_1080p_t10/c15_lb_lishimiwen_1080p_t10.m3u8
 经典港片,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
-惊悚午夜场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_jingnawuyechang_1080p_t10/c16_lb_jingnawuyechang_1080p_t10.m3u8
+惊悚悬疑,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_jingnawuyechang_1080p_t10/c16_lb_jingnawuyechang_1080p_t10.m3u8
 动画电影,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_donghuadianying_1080p_t10/c16_lb_donghuadianying_1080p_t10.m3u8
 军旅剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_junlvjuchang_1080p_t10/c16_lb_junlvjuchang_1080p_t10.m3u8
 青春剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_weizhangzhe_1080p_t10/c15_lb_weizhangzhe_1080p_t10.m3u8
@@ -165,25 +176,6 @@ CIBN童学世界,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNRBJC/1800/vCIB
 CIBN文化中国,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNCWHPD/1800/vCIBNCWHPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 CIBN微电影,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNWDYPD/1800/vCIBNWDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 CIBN电影导视,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNDYDS/1800/vCIBNDYDS.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-海外频道2HD,http://112.17.40.140/PLTV/88888888/224/3221226179/index.m3u8
-海外频道3HD,http://112.17.40.140/PLTV/88888888/224/3221226181/index.m3u8
-海外频道4HD,http://112.17.40.140/PLTV/88888888/224/3221226245/index.m3u8
-海外频道5HD,http://112.17.40.140/PLTV/88888888/224/3221226360/index.m3u8
-海外频道6HD,http://112.17.40.140/PLTV/88888888/224/3221226479/index.m3u8
-海外频道8FHD,http://112.17.40.140/PLTV/88888888/224/3221226606/index.m3u8
-海外频道9FHD,http://112.17.40.140/PLTV/88888888/224/3221226608/index.m3u8
-海外频道10FHD,http://112.17.40.140/PLTV/88888888/224/3221226695/index.m3u8
-翡翠台,http://59.148.103.41:8000/bysid/1#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8#P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2#http://27.36.62.162:9090/live/xgfeicui_1500.m3u8
-TVB星河频道,http://192.154.103.74:8080/ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8#msc://CXHMovie#mitv://120.79.144.205:9906/5dc08f2a000c358f01b830afaa89e001.ts#http://pili-live-hdl.qhmywl.com/dsdtv/e70f35708baededbbd1d0963f76981a1.flv#P2p://sdgdklwos.finetv.tv:9906/59fd3f91000c54e4030cccd33c6f6c3c
-TVB明珠台,http://27.36.62.162:9090/live/xgmingzhu_1500.m3u8
-华视,http://pili-live-hdl.qhmywl.com:80/dsdtv/0bdf94d7f68fe3ece32048144cbf9a23.m3u8
-中视,http://pili-live-hdl.qhmywl.com:80/dsdtv/318e4839a23f9ff15e327de9bcb31687.m3u8
-霹雳台湾台,http://pili-live-hdl.qhmywl.com:80/dsdtv/14b736ee363e84918a8c43c69691faaa.m3u8
-三立台湾台,http://pili-live-hdl.qhmywl.com:80/dsdtv/e71635b53bb874a085b2a469802bbc81.m3u8
-星空卫视,rtmp://58.200.131.2:1935/livetv/startv
-CHANNEL[V],http://pili-live-hdl.qhmywl.com:80/dsdtv/c8ade260941e368acfdb110a04811b3e.m3u8
-FOXHD,http://pili-live-hdl.qhmywl.com:80/dsdtv/c2c91afe09bad325929734624c19d07b.m3u8
-中视经典,http://pili-live-hdl.qhmywl.com:80/dsdtv/75249ac8b464466a9c41c669bd27260a.m3u8
 港台娱乐,#genre#
 NHK华语视界,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 国家地理野生频道,http://pili-live-hdl.qhmywl.com:80/dsdtv/a4540237835700ece1fc1e54ce826125.m3u8
@@ -210,12 +202,6 @@ BBCLifestyle,http://pili-live-hdl.qhmywl.com:80/dsdtv/5e80f4a9e17c991df381030c65
 神雕侠侣,https://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_2000.m3u8
 西游记,http://aldirect.hls.huya.com/backsrc/29141112-2689673336-11552059015043219456-3048991588-10057-A-0-1_2000.m3u8
 鹿鼎记,https://aldirect.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_2000.m3u8
-精彩4K,#genre#
-BesTV 4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
-纯享 4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
-广东综艺4K,http://27.36.62.162:9090/live/GDZYHD4K_38000.m3u8
-DOX4K,http://27.36.62.162:9090/live/dox4k_16000.m3u8
 NewTV,#genre#
 NewTV古装,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226323/1.m3u8#http://39.135.36.150:18890/000000001000/6859053933687922163/1.m3u8?channel-id=ystenlive&Contentid=6859053933687922163&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=6859053933687922163&owchid=ystenlive&owsid=1106497909461643183&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7rI6cyOBdMQcbb7pGYvKkkE4PU3Zf45kDZim939dEFvAtUmU8crfqEUv5zpewkRlr9zZahSqXGjBKN9OvmeMwv
 NewTV动作,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225915/1.m3u8#http://39.135.36.146:18890/000000001000/8103864434730665389/1.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=8103864434730665389&owchid=ystenlive&owsid=1106497909461651262&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6gc5lrV9LORe1gi%2brvWfZqjqWg5r9sHf%2bhUiRSDpBuWg5lRQBeU9YctiSzPH6gfVkWNbz7C4olsbRCQkf1hNrZ
@@ -276,6 +262,12 @@ Newtv黑莓动画,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/2
 走秀 Ⅰ 祝贺男人比基尼美女,http://www.zuori.cc/index/downloads?d=43165&v=fe0MmmdY
 车展 Ⅰ 泰国波动比基尼美女,http://www.zuori.cc/index/downloads?d=43165&v=8ojPWmEM
 车展 Ⅰ 泰国郊郎蓝色比基尼美女,http://www.zuori.cc/index/downloads?d=43165&v=yq8JSUqD
+4K,#genre#
+BesTV 4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+纯享 4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
+CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
+广东综艺4K,http://27.36.62.162:9090/live/GDZYHD4K_38000.m3u8
+DOX4K,http://27.36.62.162:9090/live/dox4k_16000.m3u8
 XX_0212,#genre#
 18禁 Ⅰ 朋友的义母,https://qqc1107.phpdaniu.com/japan/20191126/mmFhtpf8/1000kb/hls/index.m3u8
 18禁 Ⅰ 姐姐的朋友,https://qqc1107.phpdaniu.com/japan/20190930/gtf5FxLF/index.m3u8
