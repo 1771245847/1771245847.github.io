@@ -349,6 +349,16 @@ https://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-
 http://aldirect.hls.huya.com/backsrc/29141112-2689673336-11552059015043219456-3048991588-10057-A-0-1_2000.m3u8
 #EXTINF:-1 group-title="虎牙电影,鹿鼎记
 https://aldirect.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_2000.m3u8
+#EXTINF:-1 group-title="精彩4K,BesTV 4k
+http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+#EXTINF:-1 group-title="精彩4K,纯享 4K
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 group-title="精彩4K,CCTV 4K
+http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
+#EXTINF:-1 group-title="精彩4K,广东综艺4K
+http://27.36.62.162:9090/live/GDZYHD4K_38000.m3u8
+#EXTINF:-1 group-title="精彩4K,DOX4K
+http://27.36.62.162:9090/live/dox4k_16000.m3u8
 #EXTINF:-1 group-title="NewTV,NewTV古装
 http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226323/1.m3u8
 #EXTINF:-1 group-title="NewTV,NewTV动作
@@ -393,16 +403,6 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226158/1.m3
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
 #EXTINF:-1 group-title="NewTV,黑莓动画
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8
-#EXTINF:-1 group-title="精彩4K,BesTV 4k
-http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 group-title="精彩4K,纯享 4K
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1 group-title="精彩4K,CCTV 4K
-http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
-#EXTINF:-1 group-title="精彩4K,广东综艺4K
-http://27.36.62.162:9090/live/GDZYHD4K_38000.m3u8
-#EXTINF:-1 group-title="精彩4K,DOX4K
-http://27.36.62.162:9090/live/dox4k_16000.m3u8
 #EXTINF:-1 group-title="嗨曲,混音 Ⅰ 美丽的人说
 http://www.zuori.cc/index/downloads?d=43165&v=6lD80AFR
 #EXTINF:-1 group-title="嗨曲,泰国 Ⅰ 黑色比基尼
