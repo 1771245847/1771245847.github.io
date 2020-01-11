@@ -36,8 +36,8 @@ CCTV-17,https://cctvcnch5ca.v.wscdns.com/live/cctv17_2/10793.m3u8
 吉林卫视,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=011&Provider_id=&Pcontent_id=index.m3u8
 广西卫视,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=015&Provider_id=&Pcontent_id=index.m3u8
 河北卫视,http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=015&Provider_id=&Pcontent_id=index.m3u8
-西藏卫视,http://223.110.242.130:6610/cntv/live1/xizangstv/1.m3u8#http://media.vtibet.com/masvod/HLSLive/9/hanyuTV_q1.m3u8#http://cctvalih5ca.v.myalicdn.com/wstv/xizang_2/index.m3u8#http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=018&Provider_id=&Pcontent_id=index.m3u8
-内蒙古卫视,http://player.200877926.top/17/0/hogem3u8.php?tv=xizang&id=8#http://stream.nmtv.cn/1/playlist.m3u8?_upt=d49c81171578764524#http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=016&Provider_id=&Pcontent_id=index.m3u8
+西藏卫视,http://player.200877926.top/17/0/hogem3u8.php?tv=xizang&id=8#http://223.110.242.130:6610/cntv/live1/xizangstv/1.m3u8#http://media.vtibet.com/masvod/HLSLive/9/hanyuTV_q1.m3u8#http://cctvalih5ca.v.myalicdn.com/wstv/xizang_2/index.m3u8#http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=018&Provider_id=&Pcontent_id=index.m3u8
+内蒙古卫视,http://stream.nmtv.cn/1/playlist.m3u8?_upt=d49c81171578764524#http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=016&Provider_id=&Pcontent_id=index.m3u8
 重庆卫视,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=012&Provider_id=&Pcontent_id=index.m3u8
 青海卫视,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=016&Provider_id=&Pcontent_id=index.m3u8
 四川卫视,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=000&Provider_id=&Pcontent_id=index.m3u8
