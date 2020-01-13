@@ -99,81 +99,81 @@ http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hl
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=019&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 group-title="卫视频道,辽宁卫视
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=018&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 group-title="地方频道,",山东齐鲁
+#EXTINF:-1 group-title="地方频道,山东齐鲁
 http://39.137.76.32:8089/00/SNM/CHANNEL00000052/index.m3u8
-#EXTINF:-1 group-title="地方频道,",济南少儿
+#EXTINF:-1 group-title="地方频道,济南少儿
 http://ts2.ijntv.cn/jnse/playlist.m3u8
-#EXTINF:-1 group-title="地方频道,",喜剧影院
+#EXTINF:-1 group-title="地方频道,喜剧影院
 http://39.137.76.32:8089/00/SNM/CHANNEL00000602/index.m3u8
-#EXTINF:-1 group-title="地方频道,",动作影院
+#EXTINF:-1 group-title="地方频道,动作影院
 http://39.137.76.32:8089/00/SNM/CHANNEL00000603/index.m3u8
-#EXTINF:-1 group-title="地方频道,",经典电影
+#EXTINF:-1 group-title="地方频道,经典电影
 http://39.137.76.32:8089/00/SNM/CHANNEL00000604/index.m3u8
-#EXTINF:-1 group-title="地方频道,",热播剧场
+#EXTINF:-1 group-title="地方频道,热播剧场
 http://39.137.76.32:8089/00/SNM/CHANNEL00000608/index.m3u8
-#EXTINF:-1 group-title="地方频道,",魅力时尚
+#EXTINF:-1 group-title="地方频道,魅力时尚
 http://39.137.76.32:8089/00/SNM/CHANNEL00000609/index.m3u8
-#EXTINF:-1 group-title="地方频道,",生活家政
+#EXTINF:-1 group-title="地方频道,生活家政
 http://39.137.76.32:8089/00/SNM/CHANNEL00000610/index.m3u8
-#EXTINF:-1 group-title="地方频道,",光影电影
+#EXTINF:-1 group-title="地方频道,光影电影
 http://39.137.76.32:8089/00/SNM/CHANNEL00000611/index.m3u8
-#EXTINF:-1 group-title="地方频道,",人物频道
+#EXTINF:-1 group-title="地方频道,人物频道
 http://39.137.76.32:8089/00/SNM/CHANNEL00000612/index.m3u8
-#EXTINF:-1 group-title="地方频道,",风云音乐
+#EXTINF:-1 group-title="地方频道,风云音乐
 http://39.137.76.32:8089/00/SNM/CHANNEL00000613/index.m3u8
-#EXTINF:-1 group-title="地方频道,",城市剧场
+#EXTINF:-1 group-title="地方频道,城市剧场
 http://39.137.76.32:8089/00/SNM/CHANNEL00000614/index.m3u8
-#EXTINF:-1 group-title="地方频道,",世界地理
+#EXTINF:-1 group-title="地方频道,世界地理
 http://39.137.76.32:8089/00/SNM/CHANNEL00000615/index.m3u8
-#EXTINF:-1 group-title="地方频道,",军旅剧场
+#EXTINF:-1 group-title="地方频道,军旅剧场
 http://39.137.76.32:8089/00/SNM/CHANNEL00000617/index.m3u8
-#EXTINF:-1 group-title="地方频道,",央视文化
+#EXTINF:-1 group-title="地方频道,文化精选
 http://39.137.76.32:8089/00/SNM/CHANNEL00000621/index.m3u8
-#EXTINF:-1 group-title="地方频道,",古装剧场
+#EXTINF:-1 group-title="地方频道,古装剧场
 http://39.137.76.32:8089/00/SNM/CHANNEL00000622/index.m3u8
-#EXTINF:-1 group-title="地方频道,",老故事
+#EXTINF:-1 group-title="地方频道,老故事
 http://39.137.76.32:8089/00/SNM/CHANNEL00000624/index.m3u8
-#EXTINF:-1 group-title="地方频道,",新科动漫
+#EXTINF:-1 group-title="地方频道,新科动漫
 http://39.137.76.32:8089/00/SNM/CHANNEL00000625/index.m3u8
-#EXTINF:-1 group-title="地方频道,",早期教育
+#EXTINF:-1 group-title="地方频道,早期教育
 http://39.137.76.32:8089/00/SNM/CHANNEL00000627/index.m3u8
-#EXTINF:-1 group-title="地方频道,",环球奇观
+#EXTINF:-1 group-title="地方频道,环球奇观
 http://39.137.76.32:8089/00/SNM/CHANNEL00000628/index.m3u8
-#EXTINF:-1 group-title="地方频道,",武术世界
+#EXTINF:-1 group-title="地方频道,武术世界
 http://39.137.76.32:8089/00/SNM/CHANNEL00000634/index.m3u8
-#EXTINF:-1 group-title="地方频道,",家庭影院
+#EXTINF:-1 group-title="地方频道,家庭影院
 http://39.137.76.32:8089/00/SNM/CHANNEL00000635/index.m3u8
-#EXTINF:-1 group-title="地方频道,",国学频道
+#EXTINF:-1 group-title="地方频道,国学频道
 http://39.137.76.32:8089/00/SNM/CHANNEL00000636/index.m3u8
-#EXTINF:-1 group-title="地方频道,",卫生健康
+#EXTINF:-1 group-title="地方频道,卫生健康
 http://39.137.76.32:8089/00/SNM/CHANNEL00000639/index.m3u8
-#EXTINF:-1 group-title="地方频道,",金鹰卡通
+#EXTINF:-1 group-title="地方频道,金鹰卡通
 http://39.137.76.32:8089/00/SNM/CHANNEL00000047/index.m3u8
-#EXTINF:-1 group-title="地方频道,",卡酷动画
+#EXTINF:-1 group-title="地方频道,卡酷动画
 http://39.137.76.32:8089/00/SNM/CHANNEL00000048/index.m3u8
-#EXTINF:-1 group-title="地方频道,",优漫卡通
+#EXTINF:-1 group-title="地方频道,优漫卡通
 http://39.137.76.32:8089/00/SNM/CHANNEL00000049/index.m3u8
-#EXTINF:-1 group-title="地方频道,",炫动卡通
+#EXTINF:-1 group-title="地方频道,炫动卡通
 http://39.137.76.32:8089/00/SNM/CHANNEL00000050/index.m3u8
-#EXTINF:-1 group-title="地方频道,",海看电竞
+#EXTINF:-1 group-title="地方频道,海看电竞
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000408/index.m3u8
-#EXTINF:-1 group-title="地方频道,",海看少儿
+#EXTINF:-1 group-title="地方频道,海看少儿
 http://39.137.76.32:8089/00/SNM/CHANNEL00000402/index.m3u8
-#EXTINF:-1 group-title="地方频道,",海看爱宠
+#EXTINF:-1 group-title="地方频道,海看爱宠
 http://39.137.76.32:8089/00/SNM/CHANNEL00000202/index.m3u8
-#EXTINF:-1 group-title="地方频道,",海看教育
+#EXTINF:-1 group-title="地方频道,海看教育
 http://39.137.76.32:8089/00/SNM/CHANNEL00000204/index.m3u8
-#EXTINF:-1 group-title="地方频道,",海看演艺
+#EXTINF:-1 group-title="地方频道,海看演艺
 http://39.137.76.32:8089/00/SNM/CHANNEL00000400/index.m3u8
-#EXTINF:-1 group-title="地方频道,",海看健康
+#EXTINF:-1 group-title="地方频道,海看健康
 http://39.137.76.32:8089/00/SNM/CHANNEL00000401/index.m3u8
-#EXTINF:-1 group-title="地方频道,",海看剧场
+#EXTINF:-1 group-title="地方频道,海看剧场
 http://39.137.76.32:8089/00/SNM/CHANNEL00000403/index.m3u8
-#EXTINF:-1 group-title="地方频道,",海看热播
+#EXTINF:-1 group-title="地方频道,海看热播
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000405/index.m3u8
-#EXTINF:-1 group-title="地方频道,",海看大片
+#EXTINF:-1 group-title="地方频道,海看大片
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000407/index.m3u8
-#EXTINF:-1 group-title="地方频道,",海看4K
+#EXTINF:-1 group-title="地方频道,海看4K
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000499/index.m3u8
 #EXTINF:-1 group-title="港台影视,靖天电影台
 http://pili-live-hdl.qhmywl.com:80/dsdtv/5634d5c8ee5afeb118df8decf5eb6c56.m3u8
@@ -243,8 +243,6 @@ http://27.36.62.162:9090/live/CHChometheatre_1500.m3u8
 rtmp://58.200.131.2:1935/livetv/chcatv
 #EXTINF:-1 group-title="港台影视,凤凰电影台
 rtmp://58.200.131.2:1935/livetv/fhdy
-#EXTINF:-1 group-title="港台新闻,凤凰中文
-http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
 #EXTINF:-1 group-title="港台新闻,凤凰中文
 http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
 #EXTINF:-1 group-title="港台新闻,凤凰中文(备1)
