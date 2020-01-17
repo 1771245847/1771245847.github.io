@@ -256,148 +256,95 @@ Ci罪案偵緝 HD,mitv://198.255.74.87:9906/5dc08f050004997001b79e35b0f8145d.ts
 古装剧场,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 骄阳剧场,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 亲子卡通,#genre#
-迪斯尼,vjms://58.215.133.185:8500:3502/live/cid=361#mitv://198.255.74.87:9906/5dc08f050008e03301b79f4dc69f2a18.ts#vjms://23.237.33.155:8500:3502/live/cid=361
-CN卡通,mitv://198.255.74.87:9906/5dc08f050009aec901b79f82aedce9ba.ts#http://pili-live-hdl.qhmywl.com/dsdtv/c865782e4a131efe17651165835ca37e.flv#p8p://0198.02686.cc:16871/5d1a69b3000e2d1e11bddbfa8c491af8.ts#vjms://23.237.33.155:8500:3502/live/cid=422
-东森幼幼,mitv://198.255.74.87:9906/5dc08f230007eecd01b8143f61d4b68b.ts#p8p://0198.02686.cc:16871/5d416a580007131b7660d3322e8b0a5f.ts#vjms://23.237.33.155:8500:3502/live/cid=344
-BabyFirst,mitv://198.255.74.87:9906/5dc08f050007314501b79ededa54d554.ts#http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+迪斯尼,vjms://58.215.133.185:8500:3502/live/cid=361#vjms://121.14.222.75:8500:3502/live/cid=361#vjms://23.237.33.155:8500:3502/live/cid=361
+CN卡通,vjms://121.14.222.75:8500:3502/live/cid=422#http://pili-live-hdl.qhmywl.com/dsdtv/c865782e4a131efe17651165835ca37e.flv#p8p://0198.02686.cc:16871/5d1a69b3000e2d1e11bddbfa8c491af8.ts#vjms://23.237.33.155:8500:3502/live/cid=422
+东森幼幼,vjms://121.14.222.75:8500:3502/live/cid=344#p8p://0198.02686.cc:16871/5d416a580007131b7660d3322e8b0a5f.ts#vjms://23.237.33.155:8500:3502/live/cid=344
+BabyFirst,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
-靖天卡通,http://61.58.60.230:9319/live/207.m3u8#mitv://198.255.74.87:9906/5dc08f1c000159c601b7f738e9a99ab1.ts
-MOMO亲子台,mitv://198.255.74.87:9906/5dc08f140008553f01b7d9c1331a3122.ts#p2p://190.2.146.92:18912/5c7248620002c4fd1d52456c75ed6b55
-龙华动画,mitv://198.255.74.87:9906/5dc08f2300055ea101b813976e881334.ts
-BabyTV,mitv://198.255.74.87:9906/5dc08f0500080fa601b79f171d990d48.ts
-Nick Jr,mitv://198.255.74.87:9906/5dc08f020002568501b791e8084cb957.ts
-MY KIDS,mitv://198.255.74.87:9906/5dc08f0200017dde01b791b183d54845.ts
-小太阳,mitv://198.255.74.87:9906/5dc4e322000e827212a03206729ccc38.ts
+靖天卡通,http://61.58.60.230:9319/live
 精彩4K,#genre#
 BesTV 4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 纯享 4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
-NewTV,#genre#
-NewTV古装,http://39.135.36.150:18890/000000001000/6859053933687922163/1.m3u8?channel-id=ystenlive&Contentid=6859053933687922163&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=6859053933687922163&owchid=ystenlive&owsid=1106497909461643183&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7rI6cyOBdMQcbb7pGYvKkkE4PU3Zf45kDZim939dEFvAtUmU8crfqEUv5zpewkRlr9zZahSqXGjBKN9OvmeMwv
-NewTV动作,http://39.135.36.146:18890/000000001000/8103864434730665389/1.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=8103864434730665389&owchid=ystenlive&owsid=1106497909461651262&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6gc5lrV9LORe1gi%2brvWfZqjqWg5r9sHf%2bhUiRSDpBuWg5lRQBeU9YctiSzPH6gfVkWNbz7C4olsbRCQkf1hNrZ
-NewTV军旅,http://39.135.36.156:18890/000000001000/7485075951068666323/1.m3u8?channel-id=ystenlive&Contentid=7485075951068666323&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=7485075951068666323&owchid=ystenlive&owsid=1106497909461660587&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7gYwRY3Wxxxjm4eCFATbicSFfA3OO5y8oXZJsD0pdpNF5XUqv6ZoXjgdtsapPA003lukcFW5PcqCPu9LmSAwaU
-NewTV家庭,http://39.135.36.154:18890/000000001000/6316377948248689070/1.m3u8?channel-id=ystenlive&Contentid=6316377948248689070&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=6316377948248689070&owchid=ystenlive&owsid=1106497909461667557&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE4ZwpjUZzRJ311OOUZgk%2fdzXH6qIpYr0YPi6NvoFlPR1BKc5nFG3fYCgRA5KoFSBO69EQ0AB6jYRoTGtX%2bXoSmh
-NewTV惊悚,http://39.135.36.153:18890/000000001000/7151256057701199617/1.m3u8?channel-id=ystenlive&Contentid=7151256057701199617&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=7151256057701199617&owchid=ystenlive&owsid=1106497909461673183&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7WcU4uUemDr%2bvU%2bvnnf3N5iO4bkU4W0ueDoorDr5ibxhAm%2f7T1v8XBQNX%2bapKXQ2%2fK9yjYdVWnw2Bihh8x%2bgGK
-NewTV海外,http://39.135.36.138:18890/000000001000/7681593242002292003/1.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=7681593242002292003&owchid=ystenlive&owsid=1106497909461684320&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6duq37iJuE%2fAq4jgKsH77XOP4Et6zhgVTiPZi9lOHM23AIuPDem5ywKZGTAm3ZYV4bg0FTwS32NZpO0MD9F11W
-NewTV搏击,http://39.135.36.154:18890/000000001000/bokesen/1.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=bokesen&owchid=ystenlive&owsid=1106497909461689613&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7tWwcJ9gAtxn4aPYIw71ppLozLIK9YQrvbqFru4XbE8FIhvh4VgXNnv8f9IP4gfSA%3d
-NewTV明星大片,http://39.135.36.143:18890/000000001000/5595720619887440144/1.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=5595720619887440144&owchid=ystenlive&owsid=1106497909461695855&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6YXxE0nCCxd3dck4q0SwSBlg2o%2fvyI82ry5doiaWJPH9u%2fHCOos%2ffJGJ56Qg2QVr1cCX3bbMrMBnTh%2bHCkuVIP
-NewTV爱情喜剧,http://39.135.36.152:18890/000000001000/8393829412396288037/1.m3u8?channel-id=ystenlive&Contentid=8393829412396288037&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=8393829412396288037&owchid=ystenlive&owsid=1106497909461701287&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE4y7uVHwAxWluJXzuOABih3FGGfr%2bsJzle%2bv7q7mmo7sH%2b2t%2bWjDtNUzUdL8QTk%2bIUtEVXTAMGlgOpmFrzdrKNl
-NewTV精品大剧,http://39.135.36.147:18890/000000001000/7882297361445410858/1.m3u8?channel-id=ystenlive&Contentid=7882297361445410858&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=7882297361445410858&owchid=ystenlive&owsid=1106497909461708013&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE4G3gHhbopAXv1%2bwSMC13LXLIuhzr0myUm7odTYlfUIkKrQcNEkHc7TnPLGe1r4%2bIX7AhIXtKagjAfjVTqFHQE4
-NewTV功夫,http://39.135.36.155:18890/000000001000/5897056882324761054/1.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=5897056882324761054&owchid=ystenlive&owsid=1106497909461714898&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7F7WgeLO%2bfyIWPYXQQMhNtCo5WrxR%2bhkEBJzZk8A5S%2bUclQim%2ffZXtk%2bP4F8ROcQNAlQJtGhciSrbmmnbiZQWc
-NewTV金牌综艺,http://39.135.36.140:18890/000000001000/6399725674632152632/1.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=6399725674632152632&owchid=ystenlive&owsid=1106497909461719323&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE4gyKcpvop%2bJI182Bs2kqZG345lJmBteJiRcq6kB86C9F3lxBSs1xa6%2bdgOwB1WRIKDdF3P8H%2bLGMiwAhepZKru
-NewTV军事评论,http://39.135.36.151:18890/000000001000/5822616274253344775/1.m3u8?channel-id=ystenlive&Contentid=5822616274253344775&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=5822616274253344775&owchid=ystenlive&owsid=1106497909461724106&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7%2baKbhkowsYIbIX%2fDf65zZplfMot6mRkOGBkot%2bjE4A8Wm%2bKVEkV%2fcPOkvsemBIenlZSBuNy85BFE%2b0UBbzIgQ
-NewTV农业致富,http://39.135.36.147:18890/000000001000/6193684637634073625/1.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=6193684637634073625&owchid=ystenlive&owsid=1106497909461729529&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7wjRXywerl7HoD%2bJ8krwUOzhLEwHQymxgjBufQTPa%2bdlXx%2bGBQLAIX%2bfssQZb%2fjX3XANYjuYXkdYX5N1o%2b7hmV
-NewTV精品记录,http://39.135.36.156:18890/000000001000/6298506997017621594/1.m3u8?channel-id=ystenlive&Contentid=6298506997017621594&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=6298506997017621594&owchid=ystenlive&owsid=1106497909461739335&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5Z%2fEzyUAZDVIPoiwNPLYgjJvkohoXFTsC5VYOGHUU7RlueMvRrGKmSZC%2bNKYW4Mlhq%2bt9ZsVsg39%2bFutggbU%2f7
-NewTV健康有约,http://39.135.36.155:18890/000000001000/7820874641606664941/1.m3u8?channel-id=ystenlive&Contentid=7820874641606664941&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=7820874641606664941&owchid=ystenlive&owsid=1106497909461745819&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5qWkmkT2TXMLlfHzXJDPRjWZjitMMZdXIPlgQOHqalAjnZ%2bnAyI8gVeuqRanEvNgZ6w0N1hxkH6zHVX54bK3KE
-NewTV精品体育,http://39.135.36.157:18890/000000001000/6460382139625130259/1.m3u8?channel-id=ystenlive&Contentid=6460382139625130259&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=6460382139625130259&owchid=ystenlive&owsid=1106497909461751360&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7bXyHXx9pcAUwTaLb5AbAmkHYZnpwVd9P8mvmphlj1JalYdRW8FBsCqY%2f8wxvQntk%2bssuunsLwIBwjlBeIJxeC
-NewTV潮妈辣婆,http://39.135.36.147:18890/000000001000/6516734029835465177/1.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=6516734029835465177&owchid=ystenlive&owsid=1106497909461757416&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7lpjlDkCigeV92%2fGgzDbl17YJnmK%2bNapvzR3hZbQitGUDQ%2f2RfKI5ienTpN%2bdmcS6qzJsR4R%2fYKs50I6pDfn83
-NewTV炫舞未来,http://39.135.36.157:18890/000000001000/1000000001000000515/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000000515&owchid=ystenlive&owsid=1106497909461764488&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRNwKLc81VtMnWmF2ZM43fEHzlD22rx2n%2flxPrsDq9A4qonSPaCT%2bEq8mzJT5jo5U4
-纳加,#genre#
-民視HD,vjms://23.237.33.155:8500:3502/live/cid=450
-華視HD,vjms://23.237.33.155:8500:3502/live/cid=451
-中視HD,vjms://23.237.33.155:8500:3502/live/cid=452
-臺視HD,vjms://23.237.33.155:8500:3502/live/cid=453
-公視3HD,vjms://23.237.33.155:8500:3502/live/cid=436
-大愛,vjms://23.237.33.155:8500:3502/live/cid=442
-壹新闻,vjms://23.237.33.155:8500:3502/live/cid=445
-鳳凰中文,vjms://23.237.33.155:8500:3502/live/cid=400
-鳳凰資訊,vjms://23.237.33.155:8500:3502/live/cid=401
-澳亞衛視,vjms://23.237.33.155:8500:3502/live/cid=337
-民視新聞,vjms://23.237.33.155:8500:3502/live/cid=454
-年代MUCH,vjms://23.237.33.155:8500:3502/live/cid=439
-年代新聞,vjms://23.237.33.155:8500:3502/live/cid=455
-东森新聞,vjms://23.237.33.155:8500:3502/live/cid=340
-中天新聞,vjms://23.237.33.155:8500:3502/live/cid=407
-非凡新聞,vjms://23.237.33.155:8500:3502/live/cid=443
-緯來體育,vjms://23.237.33.155:8500:3502/live/cid=202
-緯來戲劇,vjms://23.237.33.155:8500:3502/live/cid=137
-東森綜合,vjms://23.237.33.155:8500:3502/live/cid=333
-東森電影,vjms://23.237.33.155:8500:3502/live/cid=338
-中天綜合,vjms://23.237.33.155:8500:3502/live/cid=341
-中天娛樂,vjms://23.237.33.155:8500:3502/live/cid=350
-八大綜合,vjms://23.237.33.155:8500:3502/live/cid=354
-八大第一,vjms://23.237.33.155:8500:3502/live/cid=441
-八大戏剧,vjms://23.237.33.155:8500:3502/live/cid=110
-三立新闻,vjms://23.237.33.155:8500:3502/live/cid=352
-三立都會,vjms://23.237.33.155:8500:3502/live/cid=226
-三立臺湾,vjms://23.237.33.155:8500:3502/live/cid=437
-博斯高球,vjms://23.237.33.155:8500:3502/live/cid=265
-國興衛視,vjms://23.237.33.155:8500:3502/live/cid=424
-迪士尼卡通,vjms://23.237.33.155:8500:3502/live/cid=361
-TVBJ2,vjms://23.237.33.155:8500:3502/live/cid=368
-TVBJ5,vjms://23.237.33.155:8500:3502/live/cid=363
-TVB明珠臺,vjms://23.237.33.155:8500:3502/live/cid=367
-TVB翡翠臺,vjms://23.237.33.155:8500:3502/live/cid=362
-TVB无线新闻臺,vjms://23.237.33.155:8500:3502/live/cid=366
-TVBSHD,vjms://23.237.33.155:8500:3502/live/cid=349
-TVBS新聞臺,vjms://23.237.33.155:8500:3502/live/cid=348
-TVBS歡樂臺,vjms://23.237.33.155:8500:3502/live/cid=438
-HBO亚洲电影HD,vjms://58.215.133.184:8500:3502/live/cid=261
-HBO温馨电影,vjms://58.215.133.184:8500:3502/live/cid=181
-HBO原创电影,vjms://58.215.133.184:8500:3502/live/cid=436
-HBO强档电影,vjms://58.215.133.184:8500:3502/live/cid=238
-AXN,vjms://58.215.133.184:8500:3502/live/cid=2
-緯來體育,vjms://58.215.133.184:8500:3502/live/cid=202
-爱尔达体育HD,vjms://58.215.133.184:8500:3502/live/cid=266
-Foxsport2HD,vjms://58.215.133.184:8500:3502/live/cid=444
-Foxsport3HD,vjms://58.215.133.184:8500:3502/live/cid=95
-国家地理野生-HD,vjms://58.215.133.184:8500:3502/live/cid=263
-国家地理-HD,vjms://58.215.133.184:8500:3502/live/cid=115
-探索频道-HD,vjms://58.215.133.184:8500:3502/live/cid=440
-动物星球,vjms://58.215.133.184:8500:3502/live/cid=3
-发现科学,vjms://58.215.133.184:8500:3502/live/cid=457
-TLC旅游生活,vjms://58.215.133.184:8500:3502/live/cid=103
-博斯高球,vjms://58.215.133.184:8500:3502/live/cid=265
-NHK,vjms://58.215.133.184:8500:3502/live/cid=53
-日本super hits,vjms://58.215.133.184:8500:3502/live/cid=54
-日本钓鱼,vjms://58.215.133.184:8500:3502/live/cid=55
-日本FOX体育,vjms://58.215.133.184:8500:3502/live/cid=57
-日本BS,vjms://58.215.133.184:8500:3502/live/cid=58
-日本STAR2,vjms://58.215.133.184:8500:3502/live/cid=191
-日本STAR3,vjms://58.215.133.184:8500:3502/live/cid=193
-WOWOWライブ,vjms://58.215.133.184:8500:3502/live/cid=205
-日本棒球,vjms://58.215.133.184:8500:3502/live/cid=207
-日本洋片,vjms://58.215.133.184:8500:3502/live/cid=209
-NHK广岛放送,vjms://58.215.133.184:8500:3502/live/cid=301
-QVC,vjms://58.215.133.184:8500:3502/live/cid=302
-日野生,vjms://58.215.133.184:8500:3502/live/cid=303
-BS日本电视,vjms://58.215.133.184:8500:3502/live/cid=304
-BS-i,vjms://58.215.133.184:8500:3502/live/cid=305
-BS-Japan,vjms://58.215.133.184:8500:3502/live/cid=306
-BS-Fuji,vjms://58.215.133.184:8500:3502/live/cid=307
-BS朝日,vjms://58.215.133.184:8500:3502/live/cid=308
-NHK综合,vjms://58.215.133.184:8500:3502/live/cid=309
-NHK教育,vjms://58.215.133.184:8500:3502/live/cid=310
-东京MX,vjms://58.215.133.184:8500:3502/live/cid=311
-日本电视台,vjms://58.215.133.184:8500:3502/live/cid=312
-GAORA,vjms://58.215.133.184:8500:3502/live/cid=413
-Green,vjms://58.215.133.184:8500:3502/live/cid=412
-GOLF NTWORK,vjms://58.215.133.184:8500:3502/live/cid=409
-Sports,vjms://58.215.133.184:8500:3502/live/cid=414
-sports1,vjms://58.215.133.184:8500:3502/live/cid=415
-Sports 2,vjms://58.215.133.184:8500:3502/live/cid=416
-Sports ESPN,vjms://58.215.133.184:8500:3502/live/cid=410
-FIGHTING TV,vjms://58.215.133.184:8500:3502/live/cid=408
-Sports Plus,vjms://58.215.133.184:8500:3502/live/cid=411
-Star channel,vjms://58.215.133.184:8500:3502/live/cid=494
-WOWOW电影,vjms://58.215.133.184:8500:3502/live/cid=325
-STAR CHANNEL(BS),vjms://58.215.133.184:8500:3502/live/cid=326
-TBS,vjms://58.215.133.184:8500:3502/live/cid=314
-富士电视台,vjms://58.215.133.184:8500:3502/live/cid=316
-朝日电视台,vjms://58.215.133.184:8500:3502/live/cid=313
-东京电视台,vjms://58.215.133.184:8500:3502/live/cid=315
-读卖新闻,vjms://58.215.133.184:8500:3502/live/cid=324
-每日放送,vjms://58.215.133.184:8500:3502/live/cid=319
-地面波,vjms://58.215.133.184:8500:3502/live/cid=323
-ABC地面波,vjms://58.215.133.184:8500:3502/live/cid=321
-大阪地面波,vjms://58.215.133.184:8500:3502/live/cid=322
-SAN电视台,vjms://58.215.133.184:8500:3502/live/cid=320
-Movie Plus,vjms://58.215.133.184:8500:3502/live/cid=497
-Family theather,vjms://58.215.133.184:8500:3502/live/cid=493
-kids,vjms://58.215.133.184:8500:3502/live/cid=494
-history channel,vjms://58.215.133.184:8500:3502/live/cid=219
-TBS news bird,vjms://58.215.133.184:8500:3502/live/cid=220
-KBS world,vjms://58.215.133.184:8500:3502/live/cid=216
-Music Japan,vjms://58.215.133.184:8500:3502/live/cid=495
-日本映画,vjms://58.215.133.184:8500:3502/live/cid=213
+嗨曲,#genre#
+混音 Ⅰ 美丽的人说,http://www.zuori.cc/index/downloads?d=43165&v=6lD80AFR
+泰国 Ⅰ 黑色比基尼,http://www.zuori.cc/index/downloads?d=43165&v=Vv5vUlsM
+夜店 Ⅰ 调情俱乐部,http://www.zuori.cc/index/downloads?d=43165&v=acPB0w06
+夜店 Ⅰ 比基尼派对,http://www.zuori.cc/index/downloads?d=43165&v=OvuRosJO
+夜店 Ⅰ 尬舞俱乐部,http://www.zuori.cc/index/downloads?d=43165&v=6coAxHVF
+夜店 Ⅰ 慕尼黑聚会,http://www.zuori.cc/index/downloads?d=43165&v=54M0khyO
+夜店 Ⅰ 两姐妹领舞,http://www.zuori.cc/index/downloads?d=43165&v=4xHguSxl
+混音 Ⅰ 迪斯科舞曲,http://www.zuori.cc/index/downloads?d=43165&v=sVUrPAkF
+电音 Ⅰ 做我的爱人,http://www.zuori.cc/index/downloads?d=43165&v=RaQAd2ef
+电音 Ⅰ 最好的一面,http://www.zuori.cc/index/downloads?d=43165&v=kJOLL7qs
+派对 Ⅰ 麦王滑板车,http://www.zuori.cc/index/downloads?d=43165&v=f4Mf7Sou
+舞曲 Ⅰ 大家都跳舞,http://www.zuori.cc/index/downloads?d=43165&v=VdI9HOwH
+舞曲 Ⅰ 极速鬼步舞,http://www.zuori.cc/index/downloads?d=43165&v=VSUEF0Sq
+舞曲 Ⅰ 再一次鬼步舞,http://www.zuori.cc/index/downloads?d=43165&v=R4SIsRRH
+混音 Ⅰ 温柔的抚摸我,http://www.zuori.cc/index/downloads?d=43165&v=nO3nU3vC
+夜店 Ⅰ 俱乐部的一天,http://www.zuori.cc/index/downloads?d=43165&v=v2cu36ks
+夜店 Ⅰ 狂野的俱乐部,http://www.zuori.cc/index/downloads?d=43165&v=I7plIu2a
+派对 Ⅰ 我们如何聚会,http://www.zuori.cc/index/downloads?d=43165&v=GphYWFNW
+电音 Ⅰ 永远在你身边,http://www.zuori.cc/index/downloads?d=43165&v=DqPafWf2
+电音 Ⅰ 美女沙滩大海,http://www.zuori.cc/index/downloads?d=43165&v=h8SKIzR4
+电音 Ⅰ 活在黑夜里,http://www.zuori.cc/index/downloads?d=43165&v=LNnplfDT
+车展 Ⅰ 泰国迷你直通车,http://www.zuori.cc/index/downloads?d=43165&v=lpWRRLUD
+车展 Ⅰ 泰国比基尼舞蹈,http://www.zuori.cc/index/downloads?d=43165&v=U9kkGlvv
+派对 Ⅰ 泰国跳舞家族聚会,http://www.zuori.cc/index/downloads?d=43165&v=HXPFyvSW
+嗨曲 Ⅰ 黎明前的泰国美眉,http://www.zuori.cc/index/downloads?d=43165&v=vJeUyqpy
+舞曲 Ⅰ 风靡一时的鬼步舞,http://www.zuori.cc/index/downloads?d=43165&v=BnnJWufX
+车展 Ⅰ 泰国三美女比基尼,http://www.zuori.cc/index/downloads?d=43165&v=kt81QJUJ
+车展 Ⅰ 泰国超甜美丽模特,http://www.zuori.cc/index/downloads?d=43165&v=njEPbOh5
+派对 Ⅰ 迈阿密音乐节克鲁斯,http://www.zuori.cc/index/downloads?d=43165&v=XEX5F0J1
+走秀 Ⅰ 祝贺男人比基尼美女,http://www.zuori.cc/index/downloads?d=43165&v=fe0MmmdY
+车展 Ⅰ 泰国波动比基尼美女,http://www.zuori.cc/index/downloads?d=43165&v=8ojPWmEM
+车展 Ⅰ 泰国郊郎蓝色比基尼美女,http://www.zuori.cc/index/downloads?d=43165&v=yq8JSUqD
+庆余年,#genre#
+第1集,http://cn7.7639616.com/hls/20191126/eebb68accf60bff8adffe64c7ac68219/1574769804/index.m3u8
+第2集,http://cn6.7639616.com/hls/20191126/5732e6c5fd2ba9580797bbac42bc3afa/1574769508/index.m3u8
+第3集,http://cn6.7639616.com/hls/20191126/4a8f0703560fbf62737a5412e621106c/1574769796/index.m3u8
+第4集,http://cn6.7639616.com/hls/20191126/92cd1cc6dc8b17f5af5e9ef4e4646f31/1574770052/index.m3u8
+第5集,http://cn6.7639616.com/hls/20191127/dda0147253cc5614c1ee9dc07db53d4d/1574855943/index.m3u8
+第6集,http://cn6.7639616.com/hls/20191127/cf70a07ea78d7a49bcb8c8ad143509cb/1574856214/index.m3u8
+第7集,http://cn7.7639616.com/hls/20191202/6130d5894de49730b8efd518726af6d0/1575289774/index.m3u8
+第8集,http://cn7.7639616.com/hls/20191202/5764ab97bf8d77657045a9cce212602c/1575290626/index.m3u8
+第9集,http://cn7.7639616.com/hls/20191202/32bbb815423d075d4fa7dc5709543d70/1575290909/index.m3u8
+第10集,http://cn7.7639616.com/hls/20191202/d1ba87034a6c2cafc04c426c2d36fa9c/1575290072/index.m3u8
+第11集,http://cn7.7639616.com/hls/20191202/7e13c54c25302df4b91ac796630970e0/1575290345/index.m3u8
+第12集,http://cn6.7639616.com/hls/20191203/53260ec7a4b66e59819a294b479f7431/1575374276/index.m3u8
+第13集,http://cn6.7639616.com/hls/20191203/bcf2643ea292d4c6dc4d4a97a307bcfe/1575374517/index.m3u8
+第14集,http://cn6.7639616.com/hls/20191204/b6de5e37911e398ced3222ac05bac6cd/1575461531/index.m3u8
+第15集,http://cn6.7639616.com/hls/20191204/5e664c13bb769d14505ac7bde3ee4c5f/1575461816/index.m3u8
+第16集,http://cn6.7639616.com/hls/20191205/22cd2b1ea49a2e23c5bced92209dbbd1/1575552029/index.m3u8
+第17集,http://cn7.7639616.com/hls/20191205/916a0b5ae4898cf8d8711efae0a4c3fe/1575552019/index.m3u8
+第18集,http://cn7.7639616.com/hls/20191210/b740ab52eddddd94362c6f115295147c/1575981959/index.m3u8
+第19集,http://cn7.7639616.com/hls/20191210/705ead2f03fb42b5486e02ce37b60f3c/1575982216/index.m3u8
+第20集,http://cn6.7639616.com/hls/20191210/7207e4d9b553eaf7dc28a6b48c4a9650/1575983199/index.m3u8
+第21集,http://cn6.7639616.com/hls/20191210/4aad8f826a12afd1344ebcbea7fe5e16/1575983939/index.m3u8
+第22集,http://cn7.7639616.com/hls/20191211/dc5da261da7723f499e096ba560f6b1a/1576072148/index.m3u8
+第23集,http://cn7.7639616.com/hls/20191211/13717fa114b4d5acd5dcef6b80680c63/1576071284/index.m3u8
+第24集,http://cn6.7639616.com/hls/20191211/18f9775f5c6a908a2e4f572326a29edf/1576071251/index.m3u8
+第25集,http://cn7.7639616.com/hls/20191211/61e986ad5fad7b64958388200fae21e8/1576071659/index.m3u8
+第26集,http://cn6.7639616.com/hls/20191211/60b8547d81f49a38b9b15a628cc2401d/1576072150/index.m3u8
+第27集,http://cn6.7639616.com/hls/20191211/c5becb0622315154011b5eb6a8a50068/1576071720/index.m3u8
+第28集,http://cn7.kankia.com/hls/20191216/1502d3f4cab18c1b420df1eb832460c8/1576499388/index.m3u8
+第29集,http://cn7.kankia.com/hls/20191216/b25ca0acefce9290b34ff6039bff53da/1576499044/index.m3u8
+第30集,http://cn7.kankia.com/hls/20191216/54f4d7c9b2c0ff2ad2fa16f47d47787b/1576509615/index.m3u8
+第31集,http://cn7.kankia.com/hls/20191216/ce7c7408bf80ac15d23360d1be7f7673/1576509006/index.m3u8
+第32集,http://cn6.kankia.com/hls/20191217/9172fdc56e0f7c5808a5971cdf037d54/1576547595/index.m3u8
+第33集,http://cn6.kankia.com/hls/20191217/1e89d91110ec458634943e4e15bc8eae/1576587346/index.m3u8
+第34集,http://cn1.kankia.com/hls/20191220/5b80956aae2ee3d6f1d8b3c08a621d8e/1576772292/index.m3u8
+第35集,http://cn1.kankia.com/hls/20191220/965da83a216ee4cd2c5c07c2de7106b9/1576772932/index.m3u8
+第36集,http://cn1.kankia.com/hls/20191220/d7bc020860d12f43157b8d7d289257bb/1576774293/index.m3u8
+第37集,http://cn1.kankia.com/hls/20191220/15f859476ffa2659a22a34553c45652c/1576773629/index.m3u8
+第38集,http://cn1.kankia.com/hls/20191220/11e8b18c54394bca7310b312dd93ce8c/1576774930/index.m3u8
+第39集,http://cn1.kankia.com/hls/20191220/6face134b805c162536e1acc59679866/1576775577/index.m3u8
+第40集,http://cn1.kankia.com/hls/20191220/545eab2e87327ddbb79c1626fd878b3a/1576776206/index.m3u8
+第41集,http://cn1.kankia.com/hls/20191220/6c9061cd68c1b69c50dacff8f0f453b8/1576776857/index.m3u8
+第42集,http://cn1.kankia.com/hls/20191220/949f6fb35b7fe5cee4a7851164c025ef/1576777481/index.m3u8
+第43集,http://cn1.kankia.com/hls/20191220/223da575109810cba2d8d71b3ce6ab52/1576776843/index.m3u8
+第44集,http://cn1.kankia.com/hls/20191220/bd636dc3c84dfbb218639f91199fabba/1576776144/index.m3u8
+第45集,http://cn1.kankia.com/hls/20191220/c046cf9b2ab8e24014fb66256c8a1486/1576775998/index.m3u8
+第46集,http://cn1.kankia.com/hls/20191220/596ff11e1db2c3969da01367fc41d3b0/1576776716/index.m3u8
+
