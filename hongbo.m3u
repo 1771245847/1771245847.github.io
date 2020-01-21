@@ -205,6 +205,8 @@ http://pili-live-hdl.qhmywl.com:80/dsdtv/4499fb1dcef8c7a9f64276bf71bfc5b4.m3u8
 http://192.154.103.74:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8#http://pili-live-hdl.qhmywl.com:80/dsdtv/d2325cfdfd53364263d307573f78e3ce.m3u8
 #EXTINF:-1 group-title="港台影视,东森洋片台
 http://192.154.103.74:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://pili-live-hdl.qhmywl.com:80/dsdtv/24b15906d2250c062c0f0b5339e166b2.m3u8
+#EXTINF:-1 group-title="港台影视,澳门莲花
+http://live-rtmp.macaulotustv.com/lotustv/5562e9e4d409d24c9600075c.m3u8
 #EXTINF:-1 group-title="港台影视,龙华电影
 http://pili-live-hdl.qhmywl.com:80/dsdtv/0e5dee9e8021ce3b9ec9bb78e9710555.m3u8
 #EXTINF:-1 group-title="港台影视,龙华经典
@@ -333,8 +335,6 @@ http://192.154.103.74:8080/ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8#msc://CXHMovie#mitv://
 http://27.36.62.162:9090/live/xgmingzhu_1500.m3u8
 #EXTINF:-1 group-title="综合娱乐,华语视界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 group-title="综合娱乐,华视
-http://pili-live-hdl.qhmywl.com:80/dsdtv/0bdf94d7f68fe3ece32048144cbf9a23.m3u8
 #EXTINF:-1 group-title="综合娱乐,中视
 http://192.200.120.82:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 #EXTINF:-1 group-title="综合娱乐,华视
@@ -373,56 +373,6 @@ http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_kangzhanjuchang_
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_junshinew_1080p_t10/c16_lb_junshinew_1080p_t10.m3u8
 #EXTINF:-1 group-title="综合娱乐",亲子启蒙
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_qinziqimeng_1080p_t10/c16_lb_qinziqimeng_1080p_t10.m3u8
-#EXTINF:-1 group-title="综合娱乐",电影导视
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNDYDS/1800/vCIBNDYDS.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="综合娱乐",电影综合
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="综合娱乐",精品影院
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="综合娱乐",情感影院
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNQGYY/1800/vCIBNQGYY.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="综合娱乐",喜剧影院
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNHSYX/1800/vCIBNHSYX.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="综合娱乐",古装剧场
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="综合娱乐",骄阳剧场
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="综合娱乐",CIBN喜剧影院
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNHSYX/1800/vCIBNHSYX.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="综合娱乐",CIBN电影
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="综合娱乐",CIBN精品影院
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="综合娱乐",CIBN嗨播
-http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDYDYYPD/1800/vCIBNYYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="综合娱乐",CIBN古装剧场
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="综合娱乐",CIBN汉学院
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNHXYPD/1800/vCIBNHXYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="综合娱乐",CIBN记录片
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJLPD/1800/vCIBNJLPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="综合娱乐",CIBN汽车
-http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNQCPD/1800/vCIBNQCPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="综合娱乐",CIBN情感影院
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNQGYY/1800/vCIBNQGYY.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="综合娱乐",CIBN军事
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNGZJC/1800/vCIBNGZJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="综合娱乐",CIBN教育
-http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNJYPD/1800/vCIBNJYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="综合娱乐",CIBN骄阳剧场
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="综合娱乐",CIBN生活
-http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNGWPD/1800/vCIBNGWPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="综合娱乐",CIBN炫佳动漫
-http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDMPD/1800/vCIBNDMPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="综合娱乐",CIBN童学世界
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNRBJC/1800/vCIBNRBJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="综合娱乐",CIBN文化中国
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNCWHPD/1800/vCIBNCWHPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="综合娱乐",CIBN微电影
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNWDYPD/1800/vCIBNWDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="综合娱乐",CIBN电影导视
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNDYDS/1800/vCIBNDYDS.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 #EXTINF:-1 group-title="综合娱乐",迪斯尼
 vjms://58.215.133.185:8500:3502/live/cid=361#vjms://121.14.222.75:8500:3502/live/cid=361#vjms://23.237.33.155:8500:3502/live/cid=361
 #EXTINF:-1 group-title="综合娱乐",CN卡通
