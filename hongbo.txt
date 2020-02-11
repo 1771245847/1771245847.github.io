@@ -99,8 +99,7 @@ HBO电影,vjms://58.215.133.185:8500:3502/live/cid=436#vjms://23.237.33.155:8500
 HBO家庭,vjms://58.215.133.185:8500:3502/live/cid=181#vjms://23.237.33.155:8500:3502/live/cid=181
 HBO强档,vjms://58.215.133.185:8500:3502/live/cid=238#vjms://23.237.33.155:8500:3502/live/cid=238
 峨眉电影,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-好莱坞电影,http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://pili-live-hdl.qhmywl.com:80/dsdtv/8e678565884cdebd00f8b3121b3b7ee1.m3u8#http://bakup.cdn.52glb.com/live/gj_haolaiwu_dy.m3u8
-东森电影,http://192.200.120.82:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8#p8p://0198.02686.cc:16871/5d1a69af0009735f11bdcb2402d2abda.ts#p2p://51.79.41.138:18912/5c7249d3000cb8ea1d57e9650d7148b7.ts#tvbus://12E14tpq7uV1zLRdMHFYh3FdyURG5XkWi53smDeAbJcfzxHpgYp#ttp://bakup.cdn.52glb.com/live/tw_dongsen_dy.m3u8
+东森电影,http://192.200.120.82:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8#p8p://0198.02686.cc:16871/5d1a69af0009735f11bdcb2402d2abda.ts#p2p://51.79.41.138:18912/5c7249d3000cb8ea1d57e9650d7148b7.ts#tvbus://12E14tpq7uV1zLRdMHFYh3FdyURG5XkWi53smDeAbJcfzxHpgYp
 东森洋片,ttp://bakup.cdn.52glb.com/live/tw_dongsen_yp.m3u8#tvbus://1jqrNZ8dt84AhKCLVypeBgfHwfpMSvsyFqvSX6u4FfSbP9JqCv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 澳门莲花,http://live-rtmp.macaulotustv.com/lotustv/5562e9e4d409d24c9600075c.m3u8
@@ -108,17 +107,14 @@ HBO强档,vjms://58.215.133.185:8500:3502/live/cid=238#vjms://23.237.33.155:8500
 靖天电影,p8p://0198.02686.cc:16871/5d1a69d4000d791711be5cb4cbc75c73.ts
 龙华经典,p2p://fccsovh.pvbox.live:18912/5b14090b0001269c17d0ee93023202c3
 龙华影剧,P2p://51.79.41.138:18912/5b1408f2000aaf8c17d08f5c001549e8.ts
+好莱坞电影,http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://pili-live-hdl.qhmywl.com:80/dsdtv/8e678565884cdebd00f8b3121b3b7ee1.m3u8#http://bakup.cdn.52glb.com/live/gj_haolaiwu_dy.m3u8
 星卫HD电影,p2p://51.79.41.138:18912/5c724a05000626a61d58aaff0c3f3175.ts#P2p://190.2.146.92:18912/5c724a05000626a61d58aaff0c3f3175.ts#http://bakup.cdn.52glb.com/live/tw_weixing_dy.m3u8
 美亚HD电影,P2p://190.2.146.92:18912/5c724a0e000442831d58cdaa6a2c5c52.ts#p2p://51.79.41.138:18912/5c724a0e000442831d58cdaa6a2c5c52.ts#http://bakup.cdn.52glb.com/live/tw_meiya_dy.m3u8
-影迷数位电影,http://pili-live-hdl.qhmywl.com/dsdtv/991d0a1e4fc3c270d037fae11c587741.flv
-LSTime电影,http://pili-live-hdl.qhmywl.com/dsdtv/a5da9875c963d704ac5dd8f866869723.flv
 卫视电影台,p8p://0198.02686.cc:16871/5d1a69d0000743f711be4b7d2b320c30.ts#http://bakup.cdn.52glb.com/live/tw_weishi_dy.m3u8
 纬来电影台,P2p://190.2.146.92:18912/5c7249d80003096d1d57fa6c33601be9.ts#p2p://170.178.164.250:6141/5b448afc0007f4650004373eda7b4dd8.ts
 FOX电影,vjms://58.215.133.185:8500:3502/live/cid=94#vjms://23.237.33.155:8500:3502/live/cid=94
 FOX动作电影,tvbus://12rkwBGpNvaenr1ERtQvtqPtr9yFZh8x9ayYwGxVFRDeY81EXjo#P2p://51.79.41.138:18912/5b7267ae000b9c6c35cc884079c70164.ts#http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-好莱坞电影,http://pili-live-hdl.qhmywl.com/dsdtv/8e678565884cdebd00f8b3121b3b7ee1.flv
-AXN,vjms://58.215.133.185:8500:3502/live/cid=2
-AXN,vjms://23.237.33.155:8500:3502/live/cid=2
+AXN,vjms://58.215.133.185:8500:3502/live/cid=2#vjms://23.237.33.155:8500:3502/live/cid=2
 CINEMAX,mitv://198.255.74.87:9906/5dc08f0c000d7d5501b7bbd3536df5c6.ts
 CinemaWorld,mitv://198.255.74.87:9906/5dc08f10000960c801b7ca669ad1a62d.ts
 FOX CRIME,mitv://198.255.74.87:9906/5dc08f0c000f26df01b7bc4033c0db54.ts
@@ -138,12 +134,7 @@ EYETV戏剧台,p8p://0198.02686.cc:16871/5d1a69a2000ca28211bd992d29a29542.ts
 CHC高清电影,rtmp://58.200.131.2:1935/livetv/chchd
 CHC家庭影院,rtmp://58.200.131.2:1935/livetv/chctv
 CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
-MyCinemaEurope,http://pili-live-hdl.qhmywl.com/dsdtv/2d2f46a778c93f01b614213456fc97fc.flv
-WarnerTV,http://pili-live-hdl.qhmywl.com/dsdtv/a645bdeafb1216c23352144c3505bd8c.flv
 AXN,vjms://58.215.133.185:8500:3502/live/cid=2#http://pili-live-hdl.qhmywl.com/dsdtv/c762110b3eef8bcccce5863643dd66aa.flv#vjms://121.14.222.75:8500:3502/live/cid=2#vjms://23.237.33.155:8500:3502/live/cid=2
-CINEMAX,http://pili-live-hdl.qhmywl.com/dsdtv/9bece52b2f72795cc2f588f3d9e4eed3.flv
-CinemaWorld,http://pili-live-hdl.qhmywl.com/dsdtv/357252de83720e30d40c00bfba69c497.flv
-CatchPlay电影,http://pili-live-hdl.qhmywl.com/dsdtv/65e80e1e0cd763a0302d7aa2a1135b0b.flv
 BLUEANT,p8p://0198.02686.cc:16871/5d1a69a60004767211bda6b5be685208.ts
 FX,p8p://0198.02686.cc:16871/5d1a69a50009208511bda3ff8356848f.ts
 凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
@@ -299,24 +290,28 @@ DOXTV,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB00
 甄子丹电影,http://tx.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1_2000.m3u8
 李连杰电影,https://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_2000.m3u8
 少年包青天,https://aldirect.hls.huya.com/backsrc/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1_1200.m3u8?wsSecret=85e08f588608cb08e381a6bd098be225&wsTime=5e197fd2
-神探狄仁杰,https://aldirect.hls.huya.com/huyalive/28466698-2689651522-11551965324626624512-2847699166-10057-A-0-1_1200.m3u8?wsSecret=6fed814fabf8044587bcd9188a4a5131&wsTime=5e197f82
+神探狄仁杰,https://aldirect.hls.huya.com/huyalive/28466698-2689651522-11551965324626624512-2847699166-10057-A-0-1_1200.m3u8?wsSecret=6fed814fabf8044587bcd9188a4a5131&wsTime=5e197f82#http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_shentandirenjie_1080p_t10/c16_lb_shentandirenjie_1080p_t10.m3u8
 洪金宝电影,https://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_2000.m3u8
-林正英电影,http://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_2000.m3u8
+林正英电影,http://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_2000.m3u8#https://aldirect.hls.huya.com/huyalive/1199515315044-1199515315044-5237452600151900160-2399030753544-10057-A-0-1_1200.m3u8?wsSecret=d48ac1ca60dd32f2c356e6d28c9e68f9&wsTime=5e42d86d
 五福星电影,https://aldirect.hls.huya.com/backsrc/29169025-2686220040-11537227221659811840-2713685416-10057-A-0-1_1200.m3u8?wsSecret=daf4d66feacc8824e14730cf154c0010&wsTime=5e198092
 开心鬼电影,https://aldirect.hls.huya.com/huyalive/1448686638-1448686638-6222061732362190848-2789253842-10057-A-0-1_1200.m3u8?wsSecret=8d58e6ecb28a359a1a348081916802ed&wsTime=5e19821d
 迪迦奥特曼,https://aldirect.hls.huya.com/huyalive/29106097-2689405806-11550909982442520576-3048959658-10057-A-1525400208-1_1200.m3u8?wsSecret=2f198402f6b4086fbaa458f36b95c914&wsTime=5e19f14f
 名侦探柯南,https://tx.hls.huya.com/huyalive/29106097-2689279974-11550369538117730304-2777027112-10057-A-0-1_1200.m3u8
+射雕英雄传,https://aldirect.hls.huya.com/backsrc/29106097-2689451738-11551107258880360448-2789274592-10057-A-0-1_1200.m3u8?wsSecret=2616b8e71e03ae16ec80e47103bd2b46&wsTime=5e42de4b
+成龙历险记,https://aldirect.hls.huya.com/backsrc/29169025-2686220626-11537229738510647296-2847699128-10057-A-0-1_1200.m3u8?wsSecret=ffeb18bfd43bfee21c46088a139977e3&wsTime=5e42dd24#https://aldirect.hls.huya.com/backsrc/29169025-2686220626-11537229738510647296-2847699128-10057-A-0-1_1200.m3u8?wsSecret=5dfacaa8b6bf20a77dc768dca010981f&wsTime=5e42ddd8
+最佳拍挡,https://aldirect.hls.huya.com/huyalive/1448738224-1448738224-6222283292545122304-2789253866-10057-A-0-1_1200.m3u8?wsSecret=7340787aa58f6ee8e9e388e310da92fa&wsTime=5e42d97f#https://aldirect.hls.huya.com/huyalive/1448738224-1448738224-6222283292545122304-2789253866-10057-A-0-1_1200.m3u8?wsSecret=37d589010afe575ce3400c521536004a&wsTime=5e42d675
 天龙八部,https://js.hls.huya.com/huyalive/30765679-2475713428-10633108207528050688-3048991608-10057-A-0-1_1200.m3u8?wsSecret=0b59dbea919a8dd0ffbcce371a467a56&wsTime=5e19f08a
 成龙电影,https://aldirect.hls.huya.com/backsrc/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8?wsSecret=840ea024808111a1949f9786706d7ab9&wsTime=5e197f4d
-邵氏电影,http://tx2play1.douyucdn.cn/live/4246519rZ6Vvqy7q.flv
 搞笑港片,https://aldirect.hls.huya.com/backsrc/30765679-2480413542-10653295043445522432-3048959596-10057-A-0-1_1200.m3u8?wsSecret=7aacb1969321a2c989947e46024de32b&wsTime=5e198026
 金庸武侠,https://aldirect.hls.huya.com/huyalive/29359996-2689645314-11551938661469650944-2847687586-10057-A-0-1_2000.m3u8
 神雕侠侣,https://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_2000.m3u8
 西游记,http://aldirect.hls.huya.com/backsrc/29141112-2689673336-11552059015043219456-3048991588-10057-A-0-1_2000.m3u8
-纪晓岚,http://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1500.m3u8
+纪晓岚,http://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1500.m3u8#https://aldirect.hls.huya.com/backsrc/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8?wsSecret=afe7714978d0a4b54c69f32a74326ae7&wsTime=5e42dd60
 鹿鼎记,https://aldirect.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_1200.m3u8?wsSecret=da648fd151102d2b4eea11f1936b4e68&wsTime=5e19f216#https://aldirect.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_2000.m3u8
 康熙记,https://aldirect.hls.huya.com/huyalive/29169025-2686221704-11537234368485392384-2789274536-10057-A-0-1_1200.m3u8?wsSecret=4e2066c9eb5e76bdedfc773a91768e52&wsTime=5e19f0cd
+吴京,https://aldirect.hls.huya.com/backsrc/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8?wsSecret=7db41112fc61b4322cba493f62169b46&wsTime=5e42d4b8
 雪豹,https://aldirect.hls.huya.com/huyalive/29169025-2686221276-11537232530239389696-2777027178-10057-A-0-1_1200.m3u8
+女神,https://aldirect.hls.huya.com/backsrc/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8?wsSecret=d9fd1eabe18489c7e6884944463272d8&wsTime=5e42dc9f
 亮剑,https://js.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8
 NewTV,#genre#
 NewTV古装剧场,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226323/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226300/1.m3u8
@@ -385,6 +380,32 @@ BesTV 4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 XX_0212,#genre#
+18禁 Ⅰ 东京热美妇中出,https://qqc1107.phpdaniu.com/japan/ZW0910/8F8YJ4lB/800kb/hls/index.m3u8
+18禁 Ⅰ 东京轮奸空姐,https://qqc1107.phpdaniu.com/japan/ZW0910/AITV4deO/index.m3u8
+18禁 Ⅰ 牛仔裤女郎,https://qqc1107.phpdaniu.com/japan/20191013/jz4knROn/500kb/hls/index.m3u8
+18禁 Ⅰ 操到翻白眼,https://qqc1107.phpdaniu.com/japan/wuma/031116-519_06/index.m3u8
+18禁 Ⅰ 爆弹肉体小衣,https://qqc1107.phpdaniu.com/japan/20191013/S9iMljUH/500kb/hls/index.m3u8
+18禁 Ⅰ 被秒插却很爽,https://qqc1107.phpdaniu.com/japan/20191013/TnoqbCFH/500kb/hls/index.m3u8
+18禁 Ⅰ 让少妇淫叫潮吹,https://qqc1107.phpdaniu.com/japan/20191101/M5PFQupR/index.m3u8
+18禁 Ⅰ 女孩的最终幻想,https://qqc1107.phpdaniu.com/oumei/2019922/qqc002/1000kb/hls/index.m3u8
+18禁 Ⅰ 小猫咪搬的女孩,https://qqc1107.phpdaniu.com/oumei/2019922/qqc001/index.m3u8
+18禁 Ⅰ 加藤椿是我老婆,https://qqc1107.phpdaniu.com/japan/20191013/P0ITeExQ/index.m3u8
+18禁 Ⅰ 和你老婆来一炮,https://qqc1107.phpdaniu.com/japan/20191013/wC5HedHl/index.m3u8
+18禁 Ⅰ 我老婆是雾岛樱的话,https://qqc1107.phpdaniu.com/japan/20191013/uh131Qgy/index.m3u8
+18禁 Ⅰ 朋友的女友西野亚子,https://qqc1107.phpdaniu.com/japan/20191013/Wny3sG2o/500kb/hls/index.m3u8
+18禁 Ⅰ 热吻浓情干炮【江波凉】,https://qqc1107.phpdaniu.com/japan/20191003/040518_667/index.m3u8
+18禁 Ⅰ 喷精快手松本芽依精选,https://qqc1107.phpdaniu.com/japan/20191013/alQxYPic/500kb/hls/index.m3u8
+18禁 Ⅰ 喷精快手上原麻衣精选,https://qqc1107.phpdaniu.com/japan/20191013/LdqeJHSd/index.m3u8
+18禁 Ⅰ 淫乱小穴操到爆射大满足,https://qqc1107.phpdaniu.com/japan/20191013/ijyp7jqd/index.m3u8
+18禁 Ⅰ 被隔壁的巨乳大姐榨干了,https://qqc1107.phpdaniu.com/japan/20191013/YUTeYB6h/500kb/hls/index.m3u8
+18禁 Ⅰ 超淫荡美少妇的激情爱爱,https://qqc1107.phpdaniu.com/japan/20191013/NQ1YjAsl/index.m3u8
+18禁 Ⅰ 叶山瞳操得爽翻天啊,https://qqc1107.phpdaniu.com/japan/20191126/QoTyft88/500kb/hls/index.m3u8
+18禁 Ⅰ 我情人水鸟文乃的话,https://qqc1107.phpdaniu.com/japan/20191126/5dZmgYGB/500kb/hls/index.m3u8
+18禁 Ⅰ 从背后开干贴身内裤,https://qqc1107.phpdaniu.com/japan/20191126/F3xvS5CF/1000kb/hls/index.m3u8
+18禁 Ⅰ 发情好色制服诱惑女,https://qqc1107.phpdaniu.com/japan/20191126/bqZa7Jyp/1000kb/hls/index.m3u8
+18禁 Ⅰ 爽到艳丽女优直高潮,https://qqc1107.phpdaniu.com/japan/20191126/e26hvaVw/1000kb/hls/index.m3u8
+18禁 Ⅰ 别人老婆就是刺激啊,https://qqc1107.phpdaniu.com/japan/20191126/rcahBf2Q/1000kb/hls/index.m3u8
+18禁 Ⅰ 禁止的爱善良小姨子,https://qqc1107.phpdaniu.com/japan/20190930/p4VeVi7L/index.m3u8
 18禁 Ⅰ 朋友的义母,https://qqc1107.phpdaniu.com/japan/20191126/mmFhtpf8/1000kb/hls/index.m3u8
 18禁 Ⅰ 姐姐的朋友,https://qqc1107.phpdaniu.com/japan/20190930/gtf5FxLF/index.m3u8
 18禁 Ⅰ 别人老婆刺激,https://qqc1107.phpdaniu.com/japan/20191126/rcahBf2Q/1000kb/hls/index.m3u8
@@ -417,3 +438,5 @@ XX_0212,#genre#
 18禁 Ⅰ 3P插到潮喷,https://qqc1107.phpdaniu.com/japan/20191013/lcMXHzfW/500kb/hls/index.m3u8
 18禁 Ⅰ 美穴欣赏【叶山瞳】,https://qqc1107.phpdaniu.com/japan/20191013/EMDCPRKl/index.m3u8
 18禁 Ⅰ 美穴欣赏【麻生希】,https://qqc1107.phpdaniu.com/japan/20191013/VBDebMeI/500kb/hls/index.m3u8
+种鬼•未删减,https://mrw.so/4uaPQB?http://dsjtv.com/20200205.flv
+奉旨勾女,https://mrw.so/5sggR5?http://dsjtv.com/20200205.flv
