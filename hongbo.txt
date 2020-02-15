@@ -99,8 +99,8 @@ HBO电影,vjms://58.215.133.185:8500:3502/live/cid=436#vjms://23.237.33.155:8500
 HBO家庭,vjms://58.215.133.185:8500:3502/live/cid=181#vjms://23.237.33.155:8500:3502/live/cid=181
 HBO强档,vjms://58.215.133.185:8500:3502/live/cid=238#vjms://23.237.33.155:8500:3502/live/cid=238
 峨眉电影,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-东森电影,http://192.200.120.82:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8#p8p://0198.02686.cc:16871/5d1a69af0009735f11bdcb2402d2abda.ts#p2p://51.79.41.138:18912/5c7249d3000cb8ea1d57e9650d7148b7.ts#tvbus://12E14tpq7uV1zLRdMHFYh3FdyURG5XkWi53smDeAbJcfzxHpgYp
-东森洋片,ttp://bakup.cdn.52glb.com/live/tw_dongsen_yp.m3u8#tvbus://1jqrNZ8dt84AhKCLVypeBgfHwfpMSvsyFqvSX6u4FfSbP9JqCv
+东森电影,http://192.154.103.75:8080//ZZ_dongsendianying/ZZ_dongsendianying.m3u8#http://192.200.120.82:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8#p8p://0198.02686.cc:16871/5d1a69af0009735f11bdcb2402d2abda.ts#p2p://51.79.41.138:18912/5c7249d3000cb8ea1d57e9650d7148b7.ts#tvbus://12E14tpq7uV1zLRdMHFYh3FdyURG5XkWi53smDeAbJcfzxHpgYp
+东森洋片,http://192.154.103.75:8080//ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://bakup.cdn.52glb.com/live/tw_dongsen_yp.m3u8#tvbus://1jqrNZ8dt84AhKCLVypeBgfHwfpMSvsyFqvSX6u4FfSbP9JqCv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 澳门莲花,http://live-rtmp.macaulotustv.com/lotustv/5562e9e4d409d24c9600075c.m3u8
 澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
@@ -108,6 +108,8 @@ HBO强档,vjms://58.215.133.185:8500:3502/live/cid=238#vjms://23.237.33.155:8500
 靖天电影,p8p://0198.02686.cc:16871/5d1a69d4000d791711be5cb4cbc75c73.ts
 龙华经典,p2p://fccsovh.pvbox.live:18912/5b14090b0001269c17d0ee93023202c3
 龙华影剧,P2p://51.79.41.138:18912/5b1408f2000aaf8c17d08f5c001549e8.ts
+龙祥时代,http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8
+每日影院,http://42.48.60.248:8082/live/gqts-800k.m3u8
 好莱坞电影,http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://pili-live-hdl.qhmywl.com:80/dsdtv/8e678565884cdebd00f8b3121b3b7ee1.m3u8#http://bakup.cdn.52glb.com/live/gj_haolaiwu_dy.m3u8
 星卫HD电影,p2p://51.79.41.138:18912/5c724a05000626a61d58aaff0c3f3175.ts#P2p://190.2.146.92:18912/5c724a05000626a61d58aaff0c3f3175.ts#http://bakup.cdn.52glb.com/live/tw_weixing_dy.m3u8
 美亚HD电影,P2p://190.2.146.92:18912/5c724a0e000442831d58cdaa6a2c5c52.ts#p2p://51.79.41.138:18912/5c724a0e000442831d58cdaa6a2c5c52.ts#http://bakup.cdn.52glb.com/live/tw_meiya_dy.m3u8
@@ -127,7 +129,7 @@ BLUEANT,p8p://0198.02686.cc:16871/5d1a69a60004767211bda6b5be685208.ts
 东森戏剧,P2p://190.2.146.92:18912/5c724882000704081d52c386798d4d25.ts
 纬来戏剧,vjms://58.215.133.185:8500:3502/live/cid=137#vjms://23.237.33.155:8500:3502/live/cid=137#P2p://190.2.146.92:18912/5c72488e000bae061d52f38e705751dd.ts
 EYETV戏剧台,p8p://0198.02686.cc:16871/5d1a69a2000ca28211bd992d29a29542.ts
-好莱坞电影,http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8#P2p://190.2.146.92:18912/5c7249e2000125281d5820ff23a165d1.ts
+好莱坞电影,http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8#P2p://190.2.146.92:18912/5c7249e2000125281d5820ff23a165d1.ts
 華藝影剧台,p8p://0198.02686.cc:16871/5d1a69d700008c5a11be651dc2bd3d52.ts#http://pili-live-hdl.qhmywl.com/dsdtv/49d33b7521ceef2115572e8906e9f906.flv
 三立戏剧台,p8p://0198.02686.cc:16871/5d1a69f90000ad2611bee9f55d87748f.ts
 八大戏剧,vjms://121.14.222.75:8500:3502/live/cid=110#vjms://23.237.33.155:8500:3502/live/cid=110
@@ -385,7 +387,6 @@ DOX怡家,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=9c6e3fd0b37dd8b7e4bc1
 DOX英伦,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=21e5f6a02640bf440df4c079b4c3ad23
 DOX映画,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=e16878a022c216b17975299a9ac369dc
 DOX美剧,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=1c639fe68ed5de6804966813425bdccd
-DOXTV,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&progamid=4200000126
 虎牙电影,#genre#
 周星驰电影,https://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_2000.m3u8
 周润发电影,http://tx.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
