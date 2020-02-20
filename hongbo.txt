@@ -1,5 +1,5 @@
 央视频道,#genre#
-CCTV-1,http://iptv.pdsu.edu.cn/hls/cctv1hd.m3u8#http://223.110.245.170/PLTV/3/224/3221225530/index.m3u8#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228104/index.m3u8#http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
+CCTV-1,http://223.110.245.170/PLTV/3/224/3221225530/index.m3u8#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228104/index.m3u8#http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
 CCTV-2,http://ivi.bupt.edu.cn/hls/cctv2.m3u8
 CCTV-3,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
 CCTV-4,http://ivi.bupt.edu.cn/hls/cctv4.m3u8#http://223.110.241.203:6610/gitv/live1/G_CCTV-14/G_CCTV-14/
@@ -164,7 +164,7 @@ CNN,p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts#vjms://23.237.
 BBC,vjms://58.215.133.185:8500:3502/live/cid=418#vjms://23.237.33.155:8500:3502/live/cid=418
 港台体育,#genre#
 FOX,vjms://58.215.133.185:8500:3502/live/cid=444#vjms://58.215.133.185:8500:3502/live/cid=95
-FOXSPORT-3,vjms://58.215.133.185:8500:3502/live/cid=95
+FOXSPORT,vjms://58.215.133.185:8500:3502/live/cid=95
 ELTA体育,P2p://51.79.41.138:18912/5b1409da0004ba1317d418157a2631bc.ts#P2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
 ELTA体育HD,vjms://58.215.133.185:8500:3502/live/cid=266#vjms://23.237.33.155:8500:3502/live/cid=266
 博斯高球,vjms://58.215.133.185:8500:3502/live/cid=265#vjms://121.14.222.75:8500:3502/live/cid=265#vjms://23.237.33.155:8500:3502/live/cid=265
@@ -173,16 +173,15 @@ ELTA体育HD,vjms://58.215.133.185:8500:3502/live/cid=266#vjms://23.237.33.155:8
 Z频道,p8p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts
 Star Sports,rtmp://58.200.131.2:1935/livetv/starsports
 综合娱乐,#genre#
+公视,vjms://58.215.133.185:8500:3502/live/cid=236#vjms://23.237.33.155:8500:3502/live/cid=236#P2p://51.79.41.138:18912/5b14094a0002d1d117d1e518204a1cf0.ts
+民视,P2p://51.79.41.138:18912/5b14095f00097ec617d238d6575b7b8c
+民视,P2p://190.2.146.92:18912/5c72483f0003db4b1d51bcf349367c26.ts#vjms://23.237.33.155:8500:3502/live/cid=226#mitv://fccsovh.pvbox.live:18912/5c72483f0003db4b1d51bcf349367c26
+中视,P2p://51.79.41.138:18912/5b140a14000a368c17d4fc0d0e2537ba.ts#P2p://190.2.146.92:18912/5c72484b000b1d091d51edb7087b7686.ts#vjms://23.237.33.155:8500:3502/live/cid=452
 TVB J2,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 TVB明珠台,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts#vjms://23.237.33.155:8500:3502/live/cid=367
 TVB翡翠台,vjms://23.237.33.155:8500:3502/live/cid=362#p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts#http://m.567it.com/jade.m3u8
 TVBS欢乐台,p2p://51.79.41.138:18912/5c72488a000a56b71d52e3a07060345e.ts#P2p://190.2.146.92:18912/5c72488a000a56b71d52e3a07060345e.ts#vjms://23.237.33.155:8500:3502/live/cid=438#rtmp://59.124.75.137/sat/tv421
 TVBS精采台,p8p://0198.02686.cc:16871/5d1a69ab0004fab811bdba5fa309b278.ts#P2p://190.2.146.92:18912/5bdbf3b20000e966d2177540400d0818.ts
-公视,vjms://58.215.133.185:8500:3502/live/cid=236#vjms://23.237.33.155:8500:3502/live/cid=236#P2p://51.79.41.138:18912/5b14094a0002d1d117d1e518204a1cf0.ts
-民视台湾,P2p://51.79.41.138:18912/5b14095f00097ec617d238d6575b7b8c
-中视经典,P2p://51.79.41.138:18912/5b140a14000a368c17d4fc0d0e2537ba.ts
-民视,P2p://190.2.146.92:18912/5c72483f0003db4b1d51bcf349367c26.ts#vjms://23.237.33.155:8500:3502/live/cid=226#mitv://fccsovh.pvbox.live:18912/5c72483f0003db4b1d51bcf349367c26
-中视,P2p://190.2.146.92:18912/5c72484b000b1d091d51edb7087b7686.ts#vjms://23.237.33.155:8500:3502/live/cid=452
 三立都会,vjms://58.215.133.185:8500:3502/live/cid=226
 三立台湾,p8p://0198.02686.cc:16871/5d1a69ae00025bef11bdc56ba098b443.ts
 八大综合,http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
