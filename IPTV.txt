@@ -1,4 +1,4 @@
-1#央视频道
+央视频道
 CCTV1,http://wshls.butel.com/live/4387.m3u8#http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8#http://l1.weihai.tv:8081/hls/3bjRUVNYwi.m3u8#http://221.6.85.150:9000/live/cctv1_800/cctv1_800.m3u8
 CCTV2,http://wshls.butel.com/live/11ecc.m3u8#http://wxcnlive.videocc.net/vod1/cctv2169/01.m3u8?wsSecret=0f883c8649a6b883016f6408d7c80f9d&wsTime=1509347397#http://221.6.85.150:9000/live/cctv2_800/cctv2_800.m3u8
 CCTV3,http://newvideo.dangtutv.cn:8278/CCTVzongyi/playlist.m3u8#http://221.6.85.150:9000/live/cctv3_800/cctv3_800.m3u8#http://220.158.149.14:9999/live/TV00000000000000000102@HHZT;LIVE?DSJTV.m3u8
@@ -15,7 +15,7 @@ CCTV13,http://stream4.jlntv.cn/cctv13/sd/live.m3u8#http://liveali.ifeng.com/live
 CCTV14,http://221.6.85.150:9000/live/cctv14_800/cctv14_800.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225678/index.m3u8
 CCTV15,http://221.6.85.150:9000/live/cctv15_800/cctv15_800.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/1.m3u8
 CCTV17,http://111.40.205.70/PLTV/88888888/224/3221225765/index.m3u8#http://stream.cdjsxy.cn/lypd/sd/live.m3u8#http://220.158.149.14:9999/live/TV00000000000000000008@HHZT;LIVE?DSJTV.m3u8
-#卫视频道
+卫视频道
 新华中文,http://livecdn1.news.cn/cnccn/manifest.m3u8
 重庆卫视,http://qxlmlive.cbg.cn:1935/app_2/ls_67.stream/chunklist.m3u8#https://onsitecdn.cbgcloud.com/76btqk/d6tb4v.m3u8#http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=012&Provider_id=&Pcontent_id=index.m3u8
 重庆新闻,http://onsitecdn.cbgcloud.com/4zjt2a/zb7nip.m3u8
@@ -53,7 +53,7 @@ CCTV17,http://111.40.205.70/PLTV/88888888/224/3221225765/index.m3u8#http://strea
 新疆卫视,http://player.200877926.top/18/tv.php?tv=shydbst&id=xjws
 康巴卫视,http://scgctvshow.sctv.com/sdlive/kangba/1.m3u8
 澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
-2#地方频道
+地方频道
 浙江 Ⅰ 柯桥综合台,http://live.scbtv.cn/hls/news/index.m3u8
 浙江 Ⅰ 柯桥时尚台,http://live.scbtv.cn/hls/qfc/index.m3u8
 安徽 Ⅰ 六安综合台,http://live.china-latv.com/channel1/sd/live.m3u8
@@ -154,7 +154,7 @@ CCTV17,http://111.40.205.70/PLTV/88888888/224/3221225765/index.m3u8#http://strea
 陕西 Ⅰ 西安白鸽台,http://stream2.xiancity.cn/xatv2/sd/live.m3u8
 陕西 Ⅰ 西安影视台,http://stream2.xiancity.cn/xatv4/sd/live.m3u8
 陕西 Ⅰ 西安丝路台,http://stream2.xiancity.cn/xatv5/sd/live.m3u8
-4#港台娱乐
+港台娱乐
 TVB J2,http://pili-live-hdl.qhmywl.com/dsdtv/9de1ac6a9a4642e1aac41462c6159b92.flv
 HKC 娱乐台,http://%74%65%73%74%61%6c%69%63%64%6e%32%2e%63%64%6e%2e%75%74%76%68%6b%2e%63%6f%6d/%6c%69%76%65/%37%32%65%65%33%37%62%35%34%64%35%32%34%62%63%62%38%30%36%39%35%37%35%37%37%64%66%64%66%64%37%32/%66%65%33%37%31%63%37%34%36%65%62%39%34%62%30%31%62%37%66%62%30%65%37%30%35%36%39%61%32%65%39%66%2d%31%2e%6d%33%75%38#%68%74%74%70%73://%6f%74%74%70%72%6f%78%79%32%2e%6d%6f%74%74%2e%74%76/%6c%69%76%65%68%6c%73/%4d%4f%42%2d%43%4e/%69%6e%64%65%78%2e%6d%33%75%38?%64%73%6a%74%76%2e%6d%33%75%38
 TVB 翡翠台,http://pili-live-hdl.qhmywl.com/dsdtv/b3a93cbbd1908e81783879747bb3090a.flv#http://m.567it.com/jade.m3u8
@@ -178,7 +178,7 @@ RHK电台32台,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av
 HKC开放电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 HKC直播新闻,http://%77%6f%77%67%75%61%2e%63%6f%6d/%6c%69%76%65/%63%68%61%6e%6e%65%6c%5f%31%31%30%2e%6d%33%75%38
 V I U综合频道,https://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
-#综合娱乐
+综合娱乐
 中华特产,http://play.zhtctv.cn/portal/btv.m3u8
 峨眉电影,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 广东珠江,http://nclive.grtn.cn/zjpd/sd/live.m3u8
@@ -243,7 +243,7 @@ HBO亚洲台,http://pili-live-hdl.qhmywl.com/dsdtv/13e83b20bc716e68221da438d761d
 意大利 Ⅰ RAI 溢价,http://%62%32%65%76%65%72%79%72%61%69%2d%6c%68%2e%61%6b%61%6d%61%69%68%64%2e%6e%65%74/%69/%72%61%69%70%72%65%6d%69%75%6d%5f%31%40%31%38%31%38%33%37/%69%6e%64%65%78%5f%31%38%30%30%5f%61%76%2d%70%2e%6d%33%75%38
 阿联酋 Ⅰ 阿布体育1,http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8#http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 阿联酋 Ⅰ 阿布体育2,http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8#http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#虎牙电影
+虎牙电影
 熊猫直播,https://mobilelive-play.ysp.cctv.cn/ysp/2001366601_hd.m3u8
 家庭影院,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240278_1/encoder/0/playlist.m3u8#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240278_1/encoder/0/playlist.m3u8
 黑莓动画,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225878/1.m3u8
@@ -263,7 +263,7 @@ HBO亚洲台,http://pili-live-hdl.qhmywl.com/dsdtv/13e83b20bc716e68221da438d761d
 李连杰电影,https://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_2000.m3u8
 洪金宝电影,https://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_2000.m3u8
 林正英电影,http://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_2000.m3u8
-#嗨曲
+嗨曲
 翠卿 Ⅰ 千千阙歌,http://www.zuori.cc/index/downloads?d=43165&v=JSJ96Uey
 王杰 Ⅰ 大约在冬季,http://www.zuori.cc/index/downloads?d=43165&v=Rhw71Q79
 王杰 Ⅰ 忘了你忘了我,http://www.zuori.cc/index/downloads?d=43165&v=n9a77bnd
@@ -317,7 +317,7 @@ HBO亚洲台,http://pili-live-hdl.qhmywl.com/dsdtv/13e83b20bc716e68221da438d761d
 走秀 Ⅰ 祝贺男人比基尼美女,http://www.zuori.cc/index/downloads?d=43165&v=fe0MmmdY
 车展 Ⅰ 泰国波动比基尼美女,http://www.zuori.cc/index/downloads?d=43165&v=8ojPWmEM
 车展 Ⅰ 泰国郊郎蓝色比基尼美女,http://www.zuori.cc/index/downloads?d=43165&v=yq8JSUqD
-#_0116XX
+XX
 18禁 Ⅰ 朋友的义母,https://qqc1107.phpdaniu.com/japan/20191126/mmFhtpf8/1000kb/hls/index.m3u8
 18禁 Ⅰ 姐姐的朋友,https://qqc1107.phpdaniu.com/japan/20190930/gtf5FxLF/index.m3u8
 18禁 Ⅰ 别人老婆刺激,https://qqc1107.phpdaniu.com/japan/20191126/rcahBf2Q/1000kb/hls/index.m3u8
