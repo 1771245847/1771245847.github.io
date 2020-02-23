@@ -395,8 +395,7 @@ $c_start亲子卡通$c_end
 CN卡通,vjms://121.14.222.75:8500:3502/live/cid=422#http://pili-live-hdl.qhmywl.com/dsdtv/c865782e4a131efe17651165835ca37e.flv#p8p://0198.02686.cc:16871/5d1a69b3000e2d1e11bddbfa8c491af8.ts#vjms://23.237.33.155:8500:3502/live/cid=422
 东森幼幼,vjms://121.14.222.75:8500:3502/live/cid=344#p8p://0198.02686.cc:16871/5d416a580007131b7660d3322e8b0a5f.ts#vjms://23.237.33.155:8500:3502/live/cid=344
 BabyFirst,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
-靖天卡通,http://61.58.60.230:9319/live/207.m3u8
+靖洋卡通,http://61.58.60.230:9319/live/206.m3u8#http://61.58.60.230:9319/live/207.m3u8
 $c_start景区直播$c_end
 中央电视台中塔西,https://gccncc.v.wscdns.com/gc/ztx_1/index.m3u8?contentid=2820180516001
 中央电视台中塔东,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
@@ -571,18 +570,3 @@ BesTV 4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 纯享 4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
-$c_start残月影视$c_end
-叶问4,http://videotiantian.gslawyerunion.com/20200209/96Vlt5jX/hls/index.m3u8?wsSecret=fad4d63063ad8379d016c5420f09a926&wsTime=1609237548421
-肥龙过江,https://baidu.oss.aliyuncs.gms-lighting.com/m3u8/1903.m3u8
-哪叱之魔童降世,http://vqzone.gtimg.com/1097_ed7402c4d6834acb82ec39ad1a12dbbb.f20.mp4?ptype=http&vkey=23180782401470FD3CA7BD8BA15BA882C07D7EF2E2FD4408A5D8544E27355E0EE20DD4FFDF345F626A0732CE67FD19A69AF81A8632C954E1&sdtfrom=v1000&owner=0
-种鬼•未删减,https://mrw.so/4uaPQB?http://dsjtv.com/20200205.flv
-香港第一凶宅,https://mrw.so/4QJsQO?http://dsjtv.com/20200205.flv
-阴阳先生,https://vip.okokbo.com/20171211/g0QFrySc/index.m3u8
-阴阳先生之阴阳中间站,https://baidu.com-ok-baidu.com/20190829/14783_8c72173a/index.m3u8#https://baidu.com-ok-baidu.com/20190829/14783_8c72173a/1000k/hls/index.m3u8
-驱魔保安,https://zuikzy.51moca.com/2018/09/11/pFfRZfgAJmYd2cBf/playlist.m3u8
-驱魔保安2,http://117.27.242.201/sohu/v1/TmPC0KIsWFeHy81U04dshpEe0AWCP6seqJy7eKkAbOXUyYbSoO2VqVw.mp4?k=XBIWQf&p=j9lvzSkUoLxGopv3omrUoSkBoSkWsUwIWFo7oB2svm12ZDeS0tvGRD6sWYNsfY1svmfCZMbVwmfVZD6HfYXswmeBNMvcNT1CvmNCNF2sWY1OfJ1OfJvOwm6AZDNXfY1swm1BqVPcgYeSoMAARDx&r=TmI20LscWOoUgt8IS3D9v3BTHXgaWsgkfXik35HaZhbSikmJlD9ESwd0wjfqKODOfoIWGvtwmXAyBj&q=OpCGhW7IWhodRD6OwmfCyY2sWhyHfJbHfhWHZY1S0F2OfGWtfhWXWGoURDvsfhoUZDJ&nid=0#https://zuikzy.51moca.com/2018/09/11/wbNWBDJw295WTmf9/playlist.m3u8
-鬼话怪谈祥云寺,http://yushou.qitu-zuida.com/20180520/5932_fa8ff67f/index.m3u8#https://cn2.5311444.com/hls/20181101/3998c4774dc3fa32aa0577453f7d95d9/1541082785/index.m3u8
-道士出山,http://leshi.cdn-zuyida.com/20180814/31691_e15b719e/index.m3u8#https://vip.okokbo.com/20180322/yVmbrJ4O/index.m3u8#https://us4.wl-cdn.com/hls/20191214/a8b04445cf70dd92713bc3513e13ae9c/1576317024/index.m3u8
-道士出山2,https://vip.okokbo.com/20180309/ynZuOoHV/index.m3u8
-僵尸归来,https://data.ylybz.cn/data/youku/XMzYzNjg2NjQ0NA==.m3u8
-僵尸归来2,https://data.ylybz.cn/data/youku/XMjc0MTAwMjk0NA==.m3u8#https://m3u8.gms-lighting.com/data/youku/XMTUwMDgwNjY1Mg==.m3u8
