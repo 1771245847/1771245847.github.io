@@ -1,57 +1,57 @@
 $c_start央视频道$c_end
-CCTV-1,http://iptv.pdsu.edu.cn/hls/cctv1hd.m3u8
-CCTV-2,http://iptv.pdsu.edu.cn/hls/cctv2hd.m3u8
-CCTV-3,http://iptv.pdsu.edu.cn/hls/cctv3hd.m3u8
-CCTV-4,http://iptv.pdsu.edu.cn/hls/cctv4hd.m3u8
-CCTV-5,http://iptv.pdsu.edu.cn/hls/cctv5hd.m3u8
-CCTV-6,http://iptv.pdsu.edu.cn/hls/cctv6hd.m3u8
-CCTV-7,http://iptv.pdsu.edu.cn/hls/cctv7hd.m3u8
-CCTV-8,http://iptv.pdsu.edu.cn/hls/cctv8hd.m3u8
-CCTV-9,http://iptv.pdsu.edu.cn/hls/cctv9hd.m3u8
-CCTV-10,http://iptv.pdsu.edu.cn/hls/cctv10hd.m3u8
-CCTV-11,http://iptv.pdsu.edu.cn/hls/cctv11.m3u8
-CCTV-12,http://iptv.pdsu.edu.cn/hls/cctv12hd.m3u8
-CCTV-13,http://iptv.pdsu.edu.cn/hls/cctv13.m3u8
-CCTV-14,http://iptv.pdsu.edu.cn/hls/cctv14hd.m3u8
-CCTV-15,http://iptv.pdsu.edu.cn/hls/cctv15.m3u8
+CCTV-1,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+CCTV-2,http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+CCTV-3,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+CCTV-4,http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+CCTV-5,http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8
+CCTV-5+,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+CCTV-6,http://ivi.bupt.edu.cn/hls/cctv6.m3u8
+CCTV-7,http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+CCTV-8,http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+CCTV-9,http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+CCTV-10,http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+CCTV-11,http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+CCTV-12,http://ivi.bupt.edu.cn/hls/cctv12.m3u8
+CCTV-13,http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+CCTV-14,http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+CCTV-15,http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+CCTV-17,http://cctvalih5ca.v.myalicdn.com/live/cctv17_2/index.m3u8
 $c_start卫视频道$c_end
-北京卫视,http://iptv.pdsu.edu.cn/hls/btv1hd.m3u8
-北京影视,http://iptv.pdsu.edu.cn/hls/btv4hd.m3u8
-湖南卫视,http://iptv.pdsu.edu.cn/hls/hunanhd.m3u8
-浙江卫视,http://iptv.pdsu.edu.cn/hls/zjhd.m3u8
-江苏卫视,http://iptv.pdsu.edu.cn/hls/jshd.m3u8
-东方卫视,http://iptv.pdsu.edu.cn/hls/dfhd.m3u8
-安徽卫视,http://iptv.pdsu.edu.cn/hls/ahhd.m3u8
-西藏卫视,http://iptv.pdsu.edu.cn/hls/xztv.m3u8
-黑龙江卫视,http://iptv.pdsu.edu.cn/hls/hljtv.m3u8
-内蒙古卫视,http://iptv.pdsu.edu.cn/hls/nmtv.m3u8
-辽宁卫视,http://iptv.pdsu.edu.cn/hls/lnhd.m3u8
-深圳卫视,http://iptv.pdsu.edu.cn/hls/szhd.m3u8
-广东卫视,http://iptv.pdsu.edu.cn/hls/gdhd.m3u8
-广西卫视,http://iptv.pdsu.edu.cn/hls/gxtv.m3u8
-天津卫视,http://iptv.pdsu.edu.cn/hls/tjhd.m3u8
-湖北卫视,http://iptv.pdsu.edu.cn/hls/hbhd.m3u8
-山东卫视,http://iptv.pdsu.edu.cn/hls/sdhd.m3u8
-重庆卫视,http://iptv.pdsu.edu.cn/hls/cqhd.m3u8
-四川卫视,http://iptv.pdsu.edu.cn/hls/schd.m3u8
-东南卫视,http://iptv.pdsu.edu.cn/hls/dnhd.m3u8
-河北卫视,http://iptv.pdsu.edu.cn/hls/hebhd.m3u8
-河南卫视,http://iptv.pdsu.edu.cn/hls/hntv.m3u8
-江西卫视,http://iptv.pdsu.edu.cn/hls/jxhd.m3u8
-新疆卫视,http://iptv.pdsu.edu.cn/hls/xjtv.m3u8
-云南卫视,http://iptv.pdsu.edu.cn/hls/yntv.m3u8
-宁夏卫视,http://iptv.pdsu.edu.cn/hls/nxtv.m3u8
-贵州卫视,http://iptv.pdsu.edu.cn/hls/gztv.m3u8
-甘肃卫视,http://iptv.pdsu.edu.cn/hls/gstv.m3u8
-山西卫视,http://iptv.pdsu.edu.cn/hls/sxrtv.m3u8
-吉林卫视,http://iptv.pdsu.edu.cn/hls/jltv.m3u8
-青海卫视,http://iptv.pdsu.edu.cn/hls/qhtv.m3u8
-凤凰卫视,http://iptv.pdsu.edu.cn/hls/fhzw.m3u8
-国家地理,http://iptv.pdsu.edu.cn/hls/natlgeo.m3u8
-探索频道,http://iptv.pdsu.edu.cn/hls/discovery.m3u8
-CHC动作电影,http://iptv.pdsu.edu.cn/hls/chcatv.m3u8
-CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
-Channel[V],http://iptv.pdsu.edu.cn/hls/channelv.m3u8
+湖南卫视,http://ivi.bupt.edu.cn/hls/hunanhd.m3u8#http://ivi.bupt.edu.cn/hls/hunantv.m3u8
+浙江卫视,http://ivi.bupt.edu.cn/hls/zjhd.m3u8#http://ivi.bupt.edu.cn/hls/zjtv.m3u8
+江苏卫视,http://ivi.bupt.edu.cn/hls/jshd.m3u8#http://ivi.bupt.edu.cn/hls/jstv.m3u8
+东方卫视,http://ivi.bupt.edu.cn/hls/dfhd.m3u8#http://ivi.bupt.edu.cn/hls/dftv.m3u8
+安徽卫视,http://ivi.bupt.edu.cn/hls/ahhd.m3u8#http://ivi.bupt.edu.cn/hls/ahtv.m3u8
+黑龙江卫视,http://ivi.bupt.edu.cn/hls/hljhd.m3u8#http://ivi.bupt.edu.cn/hls/hljtv.m3u8
+辽宁卫视,http://ivi.bupt.edu.cn/hls/lnhd.m3u8#http://ivi.bupt.edu.cn/hls/lntv.m3u8
+深圳卫视,http://ivi.bupt.edu.cn/hls/szhd.m3u8#http://ivi.bupt.edu.cn/hls/sztv.m3u8
+广东卫视,http://ivi.bupt.edu.cn/hls/gdhd.m3u8#http://ivi.bupt.edu.cn/hls/gdtv.m3u8
+天津卫视,http://ivi.bupt.edu.cn/hls/tjhd.m3u8#http://ivi.bupt.edu.cn/hls/tjtv.m3u8
+湖北卫视,http://ivi.bupt.edu.cn/hls/hbhd.m3u8#http://ivi.bupt.edu.cn/hls/hbtv.m3u8
+山东卫视,http://ivi.bupt.edu.cn/hls/sdhd.m3u8#http://ivi.bupt.edu.cn/hls/sdtv.m3u8
+重庆卫视,http://ivi.bupt.edu.cn/hls/cqhd.m3u8
+河南卫视,http://ivi.bupt.edu.cn/hls/hntv.m3u8
+陕西卫视,http://ivi.bupt.edu.cn/hls/sxtv.m3u8
+吉林卫视,http://ivi.bupt.edu.cn/hls/jltv.m3u8
+广西卫视,http://ivi.bupt.edu.cn/hls/gxtv.m3u8
+河北卫视,http://ivi.bupt.edu.cn/hls/hebtv.m3u8
+西藏卫视,http://ivi.bupt.edu.cn/hls/xztv.m3u8
+内蒙古卫视,http://ivi.bupt.edu.cn/hls/nmtv.m3u8
+青海卫视,http://ivi.bupt.edu.cn/hls/qhtv.m3u8
+四川卫视,http://ivi.bupt.edu.cn/hls/sctv.m3u8
+山西卫视,http://ivi.bupt.edu.cn/hls/sxrtv.m3u8
+厦门卫视,http://ivi.bupt.edu.cn/hls/xmtv.m3u8
+新疆卫视,http://ivi.bupt.edu.cn/hls/xjtv.m3u8
+云南卫视,http://ivi.bupt.edu.cn/hls/yntv.m3u8
+江西卫视,http://ivi.bupt.edu.cn/hls/jxtv.m3u8
+东南卫视,http://ivi.bupt.edu.cn/hls/dntv.m3u8
+贵州卫视,http://ivi.bupt.edu.cn/hls/gztv.m3u8
+甘肃卫视,http://ivi.bupt.edu.cn/hls/gstv.m3u8
+嘉佳卡通,http://223.110.241.204:6610/gitv/live1/G_JIAJIA/G_JIAJIA/
+优漫卡通,http://223.110.241.204:6610/gitv/live1/G_YOUMAN/G_YOUMAN/
+卡酷少儿,http://223.110.241.204:6610/gitv/live1/G_KAKU/G_KAKU/
+金鹰卡通,http://223.110.241.204:6610/gitv/live1/G_JINYING/G_JINYING/
+炫动卡通,http://223.110.241.204:6610/gitv/live1/G_XUANDONG/G_XUANDONG/
 $c_start地方频道$c_end
 浙江 Ⅰ 柯桥综合台,http://live.scbtv.cn/hls/news/index.m3u8
 浙江 Ⅰ 柯桥时尚台,http://live.scbtv.cn/hls/qfc/index.m3u8
@@ -171,6 +171,12 @@ TVBS精采台,p8p://0198.02686.cc:16871/5d1a69ab0004fab811bdba5fa309b278.ts#P2p:
 JET综合,P2p://190.2.146.92:18912/5c724892000e3e1c1d5303da4a3c6c26.ts#p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
 三立综合台,p8p://0198.02686.cc:16871/5d1a69fa0007d2f011beefb295d4d371.ts
 壹综合,p8p://0198.02686.cc:16871/5d1a69b70007631411bde9dd9eaae997.ts
+星卫电影,http://pull.scphsd.com/live/5bd2f0c2a7483c9837ab427f90738fea.flv 
+凤凰卫视HD,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
+凤凰咨询HD,http://112.5.223.10:80/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8?icpid=88888888&from=99&ocs=2_112.5.223.46_80&popid=99&hms_devid=83&prioritypopid=99
+日本Japanet Channel DX,http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+韩国Arirang (Opt-1),http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+越南ANTVHD,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 星卫娱乐,p2p://190.2.146.92:18912/5c724a0a000180991d58bd4f6e533ad5
 东森超视,p2p://190.2.146.92:18912/5c72487c000667911d52abe7044c2b21.ts
@@ -205,7 +211,7 @@ CHANNEL[V],rtmp://58.200.131.2:1935/livetv/channelv
 DOXTV,https://pull.scphsd.com/live/3994b62ffdcc450a8034b03729b723a8.flv
 凤凰卫视中文,https://pull.scphsd.com/live/3f00775a3581449c852c42dcbce8dbdf.flv
 凤凰卫视资讯,https://pull.scphsd.com/live/257536cb64e448738088e3650e816214.flv
-TVB星河国语,https://pull.scphsd.com/live/6af38e15e0fc48708e6289e1417838aa.flv
+TVB星河,https://pull.scphsd.com/live/6af38e15e0fc48708e6289e1417838aa.flv
 TVB功夫,https://pull.scphsd.com/live/5c57700caa72473c8843cbead1849f1b.flv
 有线603,https://pull.scphsd.com/live/9181871a175444c7a592287e86b4ebd3.flv
 有线18台,https://pull.scphsd.com/live/6f1541b407654a068ded3c7794c47398.flv
@@ -315,19 +321,10 @@ $c_start嗨曲$c_end
 走秀 Ⅰ 祝贺男人比基尼美女,http://www.zuori.cc/index/downloads?d=43165&v=fe0MmmdY
 车展 Ⅰ 泰国波动比基尼美女,http://www.zuori.cc/index/downloads?d=43165&v=8ojPWmEM
 车展 Ⅰ 泰国郊郎蓝色比基尼美女,http://www.zuori.cc/index/downloads?d=43165&v=yq8JSUqD
-$c_startXX$c_end
-18禁 Ⅰ 朋友的义母,https://qqc1107.phpdaniu.com/japan/20191126/mmFhtpf8/1000kb/hls/index.m3u8
-18禁 Ⅰ 姐姐的朋友,https://qqc1107.phpdaniu.com/japan/20190930/gtf5FxLF/index.m3u8
-18禁 Ⅰ 别人老婆刺激,https://qqc1107.phpdaniu.com/japan/20191126/rcahBf2Q/1000kb/hls/index.m3u8
-18禁 Ⅰ 禁止的爱善良小姨子,https://qqc1107.phpdaniu.com/japan/20190930/p4VeVi7L/index.m3u8
-18禁 Ⅰ 热吻发情的少妇,https://qqc1107.phpdaniu.com/japan/20191126/28uyhWP8/500kb/hls/index.m3u8
-18禁 Ⅰ 好色的少妇被内射出,https://qqc1107.phpdaniu.com/japan/20191126/Ad9Ar3OV/index.m3u8
-18禁 Ⅰ 住宿约会野外激情篇,https://qqc1107.phpdaniu.com/japan/20191126/bjUORdgn/index.m3u8
-18禁 Ⅰ 女友本泽朋美,https://qqc1107.phpdaniu.com/japan/20191126/rn8P9UHn/1000kb/hls/index.m3u8
-18禁 Ⅰ 人妻不穿奶罩,https://qqc1107.phpdaniu.com/japan/20191126/9bwKnncD/1000kb/hls/index.m3u8
-18禁 Ⅰ 为夫抗债的超美人妻,https://qqc1107.phpdaniu.com/japan/20191126/jX2eCuFf/index.m3u8
-18禁 Ⅰ 不断的哀求干炮,https://qqc1107.phpdaniu.com/japan/20191126/ANBoSIkg/500kb/hls/index.m3u8
-18禁 Ⅰ 淫荡护士的性爱诱惑,https://qqc1107.phpdaniu.com/japan/20191113/KhqPFhFF/index.m3u8
-18禁 Ⅰ 温泉乱交的少妇,https://qqc1107.phpdaniu.com/japan/20191113/CFDRWRfR/500kb/hls/index.m3u8
-18禁 Ⅰ 调教清纯性感美少女,https://qqc1107.phpdaniu.com/japan/20191113/slELf3nX/index.m3u8
-18禁 Ⅰ 美少女玩3P,https://qqc1107.phpdaniu.com/japan/20191113/IYu2k808/500kb/hls/index.m3u8
+$c_start4K$c_end
+BesTV4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+纯享4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
+CCTV-4K,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/ys4kcq_4000.m3u8
+CCTV-4K,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
+
