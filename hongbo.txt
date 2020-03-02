@@ -266,40 +266,31 @@ Disney,P2p://51.79.41.138:18912/5b1409f30004f6ec17d479cd524c4642.ts
 科学探索,http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_kexuetansuo_1080p_t10/c16_lb_kexuetansuo_1080p_t10.m3u8
 军事观察,http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_junshinew_1080p_t10/c16_lb_junshinew_1080p_t10.m3u8
 虎牙电影,#genre#
-周星驰电影,https://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_2000.m3u8
-周润发电影,http://tx.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
-刘德华电影,http://tx.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_2000.m3u8
-甄子丹电影,http://tx.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1_2000.m3u8
-李连杰电影,https://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_2000.m3u8
-少年包青天,https://aldirect.hls.huya.com/backsrc/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1_1200.m3u8?wsSecret=85e08f588608cb08e381a6bd098be225&wsTime=5e197fd2
-神探狄仁杰,https://aldirect.hls.huya.com/huyalive/28466698-2689651522-11551965324626624512-2847699166-10057-A-0-1_1200.m3u8?wsSecret=6fed814fabf8044587bcd9188a4a5131&wsTime=5e197f82
-洪金宝电影,https://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_2000.m3u8
-林正英电影,http://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_2000.m3u8#https://aldirect.hls.huya.com/backsrc/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_2500.m3u8?wsSecret=cef4bf83f55c3b2a3901340c8230bb7d&wsTime=5e466e11
-五福星电影,https://aldirect.hls.huya.com/backsrc/29169025-2686220040-11537227221659811840-2713685416-10057-A-0-1_1200.m3u8?wsSecret=daf4d66feacc8824e14730cf154c0010&wsTime=5e198092
-开心鬼电影,https://aldirect.hls.huya.com/huyalive/1448686638-1448686638-6222061732362190848-2789253842-10057-A-0-1_1200.m3u8?wsSecret=8d58e6ecb28a359a1a348081916802ed&wsTime=5e19821d
-迪迦奥特曼,https://aldirect.hls.huya.com/huyalive/29106097-2689405806-11550909982442520576-3048959658-10057-A-1525400208-1_1200.m3u8?wsSecret=2f198402f6b4086fbaa458f36b95c914&wsTime=5e19f14f
-名侦探柯南,https://tx.hls.huya.com/huyalive/29106097-2689279974-11550369538117730304-2777027112-10057-A-0-1_1200.m3u8
-射雕英雄传,https://aldirect.hls.huya.com/backsrc/29106097-2689451738-11551107258880360448-2789274592-10057-A-0-1_1200.m3u8?wsSecret=2616b8e71e03ae16ec80e47103bd2b46&wsTime=5e42de4b
-倚天屠龙记,https://tx.hls.huya.com/src/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_2500.m3u8?wsSecret=c075492b91917d4fbc82d05bf195ee8f&wsTime=5e47bd2f#https://aldirect.hls.huya.com/huyalive/28466698-2689664106-11552019372495077376-3049003110-10057-A-0-1_2500.m3u8?wsSecret=e6f8174dae76fb2c5f93ca2bc3bf4bf3&wsTime=5e47bbe4
-成龙历险记,https://aldirect.hls.huya.com/backsrc/29169025-2686220626-11537229738510647296-2847699128-10057-A-0-1_1200.m3u8?wsSecret=ffeb18bfd43bfee21c46088a139977e3&wsTime=5e42dd24#https://aldirect.hls.huya.com/backsrc/29169025-2686220626-11537229738510647296-2847699128-10057-A-0-1_1200.m3u8?wsSecret=5dfacaa8b6bf20a77dc768dca010981f&wsTime=5e42ddd8
-沈腾电影,https://aldirect.hls.huya.com/backsrc/29141112-2689675756-11552069408864075776-3048959626-10057-A-0-1_2500.m3u8?wsSecret=f5e3bb837cd850d98c3027f382826bb2&wsTime=5e47bc89
-漫威电影,https://aldirect.hls.huya.com/huyalive/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1_2500.m3u8?wsSecret=2ce09026b860743aebe2ed2f99ef5c6b&wsTime=5e47bd96#https://aldirect.hls.huya.com/backsrc/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_2500.m3u8?wsSecret=119c75fcb2146d0f40060fdf5835fdf2&wsTime=5e47bb34
-最佳拍挡,https://aldirect.hls.huya.com/huyalive/1448738224-1448738224-6222283292545122304-2789253866-10057-A-0-1_1200.m3u8?wsSecret=7340787aa58f6ee8e9e388e310da92fa&wsTime=5e42d97f#https://aldirect.hls.huya.com/huyalive/1448738224-1448738224-6222283292545122304-2789253866-10057-A-0-1_1200.m3u8?wsSecret=37d589010afe575ce3400c521536004a&wsTime=5e42d675
-天龙八部,https://js.hls.huya.com/huyalive/30765679-2475713428-10633108207528050688-3048991608-10057-A-0-1_1200.m3u8?wsSecret=0b59dbea919a8dd0ffbcce371a467a56&wsTime=5e19f08a
-成龙电影,https://aldirect.hls.huya.com/backsrc/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8?wsSecret=840ea024808111a1949f9786706d7ab9&wsTime=5e197f4d
-搞笑港片,https://aldirect.hls.huya.com/backsrc/30765679-2480413542-10653295043445522432-3048959596-10057-A-0-1_1200.m3u8?wsSecret=7aacb1969321a2c989947e46024de32b&wsTime=5e198026
-金庸武侠,https://aldirect.hls.huya.com/huyalive/29359996-2689645314-11551938661469650944-2847687586-10057-A-0-1_2000.m3u8
-神雕侠侣,https://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_2000.m3u8
-黑帮大片,https://js.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1_2500.m3u8?wsSecret=f30abe2ee105db609fd9ae440d8c29f7&wsTime=5e47bac4
-魔幻手机,https://aldirect.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1_2500.m3u8?wsSecret=954e9349399348afceef6957bf58a697&wsTime=5e47bcca
-西游记,http://aldirect.hls.huya.com/backsrc/29141112-2689673336-11552059015043219456-3048991588-10057-A-0-1_2000.m3u8
-纪晓岚,http://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1500.m3u8#https://aldirect.hls.huya.com/backsrc/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8?wsSecret=afe7714978d0a4b54c69f32a74326ae7&wsTime=5e42dd60
-鹿鼎记,https://aldirect.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_1200.m3u8?wsSecret=da648fd151102d2b4eea11f1936b4e68&wsTime=5e19f216#https://aldirect.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_2000.m3u8
-康熙记,https://aldirect.hls.huya.com/huyalive/29169025-2686221704-11537234368485392384-2789274536-10057-A-0-1_1200.m3u8?wsSecret=4e2066c9eb5e76bdedfc773a91768e52&wsTime=5e19f0cd
-吴京,https://aldirect.hls.huya.com/backsrc/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8?wsSecret=7db41112fc61b4322cba493f62169b46&wsTime=5e42d4b8
-雪豹,https://aldirect.hls.huya.com/huyalive/29169025-2686221276-11537232530239389696-2777027178-10057-A-0-1_1200.m3u8
-女神,https://aldirect.hls.huya.com/backsrc/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8?wsSecret=d9fd1eabe18489c7e6884944463272d8&wsTime=5e42dc9f
-亮剑,https://js.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8
+鹿鼎记,https://aldirect.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_2500.m3u8?wsSecret=e206e421effd868a68ff9a83c6bd30d3&wsTime=5e5ce997
+成龙电影,https://aldirect.hls.huya.com/backsrc/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_2500.m3u8?wsSecret=e7639e9ec3b9466982cb906fe26e3520&wsTime=5e5ce66b
+吴京电影,https://aldirect.hls.huya.com/backsrc/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_2500.m3u8?wsSecret=060c301672d828e15e90bcc4278d4d44&wsTime=5e5ce9d9
+沈腾电影,https://aldirect.hls.huya.com/backsrc/29141112-2689675756-11552069408864075776-3048959626-10057-A-0-1_2500.m3u8?wsSecret=8f117452a7f8243e0115a070e2641ad1&wsTime=5e5ce78a
+搞笑港片,https://aldirect.hls.huya.com/backsrc/30765679-2480413542-10653295043445522432-3048959596-10057-A-0-1_2500.m3u8?wsSecret=8c482a88e091f5e7d729f19601ed5584&wsTime=5e5ce86f
+天龙八部,https://js.hls.huya.com/huyalive/30765679-2475713428-10633108207528050688-3048991608-10057-A-0-1_2500.m3u8?wsSecret=1175631b291e5095e9c66a9ce58fb3cd&wsTime=5e5cea37
+惊悚大片,https://aldirect.hls.huya.com/backsrc/29106097-2689447600-11551089486305689600-2789274568-10057-A-0-1_2500.m3u8?wsSecret=c8eae112c21d42b61e63c2112b8bed15&wsTime=5e5cea56
+漫威电影,https://aldirect.hls.huya.com/backsrc/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_2500.m3u8?wsSecret=7fe6ca6e55be3c02368ef6175907e364&wsTime=5e5ce8a9#https://aldirect.hls.huya.com/huyalive/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1_2500.m3u8?wsSecret=50b120fbe9a90802c381fa547f2476f5&wsTime=5e5ceb3d
+女神电影,https://aldirect.hls.huya.com/backsrc/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_2500.m3u8?wsSecret=2224e6a8ee468ce8de414a76a950791e&wsTime=5e5ce8d9
+怀念金庸,https://aldirect.hls.huya.com/huyalive/29359996-2689645314-11551938661469650944-2847687586-10057-A-0-1_2500.m3u8?wsSecret=67ff11c5fbeb53fcf924dc1c8ece5f93&wsTime=5e5ceb01
+周星驰电影,https://bd.hls.huya.com/src/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_2500.m3u8?wsSecret=e30da3602a71ca79ecaa50dc9324a286&wsTime=5e5ce5a5
+甄子丹电影,https://aldirect.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1_2500.m3u8?wsSecret=2c8001a04b255e457e59211eda9097ee&wsTime=5e5ceb74
+林正英电影,https://aldirect.hls.huya.com/backsrc/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_2500.m3u8?wsSecret=b7c26d82c437081cf627014caf8d43c9&wsTime=5e5ce615
+李连杰电影,https://bd.hls.huya.com/src/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_2500.m3u8?wsSecret=a14a91f700a4cad21b141cea383c88d5&wsTime=5e5ce70b
+洪金宝电影,https://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_2500.m3u8?wsSecret=ee4713607a1c7c5038bba449816741f0&wsTime=5e5cecd2
+速度与激情,https://aldirect.hls.huya.com/huyalive/29359996-2689642844-11551928052900429824-2847699142-10057-A-0-1_2500.m3u8?wsSecret=3d18f4cdbb6e6d124c14076fc9b628a2&wsTime=5e5ce6c4
+神探狄仁杰,https://aldirect.hls.huya.com/huyalive/28466698-2689651522-11551965324626624512-2847699166-10057-A-0-1_2500.m3u8?wsSecret=5e484a285b8a3e414803d02d79a5f56d&wsTime=5e5ce905
+雪豹电视剧,https://aldirect.hls.huya.com/backsrc/29169025-2686221276-11537232530239389696-2777027178-10057-A-0-1_2500.m3u8?wsSecret=a8834dc60fbb6046c300f952d06d9548&wsTime=5e5ce7e7
+少年包青天,https://aldirect.hls.huya.com/backsrc/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1_2500.m3u8?wsSecret=2eb071b56ed208b50ee471b3d2efd486&wsTime=5e5ce7b3
+迪迦奥特曼,https://aldirect.hls.huya.com/huyalive/29106097-2689405806-11550909982442520576-3048959658-10057-A-1525400208-1_2500.m3u8?wsSecret=d76fd1a99ace7b623418f7efaa52f4c4&wsTime=5e5ce9cc
+五福星电影,https://aldirect.hls.huya.com/backsrc/29169025-2686220040-11537227221659811840-2713685416-10057-A-0-1_2500.m3u8?wsSecret=520c87944c82f689f808dc9692700a42&wsTime=5e5cea7c
+倚天屠龙记,https://tx.hls.huya.com/src/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_2500.m3u8?wsSecret=cb3f11da315943288bbabf1bb09e2586&wsTime=5e5ceabf
+黑帮大片电影,https://js.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1_2500.m3u8?wsSecret=63d6c03aa1f3d44a4239bf29801a3e64&wsTime=5e5ce738
+铁齿铜牙纪晓岚,https://aldirect.hls.huya.com/backsrc/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_2500.m3u8?wsSecret=9983019047d7ffd7cd702a2e1f24b56c&wsTime=5e5ce643
+康熙微服私访记,https://aldirect.hls.huya.com/huyalive/29169025-2686221704-11537234368485392384-2789274536-10057-A-0-1_2500.m3u8?wsSecret=46a3ca6290da4e484552aba1534b0b87&wsTime=5e5ce92b
 NewTV,#genre#
 NewTV古装剧场,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226323/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226300/1.m3u8
 NewTV动作电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225915/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226288/1.m3u8
@@ -329,6 +320,48 @@ Newtv黑莓电影,http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8#http://
 Newtv黑莓动画,http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225878/1.m3u8
 Newtv黑莓电竞,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225931/1.m3u8
 嗨曲,#genre#
+车舞 - 泰国波动比基尼美女,https://mrw.so/4YfTFh?dsjtv.com/hw/20200205.mp4
+车舞 - 泰国超甜美丽模特,https://mrw.so/5kKkJw?dsjtv.com/hw/20200205.mp4
+车舞 - 泰国跳舞家族聚会,https://mrw.so/5de7Gh?dsjtv.com/hw/20200205.mp4
+车舞 - 黑色比基尼,https://mrw.so/4QK9fQ?dsjtv.com/hw/20200205.mp4
+车舞 - 泰国比基尼舞蹈,https://mrw.so/4BHJ6W?dsjtv.com/hw/20200205.mp4
+车舞 - 泰国迷你直通车,https://mrw.so/5sgxQ9?dsjtv.com/hw/20200205.mp4
+车舞 - 泰国三美女比基尼,https://mrw.so/5sgxCB?dsjtv.com/hw/20200205.mp4
+车舞 - 泰国郊郎蓝色比基尼美女,https://mrw.so/5kKkOQ?dsjtv.com/hw/20200205.mp4
+夜店 - 兔宝派对,https://mrw.so/4JdWtH?dsjtv.com/hw/20200205.mp4
+夜店 - 晃动派对,https://mrw.so/4JdWul?dsjtv.com/hw/20200205.mp4
+夜店 - 极乐之地,https://mrw.so/4QK700?dsjtv.com/hw/20200205.mp4
+夜店 - 迷幻派对,https://mrw.so/4YfU2P?dsjtv.com/hw/20200205.mp4
+夜店 - 热舞派对,https://mrw.so/5de7Ob?dsjtv.com/hw/20200205.mp4
+夜店 - 自由摇摆,https://mrw.so/4nlgLE?dsjtv.com/hw/20200205.mp4
+夜店 - 比基尼派对,https://mrw.so/4QK72K?dsjtv.com/hw/20200205.mp4
+夜店 - 调情俱乐部,https://mrw.so/5kKkUE?dsjtv.com/hw/20200205.mp4
+夜店 - 尬舞俱乐部,https://mrw.so/55HULK?dsjtv.com/hw/20200205.mp4
+夜店 - 慕尼黑聚会,https://mrw.so/4YfTSl?dsjtv.com/hw/20200205.mp4
+夜店 - 两姐妹领舞,https://mrw.so/4ubwsx?dsjtv.com/hw/20200205.mp4
+夜店 - 俱乐部的一天,https://mrw.so/55HUOa?dsjtv.com/hw/20200205.mp4
+夜店 - 狂野的俱乐部,https://mrw.so/4JdWlN?dsjtv.com/hw/20200205.mp4
+派对 - 活在黑夜里,https://mrw.so/5sgy3n?dsjtv.com/hw/20200205.mp4
+派对 - 麦王滑板车,https://mrw.so/5kKkZk?dsjtv.com/hw/20200205.mp4
+派对 - 我们如何聚会,https://mrw.so/4ubwut?dsjtv.com/hw/20200205.mp4
+派对 - 迈阿密音乐节克鲁斯,https://mrw.so/4JdWq9?dsjtv.com/hw/20200205.mp4
+电音 - 又一次,https://mrw.so/5de7Xn?dsjtv.com/hw/20200205.mp4
+电音 - 说再见,https://mrw.so/5kKl3c?dsjtv.com/hw/20200205.mp4
+电音 - 梦的海洋,https://mrw.so/4nlgHW?dsjtv.com/hw/20200205.mp4
+电音 - 樱桃多汁,https://mrw.so/4YfTZV?dsjtv.com/hw/20200205.mp4
+电音 - 沙漠之魂,https://mrw.so/4BHJFM?dsjtv.com/hw/20200205.mp4
+电音 - 独自生活,https://mrw.so/4BHJIm?dsjtv.com/hw/20200205.mp4
+电音 - 简单快乐,https://mrw.so/5sgyb7?dsjtv.com/hw/20200205.mp4
+电音 - 做我的爱人,https://mrw.so/5kKl8w?dsjtv.com/hw/20200205.mp4
+电音 - 最好的一面,https://mrw.so/4ubwDZ?dsjtv.com/hw/20200205.mp4
+电音 - 迪斯科舞曲,https://mrw.so/4QK7jc?dsjtv.com/hw/20200205.mp4
+电音 - 美女沙滩大海,https://mrw.so/4JdUdn?dsjtv.com/hw/20200205.mp4
+电音 - 永远在你身边,https://mrw.so/4YfU6n?dsjtv.com/hw/20200205.mp4
+舞曲 - 给我希望,https://mrw.so/4JdUeZ?dsjtv.com/hw/20200205.mp4
+舞曲 - 大家都跳舞,https://mrw.so/4QK742?dsjtv.com/hw/20200205.mp4
+舞蹈 - 极速鬼步舞,https://mrw.so/4QK768?dsjtv.com/hw/20200205.mp4
+舞蹈 - 再一次鬼步舞,https://mrw.so/5kKle0?dsjtv.com/hw/20200205.mp4
+舞蹈 - 风靡一时的鬼步舞,https://mrw.so/4QK77A?dsjtv.com/hw/20200205.mp4
 混音 Ⅰ 美丽的人说,http://www.zuori.cc/index/downloads?d=43165&v=6lD80AFR
 泰国 Ⅰ 黑色比基尼,http://www.zuori.cc/index/downloads?d=43165&v=Vv5vUlsM
 夜店 Ⅰ 调情俱乐部,http://www.zuori.cc/index/downloads?d=43165&v=acPB0w06
@@ -438,5 +471,6 @@ HOT星颜,P2p://51.79.41.138:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts
 18禁 Ⅰ 3P插到潮喷,https://qqc1107.phpdaniu.com/japan/20191013/lcMXHzfW/500kb/hls/index.m3u8
 18禁 Ⅰ 美穴欣赏【叶山瞳】,https://qqc1107.phpdaniu.com/japan/20191013/EMDCPRKl/index.m3u8
 18禁 Ⅰ 美穴欣赏【麻生希】,https://qqc1107.phpdaniu.com/japan/20191013/VBDebMeI/500kb/hls/index.m3u8
-种鬼•未删减,https://mrw.so/4uaPQB?http://dsjtv.com/20200205.flv
-奉旨勾女,https://mrw.so/5sggR5?http://dsjtv.com/20200205.flv
+香港 ◆ 正牌韦小宝之奉旨勾女,https://www.zuori.cc/index/downloads?d=43165&v=iBWoFndA
+香港 ◆ 种鬼 未删减 ,https://www.zuori.cc/index/downloads?d=43165&v=LYkI9MXR
+香港 ◆ 香港第一凶宅 ,https://www.zuori.cc/index/downloads?d=43165&v=QIqRk5ev
