@@ -154,16 +154,16 @@ $c_start地方频道$c_end
 陕西 Ⅰ 西安影视台,http://stream2.xiancity.cn/xatv4/sd/live.m3u8
 陕西 Ⅰ 西安丝路台,http://stream2.xiancity.cn/xatv5/sd/live.m3u8
 $c_start港台娱乐$c_end
+公视,vjms://58.215.133.185:8500:3502/live/cid=236#vjms://23.237.33.155:8500:3502/live/cid=236#P2p://51.79.41.138:18912/5b14094a0002d1d117d1e518204a1cf0.ts
+民视,P2p://51.79.41.138:18912/5b14095f00097ec617d238d6575b7b8c
+民视,P2p://190.2.146.92:18912/5c72483f0003db4b1d51bcf349367c26.ts#vjms://23.237.33.155:8500:3502/live/cid=226#mitv://fccsovh.pvbox.live:18912/5c72483f0003db4b1d51bcf349367c26
+中视,P2p://190.2.146.92:18912/5c72484b000b1d091d51edb7087b7686.ts#vjms://23.237.33.155:8500:3502/live/cid=452
 TVB J2,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 TVB明珠台,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts#vjms://23.237.33.155:8500:3502/live/cid=367
 TVB翡翠台,vjms://23.237.33.155:8500:3502/live/cid=362#p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts#http://m.567it.com/jade.m3u8
 TVBS欢乐台,p2p://51.79.41.138:18912/5c72488a000a56b71d52e3a07060345e.ts#P2p://190.2.146.92:18912/5c72488a000a56b71d52e3a07060345e.ts#vjms://23.237.33.155:8500:3502/live/cid=438#rtmp://59.124.75.137/sat/tv421
 TVBS精采台,p8p://0198.02686.cc:16871/5d1a69ab0004fab811bdba5fa309b278.ts#P2p://190.2.146.92:18912/5bdbf3b20000e966d2177540400d0818.ts
 中视经典,P2p://51.79.41.138:18912/5b140a14000a368c17d4fc0d0e2537ba.ts
-公视,vjms://58.215.133.185:8500:3502/live/cid=236#vjms://23.237.33.155:8500:3502/live/cid=236#P2p://51.79.41.138:18912/5b14094a0002d1d117d1e518204a1cf0.ts
-民视,P2p://51.79.41.138:18912/5b14095f00097ec617d238d6575b7b8c
-民视,P2p://190.2.146.92:18912/5c72483f0003db4b1d51bcf349367c26.ts#vjms://23.237.33.155:8500:3502/live/cid=226#mitv://fccsovh.pvbox.live:18912/5c72483f0003db4b1d51bcf349367c26
-中视,P2p://190.2.146.92:18912/5c72484b000b1d091d51edb7087b7686.ts#vjms://23.237.33.155:8500:3502/live/cid=452
 三立都会,vjms://58.215.133.185:8500:3502/live/cid=226
 三立台湾,p8p://0198.02686.cc:16871/5d1a69ae00025bef11bdc56ba098b443.ts
 八大综合,http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
@@ -208,7 +208,6 @@ TV5MONDE,vjms://58.215.133.185:8500:3502/live/cid=396#vjms://23.237.33.155:8500:
 StarWorld,p8p://0198.02686.cc:16871/5d1a69aa0008eaab11bdb77907881e7a.ts
 CHANNEL[V],rtmp://58.200.131.2:1935/livetv/channelv
 峨眉电影,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-DOXTV,https://pull.scphsd.com/live/3994b62ffdcc450a8034b03729b723a8.flv
 凤凰卫视中文,https://pull.scphsd.com/live/3f00775a3581449c852c42dcbce8dbdf.flv
 凤凰卫视资讯,https://pull.scphsd.com/live/257536cb64e448738088e3650e816214.flv
 TVB星河,https://pull.scphsd.com/live/6af38e15e0fc48708e6289e1417838aa.flv
