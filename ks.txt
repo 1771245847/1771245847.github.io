@@ -324,7 +324,7 @@ FTV,vjms://58.215.133.185:8500:3502/live/cid=399
 Fashion,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 TV5MONDE,vjms://58.215.133.185:8500:3502/live/cid=396#vjms://23.237.33.155:8500:3502/live/cid=396
 StarWorld,p8p://0198.02686.cc:16871/5d1a69aa0008eaab11bdb77907881e7a.ts
-CHANNEL[V],rtmp://58.200.131.2:1935/livetv/channelv
+CHANNEL[V],rtmp://58.200.131.2:1935/livetv/channelv#http://iptv.pdsu.edu.cn/hls/channelv.m3u8
 凤凰卫视HD,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 凤凰咨询HD,http://112.5.223.10:80/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8?icpid=88888888&from=99&ocs=2_112.5.223.46_80&popid=99&hms_devid=83&prioritypopid=99
 日本Japanet Channel DX,http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
@@ -354,8 +354,6 @@ TVBS新闻台1,rtmp://59.124.75.156/sat/tv551#rtmp://59.124.75.156/sat/tv552#rtm
 翡翠台,http://hdl0901.plures.net/onlive/a195f07a-caa-4c4d-930a-1156e791abc.flv
 无线J2台,http://hdl0901.plures.net/onlive/a195f07a-caa-4c4d-930a-1156e791bcd1.flv
 明珠台,http://hdl0901.plures.net/onlive/a195f07a-caa-4c4d-930a-1156e791cde12.flv
-nowTV爆谷台,http://47.91.200.241/iptv/mudu.php?id=279140
-now劇集台,http://47.91.200.241/iptv/mudu.php?id=289089
 有线新闻,http://wsvpull.utoooo.com/live/1bf03a5b29b115fc17116c892.flv
 无线新闻,http://wsvpull.utoooo.com/live/31b7621f5122a3ca71b2c91a0.flv
 翡翠台,http://wsvpull.utoooo.com/live/a88dc8b780bd91btbcg3d9c9e.flv
@@ -398,7 +396,6 @@ TVB无线新闻,https://app.kds.tw/live/tvb1.php?id=inews&u=97058412
 NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 俄罗斯音乐台,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
 SPORTS,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-[V]现场,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 新闻综合,http://nas.330421.cn:8000/iptv/kankan/?id=xwzh
 纪实人文,http://nas.330421.cn:8000/iptv/kankan/?id=jspd
 都市频道,http://nas.330421.cn:8000/iptv/kankan/?id=dspd
@@ -472,7 +469,7 @@ CN卡通,vjms://121.14.222.75:8500:3502/live/cid=422#http://pili-live-hdl.qhmywl
 东森幼幼,vjms://121.14.222.75:8500:3502/live/cid=344#p8p://0198.02686.cc:16871/5d416a580007131b7660d3322e8b0a5f.ts#vjms://23.237.33.155:8500:3502/live/cid=344
 BabyFirst,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8#http://61.58.60.230:9319/live/207.m3u8
-特色直播,#genre#
+景区直播,#genre#
 中央电视台中塔西,https://gccncc.v.wscdns.com/gc/ztx_1/index.m3u8?contentid=2820180516001
 中央电视台中塔东,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
 中央电视台中塔南,https://gccncc.v.wscdns.com/gc/ztn_1/index.m3u8?contentid=2820180516001
@@ -609,6 +606,48 @@ Newtv黑莓电竞,http://111.40.205.87/PLTV/88888888/224/3221225675/index.m3u8
 第45集,http://cn1.kankia.com/hls/20191220/c046cf9b2ab8e24014fb66256c8a1486/1576775998/index.m3u8
 第46集,http://cn1.kankia.com/hls/20191220/596ff11e1db2c3969da01367fc41d3b0/1576776716/index.m3u8
 嗨曲,#genre#
+车舞 - 泰国波动比基尼美女,https://mrw.so/4YfTFh?dsjtv.com/hw/20200205.mp4
+车舞 - 泰国超甜美丽模特,https://mrw.so/5kKkJw?dsjtv.com/hw/20200205.mp4
+车舞 - 泰国跳舞家族聚会,https://mrw.so/5de7Gh?dsjtv.com/hw/20200205.mp4
+车舞 - 黑色比基尼,https://mrw.so/4QK9fQ?dsjtv.com/hw/20200205.mp4
+车舞 - 泰国比基尼舞蹈,https://mrw.so/4BHJ6W?dsjtv.com/hw/20200205.mp4
+车舞 - 泰国迷你直通车,https://mrw.so/5sgxQ9?dsjtv.com/hw/20200205.mp4
+车舞 - 泰国三美女比基尼,https://mrw.so/5sgxCB?dsjtv.com/hw/20200205.mp4
+车舞 - 泰国郊郎蓝色比基尼美女,https://mrw.so/5kKkOQ?dsjtv.com/hw/20200205.mp4
+夜店 - 兔宝派对,https://mrw.so/4JdWtH?dsjtv.com/hw/20200205.mp4
+夜店 - 晃动派对,https://mrw.so/4JdWul?dsjtv.com/hw/20200205.mp4
+夜店 - 极乐之地,https://mrw.so/4QK700?dsjtv.com/hw/20200205.mp4
+夜店 - 迷幻派对,https://mrw.so/4YfU2P?dsjtv.com/hw/20200205.mp4
+夜店 - 热舞派对,https://mrw.so/5de7Ob?dsjtv.com/hw/20200205.mp4
+夜店 - 自由摇摆,https://mrw.so/4nlgLE?dsjtv.com/hw/20200205.mp4
+夜店 - 比基尼派对,https://mrw.so/4QK72K?dsjtv.com/hw/20200205.mp4
+夜店 - 调情俱乐部,https://mrw.so/5kKkUE?dsjtv.com/hw/20200205.mp4
+夜店 - 尬舞俱乐部,https://mrw.so/55HULK?dsjtv.com/hw/20200205.mp4
+夜店 - 慕尼黑聚会,https://mrw.so/4YfTSl?dsjtv.com/hw/20200205.mp4
+夜店 - 两姐妹领舞,https://mrw.so/4ubwsx?dsjtv.com/hw/20200205.mp4
+夜店 - 俱乐部的一天,https://mrw.so/55HUOa?dsjtv.com/hw/20200205.mp4
+夜店 - 狂野的俱乐部,https://mrw.so/4JdWlN?dsjtv.com/hw/20200205.mp4
+派对 - 活在黑夜里,https://mrw.so/5sgy3n?dsjtv.com/hw/20200205.mp4
+派对 - 麦王滑板车,https://mrw.so/5kKkZk?dsjtv.com/hw/20200205.mp4
+派对 - 我们如何聚会,https://mrw.so/4ubwut?dsjtv.com/hw/20200205.mp4
+派对 - 迈阿密音乐节克鲁斯,https://mrw.so/4JdWq9?dsjtv.com/hw/20200205.mp4
+电音 - 又一次,https://mrw.so/5de7Xn?dsjtv.com/hw/20200205.mp4
+电音 - 说再见,https://mrw.so/5kKl3c?dsjtv.com/hw/20200205.mp4
+电音 - 梦的海洋,https://mrw.so/4nlgHW?dsjtv.com/hw/20200205.mp4
+电音 - 樱桃多汁,https://mrw.so/4YfTZV?dsjtv.com/hw/20200205.mp4
+电音 - 沙漠之魂,https://mrw.so/4BHJFM?dsjtv.com/hw/20200205.mp4
+电音 - 独自生活,https://mrw.so/4BHJIm?dsjtv.com/hw/20200205.mp4
+电音 - 简单快乐,https://mrw.so/5sgyb7?dsjtv.com/hw/20200205.mp4
+电音 - 做我的爱人,https://mrw.so/5kKl8w?dsjtv.com/hw/20200205.mp4
+电音 - 最好的一面,https://mrw.so/4ubwDZ?dsjtv.com/hw/20200205.mp4
+电音 - 迪斯科舞曲,https://mrw.so/4QK7jc?dsjtv.com/hw/20200205.mp4
+电音 - 美女沙滩大海,https://mrw.so/4JdUdn?dsjtv.com/hw/20200205.mp4
+电音 - 永远在你身边,https://mrw.so/4YfU6n?dsjtv.com/hw/20200205.mp4
+舞曲 - 给我希望,https://mrw.so/4JdUeZ?dsjtv.com/hw/20200205.mp4
+舞曲 - 大家都跳舞,https://mrw.so/4QK742?dsjtv.com/hw/20200205.mp4
+舞蹈 - 极速鬼步舞,https://mrw.so/4QK768?dsjtv.com/hw/20200205.mp4
+舞蹈 - 再一次鬼步舞,https://mrw.so/5kKle0?dsjtv.com/hw/20200205.mp4
+舞蹈 - 风靡一时的鬼步舞,https://mrw.so/4QK77A?dsjtv.com/hw/20200205.mp4
 混音 Ⅰ 美丽的人说,http://www.zuori.cc/index/downloads?d=43165&v=6lD80AFR
 泰国 Ⅰ 黑色比基尼,http://www.zuori.cc/index/downloads?d=43165&v=Vv5vUlsM
 夜店 Ⅰ 调情俱乐部,http://www.zuori.cc/index/downloads?d=43165&v=acPB0w06
@@ -778,4 +817,8 @@ XX_0212,#genre#
 高清无码28,https://www.800-cdn.com/20191024/nP15lEjD/index.m3u8
 高清无码29,https://www.800-cdn.com/20191024/y2HqkX9g/index.m3u8
 高清无码30,https://www.800-cdn.com/20191024/TpNs2GDB/index.m3u8
+香港 ◆ 正牌韦小宝之奉旨勾女,https://www.zuori.cc/index/downloads?d=43165&v=iBWoFndA
+香港 ◆ 种鬼 未删减,https://www.zuori.cc/index/downloads?d=43165&v=LYkI9MXR
+香港 ◆ 飞侠小白龙,https://www.zuori.cc/index/downloads?d=43165&v=3KBw5jrO
+香港 ◆ 香港第一凶宅 ,https://www.zuori.cc/index/downloads?d=43165&v=QIqRk5ev
 
