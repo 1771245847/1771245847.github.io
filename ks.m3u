@@ -622,7 +622,9 @@ http://47.240.60.73/migu.php?id=627198692
 #EXTINF:-1 group-title="综合娱乐",经典频道
 http://47.240.60.73/migu.php?id=625542369
 #EXTINF:-1 group-title="综合娱乐",精品剧场
-http://47.240.60.73/migu.php?id=615810094#http://47.240.60.73/migu.php?id=615810094
+http://47.240.60.73/migu.php?id=615810094
+#EXTINF:-1 group-title="综合娱乐",精品剧场2
+http://47.240.60.73/migu.php?id=615810094
 #EXTINF:-1 group-title="综合娱乐",四大名著剧场
 http://47.240.60.73/migu.php?id=625498432
 #EXTINF:-1 group-title="综合娱乐",东方电影高清
@@ -636,11 +638,79 @@ http://47.240.60.73/migu.php?id=625521420
 #EXTINF:-1 group-title="综合娱乐",金庸频道
 http://47.240.60.73/migu.php?id=625774640
 #EXTINF:-1 group-title="综合娱乐",CIBN电影频道
-http://47.240.60.73/migu.php?id=630518326#http://47.240.60.73/migu.php?id=630518326
+http://47.240.60.73/migu.php?id=630518326
+#EXTINF:-1 group-title="综合娱乐",CIBN电影频道2
+http://47.240.60.73/migu.php?id=630518326
 #EXTINF:-1 group-title="综合娱乐",CIBN喜剧影院
-http://47.240.60.73/migu.php?id=609154087#http://47.240.60.73/migu.php?id=609154087
+http://47.240.60.73/migu.php?id=609154087
+#EXTINF:-1 group-title="综合娱乐",CIBN喜剧影院2
+http://47.240.60.73/migu.php?id=609154087
 #EXTINF:-1 group-title="综合娱乐",CIBN经典剧场
-http://47.240.60.73/migu.php?id=621780899#http://47.240.60.73/migu.php?id=621780899
+http://47.240.60.73/migu.php?id=621780899
+#EXTINF:-1 group-title="综合娱乐",CIBN经典剧场2
+http://47.240.60.73/migu.php?id=621780899
+#EXTINF:-1 group-title="轮播电影",CIBN综合
+http://cibn.peoplevideo.cn/hls/vCIBNXQDPD/1800/vCIBNXQDPD.m3u8?wsSecret=24dfaaac2d26b0cc0ff33bf8a5099384#http://bohi321.hk77.ok188.top/cibn/cibn.php?id=18
+#EXTINF:-1 group-title="轮播电影",CIBN电影
+http://cinb1.peoplevideo.cn/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664#http://bohi321.hk77.ok188.top/cibn/cibn.php?id=2
+#EXTINF:-1 group-title="轮播电影",CIBN嗨播
+http://cinb1.peoplevideo.cn/hls/vCIBNDYDYYPD/1800/vCIBNYYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664#http://bohi321.hk77.ok188.top/cibn/cibn.php?id=31
+#EXTINF:-1 group-title="轮播电影",CIBN军事
+http://cinb1.peoplevideo.cn/hls/vCIBNGZJC/1800/vCIBNGZJC.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664#http://bohi321.hk77.ok188.top/cibn/cibn.php?id=14
+#EXTINF:-1 group-title="轮播电影",CIBN生活
+http://cinb1.peoplevideo.cn/hls/vCIBNGWPD/1800/vCIBNGWPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664#http://bohi321.hk77.ok188.top/cibn/cibn.php?id=5
+#EXTINF:-1 group-title="轮播电影",CIBN怡家
+http://cinb1.peoplevideo.cn/hls/vCIBNJYPD/1800/vCIBNJYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664#http://bohi321.hk77.ok188.top/cibn/cibn.php?id=20
+#EXTINF:-1 group-title="轮播电影",CIBN汽车
+http://cinb1.peoplevideo.cn/hls/vCIBNQCPD/1800/vCIBNQCPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664#http://bohi321.hk77.ok188.top/cibn/cibn.php?id=21
+#EXTINF:-1 group-title="轮播电影",CIBN健康
+http://cibn.peoplevideo.cn/hls/vCIBNJKPD/1800/vCIBNJKPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664#http://bohi321.hk77.ok188.top/cibn/cibn.php?id=24
+#EXTINF:-1 group-title="轮播电影",CIBN新知
+http://cinb1.peoplevideo.cn/hls/vCIBNDYDS/1800/vCIBNDYDS.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664#http://bohi321.hk77.ok188.top/cibn/cibn.php?id=1
+#EXTINF:-1 group-title="轮播电影",CIBN映画
+http://bohi321.hk77.ok188.top/cibn/cibn.php?id=39
+#EXTINF:-1 group-title="轮播电影",CIBN好物
+http://bohi321.hk77.ok188.top/cibn/cibn.php?id=167
+#EXTINF:-1 group-title="轮播电影",CIBN好莱坞
+http://cibn.peoplevideo.cn/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8?wsSecret=771e13c21abf2b58b4c375b614f113f4#http://bohi321.hk77.ok188.top/cibn/cibn.php?id=8
+#EXTINF:-1 group-title="轮播电影",CIBN微电影
+http://cinb1.peoplevideo.cn/hls/vCIBNWDYPD/1800/vCIBNWDYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664#http://bohi321.hk77.ok188.top/cibn/cibn.php?id=25
+#EXTINF:-1 group-title="轮播电影",CIBN汉学院
+http://cinb1.peoplevideo.cn/hls/vCIBNHXYPD/1800/vCIBNHXYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+#EXTINF:-1 group-title="轮播电影",CIBN纪录片
+http://cinb1.peoplevideo.cn/hls/vCIBNJLPD/1800/vCIBNJLPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664#http://bohi321.hk77.ok188.top/cibn/cibn.php?id=22
+#EXTINF:-1 group-title="轮播电影",CIBN真人秀
+http://cibn.peoplevideo.cn/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?wsSecret=b58297c2170067d9164da6f2f86d3059#http://bohi321.hk77.ok188.top/cibn/cibn.php?id=17
+#EXTINF:-1 group-title="轮播电影",CIBN全电竞
+http://bohi321.hk77.ok188.top/cibn/cibn.php?id=194
+#EXTINF:-1 group-title="轮播电影",CIBN院线大片
+http://cibn.peoplevideo.cn/hls/vCIBNHYPD/1800/vCIBNHYPD.m3u8?wsSecret=771e13c21abf2b58b4c375b614f113f4#http://bohi321.hk77.ok188.top/cibn/cibn.php?id=10
+#EXTINF:-1 group-title="轮播电影",CIBN精品影院
+http://cinb1.peoplevideo.cn/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664#http://bohi321.hk77.ok188.top/cibn/cibn.php?id=4
+#EXTINF:-1 group-title="轮播电影",CIBN流金岁月
+http://cibn.peoplevideo.cn/hls/vCIBNSCPD/1800/vCIBNSCPD.m3u8?wsSecret=5f38811d672214110f110816440adbdb
+#EXTINF:-1 group-title="轮播电影",CIBN情感影院
+http://cinb1.peoplevideo.cn/hls/vCIBNQGYY/1800/vCIBNQGYY.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664#http://bohi321.hk77.ok188.top/cibn/cibn.php?id=6
+#EXTINF:-1 group-title="轮播电影",CIBN喜剧影院
+http://cinb1.peoplevideo.cn/hls/vCIBNHSYX/1800/vCIBNHSYX.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664#http://bohi321.hk77.ok188.top/cibn/cibn.php?id=3
+#EXTINF:-1 group-title="轮播电影",CIBN古装剧场
+http://cinb1.peoplevideo.cn/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664#http://bohi321.hk77.ok188.top/cibn/cibn.php?id=26
+#EXTINF:-1 group-title="轮播电影",CIBN骄阳剧场
+http://cinb1.peoplevideo.cn/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664#ttp://bohi321.hk77.ok188.top/cibn/cibn.php?id=13
+#EXTINF:-1 group-title="轮播电影",CIBN炫佳动漫
+http://cinb1.peoplevideo.cn/hls/vCIBNDMPD/1800/vCIBNDMPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664#http://bohi321.hk77.ok188.top/cibn/cibn.php?id=19
+#EXTINF:-1 group-title="轮播电影",CIBN童学世界
+http://cinb1.peoplevideo.cn/hls/vCIBNRBJC/1800/vCIBNRBJC.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664#http://bohi321.hk77.ok188.top/cibn/cibn.php?id=12
+#EXTINF:-1 group-title="轮播电影",CIBN朵丫乐园
+http://cinb1.peoplevideo.cn/hls/vCIBNCWHPD/1800/vCIBNCWHPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664#http://bohi321.hk77.ok188.top/cibn/cibn.php?id=28
+#EXTINF:-1 group-title="轮播电影",CIBN艺术院线
+http://cinb1.peoplevideo.cn/hls/vCIBNTEADJ/1800/vCIBNTEADJ.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664#http://bohi321.hk77.ok188.top/cibn/cibn.php?id=32
+#EXTINF:-1 group-title="轮播电影",CIBN风尚运动
+http://cibn.peoplevideo.cn/hls/vCIBNDSJC/1800/vCIBNDSJC.m3u8?wsSecret=5f38811d672214110f110816440adbdb#http://bohi321.hk77.ok188.top/cibn/cibn.php?id=16
+#EXTINF:-1 group-title="轮播电影",CIBN文旅中国
+http://bohi321.hk77.ok188.top/cibn/cibn.php?id=23
+#EXTINF:-1 group-title="轮播电影",CIBN经典剧场
+http://bohi321.hk77.ok188.top/cibn/cibn.php?id=15
 #EXTINF:-1 group-title="轮播电影",好莱坞片
 http://cibn.peoplevideo.cn/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8?wsSecret=771e13c21abf2b58b4c375b614f113f4
 #EXTINF:-1 group-title="轮播电影",院线大片
@@ -691,6 +761,40 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 #EXTINF:-1 group-title="精彩4K",爱上4K
 http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="NewTV",NewTv-动作电影
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTv-家庭剧场
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTv-中国功夫
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226321/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTv-爱情喜剧
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTv-古装剧场
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226323/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTv-军旅剧场
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226324/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTv-军事评论
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226326/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTv-精品大剧
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
+#EXTINF:-1 group-title="NewTv",NewTV海外剧场
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225917/1.m3u8
+#EXTINF:-1 group-title="NewTv",NewTv-超级综艺
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226127/1.m3u8
+#EXTINF:-1 group-title="NewTv",NewTv-超级电影
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226133/1.m3u8
+#EXTINF:-1 group-title="NewTv",NewTV超级电视剧
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
+#EXTINF:-1 group-title="NewTv",NewTv-超级体育
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226157/1.m3u8
+#EXTINF:-1 group-title="NewTv",Newtv-超级体育
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226158/1.m3u8
+#EXTINF:-1 group-title="NewTv",NewTV超级电视剧
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
+#EXTINF:-1 group-title="NewTv",Newtv黑莓电影
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
+#EXTINF:-1 group-title="NewTv",Newtv黑莓动画
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8
 #EXTINF:-1 group-title="嗨曲",车舞 - 泰国波动比基尼美女
 https://mrw.so/4YfTFh?dsjtv.com/hw/20200205.mp4
 #EXTINF:-1 group-title="嗨曲",车舞 - 泰国超甜美丽模特
