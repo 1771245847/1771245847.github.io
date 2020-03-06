@@ -144,6 +144,10 @@ vjms://58.215.133.185:8500:3502/live/cid=238
 #EXTINF:-1 group-title="港台影视",HBO强档
 vjms://23.237.33.155:8500:3502/live/cid=238
 #EXTINF:-1 group-title="港台影视",东森电影
+http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+#EXTINF:-1 group-title="港台影视",东森电影
+http://192.154.103.75:8080//ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+#EXTINF:-1 group-title="港台影视",东森电影
 tvbus://12E14tpq7uV1zLRdMHFYh3FdyURG5XkWi53smDeAbJcfzxHpgYp
 #EXTINF:-1 group-title="港台影视",东森电影
 p8p://0198.02686.cc:16871/5d1a69af0009735f11bdcb2402d2abda.ts
@@ -372,6 +376,10 @@ vjms://58.215.133.185:8500:3502/live/cid=352
 #EXTINF:-1 group-title="港台新闻",三立新闻
 http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
 #EXTINF:-1 group-title="港台新闻",东森新闻
+http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+#EXTINF:-1 group-title="港台新闻",东森新闻
+http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+#EXTINF:-1 group-title="港台新闻",东森新闻
 vjms://58.215.133.185:8500:3502/live/cid=340
 #EXTINF:-1 group-title="港台新闻",东森新闻
 vjms://23.237.33.155:8500:3502/live/cid=340
@@ -519,6 +527,120 @@ vjms://23.237.33.155:8500:3502/live/cid=396
 p8p://0198.02686.cc:16871/5d1a69aa0008eaab11bdb77907881e7a.ts
 #EXTINF:-1 group-title="综合娱乐",CHANNEL[V]
 rtmp://58.200.131.2:1935/livetv/channelv
+#EXTINF:-1 group-title="综合娱乐",衛視電影台
+http://bakup.cdn.52glb.com/live/tw_weishi_dy.m3u8
+#EXTINF:-1 group-title="综合娱乐",衛視洋片台
+http://bakup.cdn.52glb.com/live/tw_weishi_xp.m3u8
+#EXTINF:-1 group-title="综合娱乐",緯來體育台
+http://bakup.cdn.52glb.com/live/tw_weilaitiyu.m3u8
+#EXTINF:-1 group-title="综合娱乐",緯來電影台
+http://bakup.cdn.52glb.com/live/tw_weilai_dy.m3u8
+#EXTINF:-1 group-title="综合娱乐",緯來日本台
+http://bakup.cdn.52glb.com/live/tw_weilai_rb.m3u8
+#EXTINF:-1 group-title="综合娱乐",壹新聞台
+http://bakup.cdn.52glb.com/live/tw_yixinwen.m3u8
+#EXTINF:-1 group-title="综合娱乐",龍祥時代台
+http://bakup.cdn.52glb.com/live/tw_longxiang_sd.m3u8
+#EXTINF:-1 group-title="综合娱乐",龍華戲劇台
+http://bakup.cdn.52glb.com/live/tw_longhua_xj.m3u8
+#EXTINF:-1 group-title="综合娱乐",龍華洋片台
+http://bakup.cdn.52glb.com/live/tw_longhua_yp.m3u8
+#EXTINF:-1 group-title="综合娱乐",龍華動畫台
+http://bakup.cdn.52glb.com/live/tw_longhua_dh.m3u8
+#EXTINF:-1 group-title="综合娱乐",靖天電影台
+http://bakup.cdn.52glb.com/live/tw_jingtian_dy.m3u8
+#EXTINF:-1 group-title="综合娱乐",中視經典台
+http://bakup.cdn.52glb.com/live/tw_zhongshi_jd.m3u8
+#EXTINF:-1 group-title="综合娱乐",非凡商業台
+http://bakup.cdn.52glb.com/live/tw_feifanshangye.m3u8
+#EXTINF:-1 group-title="综合娱乐",亞洲旅遊台
+http://bakup.cdn.52glb.com/live/tw_yazhou_ly.m3u8
+#EXTINF:-1 group-title="综合娱乐",高點綜合台
+http://bakup.cdn.52glb.com/live/tw_gaodian_zh.m3u8
+#EXTINF:-1 group-title="综合娱乐",美食星球台
+http://bakup.cdn.52glb.com/live/tw_meishi_xq.m3u8
+#EXTINF:-1 group-title="综合娱乐",迪士尼卡通
+http://bakup.cdn.52glb.com/live/tw_dishini_kt.m3u8
+#EXTINF:-1 group-title="综合娱乐",MTV音樂台
+http://bakup.cdn.52glb.com/live/tw_mtv_hd.m3u8
+#EXTINF:-1 group-title="综合娱乐",MTV Live
+http://bakup.cdn.52glb.com/live/tw_mtv_yinyue.m3u8
+#EXTINF:-1 group-title="综合娱乐",boom卡通台
+http://bakup.cdn.52glb.com/live/tw_boom_kt.m3u8
+#EXTINF:-1 group-title="综合娱乐",美亞電影台
+http://bakup.cdn.52glb.com/live/tw_meiya_dy.m3u8
+#EXTINF:-1 group-title="综合娱乐",星空衛視台
+http://bakup.cdn.52glb.com/live/hk_xingkong_ws.m3u8
+#EXTINF:-1 group-title="综合娱乐",星衛電影台
+http://bakup.cdn.52glb.com/live/tw_weixing_dy.m3u8
+#EXTINF:-1 group-title="综合娱乐",星衛娛樂台
+http://bakup.cdn.52glb.com/live/tw_weixing_yl.m3u8
+#EXTINF:-1 group-title="综合娱乐",爱奇谈
+http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="综合娱乐",爱悬念
+http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="综合娱乐",爱经典
+http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="综合娱乐",爱喜剧
+http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="综合娱乐",爱动漫
+http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="综合娱乐",爱美食
+http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="综合娱乐",爱都市
+http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="综合娱乐",爱解密
+http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="综合娱乐",爱江湖
+http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="综合娱乐",爱院线
+http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="综合娱乐",爱浪漫
+http://101.71.255.229:6610/zjhs/2/10115/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="综合娱乐",精品国产剧
+http://47.240.60.73/migu.php?id=625574378
+#EXTINF:-1 group-title="综合娱乐",乡村爱情剧场
+http://47.240.60.73/migu.php?id=625774662
+#EXTINF:-1 group-title="综合娱乐",激情夜场影院
+http://47.240.60.73/migu.php?id=625188208
+#EXTINF:-1 group-title="综合娱乐",红色谍战剧场
+http://47.240.60.73/migu.php?id=634274665
+#EXTINF:-1 group-title="综合娱乐",每日科幻电影
+http://47.240.60.73/migu.php?id=625204865
+#EXTINF:-1 group-title="综合娱乐",周星驰影院
+http://47.240.60.73/migu.php?id=623338112
+#EXTINF:-1 group-title="综合娱乐",追剧少女
+http://47.240.60.73/migu.php?id=617432318
+#EXTINF:-1 group-title="综合娱乐",怀旧老片
+http://47.240.60.73/migu.php?id=621640582
+#EXTINF:-1 group-title="综合娱乐",武侠剧场
+http://47.240.60.73/migu.php?id=627198822
+#EXTINF:-1 group-title="综合娱乐",动漫剧场
+http://47.240.60.73/migu.php?id=627198751
+#EXTINF:-1 group-title="综合娱乐",假期剧场
+http://47.240.60.73/migu.php?id=627198692
+#EXTINF:-1 group-title="综合娱乐",经典频道
+http://47.240.60.73/migu.php?id=625542369
+#EXTINF:-1 group-title="综合娱乐",精品剧场
+http://47.240.60.73/migu.php?id=615810094#http://47.240.60.73/migu.php?id=615810094
+#EXTINF:-1 group-title="综合娱乐",四大名著剧场
+http://47.240.60.73/migu.php?id=625498432
+#EXTINF:-1 group-title="综合娱乐",东方电影高清
+http://47.240.60.73/migu.php?id=623674834
+#EXTINF:-1 group-title="综合娱乐",经典放映厅
+http://47.240.60.73/migu.php?id=626157533
+#EXTINF:-1 group-title="综合娱乐",射雕剧场
+http://47.240.60.73/migu.php?id=625681367
+#EXTINF:-1 group-title="综合娱乐",少年包青天
+http://47.240.60.73/migu.php?id=625521420
+#EXTINF:-1 group-title="综合娱乐",金庸频道
+http://47.240.60.73/migu.php?id=625774640
+#EXTINF:-1 group-title="综合娱乐",CIBN电影频道
+http://47.240.60.73/migu.php?id=630518326#http://47.240.60.73/migu.php?id=630518326
+#EXTINF:-1 group-title="综合娱乐",CIBN喜剧影院
+http://47.240.60.73/migu.php?id=609154087#http://47.240.60.73/migu.php?id=609154087
+#EXTINF:-1 group-title="综合娱乐",CIBN经典剧场
+http://47.240.60.73/migu.php?id=621780899#http://47.240.60.73/migu.php?id=621780899
 #EXTINF:-1 group-title="轮播电影",好莱坞片
 http://cibn.peoplevideo.cn/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8?wsSecret=771e13c21abf2b58b4c375b614f113f4
 #EXTINF:-1 group-title="轮播电影",院线大片
