@@ -204,8 +204,7 @@ $c_start综合娱乐$c_end
 探索频道,rtmp://58.200.131.2:1935/livetv/discovery
 探索亚洲,vjms://58.215.133.185:8500:3502/live/cid=440#vjms://23.237.33.155:8500:3502/live/cid=440
 探索科学,vjms://58.215.133.185:8500:3502/live/cid=457#vjms://23.237.33.155:8500:3502/live/cid=457
-动物星球,vjms://58.215.133.185:8500:3502/live/cid=3
-动物星球,http://cdn.5itv.tv//ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8#p8p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts#vjms://23.237.33.155:8500:3502/live/cid=3
+动物星球,vjms://58.215.133.185:8500:3502/live/cid=3#http://cdn.5itv.tv//ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8#p8p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts#vjms://23.237.33.155:8500:3502/live/cid=3
 TLC旅游生活,vjms://58.215.133.185:8500:3502/live/cid=103#vjms://23.237.33.155:8500:3502/live/cid=103
 亚洲旅游台 HD,p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
 年代MUCH,vjms://58.215.133.185:8500:3502/live/cid=439#vjms://23.237.33.155:8500:3502/live/cid=439
@@ -248,7 +247,7 @@ SPORTS,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 东森新闻,http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 动物星球,http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 WarnerTV,http://104.250.154.42:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
-東森電影,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+東森電影,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8#P2p://sdgdklwos.finetv.tv:9906/59fd0cab0008230a0245f94a229777bd#http://58.99.33.2:1935/liveedge2/jEYEGeIf_62_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 龍祥時代,http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
 好萊塢,http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 FOX電影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
@@ -450,170 +449,10 @@ HBO原创电影,vjms://58.215.133.185:8500:3502/live/cid=436#vjms://58.215.133.1
 动作影院,http://47.240.60.73/Mitv/cibn.php?id=9
 院线大片,http://47.240.60.73/Mitv/cibn.php?id=10
 古装剧场,http://47.240.60.73/Mitv/cibn.php?id=26
+CIBN-电影,http://stream.guihet.com/tv/cibn.php?id=2
 CIBN-喜剧影院,http://stream.guihet.com/tv/cibn.php?id=3
 CIBN-精品影院,http://stream.guihet.com/tv/cibn.php?id=4
 CIBN-电影导视,http://stream.guihet.com/tv/cibn.php?id=1
-CIBN-电影,http://stream.guihet.com/tv/cibn.php?id=2
-东森财经,http://80.245.105.119/live/t6u5b1q4/2f8d3f05/index.m3u8
-东森财经,http://47.91.213.59/live/t6u5b1q4/2f8d3f05/index.m3u8
-东森新闻,http://80.245.105.119/live/kwzq1rse/94zf0c2v/index.m3u8
-东森新闻,http://47.91.213.59/live/kwzq1rse/94zf0c2v/index.m3u8
-东森电影,http://80.245.105.119/live/kwzq1rse/q6t7f6hg/index.m3u8
-东森电影,http://47.91.213.59/live/kwzq1rse/q6t7f6hg/index.m3u8
-东森戏剧,http://80.245.105.119/live/t6u5b1q4/asdfgh02/index.m3u8
-东森戏剧,http://80.245.105.119/live/kwzq1rse/g5n3j8kx/index.m3u8
-东森戏剧,http://47.91.213.59/live/t6u5b1q4/asdfgh02/index.m3u8
-东森戏剧,http://47.91.213.59/live/kwzq1rse/g5n3j8kx/index.m3u8
-东森洋片,http://80.245.105.119/live/kwzq1rse/0kxhqv8q/index.m3u8
-东森洋片,http://47.91.213.59/live/kwzq1rse/0kxhqv8q/index.m3u8
-东森幼幼,http://80.245.105.119/live/t6u5b1q4/qwerty07/index.m3u8
-东森幼幼,http://47.91.213.59/live/t6u5b1q4/qwerty07/index.m3u8
-东森综合,http://80.245.105.119/live/kwzq1rse/chn4krg1/index.m3u8
-东森综合,http://47.91.213.59/live/kwzq1rse/chn4krg1/index.m3u8
-纬来电影,http://80.245.105.119/live/kwzq1rse/q9p24xqk/index.m3u8
-纬来电影,http://47.91.213.59/live/kwzq1rse/q9p24xqk/index.m3u8
-纬来日本,http://80.245.105.119/live/kwzq1rse/5bd6dfb8/index.m3u8
-纬来日本,http://47.91.213.59/live/kwzq1rse/5bd6dfb8/index.m3u8
-纬来精彩,http://80.245.105.119/live/kwzq1rse/vng753nm/index.m3u8
-纬来精彩,http://47.91.213.59/live/kwzq1rse/vng753nm/index.m3u8
-纬来体育,http://80.245.105.119/live/kwzq1rse/spvjqjn9/index.m3u8
-纬来体育,http://47.91.213.59/live/kwzq1rse/spvjqjn9/index.m3u8
-纬来戏剧,http://80.245.105.119/live/kwzq1rse/ncgscv3r/index.m3u8
-纬来戏剧,http://80.245.105.119/live/kwzq1rse/ncgscv3r/index.m3u8
-纬来戏剧,http://47.91.213.59/live/kwzq1rse/ncgscv3r/index.m3u8
-纬来戏剧,http://47.91.213.59/live/kwzq1rse/ncgscv3r/index.m3u8
-纬来育乐,http://80.245.105.119/live/kwzq1rse/vrn5bsmg/index.m3u8
-纬来育乐,http://47.91.213.59/live/kwzq1rse/vrn5bsmg/index.m3u8
-纬来综合,http://80.245.105.119/live/kwzq1rse/3qct536g/index.m3u8
-纬来综合,http://47.91.213.59/live/kwzq1rse/3qct536g/index.m3u8
-壹电视新闻,http://80.245.105.119/live/kwzq1rse/cggmv7m5/index.m3u8
-壹电视新闻,http://47.91.213.59/live/kwzq1rse/cggmv7m5/index.m3u8
-壹电视综合,http://80.245.105.119/live/kwzq1rse/fkb23jwt/index.m3u8
-壹电视综合,http://47.91.213.59/live/kwzq1rse/fkb23jwt/index.m3u8
-寰宇综合,http://80.245.105.119/live/kwzq1rse/29z5n1ms/index.m3u8
-寰宇综合,http://47.91.213.59/live/kwzq1rse/29z5n1ms/index.m3u8
-寰宇财经,http://80.245.105.119/live/kwzq1rse/0q5fr8rh/index.m3u8
-寰宇财经,http://47.91.213.59/live/kwzq1rse/0q5fr8rh/index.m3u8
-寰宇新闻,http://80.245.105.119/live/kwzq1rse/mxrsjhxp/index.m3u8
-寰宇新闻,http://47.91.213.59/live/kwzq1rse/mxrsjhxp/index.m3u8
-寰宇新闻2台,http://80.245.105.119/live/kwzq1rse/84zr1797/index.m3u8
-寰宇新闻2台,http://47.91.213.59/live/kwzq1rse/84zr1797/index.m3u8
-寰宇新闻2台,http://80.245.105.119/live/kwzq1rse/84zr1797/index.m3u8
-寰宇新闻2台,http://47.91.213.59/live/kwzq1rse/84zr1797/index.m3u8
-靖天电影,http://80.245.105.119/live/kwzq1rse/h25ntcr8/index.m3u8
-靖天电影,http://47.91.213.59/live/kwzq1rse/h25ntcr8/index.m3u8
-靖天国际,http://80.245.105.119/live/kwzq1rse/hxrr1s5b/index.m3u8
-靖天国际,http://47.91.213.59/live/kwzq1rse/hxrr1s5b/index.m3u8
-靖天卡通,http://80.245.105.119/live/kwzq1rse/vx4hx0m7/index.m3u8
-靖天卡通,http://47.91.213.59/live/kwzq1rse/vx4hx0m7/index.m3u8
-靖天日本,http://80.245.105.119/live/kwzq1rse/n7s1fwk8/index.m3u8
-靖天日本,http://47.91.213.59/live/kwzq1rse/n7s1fwk8/index.m3u8
-靖天戏剧,http://80.245.105.119/live/kwzq1rse/f97qhzsw/index.m3u8
-靖天戏剧,http://47.91.213.59/live/kwzq1rse/f97qhzsw/index.m3u8
-靖天映画,http://80.245.105.119/live/kwzq1rse/956tfjcf/index.m3u8
-靖天映画,http://47.91.213.59/live/kwzq1rse/956tfjcf/index.m3u8
-靖天育乐,http://80.245.105.119/live/kwzq1rse/fz0wwtjb/index.m3u8
-靖天育乐,http://47.91.213.59/live/kwzq1rse/fz0wwtjb/index.m3u8
-靖洋戏剧,http://80.245.105.119/live/kwzq1rse/fmqkc4bh/index.m3u8
-靖洋戏剧,http://47.91.213.59/live/kwzq1rse/fmqkc4bh/index.m3u8
-龙华动画,http://80.245.105.119/live/kwzq1rse/m59j2zx8/index.m3u8
-龙华动画,http://47.91.213.59/live/kwzq1rse/m59j2zx8/index.m3u8
-龙华经典,http://80.245.105.119/live/kwzq1rse/ggvhjzxt/index.m3u8
-龙华经典,http://47.91.213.59/live/kwzq1rse/ggvhjzxt/index.m3u8
-龙华偶像,http://80.245.105.119/live/kwzq1rse/v43bw7s8/index.m3u8
-龙华偶像,http://47.91.213.59/live/kwzq1rse/v43bw7s8/index.m3u8
-龙华戏剧,http://80.245.105.119/live/kwzq1rse/48g9v95h/index.m3u8
-龙华戏剧,http://47.91.213.59/live/kwzq1rse/48g9v95h/index.m3u8
-龙华洋片,http://80.245.105.119/live/kwzq1rse/gs7wj4b5/index.m3u8
-龙华洋片,http://47.91.213.59/live/kwzq1rse/gs7wj4b5/index.m3u8
-龙华影剧,http://80.245.105.119/live/kwzq1rse/vj16g6fs/index.m3u8
-龙华影剧,http://47.91.213.59/live/kwzq1rse/vj16g6fs/index.m3u8
-龙祥时代,http://80.245.105.119/live/kwzq1rse/0xz20xk6/index.m3u8
-龙祥时代,http://47.91.213.59/live/kwzq1rse/0xz20xk6/index.m3u8
-采昌影剧台,http://80.245.105.119/live/kwzq1rse/k75nw13p/index.m3u8
-采昌影剧台,http://47.91.213.59/live/kwzq1rse/k75nw13p/index.m3u8
-鸿基影剧台,http://80.245.105.119/live/kwzq1rse/86z74vbh/index.m3u8
-鸿基影剧台,http://47.91.213.59/live/kwzq1rse/86z74vbh/index.m3u8
-EYE TV旅游,http://80.245.105.119/live/kwzq1rse/sphg8nq9/index.m3u8
-EYE TV旅游,http://47.91.213.59/live/kwzq1rse/sphg8nq9/index.m3u8
-EYE TV戏剧,http://80.245.105.119/live/kwzq1rse/rg68vjj0/index.m3u8
-EYE TV戏剧,http://47.91.213.59/live/kwzq1rse/rg68vjj0/index.m3u8
-三立都会台,http://80.245.105.119/live/kwzq1rse/p6vzzkf8/index.m3u8
-三立都会台,http://47.91.213.59/live/kwzq1rse/p6vzzkf8/index.m3u8
-三立台湾台,http://80.245.105.119/live/t6u5b1q4/66e1dd5c/index.m3u8
-三立台湾台,http://47.91.213.59/live/t6u5b1q4/66e1dd5c/index.m3u8
-三立戏剧台,http://80.245.105.119/live/kwzq1rse/k4bszph7/index.m3u8
-三立戏剧台,http://47.91.213.59/live/kwzq1rse/k4bszph7/index.m3u8
-三立新闻台,http://80.245.105.119/live/kwzq1rse/cqz6gtpb/index.m3u8
-三立新闻台,http://47.91.213.59/live/kwzq1rse/cqz6gtpb/index.m3u8
-三立综合台,http://80.245.105.119/live/kwzq1rse/8sw4bfgq/index.m3u8
-三立综合台,http://47.91.213.59/live/kwzq1rse/8sw4bfgq/index.m3u8
-卫视电影台,http://80.245.105.119/live/kwzq1rse/63t80c5p/index.m3u8
-卫视电影台,http://47.91.213.59/live/kwzq1rse/63t80c5p/index.m3u8
-卫视合家欢,http://80.245.105.119/live/kwzq1rse/k4hn53c8/index.m3u8
-卫视合家欢,http://47.91.213.59/live/kwzq1rse/k4hn53c8/index.m3u8
-卫视西片,http://80.245.105.119/live/kwzq1rse/1vnt5wqn/index.m3u8
-卫视西片,http://47.91.213.59/live/kwzq1rse/1vnt5wqn/index.m3u8
-星卫电影 HD,http://80.245.105.119/live/kwzq1rse/6s69fnjz/index.m3u8
-星卫电影 HD,http://47.91.213.59/live/kwzq1rse/6s69fnjz/index.m3u8
-星卫娱乐,http://80.245.105.119/live/kwzq1rse/sps6gxp6/index.m3u8
-星卫娱乐,http://47.91.213.59/live/kwzq1rse/sps6gxp6/index.m3u8
-高清影视,http://80.245.105.119/live/kwzq1rse/kw6s9nnm/index.m3u8
-高清影视,http://47.91.213.59/live/kwzq1rse/kw6s9nnm/index.m3u8
-美亚电影,http://80.245.105.119/live/kwzq1rse/4vphhg1h/index.m3u8
-美亚电影,http://47.91.213.59/live/kwzq1rse/4vphhg1h/index.m3u8
-好莱坞电影台,http://80.245.105.119/live/kwzq1rse/q0rskj6h/index.m3u8
-好莱坞电影台,http://47.91.213.59/live/kwzq1rse/q0rskj6h/index.m3u8
-HBO HD,http://80.245.105.119/live/kwzq1rse/84wnpj8g/index.m3u8
-HBO HD,http://47.91.213.59/live/kwzq1rse/84wnpj8g/index.m3u8
-FOX HD,http://80.245.105.119/live/kwzq1rse/c2pk36b8/index.m3u8
-FOX HD,http://47.91.213.59/live/kwzq1rse/c2pk36b8/index.m3u8
-China Movie,http://80.245.105.119/live/kwzq1rse/3z7vs7gw/index.m3u8
-China Movie,http://47.91.213.59/live/kwzq1rse/3z7vs7gw/index.m3u8
-CinemaWorld,http://80.245.105.119/live/kwzq1rse/wrn6wjz7/index.m3u8
-CinemaWorld,http://47.91.213.59/live/kwzq1rse/wrn6wjz7/index.m3u8
-Catch Play,http://80.245.105.119/live/kwzq1rse/f1mb4n6x/index.m3u8
-Catch Play,http://47.91.213.59/live/kwzq1rse/f1mb4n6x/index.m3u8
-CINEMAX,http://80.245.105.119/live/kwzq1rse/w6stt0q8/index.m3u8
-CINEMAX,http://47.91.213.59/live/kwzq1rse/w6stt0q8/index.m3u8
-Ci罪案侦缉,http://80.245.105.119/live/kwzq1rse/rw55z1xs/index.m3u8
-Ci罪案侦缉,http://47.91.213.59/live/kwzq1rse/rw55z1xs/index.m3u8
-Fashiontv,http://80.245.105.119/live/kwzq1rse/7xkr4spr/index.m3u8
-Fashiontv,http://47.91.213.59/live/kwzq1rse/7xkr4spr/index.m3u8
-韩国娱乐台,http://80.245.105.119/live/kwzq1rse/89n4sd15/index.m3u8
-韩国娱乐台,http://47.91.213.59/live/kwzq1rse/89n4sd15/index.m3u8
-曼迪日本台,http://80.245.105.119/live/kwzq1rse/zhjnc3xr/index.m3u8
-曼迪日本台,http://47.91.213.59/live/kwzq1rse/zhjnc3xr/index.m3u8
-Smart知识台,http://80.245.105.119/live/kwzq1rse/27q9k43g/index.m3u8
-Smart知识台,http://47.91.213.59/live/kwzq1rse/27q9k43g/index.m3u8
-阿里郎电视台,http://80.245.105.119/live/kwzq1rse/h6h1s2j5/index.m3u8
-阿里郎电视台,http://47.91.213.59/live/kwzq1rse/h6h1s2j5/index.m3u8
-DIVA HD,http://80.245.105.119/live/kwzq1rse/332hkcjk/index.m3u8
-DIVA HD,http://47.91.213.59/live/kwzq1rse/332hkcjk/index.m3u8
-动物星球,http://80.245.105.119/live/t6u5b1q4/a2d9cd03/index.m3u8
-动物星球,http://47.91.213.59/live/t6u5b1q4/a2d9cd03/index.m3u8
-美食星球 HD,http://80.245.105.119/live/kwzq1rse/45c2r1kr/index.m3u8
-美食星球 HD,http://47.91.213.59/live/kwzq1rse/45c2r1kr/index.m3u8
-探索台湾,http://80.245.105.119/live/kwzq1rse/wm8wzgxz/index.m3u8
-探索台湾,http://47.91.213.59/live/kwzq1rse/wm8wzgxz/index.m3u8
-探索动力,http://80.245.105.119/live/kwzq1rse/9g62k04g/index.m3u8
-探索动力,http://47.91.213.59/live/kwzq1rse/9g62k04g/index.m3u8
-探索高清,http://80.245.105.119/live/kwzq1rse/fvptsnk3/index.m3u8
-探索高清,http://47.91.213.59/live/kwzq1rse/fvptsnk3/index.m3u8
-国家地理,http://80.245.105.119/live/kwzq1rse/nvhgfr5c/index.m3u8
-国家地理,http://47.91.213.59/live/kwzq1rse/nvhgfr5c/index.m3u8
-国家地理People,http://80.245.105.119/live/kwzq1rse/s04bkt99/index.m3u8
-国家地理People,http://47.91.213.59/live/kwzq1rse/s04bkt99/index.m3u8
-国家地理野生,http://80.245.105.119/live/kwzq1rse/w7tx0758/index.m3u8
-国家地理野生,http://47.91.213.59/live/kwzq1rse/w7tx0758/index.m3u8
-亚洲旅游台,http://80.245.105.119/live/kwzq1rse/jhmt4rc8/index.m3u8
-亚洲旅游台,http://47.91.213.59/live/kwzq1rse/jhmt4rc8/index.m3u8
-TLC 旅游生活,http://80.245.105.119/live/t6u5b1q4/asdfgh01/index.m3u8
-TLC 旅游生活,http://47.91.213.59/live/t6u5b1q4/asdfgh01/index.m3u8
-Discovery EVE,http://80.245.105.119/live/kwzq1rse/jpgr5cjq/index.m3u8
-Discovery EVE,http://47.91.213.59/live/kwzq1rse/jpgr5cjq/index.m3u8
-Discovery 科学,http://80.245.105.119/live/kwzq1rse/0j9wgpsb/index.m3u8
-Discovery 科学,http://47.91.213.59/live/kwzq1rse/0j9wgpsb/index.m3u8
 $c_start虎牙电影$c_end
 熊猫直播,https://mobilelive-play.ysp.cctv.cn/ysp/2001366601_hd.m3u8
 家庭影院,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240278_1/encoder/0/playlist.m3u8#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240278_1/encoder/0/playlist.m3u8
