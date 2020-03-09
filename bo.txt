@@ -1,5 +1,5 @@
 $c_start央视频道$c_end
-CCTV 01,http://wshls.butel.com/live/4387.m3u8#https://116.77.72.195/streams/d/cctv1a/playlist.m3u8#http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8#http://l1.weihai.tv:8081/hls/3bjRUVNYwi.m3u8#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228504/index.m3u8?fmt=ts2hls#http://221.6.85.150:9000/live/cctv1_800/cctv1_800.m3u8
+CCTV 01,https://116.77.72.195/streams/d/cctv1a/playlist.m3u8#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228504/index.m3u8?fmt=ts2hls#http://221.6.85.150:9000/live/cctv1_800/cctv1_800.m3u8
 CCTV 02,https://116.77.72.195/streams/d/cctv2/playlist.m3u8#http://wxcnlive.videocc.net/vod1/cctv2169/01.m3u8?wsSecret=0f883c8649a6b883016f6408d7c80f9d&wsTime=1509347397#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228482/index.m3u8?fmt=ts2hls#http://221.6.85.150:9000/live/cctv2_800/cctv2_800.m3u8#http://223.110.241.203:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/
 CCTV 03,https://116.77.72.195/streams/d/cctv3/playlist.m3u8#http://39.135.32.29:6610/000000001000/1000000001000011218/index.m3u8?i#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228563/index.m3u8?fmt=ts2hls#http://newvideo.dangtutv.cn:8278/CCTVzongyi/playlist.m3u8#http://221.6.85.150:9000/live/cctv3_800/cctv3_800.m3u8
 CCTV 04,http://183.207.249.11/PLTV/3/224/3221225534/index.m3u8#http://223.110.242.130:6610/gitv/live1/G_CCTV-4-HQ/index.m3u8#http://221.6.85.150:9000/live/cctv4_800/cctv4_800.m3u8#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229319/index.m3u8?fmt=ts2hls
@@ -8,19 +8,19 @@ CCTV 06,https://116.77.72.195/streams/d/cctv6/playlist.m3u8#http://hwltc.tv.cdn.
 CCTV 07,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228507/index.m3u8?fmt=ts2hls#https://116.77.72.195/streams/d/cctv7/playlist.m3u8#http://221.6.85.150:9000/live/cctv7_800/cctv7_800.m3u8
 CCTV 08,https://116.77.72.195/streams/d/cctv8/playlist.m3u8#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228569/index.m3u8?fmt=ts2hls#http://221.6.85.150:9000/live/cctv8_800/cctv8_800.m3u8
 CCTV 09,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228510/index.m3u8?fmt=ts2hls#https://116.77.72.195/streams/d/cctv9/playlist.m3u8http://221.6.85.150:9000/live/cctv9_800/cctv9_800.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225734/index.m3u8
-CCTV 10,http://223.110.241.203:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228513/index.m3u8?fmt=ts2hls#https://116.77.72.195/streams/d/cctv10/playlist.m3u8#http://221.6.85.150:9000/live/cctv10_800/cctv10_800.m3u8
+CCTV 10,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228513/index.m3u8?fmt=ts2hls#https://116.77.72.195/streams/d/cctv10/playlist.m3u8#http://221.6.85.150:9000/live/cctv10_800/cctv10_800.m3u8
 CCTV 11,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228297/index.m3u8?fmt=ts2hls#https://116.77.72.195/streams/d/cctv11/playlist.m3u8#http://221.6.85.150:9000/live/cctv11_800/cctv11_800.m3u8
 CCTV 12,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228485/index.m3u8?fmt=ts2hls#https://116.77.72.195/streams/d/cctv12/playlist.m3u8#http://221.6.85.150:9000/live/cctv12_800/cctv12_800.m3u8
-CCTV 13,http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8#http://stream4.jlntv.cn/cctv13/sd/live.m3u8#http://liveali.ifeng.com/live/CCTV.m3u8#http://221.6.85.150:9000/live/cctv13_800/cctv13_800.m3u8#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228266/index.m3u8?fmt=ts2hls#http://117.169.120.140:8080/live/cctv-13/.m3u8
+CCTV 13,http://stream4.jlntv.cn/cctv13/sd/live.m3u8#http://liveali.ifeng.com/live/CCTV.m3u8#http://221.6.85.150:9000/live/cctv13_800/cctv13_800.m3u8#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228266/index.m3u8?fmt=ts2hls#http://117.169.120.140:8080/live/cctv-13/.m3u8
 CCTV 14,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228488/index.m3u8?fmt=ts2hls#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225678/index.m3u8#http://221.6.85.150:9000/live/cctv14_800/cctv14_800.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225732/index.m3u8
 CCTV 15,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228281/index.m3u8?fmt=ts2hls#http://221.6.85.150:9000/live/cctv15_800/cctv15_800.m3u8#http://223.82.250.72/live/cctv-15/1.m3u8
 CCTV 17,http://111.40.205.70/PLTV/88888888/224/3221225765/index.m3u8#http://stream.cdjsxy.cn/lypd/sd/live.m3u8#http://220.158.149.14:9999/live/TV00000000000000000008@HHZT;LIVE?DSJTV.m3u8
 CCTV 体育赛事,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228372/index.m3u8?fmt=ts2hls#http://223.110.241.203:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/#http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
-CETV 教育一台,http://stream.cdjsxy.cn/zgjy/sd/live.m3u8#http://220.158.149.14:9999/live/TV00000000000000000026@HHZT;LIVE?DSJTV.m3u8#http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227355/index.m3u8
+CETV 教育一台,http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227355/index.m3u8
 CGTN 国际频道,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN 记录频道,http://live.cgtn.com/1000d/prog_index.m3u8
 CGTN 法语频道,http://live.cgtn.com/1000f/prog_index.m3u8
-CCTV 老故事台,http://223.110.242.130:6610/gitv/live1/G_LAOGUSHI/1.m3u8
+CCTV 家庭影院,http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8
 CCTV 4K超高清,http://39.134.185.69/PLTV/88888888/224/3221226758/index.m3u8
 $c_start卫视频道$c_end
 浙江卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8
