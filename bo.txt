@@ -443,7 +443,7 @@ Fashion,vjms://58.215.133.185:8500:3502/live/cid=399
 ELTA體育,vjms://58.215.133.185:8500:3502/live/cid=266
 國家地理,vjms://58.215.133.185:8500:3502/live/cid=115
 發現科學,vjms://58.215.133.185:8500:3502/live/cid=440
-臺-東森財經新聞HD,vjms://58.215.133.185:8500:3502/live/cid=456
+東森財經新聞HD,vjms://58.215.133.185:8500:3502/live/cid=456
 爱尔达体育HD,vjms://58.215.133.185:8500:3502/live/cid=266
 年代新闻,vjms://58.215.133.184:8500:3502/live/cid=455
 民视2,vjms://58.215.133.185:8500:3502/live/cid=450
@@ -465,7 +465,6 @@ HBO原创电影,vjms://58.215.133.185:8500:3502/live/cid=436#vjms://58.215.133.1
 CIBN电影,http://cinb1.peoplevideo.cn/hls/vCIBNDYPD/800/vCIBNDYPD.m3u8
 CIBN嗨播,http://cinb1.peoplevideo.cn/hls/vCIBNDYDYYPD/1800/vCIBNYYPD.m3u8
 CIBN纪录片,http://cinb1.peoplevideo.cn/hls/vCIBNJLPD/1800/vCIBNJLPD.m3u8
-湖南剧集高清,http://klglive.imgo.tv/nn_live/nn_x64/aWQ9SE5EU0pNUFAzNjAmY2RuZXhfaWQ9YWxfcGhvbmVfbGl2ZTMmbmZ0PXRz/HNDSJMPP360.m3u8
 佛山影视,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd.m3u8#http://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd.m3u8
 广西影视,https://stream.cdn.liangtv.cn/live/liangtv_gxys/playlist.m3u8?wsSession=-&wsIPSercert=&wsMonitor=-#https://stream.cdn.liangtv.cn/live/liangtv_gxys/playlist.m3u8?wsSession=-&wsIPSercert=&wsMonitor=-
 济南影视,http://ts1.ijntv.cn/yshd/hd/live.m3u8#http://ts1.ijntv.cn/yshd/hd/live.m3u8
@@ -505,7 +504,7 @@ CIBN纪录片,http://cinb1.peoplevideo.cn/hls/vCIBNJLPD/1800/vCIBNJLPD.m3u8
 少年包青天,http://47.240.60.73/migu.php?id=625521420
 金庸频道,http://47.240.60.73/migu.php?id=625774640
 小戏骨剧场,http://47.240.60.73/migu.php?id=625526423
-华视火爆劲片,http://47.240.60.73/migu.php?id=624999147
+火爆劲片,http://47.240.60.73/migu.php?id=624999147
 笑傲江湖,http://47.240.60.73/migu.php?id=625759558
 鹿鼎记,http://47.240.60.73/migu.php?id=625681368
 刘涛作品集,http://47.240.60.73/migu.php?id=625514969
@@ -878,13 +877,6 @@ HBO温馨,vjms://58.215.133.185:8500:3502/live/cid=181
 FOX Movies HD,vjms://58.215.133.185:8500:3502/live/cid=94
 FOX1,vjms://58.215.133.185:8500:3502/live/cid=97
 CN卡通88,vjms://58.215.133.185:8500:3502/live/cid=422
-爱尔达体育1台,vjms://58.215.133.185:8500:3502/live/cid=266
-FOX2体育,vjms://58.215.133.185:8500:3502/live/cid=444
-FOX3体育,vjms://58.215.133.185:8500:3502/live/cid=95
-国家地理野生-HD,vjms://58.215.133.185:8500:3502/live/cid=263
-国家地理-HD,vjms://58.215.133.185:8500:3502/live/cid=115
-探索频道-HD,vjms://58.215.133.185:8500:3502/live/cid=440
-发现科学,vjms://58.215.133.185:8500:3502/live/cid=457
 $c_start虎牙电影$c_end
 熊猫直播,https://mobilelive-play.ysp.cctv.cn/ysp/2001366601_hd.m3u8
 家庭影院,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240278_1/encoder/0/playlist.m3u8#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240278_1/encoder/0/playlist.m3u8
@@ -905,7 +897,7 @@ $c_start虎牙电影$c_end
 甄子丹,https://aldirect.rtmp.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1_1200.m3u8
 超级英雄,https://aldirect.rtmp.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 速度与激情,https://aldirect.rtmp.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-金庸风云电影,https://aldirect.rtmp.huya.com/huyalive/29359996-2689645314-11551938661469650944-2847687586-10057-A-0-1_1200.m3u8
+金庸电影,https://aldirect.rtmp.huya.com/huyalive/29359996-2689645314-11551938661469650944-2847687586-10057-A-0-1_1200.m3u8
 生化危机,https://aldirect.rtmp.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
 死神来了,https://aldirect.rtmp.huya.com/huyalive/30765679-2484192708-10669526437821677568-3049003172-10057-A-0-1_1200.m3u8
 灾难,https://aldirect.rtmp.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
