@@ -31,13 +31,13 @@ $c_start卫视频道$c_end
 深圳卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8
 山东卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226308/1.m3u8
 湖北卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8
-辽宁卫视,http://39.135.34.19:18890/000000001000/1000000002000024033/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035171
+辽宁卫视,http://121.31.30.91:8081/ysten-business/live/liaoningstv/1.m3u8#http://39.135.15.70:6610/PLTV/88888888/224/3221226050/1/index.m3u8?fmt=ts2hls
 安徽卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226223/1.m3u8
 广东卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226238/1.m3u8
 龙江卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
-东南卫视,http://39.135.34.11:18890/000000001000/1000000002000009263/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035575
+东南卫视,http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/dongnan_2_hd.m3u8#http://39.135.15.70:6610/PLTV/88888888/224/3221226061/1/index.m3u8?fmt=ts2hls
 江西卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8
-重庆卫视,http://39.135.34.4:18890/000000001000/1000000002000018937/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035324
+重庆卫视,http://121.31.30.91:8081/ysten-business/live/chongqingstv/1.m3u8#http://121.31.30.90:8085/ysten-business/live/chongqingstv/1.m3u8
 四川卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225898/1.m3u8
 贵州卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225880/1.m3u8
 广西卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225879/1.m3u8
@@ -51,16 +51,9 @@ $c_start卫视频道$c_end
 陕西卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225896/1.m3u8
 吉林卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225886/1.m3u8
 宁夏卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225892/1.m3u8
-内蒙卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
-新疆卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
 西藏卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
-南方卫视,http://39.135.34.135:18890/000000001000/1000000002000011619/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA032735
-珠江卫视,http://39.135.34.15:18890/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA031981
-嘉佳卡通,http://223.110.241.204:6610/gitv/live1/G_JIAJIA/G_JIAJIA/
-优漫卡通,http://223.110.241.204:6610/gitv/live1/G_YOUMAN/G_YOUMAN/
-卡酷少儿,http://223.110.241.204:6610/gitv/live1/G_KAKU/G_KAKU/
-金鹰卡通,http://223.110.241.204:6610/gitv/live1/G_JINYING/G_JINYING/
-炫动卡通,http://223.110.241.204:6610/gitv/live1/G_XUANDONG/G_XUANDONG/
+内蒙古卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
+新疆卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
 $c_start地方频道$c_end
 浙江 Ⅰ 柯桥综合台,http://live.scbtv.cn/hls/news/index.m3u8
 浙江 Ⅰ 柯桥时尚台,http://live.scbtv.cn/hls/qfc/index.m3u8
@@ -252,6 +245,7 @@ SPORTS,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 动物星球,http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 WarnerTV,http://104.250.154.42:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
 東森電影,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8#P2p://sdgdklwos.finetv.tv:9906/59fd0cab0008230a0245f94a229777bd#http://58.99.33.2:1935/liveedge2/jEYEGeIf_62_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+东森洋片,http://192.154.103.75:8080//ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#tvbus://1jqrNZ8dt84AhKCLVypeBgfHwfpMSvsyFqvSX6u4FfSbP9JqCv
 龍祥時代,http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
 好萊塢,http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 FOX電影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
