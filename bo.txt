@@ -34,7 +34,6 @@ $c_start卫视频道$c_end
 辽宁卫视,http://121.31.30.91:8081/ysten-business/live/liaoningstv/1.m3u8#http://39.135.15.70:6610/PLTV/88888888/224/3221226050/1/index.m3u8?fmt=ts2hls
 安徽卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226223/1.m3u8
 广东卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226238/1.m3u8
-龙江卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 东南卫视,http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/dongnan_2_hd.m3u8#http://39.135.15.70:6610/PLTV/88888888/224/3221226061/1/index.m3u8?fmt=ts2hls
 江西卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8
 重庆卫视,http://121.31.30.91:8081/ysten-business/live/chongqingstv/1.m3u8#http://121.31.30.90:8085/ysten-business/live/chongqingstv/1.m3u8
@@ -52,8 +51,9 @@ $c_start卫视频道$c_end
 吉林卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225886/1.m3u8
 宁夏卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225892/1.m3u8
 西藏卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
-内蒙古卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
 新疆卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
+黑龙江卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
+内蒙古卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
 $c_start地方频道$c_end
 浙江 Ⅰ 柯桥综合台,http://live.scbtv.cn/hls/news/index.m3u8
 浙江 Ⅰ 柯桥时尚台,http://live.scbtv.cn/hls/qfc/index.m3u8
@@ -192,14 +192,13 @@ JET综合,P2p://190.2.146.92:18912/5c724892000e3e1c1d5303da4a3c6c26.ts#p8p://019
 凤凰资讯,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 澳门卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
 $c_start综合娱乐$c_end
-国家地理野生,vjms://58.215.133.185:8500:3502/live/cid=263#vjms://23.237.33.155:8500:3502/live/cid=263
+国家地理野生,vjms://58.215.133.185:8500:3502/live/cid=263#vjms://23.237.33.155:8500:3502/live/cid=263#vjms://58.215.133.185:8500:3502/live/cid=263#mitv://190.2.146.92:18912/5c7249fb000db88c1d5885e333974925.ts
 国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo#vjms://58.215.133.185:8500:3502/live/cid=115#vjms://23.237.33.155:8500:3502/live/cid=115
 探索频道,rtmp://58.200.131.2:1935/livetv/discovery
 探索亚洲,vjms://58.215.133.185:8500:3502/live/cid=440#vjms://23.237.33.155:8500:3502/live/cid=440
 探索科学,vjms://58.215.133.185:8500:3502/live/cid=457#vjms://23.237.33.155:8500:3502/live/cid=457
 动物星球,vjms://58.215.133.185:8500:3502/live/cid=3#http://cdn.5itv.tv//ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8#p8p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts#vjms://23.237.33.155:8500:3502/live/cid=3
 TLC旅游生活,vjms://58.215.133.185:8500:3502/live/cid=103#vjms://23.237.33.155:8500:3502/live/cid=103
-国家地理野生2-HD,vjms://58.215.133.185:8500:3502/live/cid=263
 国家地理-HD,vjms://58.215.133.185:8500:3502/live/cid=115
 探索频道-HD,vjms://58.215.133.185:8500:3502/live/cid=440
 发现科学,vjms://58.215.133.185:8500:3502/live/cid=457
@@ -252,7 +251,7 @@ FOX電影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 TVBS新闻台1,rtmp://59.124.75.156/sat/tv551#rtmp://59.124.75.156/sat/tv552#rtmp://59.124.75.156:1935/sat/tv551#rtmp://59.124.75.156:1935/sat/tv552
 纬来育乐,rtmp://59.124.75.156/sat/tv701#rtmp://59.124.75.156/sat/tv702#rtmp://59.124.75.156:1935/sat/tv701#rtmp://59.124.75.156:1935/sat/tv702
 中視,rtmp://59.124.75.156/sat/tv091#rtmp://59.124.75.156/sat/tv092
-中视CTV,rtmp://59.124.75.156:1935/sat/tv091#rtmp://59.124.75.156:1935/sat/tv092
+中视2,rtmp://59.124.75.156:1935/sat/tv091#rtmp://59.124.75.156:1935/sat/tv092
 华视,rtmp://59.124.75.156/sat/tv111#rtmp://59.124.75.156/sat/tv112#rtmp://59.124.75.156:1935/sat/tv111#rtmp://59.124.75.156:1935/sat/tv112
 台视,rtmp://59.124.75.156/sat/tv071#rtmp://59.124.75.156/sat/tv072#rtmp://59.124.75.156:1935/sat/tv072#rtmp://59.124.75.156:1935/sat/tv071
 民视,rtmp://59.124.75.156/sat/tv052#rtmp://59.124.75.156/sat/tv051#rtmp://59.124.75.156:1935/sat/tv051#rtmp://59.124.75.156:1935/sat/tv052
@@ -762,7 +761,6 @@ TVBS新聞 ,mitv://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts
 緯來電影 ,mitv://190.2.146.92:18912/5c7249d80003096d1d57fa6c33601be9.ts
 緯來戲劇 ,mitv://190.2.146.92:18912/5c72488e000bae061d52f38e705751dd.ts
 HBO HD ,mitv://190.2.146.92:18912/5c7249dd000ca2101d58106551ff3ed4.ts
-國家地理野生3 ,mitv://190.2.146.92:18912/5c7249fb000db88c1d5885e333974925.ts
 星衛娛樂 ,mitv://190.2.146.92:18912/5c724a0a000180991d58bd4f6e533ad5.ts
 星衛電影 ,mitv://190.2.146.92:18912/5c724a05000626a61d58aaff0c3f3175.ts
 好萊塢電影 ,mitv://190.2.146.92:18912/5c7249e2000125281d5820ff23a165d1.ts
@@ -797,7 +795,6 @@ TLC旅游生活,vjms://58.215.133.161:8500/live/cid=103#vjms://58.215.133.185:85
 法國國際五臺,vjms://58.215.133.161:8500/live/cid=396
 東森財經新闻,vjms://58.215.133.161:8500/live/cid=456
 國家地理HD,vjms://58.215.133.161:8500/live/cid=115#vjms://58.215.133.185:8500:3502/live/cid=263
-國家地理野生,vjms://58.215.133.161:8500/live/cid=263
 體育博斯高球,vjms://58.215.133.161:8500/live/cid=265
 體育ELTA,vjms://58.215.133.161:8500/live/cid=266
 體育FOX3HD,vjms://58.215.133.161:8500/live/cid=95
@@ -893,9 +890,9 @@ $c_start虎牙电影$c_end
 家庭影院,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240278_1/encoder/0/playlist.m3u8#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240278_1/encoder/0/playlist.m3u8
 黑莓动画,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225878/1.m3u8
 虎牙新闻,https://aldirect.rtmp.huya.com/backsrc/94525224-2687807366-11544044734917902336-2847699228-10057-A-0-1_2500.m3u8
-春晚相声小品,https://aldirect.rtmp.huya.com/backsrc/29106097-2689281338-11550375396453122048-2777038134-10057-A-0-1_2500.m3u8
+相声小品,https://aldirect.rtmp.huya.com/backsrc/29106097-2689281338-11550375396453122048-2777038134-10057-A-0-1_2500.m3u8
 成  龙,https://aldirect.rtmp.huya.com/backsrc/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_2500.m3u8
-林正英(搞笑系列),https://aldirect.rtmp.huya.com/backsrc/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_2500.m3u8
+林正英,https://aldirect.rtmp.huya.com/backsrc/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_2500.m3u8
 虎牙电影,https://aldirect.rtmp.huya.com/huyalive/29359996-2689615538-11551810774523445248-2847687642-10057-A-1525496014-1_1200.m3u8
 李连杰,https://al.rtmp.huya.com/src/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_2500.m3u8
 吴京,https://aldirect.rtmp.huya.com/backsrc/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_2500.m3u8
@@ -952,8 +949,8 @@ $c_start虎牙电影$c_end
 牛叔说电影,https://al.rtmp.huya.com/huyalive/94525224-2667571840-11457133812530544640-3527487402-10057-A-0-1_2500.m3u8
 电影解说,https://aldirect.rtmp.huya.com/backsrc/94525224-2583571962-11096357083652554752-3503038830-10057-A-0-1_2500.m3u8
 老烟斗鬼故事,https://aldirect.rtmp.huya.com/huyalive/94525224-2670502970-11469722920020869120-3739254198-10057-A-0-1_2500.m3u8
-山药聊天室,https://aldirect.rtmp.huya.com/backsrc/1199511962590-1199511962590-5223053919860555776-2399024048636-10057-A-0-1_2500.m3u8
-好莱坞动作电影,https://aldirect.rtmp.huya.com/backsrc/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_2500.m3u8
+山药视频,https://aldirect.rtmp.huya.com/backsrc/1199511962590-1199511962590-5223053919860555776-2399024048636-10057-A-0-1_2500.m3u8
+动作电影,https://aldirect.rtmp.huya.com/backsrc/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_2500.m3u8
 王者荣耀,https://aldirect.rtmp.huya.com/backsrc/1448640609-1448640609-6221864039312523264-1484215354-10057-A-0-1_2500.m3u8
 英雄联盟,https://al.rtmp.huya.com/src/95431869-2516358006-10807675340797771776-215173392-10057-A-0-1_2500.m3u8
 猫和老鼠,https://aldirect.rtmp.huya.com/backsrc/94525224-2679664054-11509069476196777984-2847687532-10057-A-0-1_2500.m3u8
