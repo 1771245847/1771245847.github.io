@@ -31,6 +31,7 @@ $c_start卫视频道$c_end
 深圳卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8
 山东卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226308/1.m3u8
 湖北卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8
+湖南卫视,http://121.31.30.91:8081/ysten-business/live/hdhunanstv/1.m3u8#http://101.71.255.229:6610/zjhs/2/10024/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 辽宁卫视,http://121.31.30.91:8081/ysten-business/live/liaoningstv/1.m3u8#http://39.135.15.70:6610/PLTV/88888888/224/3221226050/1/index.m3u8?fmt=ts2hls
 安徽卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226223/1.m3u8
 广东卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226238/1.m3u8
