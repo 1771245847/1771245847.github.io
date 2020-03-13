@@ -40,7 +40,7 @@ http://iptv.pdsu.edu.cn/hls/zjhd.m3u8
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://iptv.pdsu.edu.cn/hls/jshd.m3u8
 #EXTINF:-1 group-title="卫视频道",东方卫视
-http://iptv.pdsu.edu.cn/hls/dfhd.m3u8
+http://ivi.bupt.edu.cn/hls/dfhd.m3u8
 #EXTINF:-1 group-title="卫视频道",安徽卫视
 http://iptv.pdsu.edu.cn/hls/ahhd.m3u8
 #EXTINF:-1 group-title="卫视频道",西藏卫视
@@ -637,18 +637,6 @@ http://47.240.60.73/migu.php?id=625681367
 http://47.240.60.73/migu.php?id=625521420
 #EXTINF:-1 group-title="综合娱乐",金庸频道
 http://47.240.60.73/migu.php?id=625774640
-#EXTINF:-1 group-title="综合娱乐",CIBN电影频道
-http://47.240.60.73/migu.php?id=630518326
-#EXTINF:-1 group-title="综合娱乐",CIBN电影频道2
-http://47.240.60.73/migu.php?id=630518326
-#EXTINF:-1 group-title="综合娱乐",CIBN喜剧影院
-http://47.240.60.73/migu.php?id=609154087
-#EXTINF:-1 group-title="综合娱乐",CIBN喜剧影院2
-http://47.240.60.73/migu.php?id=609154087
-#EXTINF:-1 group-title="综合娱乐",CIBN经典剧场
-http://47.240.60.73/migu.php?id=621780899
-#EXTINF:-1 group-title="综合娱乐",CIBN经典剧场2
-http://47.240.60.73/migu.php?id=621780899
 #EXTINF:-1 group-title="轮播电影",成  龙
 https://aldirect.rtmp.huya.com/backsrc/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="轮播电影",林正英
@@ -767,12 +755,6 @@ https://aldirect.rtmp.huya.com/backsrc/94525224-2583571962-11096357083652554752-
 https://aldirect.rtmp.huya.com/huyalive/94525224-2670502970-11469722920020869120-3739254198-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="轮播电影",山药视频
 https://aldirect.rtmp.huya.com/backsrc/1199511962590-1199511962590-5223053919860555776-2399024048636-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",好莱坞动作电影
-https://aldirect.rtmp.huya.com/backsrc/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",好莱坞大片
-http://cibn.peoplevideo.cn/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8?wsSecret=771e13c21abf2b58b4c375b614f113f4
-#EXTINF:-1 group-title="轮播电影",院线大片
-http://cibn.peoplevideo.cn/hls/vCIBNHYPD/1800/vCIBNHYPD.m3u8?wsSecret=771e13c21abf2b58b4c375b614f113f4
 #EXTINF:-1 group-title="亲子卡通",迪斯尼
 P2p://190.2.146.92:18912/5c72485c0008852e1d522f7314a34325.ts
 #EXTINF:-1 group-title="亲子卡通",迪斯尼
