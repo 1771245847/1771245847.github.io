@@ -159,20 +159,6 @@ http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 http://192.154.103.74:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港台娱乐",东森新闻
 vjms://58.215.133.161:8500/live/cid=340
-#EXTINF:-1 group-title="综合娱乐",小戏骨剧场
-http://47.240.60.73/migu.php?id=625526423
-#EXTINF:-1 group-title="综合娱乐",火爆劲片
-http://47.240.60.73/migu.php?id=624999147
-#EXTINF:-1 group-title="综合娱乐",笑傲江湖
-http://47.240.60.73/migu.php?id=625759558
-#EXTINF:-1 group-title="综合娱乐",鹿鼎记
-http://47.240.60.73/migu.php?id=625681368
-#EXTINF:-1 group-title="综合娱乐",刘涛作品集
-http://47.240.60.73/migu.php?id=625514969
-#EXTINF:-1 group-title="综合娱乐",天龙八部
-http://47.240.60.73/migu.php?id=625703337
-#EXTINF:-1 group-title="综合娱乐",盗墓方法论
-http://47.240.60.73/migu.php?id=625525181
 #EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="港台娱乐",东森电影
 http://192.154.103.75:8080//ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 #EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="港台娱乐",东森洋片
@@ -249,7 +235,7 @@ http://47.240.60.73/migu.php?id=623674834
 http://47.240.60.73/migu.php?id=626157533
 #EXTINF:-1 group-title="综合娱乐",射雕剧场
 http://47.240.60.73/migu.php?id=625681367
-#EXTINF:-1 group-title="综合娱乐",立面包青天
+#EXTINF:-1 group-title="综合娱乐",少年包青天
 http://47.240.60.73/migu.php?id=625521420
 #EXTINF:-1 group-title="综合娱乐",金庸频道
 http://47.240.60.73/migu.php?id=625774640
@@ -307,10 +293,8 @@ http://47.240.60.73/migu.php?id=625542369
 http://47.240.60.73/migu.php?id=615810094
 #EXTINF:-1 group-title="综合娱乐",四大名著
 http://47.240.60.73/migu.php?id=625498431
-#EXTINF:-1 group-title="综合娱乐",天龙八部集
+#EXTINF:-1 group-title="综合娱乐",天龙八部
 http://47.240.60.73/migu.php?id=625703337
-#EXTINF:-1 group-title="综合娱乐",包青天
-http://47.240.60.73/migu.php?id=625521420
 #EXTINF:-1 group-title="综合娱乐",新片放映厅
 http://47.240.60.73/migu.php?id=619495952
 #EXTINF:-1 group-title="综合娱乐",盗墓方法论
@@ -333,12 +317,6 @@ http://47.240.60.73/migu.php?id=625526423
 http://47.240.60.73/migu.php?id=625759558
 #EXTINF:-1 group-title="综合娱乐",鹿鼎记
 http://47.240.60.73/migu.php?id=625681368
-#EXTINF:-1 group-title="综合娱乐",刘涛作品集
-http://47.240.60.73/migu.php?id=625514969
-#EXTINF:-1 group-title="综合娱乐",天龙八部
-http://47.240.60.73/migu.php?id=625703337
-#EXTINF:-1 group-title="综合娱乐",盗墓方法论
-http://47.240.60.73/migu.php?id=625525181
 #EXTINF:-1 group-title="综合娱乐",好莱坞
 http://47.240.60.73/Mitv/cibn.php?id=8
 #EXTINF:-1 group-title="综合娱乐",微电影
@@ -365,7 +343,7 @@ http://47.240.60.73/Mitv/cibn.php?id=26
 http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
 #EXTINF:-1 group-title="综合娱乐",电影大片
 http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_dianyingjingxuan_1080p_t10/c15_lb_dianyingjingxuan_1080p_t10.m3u8
-#EXTINF:-1 group-title="综合娱乐",热播电视剧
+#EXTINF:-1 group-title="综合娱乐",电视剧
 http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_reboju_1080p_t10/c15_lb_reboju_1080p_t10.m3u8
 #EXTINF:-1 group-title="综合娱乐",家庭剧场
 http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_jiatingjuchang_1080p_t10/c15_lb_jiatingjuchang_1080p_t10.m3u8
@@ -454,7 +432,7 @@ https://aldirect.rtmp.huya.com/huyalive/30765679-2689675828-11552069718101721088
 #EXTINF:-1 group-title="虎牙电影",搞笑港片
 https://aldirect.rtmp.huya.com/backsrc/30765679-2480413542-10653295043445522432-3048959596-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="虎牙电影",天龙八部
-https://aldirect.rtmp.huya.com/huyalive/30765679-2475713428-10633108207528050688-3048991608-10057-A-0-1_2500.m3u8
+https://aldirect.rtmp.huya.com/backsrc/30765679-2475713428-10633108207528050688-3048991608-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="虎牙电影",惊悚大片
 https://aldirect.rtmp.huya.com/backsrc/29106097-2689447600-11551089486305689600-2789274568-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="虎牙电影",漫威电影
@@ -511,23 +489,21 @@ http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226324/1.m3
 http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226326/1.m3u8
 #EXTINF:-1 group-title="NewTV",NewTv-精品大剧
 http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
-#EXTINF:-1 group-title="NewTv",NewTV海外剧场
+#EXTINF:-1 group-title="NewTv",NewTV_海外剧场
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225917/1.m3u8
 #EXTINF:-1 group-title="NewTv",NewTv-超级综艺
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226127/1.m3u8
 #EXTINF:-1 group-title="NewTv",NewTv-超级电影
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226133/1.m3u8
-#EXTINF:-1 group-title="NewTv",NewTV超级电视剧
+#EXTINF:-1 group-title="NewTv",NewTV_超级电视剧
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
 #EXTINF:-1 group-title="NewTv",NewTv-超级体育
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226157/1.m3u8
-#EXTINF:-1 group-title="NewTv",Newtv-超级体育
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226158/1.m3u8
-#EXTINF:-1 group-title="NewTv",NewTV超级电视剧
+#EXTINF:-1 group-title="NewTv",NewTV_超级电视剧
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
-#EXTINF:-1 group-title="NewTv",黑莓电影
+#EXTINF:-1 group-title="NewTv",NewTV_黑莓电影
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
-#EXTINF:-1 group-title="NewTv",黑莓动画
+#EXTINF:-1 group-title="NewTv",NewTV_黑莓动画
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8
 #EXTINF:-1 group-title="嗨曲",毛不易 Ⅰ 像我这样的人
 https://vd3.bdstatic.com/mda-ka8qm8710ymkqdry/hd/mda-ka8qm8710ymkqdry.mp4?pd=20&vt=1
