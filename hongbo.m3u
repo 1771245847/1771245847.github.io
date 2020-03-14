@@ -186,7 +186,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000407/index.m3u8
 #EXTINF:-1 group-title="地方频道",海看4K
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000499/index.m3u8
 #EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港台娱乐",民视
-http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+vjms://58.215.133.184:8500:3502/live/cid=450
 #EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="港台娱乐",中视
 http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 #EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港台娱乐",华视
@@ -223,12 +223,8 @@ https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg" group-title="港台娱乐",凤凰电影台
 rtmp://58.200.131.2:1935/livetv/fhdy
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg" group-title="港台娱乐",凤凰电影台2
-https://116.77.72.195/streams/d/fhdy/playlist.m3u8
 #EXTINF:-1 tvg-id="511" tvg-name="星空卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" group-title="港台娱乐",星空卫视
 rtmp://58.200.131.2:1935/livetv/startv
-#EXTINF:-1 tvg-id="511" tvg-name="星空卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" group-title="港台娱乐",星空卫视2
-https://116.77.72.195/streams/d/xkws/playlist.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="港台娱乐",探索频道
 rtmp://58.200.131.2:1935/livetv/discovery
 #EXTINF:-1 tvg-id="6100" tvg-name="信吉电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SinJiTVHD.png" group-title="港台娱乐",信吉电视
@@ -267,12 +263,12 @@ http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1 group-title="综合娱乐",澳门莲花
 http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
-#EXTINF:-1 group-title="综合娱乐",澳门莲花2
-http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
 #EXTINF:-1 group-title="综合娱乐",TVB星河
 https://116.77.72.195/streams/d/tvbxh/playlist.m3u8
 #EXTINF:-1 group-title="综合娱乐",TVB明珠
 https://116.77.72.195/streams/d/mzt/playlist.m3u8
+#EXTINF:-1 group-title="综合娱乐",邵氏鬼片
+http://pull.kktv8.com/livekktv/143960119.flv
 #EXTINF:-1 group-title="综合娱乐",爱奇谈
 http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 group-title="综合娱乐",爱悬念
@@ -585,21 +581,19 @@ http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226324/1.m3
 http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226326/1.m3u8
 #EXTINF:-1 group-title="NewTV",NewTv-精品大剧
 http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
-#EXTINF:-1 group-title="NewTv",NewTV_海外剧场
+#EXTINF:-1 group-title="NewTv",NewTV-海外剧场
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225917/1.m3u8
 #EXTINF:-1 group-title="NewTv",NewTv-超级综艺
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226127/1.m3u8
 #EXTINF:-1 group-title="NewTv",NewTv-超级电影
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226133/1.m3u8
-#EXTINF:-1 group-title="NewTv",NewTV_超级电视剧
+#EXTINF:-1 group-title="NewTv",NewTV-超级电视剧
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
 #EXTINF:-1 group-title="NewTv",NewTv-超级体育
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226157/1.m3u8
-#EXTINF:-1 group-title="NewTv",NewTV_超级电视剧
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
-#EXTINF:-1 group-title="NewTv",NewTV_黑莓电影
+#EXTINF:-1 group-title="NewTv",NewTV-黑莓电影
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
-#EXTINF:-1 group-title="NewTv",NewTV_黑莓动画
+#EXTINF:-1 group-title="NewTv",NewTV-黑莓动画
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8
 #EXTINF:-1 group-title="嗨曲",毛不易 Ⅰ 像我这样的人
 https://vd3.bdstatic.com/mda-ka8qm8710ymkqdry/hd/mda-ka8qm8710ymkqdry.mp4?pd=20&vt=1
