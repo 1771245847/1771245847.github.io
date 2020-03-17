@@ -115,7 +115,7 @@ HBO强档,vjms://58.215.133.185:8500:3502/live/cid=238#vjms://23.237.33.155:8500
 星衛電影臺 HD,P2p://198.255.74.57:12396/5e50206900073ece3d32a29fd28d76b0.ts#P2p://sdgdklwos.finetv.tv:9906/59fd086a00072cbb02355b236c4a3fcb#P2p://sdgdklwos.finetv.tv:9906/59fd086a00072cbb02355b236c4a3fcb
 星衛娱乐台,P2p://sdgdklwos.finetv.tv:9906/59fd332000050f8702dc318743ba40af
 纬来电影台,http://80.245.105.119:8008//live/kwzq1rse/q9p24xqk/index.m3u8#P2p://198.255.74.57:12396/5e50207b0005f6e33d32e89b52a93087.ts
-FOX HD,P2p://198.255.74.57:12396/5e502066000877783d329737605eb25c.ts
+FOX,P2p://198.255.74.57:12396/5e502066000877783d329737605eb25c.ts
 FOX動作電影 HD,P2p://198.255.74.57:12396/5e5020660007a1523d32970079e9e50d.ts
 采昌影剧,p2p://fccsovh.pvbox.live:18912/5b1409db0009049a17d41d161677386d
 華藝影剧,p8p://0198.02686.cc:16871/5d1a69d700008c5a11be651dc2bd3d52.ts
@@ -180,7 +180,6 @@ Star Sports,rtmp://58.200.131.2:1935/livetv/starsports
 民视,P2p://51.79.41.138:18912/5b14095f00097ec617d238d6575b7b8c#vjms://58.215.133.184:8500:3502/live/cid=450
 民视,P2p://190.2.146.92:18912/5c72483f0003db4b1d51bcf349367c26.ts#vjms://23.237.33.155:8500:3502/live/cid=226#mitv://fccsovh.pvbox.live:18912/5c72483f0003db4b1d51bcf349367c26
 中视,P2p://51.79.41.138:18912/5b140a14000a368c17d4fc0d0e2537ba.ts#P2p://190.2.146.92:18912/5c72484b000b1d091d51edb7087b7686.ts#vjms://23.237.33.155:8500:3502/live/cid=452
-大愛,vjms://58.215.133.184:8500:3502/live/cid=442
 TVB J2,http://103.145.38.152/axg.php?id=12#http://103.145.38.152/a800/c168.php?id=12
 TVB 星河,https://116.77.72.195/streams/d/tvbxh/playlist.m3u8#p8p://0198.02686.cc:16871/5d1a69940005adb211bd60b57a4af31b.ts#msc://CXHMovie
 TVB 明珠,http://103.145.38.152/axg.php?id=13#https://116.77.72.195/streams/d/mzt/playlist.m3u8
@@ -299,6 +298,7 @@ DOXTV,http://39.135.15.70:6610/PLTV/88888888/224/3221226048/1/index.m3u8?fmt=ts2
 海爷TV7,https://cn-hbxy-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_261831479_8429255_1500.m3u8
 海爷TV9,https://cn-hbxy-cmcc-live-01.live-play.acgvideo.com/live-bvc/523156/live_82436982_2406441_1500.m3u8
 好莱坞漫威,https://cn-hbxy-cmcc-live-01.live-play.acgvideo.com/live-bvc/601982/live_334056_8894439_1500.m3u8
+J,vjms://121.14.222.77:8500/live/cid=495
 BBC,vjms://121.14.222.77:8500/live/cid=418#vjms://121.14.222.77:8500/live/cid=418
 CNN,vjms://121.14.222.77:8500/live/cid=428#vjms://121.14.222.77:8500/live/cid=428
 CNBC,vjms://121.14.222.77:8500/live/cid=98#vjms://121.14.222.77:8500/live/cid=98
@@ -309,10 +309,8 @@ DiscoveryScience,vjms://121.14.222.77:8500/live/cid=457
 FIGHTING TV,vjms://121.14.222.77:8500/live/cid=408
 Family theather,vjms://121.14.222.77:8500/live/cid=493
 kids,vjms://121.14.222.77:8500/live/cid=494
-J,vjms://121.14.222.77:8500/live/cid=495
 Discovery,vjms://121.14.222.77:8500/live/cid=496
 Movie Plus,vjms://121.14.222.77:8500/live/cid=497
-迪士尼,vjms://121.14.222.77:8500/live/cid=499
 GOLF NTWORK,vjms://121.14.222.77:8500/live/cid=409
 Sports ESPN,vjms://121.14.222.77:8500/live/cid=410
 Sports Plus,vjms://121.14.222.77:8500/live/cid=411
@@ -338,7 +336,7 @@ Sports,vjms://121.14.222.77:8500/live/cid=414
 日-Sports 2,vjms://121.14.222.77:8500/live/cid=416
 NHK,vjms://58.215.133.184:8500:3502/live/cid=53&delay=200&httpbuf=200&memory=50#http://tw8058.sinodig.com?key=BxHygp3dh6COzXsikrxD#vjms://58.215.133.185:8500:3502/live/cid=53&delay=200&httpbuf=200&memory=50#http://tw8058.sinodig.com?key=0Hyp5utkYzIZss6mvGOpe#vjms://58.215.133.184:8500:3502/live/cid=139&delay=200&httpbuf=200&memory=50#http://tw8058.sinodig.com?key=BxHygp3dh6COzXsikrxD#vjms://58.215.133.185:8500:3502/live/cid=139&delay=200&httpbuf=200&memory=50#http://tw8058.sinodig.com?key=0Hyp5utkYzIZss6mvGOpe
 日本super hits,vjms://58.215.133.184:8500:3502/live/cid=54&delay=200&httpbuf=200&memory=50#http://tw8058.sinodig.com?key=BxHygp3dh6COzXsikrxD#vjms://58.215.133.185:8500:3502/live/cid=54&delay=200&httpbuf=200&memory=50#http://tw8058.sinodig.com?key=0Hyp5utkYzIZss6mvGOpe
-日本钓鱼,vjms://58.215.133.184:8500:3502/live/cid=55&delay=200&httpbuf=200&memory=50#http://tw8058.sinodig.com?key=BxHygp3dh6COzXsikrxD#vjms://58.215.133.185:8500:3502/live/cid=55&delay=200&httpbuf=200&memory=50#http://tw8058.sinodig.com?key=0Hyp5utkYzIZss6mvGOpe
+日本钓鱼2,vjms://58.215.133.184:8500:3502/live/cid=55&delay=200&httpbuf=200&memory=50#http://tw8058.sinodig.com?key=BxHygp3dh6COzXsikrxD#vjms://58.215.133.185:8500:3502/live/cid=55&delay=200&httpbuf=200&memory=50#http://tw8058.sinodig.com?key=0Hyp5utkYzIZss6mvGOpe
 日本FOX体育,vjms://58.215.133.184:8500:3502/live/cid=57&delay=200&httpbuf=200&memory=50#http://tw8058.sinodig.com?key=BxHygp3dh6COzXsikrxD#vjms://58.215.133.185:8500:3502/live/cid=57&delay=200&httpbuf=200&memory=50#http://tw8058.sinodig.com?key=0Hyp5utkYzIZss6mvGOpe
 日本BS,vjms://58.215.133.184:8500:3502/live/cid=58&delay=200&httpbuf=200&memory=50#http://tw8058.sinodig.com?key=BxHygp3dh6COzXsikrxD#vjms://58.215.133.185:8500:3502/live/cid=58&delay=200&httpbuf=200&memory=50#http://tw8058.sinodig.com?key=0Hyp5utkYzIZss6mvGOpe
 日本1,vjms://183.56.174.14:8500:3502/live/cid=51#vjms://23.237.32.182:8500:3507/live/cid=51#vjms://58.215.133.185:8500:3502/live/cid=51&delay=200&httpbuf=200&memory=50#http://tw8058.sinodig.com?key=0Hyp5utkYzIZss6mvGOpe
@@ -398,7 +396,7 @@ TBS news bird,vjms://58.215.133.184:8500:3502/live/cid=220#vjms://58.215.133.185
 KBS world,vjms://58.215.133.184:8500:3502/live/cid=216#vjms://58.215.133.185:8500/live/cid=216#vjms://58.215.133.185:8500/live/cid=216
 Music Japan,vjms://58.215.133.184:8500:3502/live/cid=495#vjms://58.215.133.185:8500/live/cid=495#vjms://58.215.133.185:8500/live/cid=495
 日本映画,vjms://58.215.133.184:8500:3502/live/cid=213#vjms://58.215.133.185:8500/live/cid=213#vjms://58.215.133.185:8500/live/cid=213
-迪士尼,vjms://58.215.133.184:8500:3502/live/cid=499#vjms://58.215.133.185:8500/live/cid=499#vjms://58.215.133.185:8500/live/cid=499
+日-迪士尼,vjms://58.215.133.184:8500:3502/live/cid=499#vjms://58.215.133.185:8500/live/cid=499#vjms://58.215.133.185:8500/live/cid=499
 朝日新闻,vjms://58.215.133.184:8500:3502/live/cid=217#vjms://58.215.133.185:8500/live/cid=217#vjms://58.215.133.185:8500/live/cid=217
 A+,vjms://58.215.133.184:8500:3502/live/cid=210#vjms://58.215.133.185:8500/live/cid=210#vjms://58.215.133.185:8500/live/cid=210
 ONE,vjms://58.215.133.184:8500:3502/live/cid=212#vjms://58.215.133.185:8500/live/cid=212#vjms://58.215.133.185:8500/live/cid=212
