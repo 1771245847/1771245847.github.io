@@ -33,56 +33,54 @@ http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
 http://ivi.bupt.edu.cn/hls/cctv15.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频道",CCTV17
 http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视频道",CCTV4k
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视频道",湖南卫视
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
+http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视频道",浙江卫视
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
+http://ivi.bupt.edu.cn/hls/zjhd.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视频道",江苏卫视
 http://ivi.bupt.edu.cn/hls/jshd.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视频道",北京卫视
 http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视频道",东方卫视
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
+http://ivi.bupt.edu.cn/hls/dfhd.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视频道",天津卫视
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295103.m3u8
+http://ivi.bupt.edu.cn/hls/tjhd.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视频道",广东卫视
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
+http://ivi.bupt.edu.cn/hls/gdhd.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视频道",深圳卫视
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
+http://ivi.bupt.edu.cn/hls/sztv.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视频道",山东卫视
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294803.m3u8
+http://ivi.bupt.edu.cn/hls/sdhd.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视频道",湖北卫视
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294503.m3u8
+http://ivi.bupt.edu.cn/hls/hbhd.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视频道",安徽卫视
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
+http://ivi.bupt.edu.cn/hls/ahhd.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视频道",东南卫视
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292503.m3u8
+http://ivi.bupt.edu.cn/hls/dntv.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视频道",江西卫视
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294103.m3u8
+http://ivi.bupt.edu.cn/hls/jxtv.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视频道",四川卫视
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
+http://ivi.bupt.edu.cn/hls/sctv.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视频道",贵州卫视
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293303.m3u8
+http://ivi.bupt.edu.cn/hls/gztv.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视频道",重庆卫视
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
+http://ivi.bupt.edu.cn/hls/cqhd.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视频道",海南卫视
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000291503.m3u8
+http://ivi.bupt.edu.cn/hls/lytv.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视频道",河北卫视
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293403.m3u8
+http://ivi.bupt.edu.cn/hls/hebtv.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视频道",河南卫视
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296103.m3u8
+http://ivi.bupt.edu.cn/hls/hntv.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视频道",辽宁卫视
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000281303.m3u8
+http://ivi.bupt.edu.cn/hls/lntv.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视频道",黑龙江卫视
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293903.m3u8
+http://ivi.bupt.edu.cn/hls/hljtv.m3u8
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视频道",甘肃卫视
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294603.m3u8
+http://ivi.bupt.edu.cn/hls/gstv.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视频道",广西卫视
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8
+http://ivi.bupt.edu.cn/hls/gxtv.m3u8
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视频道",青海卫视
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294703.m3u8
+http://ivi.bupt.edu.cn/hls/qhtv.m3u8
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视频道",山西卫视
 http://ivi.bupt.edu.cn/hls/sxrtv.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视频道",云南卫视
@@ -92,11 +90,11 @@ http://ivi.bupt.edu.cn/hls/sxtv.m3u8
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视频道",吉林卫视
 http://ivi.bupt.edu.cn/hls/jltv.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视频道",内蒙古卫视
-http://39.135.15.70:6610/PLTV/88888888/224/3221225718/1/index.m3u8?fmt=ts2hls
+http://ivi.bupt.edu.cn/hls/nmtv.m3u8
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视频道",新疆卫视
 http://ivi.bupt.edu.cn/hls/xjtv.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视频道",西藏卫视
-http://cctvalih5ca.v.myalicdn.com/wstv/xizang_2/index.m3u8
+http://ivi.bupt.edu.cn/hls/xztv.m3u8
 EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="卫视频道",CHC高清电影
 rtmp://58.200.131.2:1935/livetv/chchd
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="卫视频道",CHC家庭电影
@@ -106,9 +104,9 @@ rtmp://58.200.131.2:1935/livetv/chcatv
 #EXTINF:-1 group-title="地方频道",山东齐鲁
 http://39.137.76.32:8089/00/SNM/CHANNEL00000052/index.m3u8
 #EXTINF:-1 group-title="地方频道",济南少儿
-http://ts2.ijntv.cn/jnse/playlist.m3u8
+http://ts2.ijntv.cn/jnse/playlist.m3u8?_upt=a3db69d31586688801
 #EXTINF:-1 group-title="地方频道",济南影视
-http://ts1.ijntv.cn/jnyd/playlist.m3u8
+http://ts1.ijntv.cn/jnyd/playlist.m3u8?_upt=8737686e1586688867
 #EXTINF:-1 group-title="地方频道",福州影视
 http://live1.fzntv.cn/live/zohi_fztv2/playlist.m3u8
 #EXTINF:-1 group-title="地方频道",欢笑剧场
@@ -277,8 +275,6 @@ http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1 group-title="综合娱乐",澳门莲花
 http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
-#EXTINF:-1 group-title="综合娱乐",邵氏电影
-http://pull.kktv8.com/livekktv/143960119.flv
 #EXTINF:-1 group-title="综合娱乐",爱奇谈
 http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 group-title="综合娱乐",爱悬念
@@ -417,6 +413,112 @@ http://47.240.60.73/migu.php?id=624999147
 http://47.240.60.73/migu.php?id=625526423
 #EXTINF:-1 group-title="综合娱乐",笑傲江湖
 http://47.240.60.73/migu.php?id=625759558
+#EXTINF:-1 group-title="综合娱乐",海底小纵队
+海底小纵队,http://kkitv.com/iptv/mg.php?id=639528330#http://www.dszbdq.cn/diao/migu.php?id=639528330
+#EXTINF:-1 group-title="综合娱乐",经典西游记
+https://aldirect.rtmp.huya.com/huyalive/29141112-2689673336-11552059015043219456-3048991588-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="综合娱乐",西游记动画
+https://aldirect.rtmp.huya.com/huyalive/29106097-2689452658-11551111210250272768-2789274594-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="综合娱乐",MOMO親子 
+p2p://51.79.41.138:18912/5c7248620002c4fd1d52456c75ed6b55.ts
+#EXTINF:-1 group-title="综合娱乐",迪士尼卡通 
+p2p://51.79.41.138:18912/5b1409f30004f6ec17d479cd524c4642.ts
+#EXTINF:-1 group-title="综合娱乐",小猪佩奇
+http://baiducdnct.inter.iqiyi.com/tslive/c17_lb_kekexiaoai_720p_t10/c17_lb_kekexiaoai_720p_t10.m3u8
+#EXTINF:-1 group-title="综合娱乐",小马宝莉
+http://hls-ott-zhibo.wasu.tv/live/328/index.m3u8
+#EXTINF:-1 group-title="综合娱乐",小马宝莉(备)
+http://hls-ott-zhibo.wasu.tv/live/113/index.m3u8
+#EXTINF:-1 group-title="综合娱乐",海绵宝宝
+https://aldirect.rtmp.huya.com/huyalive/29359996-2689614918-11551808111643721728-2847687648-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="综合娱乐",猫小帅讲故事
+http://hls-ott-zhibo.wasu.tv/live/332/index.m3u8
+#EXTINF:-1 group-title="综合娱乐",猫和老鼠
+http://baiducdnct.inter.iqiyi.com/tslive/c19_lb_maohelaoshu_720p_t10/c19_lb_maohelaoshu_720p_t10.m3u8
+#EXTINF:-1 group-title="综合娱乐",新猫和老鼠
+https://aldirect.rtmp.huya.com/backsrc/94525224-2679664054-11509069476196777984-2847687532-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="综合娱乐",米奇妙妙屋
+http://baiducdnct.inter.iqiyi.com/tslive/c17_lb_yanchanghui_720p_t10/c17_lb_yanchanghui_720p_t10.m3u8
+#EXTINF:-1 group-title="综合娱乐",猪猪侠
+http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_yanchanghui_1080p_t10/c16_lb_yanchanghui_1080p_t10.m3u8
+#EXTINF:-1 group-title="综合娱乐",爆笑虫子
+http://baiducdnct.inter.iqiyi.com/tslive/c19_lb_baoxiaochongzi_720p_t10/c19_lb_baoxiaochongzi_720p_t10.m3u8
+#EXTINF:-1 group-title="综合娱乐",大头儿子小头爸爸
+http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_datouerzi_1080p_t10/c16_lb_datouerzi_1080p_t10.m3u8
+#EXTINF:-1 group-title="综合娱乐",喜洋洋与灰太狼
+http://baiducdnct.inter.iqiyi.com/tslive/c19_lb_xiyangyang_720p_t10/c19_lb_xiyangyang_720p_t10.m3u8
+#EXTINF:-1 group-title="综合娱乐",怀旧动画
+http://baiducdnct.inter.iqiyi.com/tslive/c19_lb_huanjiudongman_720p_t10/c19_lb_huanjiudongman_720p_t10.m3u8
+#EXTINF:-1 group-title="综合娱乐",动漫天地
+http://baiducdnct.inter.iqiyi.com/tslive/c20_lb_dongmantiandi_720p_t10/c20_lb_dongmantiandi_720p_t10.m3u8
+#EXTINF:-1 group-title="综合娱乐",动物兄弟
+http://baiducdnct.inter.iqiyi.com/tslive/c19_lb_yingshijinqu_720p_t10/c19_lb_yingshijinqu_720p_t10.m3u8
+#EXTINF:-1 group-title="综合娱乐",动画电影
+http://baiducdnct.inter.iqiyi.com/tslive/c19_lb_donghuadianying_720p_t10/c19_lb_donghuadianying_720p_t10.m3u8#http://111.40.205.73/wh7f454c46tw1287084215_925233335/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 group-title="综合娱乐",爱奇艺美食
+http://baiducdnct.inter.iqiyi.com/tslive/c19_lb_shoushennannv_720p_t10/c19_lb_shoushennannv_720p_t10.m3u8
+#EXTINF:-1 group-title="综合娱乐",爱奇艺玩具
+http://112.17.40.142/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230026/index.m3u8
+#EXTINF:-1 group-title="综合娱乐",玩县乐园
+http://baiducdnct.inter.iqiyi.com/tslive/c17_lb_wanjuleyuan_720p_t10/c17_lb_wanjuleyuan_720p_t10.m3u8
+#EXTINF:-1 group-title="综合娱乐",宝宝课堂
+http://baiducdnct.inter.iqiyi.com/tslive/c20_lb_baobaoketang_720p_t10/c20_lb_baobaoketang_720p_t10.m3u8
+#EXTINF:-1 group-title="综合娱乐",亲子启蒙
+http://baiducdnct.inter.iqiyi.com/tslive/c20_lb_qinziqimeng_720p_t10/c20_lb_qinziqimeng_720p_t10.m3u8
+#EXTINF:-1 group-title="综合娱乐",美少女战士
+http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_meishaonvzhanshi_1080p_t10/c16_lb_meishaonvzhanshi_1080p_t10.m3u8
+#EXTINF:-1 group-title="综合娱乐",数码宝贝
+http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_shumabaobei_1080p_t10/c16_lb_shumabaobei_1080p_t10.m3u8
+#EXTINF:-1 group-title="综合娱乐",迪士尼
+http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_dishine_1080p_t10/c15_lb_dishine_1080p_t10.m3u8
+#EXTINF:-1 group-title="综合娱乐",倒霉熊
+http://baiducdnct.inter.iqiyi.com/tslive/c20_lb_daomeixiong_720p_t10/c20_lb_daomeixiong_720p_t10.m3u8
+#EXTINF:-1 group-title="综合娱乐",巧虎剧场
+http://baiducdnct.inter.iqiyi.com/tslive/c20_lb_qiaohu_720p_t10/c20_lb_qiaohu_720p_t10.m3u8
+#EXTINF:-1 group-title="综合娱乐",巴啦啦小魔仙
+http://baiducdnct.inter.iqiyi.com/tslive/c19_lb_balalaxiaomoxian_720p_t10/c19_lb_balalaxiaomoxian_720p_t10.m3u8
+#EXTINF:-1 group-title="综合娱乐",铠甲勇士
+http://baiducdnct.inter.iqiyi.com/tslive/c17_lb_kaijiayongshi_720p_t10/c17_lb_kaijiayongshi_720p_t10.m3u8
+#EXTINF:-1 group-title="综合娱乐",宝宝巴士
+http://baiducdnct.inter.iqiyi.com/tslive/c19_lb_baobaobashi_720p_t10/c19_lb_baobaobashi_720p_t10.m3u8
+#EXTINF:-1 group-title="综合娱乐",儿歌大全
+http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_ergedaquan_1080p_t10/c15_lb_ergedaquan_1080p_t10.m3u8
+#EXTINF:-1 group-title="综合娱乐",瓦贝儿歌
+http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_beiwaerge_1080p_t10/c15_lb_beiwaerge_1080p_t10.m3u8
+#EXTINF:-1 group-title="综合娱乐",小巴林儿歌
+http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_xiaobalin_1080p_t10/c15_lb_xiaobalin_1080p_t10.m3u8
+#EXTINF:-1 group-title="综合娱乐",亲宝儿歌
+http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_qinbaoerge_1080p_t10/c15_lb_qinbaoerge_1080p_t10.m3u8
+#EXTINF:-1 group-title="综合娱乐",兔小贝儿歌
+http://baiducdnct.inter.iqiyi.com/tslive/c20_lb_tuxiaobeierge_720p_t10/c20_lb_tuxiaobeierge_720p_t10.m3u8
+#EXTINF:-1 group-title="综合娱乐",幽灵白书
+https://aldirect.rtmp.huya.com/huyalive/29169025-2686220814-11537230545964498944-2847687606-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="综合娱乐",足球小将
+https://aldirect.rtmp.huya.com/huyalive/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1_1200.m3u8
+#EXTINF:-1 group-title="综合娱乐",宠物小精灵皮卡皮卡
+https://aldirect.rtmp.huya.com/huyalive/29106097-2689280818-11550373163070128128-2777037662-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="综合娱乐",迪加奥特曼
+https://aldirect.rtmp.huya.com/huyalive/29106097-2689405806-11550909982442520576-3048959658-10057-A-1525400208-1_1200.m3u8
+#EXTINF:-1 group-title="综合娱乐",奥特曼
+http://baiducdnct.inter.iqiyi.com/tslive/c20_lb_aoteman_720p_t10/c20_lb_aoteman_720p_t10.m3u8
+#EXTINF:-1 group-title="综合娱乐",多啦a梦
+https://aldirect.rtmp.huya.com/huyalive/29169025-2686220742-11537230236726853632-3048959612-10057-A-1524131613-1_1200.m3u8
+#EXTINF:-1 group-title="综合娱乐",哆啦A梦
+http://baiducdnct.inter.iqiyi.com/tslive/c18_lb_duolaameng_720p_t10/c18_lb_duolaameng_720p_t10.m3u8
+#EXTINF:-1 group-title="综合娱乐",网球王子
+https://aldirect.rtmp.huya.com/huyalive/29359996-2689609142-11551783303912620032-2847687544-10057-A-1525493612-1_1200.m3u8
+#EXTINF:-1 group-title="综合娱乐",成龙历险记
+https://aldirect.rtmp.huya.com/huyalive/29169025-2686220626-11537229738510647296-2847699128-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="综合娱乐",黑子的篮球
+https://aldirect.rtmp.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="综合娱乐",七龙珠
+https://aldirect.rtmp.huya.com/huyalive/29169025-2686220712-11537230107877834752-3048959618-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="综合娱乐",Miao Mi TV
+http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
+#EXTINF:-1 group-title="综合娱乐",黑霉动画
+http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1 group-title="综合娱乐",YOYO HD卡通
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
 #EXTINF:-1 group-title="综合娱乐",鹿鼎记
 http://47.240.60.73/migu.php?id=625681368
 #EXTINF:-1 group-title="综合娱乐",好莱坞
@@ -575,35 +677,35 @@ https://aldirect.rtmp.huya.com/src/30765679-2523417175-10837994240789708800-2789
 https://aldirect.rtmp.huya.com/backsrc/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="虎牙电影",康熙微服私访记
 https://aldirect.rtmp.huya.com/huyalive/29169025-2686221704-11537234368485392384-2789274536-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="NewTV",NewTv-动作电影
+#EXTINF:-1 group-title="NewTv",NewTv-动作电影
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/1.m3u8
-#EXTINF:-1 group-title="NewTV",NewTv-家庭剧场
+#EXTINF:-1 group-title="NewTv",NewTv-家庭剧场
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8
-#EXTINF:-1 group-title="NewTV",NewTv-中国功夫
+#EXTINF:-1 group-title="NewTv",NewTv-中国功夫
 http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226321/1.m3u8
-#EXTINF:-1 group-title="NewTV",NewTv-爱情喜剧
+#EXTINF:-1 group-title="NewTv",NewTv-爱情喜剧
 http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8
-#EXTINF:-1 group-title="NewTV",NewTv-古装剧场
+#EXTINF:-1 group-title="NewTv",NewTv-古装剧场
 http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226323/1.m3u8
-#EXTINF:-1 group-title="NewTV",NewTv-军旅剧场
+#EXTINF:-1 group-title="NewTv",NewTv-军旅剧场
 http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226324/1.m3u8
-#EXTINF:-1 group-title="NewTV",NewTv-军事评论
+#EXTINF:-1 group-title="NewTv",NewTv-军事评论
 http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226326/1.m3u8
-#EXTINF:-1 group-title="NewTV",NewTv-精品大剧
+#EXTINF:-1 group-title="NewTv",NewTv-精品大剧
 http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
-#EXTINF:-1 group-title="NewTv",NewTV-海外剧场
+#EXTINF:-1 group-title="NewTv",NewTv-海外剧场
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225917/1.m3u8
 #EXTINF:-1 group-title="NewTv",NewTv-超级综艺
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226127/1.m3u8
 #EXTINF:-1 group-title="NewTv",NewTv-超级电影
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226133/1.m3u8
-#EXTINF:-1 group-title="NewTv",NewTV-超级电视剧
+#EXTINF:-1 group-title="NewTv",NewTv-超级电视剧
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
 #EXTINF:-1 group-title="NewTv",NewTv-超级体育
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226157/1.m3u8
-#EXTINF:-1 group-title="NewTv",NewTV-黑莓电影
+#EXTINF:-1 group-title="NewTv",NewTv-黑莓电影
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
-#EXTINF:-1 group-title="NewTv",NewTV-黑莓动画
+#EXTINF:-1 group-title="NewTv",NewTv-黑莓动画
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8
 #EXTINF:-1 group-title="嗨曲",毛不易 Ⅰ 像我这样的人
 https://vd3.bdstatic.com/mda-ka8qm8710ymkqdry/hd/mda-ka8qm8710ymkqdry.mp4?pd=20&vt=1
@@ -710,6 +812,6 @@ http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg" group-title="4K",纯享4K
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="4K",CCTV4K
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/ys4kcq_4000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/12/29/XhAaZzVgo42ESfc.png" group-title="4K",爱上4K
 http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
