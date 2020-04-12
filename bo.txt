@@ -1,10 +1,10 @@
 $c_start央视频道$c_end
-CCTV 01,https://116.77.72.195/streams/d/cctv1a/playlist.m3u8#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228504/index.m3u8?fmt=ts2hls#http://221.6.85.150:9000/live/cctv1_800/cctv1_800.m3u8
+CCTV 01,http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/2300000/mnf.m3u8#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228504/index.m3u8?fmt=ts2hls#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
 CCTV 02,https://116.77.72.195/streams/d/cctv2/playlist.m3u8#http://wxcnlive.videocc.net/vod1/cctv2169/01.m3u8?wsSecret=0f883c8649a6b883016f6408d7c80f9d&wsTime=1509347397#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228482/index.m3u8?fmt=ts2hls#http://221.6.85.150:9000/live/cctv2_800/cctv2_800.m3u8#http://223.110.241.203:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/
 CCTV 03,https://116.77.72.195/streams/d/cctv3/playlist.m3u8#http://39.135.32.29:6610/000000001000/1000000001000011218/index.m3u8?i#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228563/index.m3u8?fmt=ts2hls#http://newvideo.dangtutv.cn:8278/CCTVzongyi/playlist.m3u8#http://221.6.85.150:9000/live/cctv3_800/cctv3_800.m3u8
 CCTV 04,http://183.207.249.11/PLTV/3/224/3221225534/index.m3u8#http://223.110.242.130:6610/gitv/live1/G_CCTV-4-HQ/index.m3u8#http://221.6.85.150:9000/live/cctv4_800/cctv4_800.m3u8#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229319/index.m3u8?fmt=ts2hls
 CCTV 05,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228570/index.m3u8?fmt=ts2hls#https://116.77.72.195/streams/d/cctv5/playlist.m3u8#http://223.110.241.204:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/#http://221.6.85.150:9000/live/cctv5_800/cctv5_800.m3u8
-CCTV 06,https://116.77.72.195/streams/d/cctv6/playlist.m3u8#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228566/index.m3u8?fmt=ts2hls#http://221.6.85.150:9000/live/cctv6_800/cctv6_800.m3u8
+CCTV 06,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228566/index.m3u8?fmt=ts2hls#http://101.71.255.229:6610/zjhs/2/10065/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://125.210.152.18:9090/live/CCTV6HD_H265.m3u8
 CCTV 07,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228507/index.m3u8?fmt=ts2hls#https://116.77.72.195/streams/d/cctv7/playlist.m3u8#http://221.6.85.150:9000/live/cctv7_800/cctv7_800.m3u8
 CCTV 08,https://116.77.72.195/streams/d/cctv8/playlist.m3u8#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228569/index.m3u8?fmt=ts2hls#http://221.6.85.150:9000/live/cctv8_800/cctv8_800.m3u8
 CCTV 09,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228510/index.m3u8?fmt=ts2hls#https://116.77.72.195/streams/d/cctv9/playlist.m3u8http://221.6.85.150:9000/live/cctv9_800/cctv9_800.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225734/index.m3u8
@@ -199,10 +199,6 @@ HBO-HD,vjms://58.215.133.161:8500/live/cid=261#vjms://58.215.133.185:8500:3502/l
 HBO原创,vjms://58.215.133.161:8500/live/cid=436#vjms://58.215.133.185:8500:3502/live/cid=436#vjms://23.237.33.155:8500:3502/live/cid=436
 HBO強檔,vjms://58.215.133.161:8500/live/cid=238#vjms://58.215.133.185:8500:3502/live/cid=238
 HBO溫馨,vjms://58.215.133.161:8500/live/cid=181
-HBO亞洲電影,vjms://121.14.222.77:8500/live/cid=261
-HBO原創電影,vjms://121.14.222.77:8500/live/cid=236
-HBO強檔電影,vjms://121.14.222.77:8500/live/cid=238
-HBO溫馨電影,vjms://121.14.222.77:8500/live/cid=181
 国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo#vjms://58.215.133.185:8500:3502/live/cid=115#vjms://23.237.33.155:8500:3502/live/cid=115
 探索频道,rtmp://58.200.131.2:1935/livetv/discovery
 CHANNEL[V],rtmp://58.200.131.2:1935/livetv/channelv#rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
@@ -373,6 +369,62 @@ iHOT爱军武,http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=z
 刘涛作品集,http://47.240.60.73/migu.php?id=625514969
 天龙八部集,http://47.240.60.73/migu.php?id=625703337
 盗墓方法论,http://47.240.60.73/migu.php?id=625525181
+海底小纵队,http://kkitv.com/iptv/mg.php?id=639528330#http://www.dszbdq.cn/diao/migu.php?id=639528330
+海底小纵队2,http://player.ioioz.com/17/0/migum3u8.php?id=639528330#http://ao.52yi.vip/migu.php?id=639528330#http://kkitv.com/iptv/mg.php?id=639528330
+男宝宝最爱,http://player.ioioz.com/17/0/migum3u8.php?id=639528180#http://ao.52yi.vip/migu.php?id=639528180#http://kkitv.com/iptv/mg.php?id=63928180
+女宝宝最爱,http://player.ioioz.com/17/0/migum3u8.php?id=639528313#http://ao.52yi.vip/migu.php?id=639528313#http://kkitv.com/iptv/mg.php?id=639528313
+经典西游记,https://aldirect.rtmp.huya.com/huyalive/29141112-2689673336-11552059015043219456-3048991588-10057-A-0-1_1200.m3u8
+西游记动画,https://aldirect.rtmp.huya.com/huyalive/29106097-2689452658-11551111210250272768-2789274594-10057-A-0-1_1200.m3u8
+MOMO親子 ,p2p://51.79.41.138:18912/5c7248620002c4fd1d52456c75ed6b55.ts
+迪士尼卡通 ,p2p://51.79.41.138:18912/5b1409f30004f6ec17d479cd524c4642.ts
+小猪佩奇,http://baiducdnct.inter.iqiyi.com/tslive/c17_lb_kekexiaoai_720p_t10/c17_lb_kekexiaoai_720p_t10.m3u8
+小马宝莉,http://hls-ott-zhibo.wasu.tv/live/328/index.m3u8
+小马宝莉(备),http://hls-ott-zhibo.wasu.tv/live/113/index.m3u8
+海绵宝宝,https://aldirect.rtmp.huya.com/huyalive/29359996-2689614918-11551808111643721728-2847687648-10057-A-0-1_1200.m3u8
+猫小帅讲故事,http://hls-ott-zhibo.wasu.tv/live/332/index.m3u8
+猫和老鼠,http://baiducdnct.inter.iqiyi.com/tslive/c19_lb_maohelaoshu_720p_t10/c19_lb_maohelaoshu_720p_t10.m3u8
+新猫和老鼠,https://aldirect.rtmp.huya.com/backsrc/94525224-2679664054-11509069476196777984-2847687532-10057-A-0-1_1200.m3u8
+米奇妙妙屋,http://baiducdnct.inter.iqiyi.com/tslive/c17_lb_yanchanghui_720p_t10/c17_lb_yanchanghui_720p_t10.m3u8
+猪猪侠,http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_yanchanghui_1080p_t10/c16_lb_yanchanghui_1080p_t10.m3u8
+爆笑虫子,http://baiducdnct.inter.iqiyi.com/tslive/c19_lb_baoxiaochongzi_720p_t10/c19_lb_baoxiaochongzi_720p_t10.m3u8
+大头儿子小头爸爸,http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_datouerzi_1080p_t10/c16_lb_datouerzi_1080p_t10.m3u8
+喜洋洋与灰太狼,http://baiducdnct.inter.iqiyi.com/tslive/c19_lb_xiyangyang_720p_t10/c19_lb_xiyangyang_720p_t10.m3u8
+怀旧动画,http://baiducdnct.inter.iqiyi.com/tslive/c19_lb_huanjiudongman_720p_t10/c19_lb_huanjiudongman_720p_t10.m3u8
+动漫天地,http://baiducdnct.inter.iqiyi.com/tslive/c20_lb_dongmantiandi_720p_t10/c20_lb_dongmantiandi_720p_t10.m3u8
+动物兄弟,http://baiducdnct.inter.iqiyi.com/tslive/c19_lb_yingshijinqu_720p_t10/c19_lb_yingshijinqu_720p_t10.m3u8
+动画电影,http://baiducdnct.inter.iqiyi.com/tslive/c19_lb_donghuadianying_720p_t10/c19_lb_donghuadianying_720p_t10.m3u8#http://111.40.205.73/wh7f454c46tw1287084215_925233335/PLTV/88888888/224/3221225662/index.m3u8
+爱奇艺美食,http://baiducdnct.inter.iqiyi.com/tslive/c19_lb_shoushennannv_720p_t10/c19_lb_shoushennannv_720p_t10.m3u8
+爱奇艺玩具,http://112.17.40.142/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230026/index.m3u8
+玩县乐园,http://baiducdnct.inter.iqiyi.com/tslive/c17_lb_wanjuleyuan_720p_t10/c17_lb_wanjuleyuan_720p_t10.m3u8
+宝宝课堂,http://baiducdnct.inter.iqiyi.com/tslive/c20_lb_baobaoketang_720p_t10/c20_lb_baobaoketang_720p_t10.m3u8
+亲子启蒙,http://baiducdnct.inter.iqiyi.com/tslive/c20_lb_qinziqimeng_720p_t10/c20_lb_qinziqimeng_720p_t10.m3u8
+美少女战士,http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_meishaonvzhanshi_1080p_t10/c16_lb_meishaonvzhanshi_1080p_t10.m3u8
+数码宝贝,http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_shumabaobei_1080p_t10/c16_lb_shumabaobei_1080p_t10.m3u8
+迪士尼,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_dishine_1080p_t10/c15_lb_dishine_1080p_t10.m3u8
+倒霉熊,http://baiducdnct.inter.iqiyi.com/tslive/c20_lb_daomeixiong_720p_t10/c20_lb_daomeixiong_720p_t10.m3u8
+巧虎剧场,http://baiducdnct.inter.iqiyi.com/tslive/c20_lb_qiaohu_720p_t10/c20_lb_qiaohu_720p_t10.m3u8
+巴啦啦小魔仙,http://baiducdnct.inter.iqiyi.com/tslive/c19_lb_balalaxiaomoxian_720p_t10/c19_lb_balalaxiaomoxian_720p_t10.m3u8
+铠甲勇士,http://baiducdnct.inter.iqiyi.com/tslive/c17_lb_kaijiayongshi_720p_t10/c17_lb_kaijiayongshi_720p_t10.m3u8
+宝宝巴士,http://baiducdnct.inter.iqiyi.com/tslive/c19_lb_baobaobashi_720p_t10/c19_lb_baobaobashi_720p_t10.m3u8
+儿歌大全,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_ergedaquan_1080p_t10/c15_lb_ergedaquan_1080p_t10.m3u8
+瓦贝儿歌,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_beiwaerge_1080p_t10/c15_lb_beiwaerge_1080p_t10.m3u8
+小巴林儿歌,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_xiaobalin_1080p_t10/c15_lb_xiaobalin_1080p_t10.m3u8
+亲宝儿歌,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_qinbaoerge_1080p_t10/c15_lb_qinbaoerge_1080p_t10.m3u8
+兔小贝儿歌,http://baiducdnct.inter.iqiyi.com/tslive/c20_lb_tuxiaobeierge_720p_t10/c20_lb_tuxiaobeierge_720p_t10.m3u8
+幽灵白书,https://aldirect.rtmp.huya.com/huyalive/29169025-2686220814-11537230545964498944-2847687606-10057-A-0-1_1200.m3u8
+足球小将,https://aldirect.rtmp.huya.com/huyalive/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1_1200.m3u8
+宠物小精灵皮卡皮卡,https://aldirect.rtmp.huya.com/huyalive/29106097-2689280818-11550373163070128128-2777037662-10057-A-0-1_1200.m3u8
+迪加奥特曼,https://aldirect.rtmp.huya.com/huyalive/29106097-2689405806-11550909982442520576-3048959658-10057-A-1525400208-1_1200.m3u8
+奥特曼,http://baiducdnct.inter.iqiyi.com/tslive/c20_lb_aoteman_720p_t10/c20_lb_aoteman_720p_t10.m3u8
+多啦a梦,https://aldirect.rtmp.huya.com/huyalive/29169025-2686220742-11537230236726853632-3048959612-10057-A-1524131613-1_1200.m3u8
+哆啦A梦,http://baiducdnct.inter.iqiyi.com/tslive/c18_lb_duolaameng_720p_t10/c18_lb_duolaameng_720p_t10.m3u8
+网球王子,https://aldirect.rtmp.huya.com/huyalive/29359996-2689609142-11551783303912620032-2847687544-10057-A-1525493612-1_1200.m3u8
+成龙历险记,https://aldirect.rtmp.huya.com/huyalive/29169025-2686220626-11537229738510647296-2847699128-10057-A-0-1_1200.m3u8
+黑子的篮球,https://aldirect.rtmp.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
+七龙珠,https://aldirect.rtmp.huya.com/huyalive/29169025-2686220712-11537230107877834752-3048959618-10057-A-0-1_1200.m3u8
+Miao Mi TV,http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
+黑霉动画,http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
+YOYO HD卡通,http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
 年代MUCH,vjms://58.215.133.161:8500/live/cid=439#vjms://58.215.133.185:8500:3502/live/cid=439#vjms://58.215.133.185:8500:3502/live/cid=439#vjms://58.215.133.185:8500:3502/live/cid=439
 年代新聞,vjms://58.215.133.161:8500/live/cid=455#vjms://58.215.133.161:8500:3502/live/cid=455
 东森新聞,vjms://58.215.133.161:8500/live/cid=340
