@@ -18,7 +18,6 @@ CCTV-17,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226841/index.m3
 CGTN 国际频道,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN 记录频道,http://live.cgtn.com/1000d/prog_index.m3u8
 CGTN 法语频道,http://live.cgtn.com/1000f/prog_index.m3u8
-CCTV 4K超高清,http://39.134.185.69/PLTV/88888888/224/3221226758/index.m3u8
 $c_start卫视频道$c_end
 浙江卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8#http://223.110.242.204:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/
 东方卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8#http://223.110.242.204:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/
@@ -453,7 +452,7 @@ $c_start虎牙电影$c_end
 相声小品,https://aldirect.rtmp.huya.com/backsrc/29106097-2689281338-11550375396453122048-2777038134-10057-A-0-1_2500.m3u8
 成  龙,https://aldirect.rtmp.huya.com/backsrc/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_2500.m3u8
 林正英,https://aldirect.rtmp.huya.com/backsrc/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_2500.m3u8
-香港轮播电影,http://aldirect.rtmp.huya.com/backsrc/30765679-2479074344-10647543231832653824-3049003166-10057-A-0-1.m3u8
+虎牙电影,http://aldirect.rtmp.huya.com/backsrc/30765679-2479074344-10647543231832653824-3049003166-10057-A-0-1.m3u8
 李连杰,https://al.rtmp.huya.com/src/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_2500.m3u8
 吴京,https://aldirect.rtmp.huya.com/backsrc/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_2500.m3u8
 周润发,https://aldirect.rtmp.huya.com/backsrc/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_2500.m3u8
@@ -623,5 +622,5 @@ Light Ⅰ 火箭少女101,http://he.yinyuetai.com/uploads/videos/common/B9D50166
 $c_start4K$c_end？
 BesTV4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 纯享4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-CCTV-4K,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+CCTV-4K,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8#http://39.134.185.69/PLTV/88888888/224/3221226758/index.m3u8
 爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
