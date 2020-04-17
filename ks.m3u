@@ -1,812 +1,654 @@
 #EXTM3U
 #EXTINF:-1 group-title="央视频道",CCTV-1
-http://iptv.pdsu.edu.cn/hls/cctv1hd.m3u8
+P2p://sdgdklwos.finetv.tv:9906/59fd09e2000d0343023b196a477c58c6
 #EXTINF:-1 group-title="央视频道",CCTV-2
-http://iptv.pdsu.edu.cn/hls/cctv2hd.m3u8
+P2p://sdgdklwos.finetv.tv:9906/5acb88760003a9b52c17c2d1626016c9
 #EXTINF:-1 group-title="央视频道",CCTV-3
-http://iptv.pdsu.edu.cn/hls/cctv3hd.m3u8
+P2p://sdgdklwos.finetv.tv:9906/59fd112c000823dd025791324b44268b
 #EXTINF:-1 group-title="央视频道",CCTV-4
-http://iptv.pdsu.edu.cn/hls/cctv4hd.m3u8
+P2p://sdgdklwos.finetv.tv:9906/59fd110e000aa9ea02571cae6b244f21
+#EXTINF:-1 group-title="央视频道",CCTV-4
+P2p://sdgdklwos.finetv.tv:9906/5afa3ee3000cd34d4210dfec5abb6867
 #EXTINF:-1 group-title="央视频道",CCTV-5
-http://iptv.pdsu.edu.cn/hls/cctv5hd.m3u8
+P2p://sdgdklwos.finetv.tv:9906/59fd114e000782de025815e36e2e46ba
+#EXTINF:-1 group-title="央视频道",CCTV-5
+P2p://sdgdklwos.finetv.tv:9906/5af176e70006bbf71fc35a4852be1e1b
+#EXTINF:-1 group-title="央视频道",CCTV-5+
+P2p://sdgdklwos.finetv.tv:9906/59fd0ed6000b1055024e720d617b57a7
 #EXTINF:-1 group-title="央视频道",CCTV-6
-http://iptv.pdsu.edu.cn/hls/cctv6hd.m3u8
+P2p://sdgdklwos.finetv.tv:9906/59fd0e3f000097ce024c218614df21c6
 #EXTINF:-1 group-title="央视频道",CCTV-7
-http://iptv.pdsu.edu.cn/hls/cctv7hd.m3u8
+P2p://sdgdklwos.finetv.tv:9906/5acb8a7600095ba92c1f944804097dc9
 #EXTINF:-1 group-title="央视频道",CCTV-8
-http://iptv.pdsu.edu.cn/hls/cctv8hd.m3u8
+P2p://sdgdklwos.finetv.tv:9906/59fd1093000c4a7502553ca305e012c2
 #EXTINF:-1 group-title="央视频道",CCTV-9
-http://iptv.pdsu.edu.cn/hls/cctv9hd.m3u8
+P2p://sdgdklwos.finetv.tv:9906/59fd1067000d003a025490f21bc33bb5
 #EXTINF:-1 group-title="央视频道",CCTV-10
-http://iptv.pdsu.edu.cn/hls/cctv10hd.m3u8
+P2p://sdgdklwos.finetv.tv:9906/59fd1034000389c00253c74914c161cf
 #EXTINF:-1 group-title="央视频道",CCTV-11
-http://iptv.pdsu.edu.cn/hls/cctv11.m3u8
+P2p://sdgdklwos.finetv.tv:9906/5acb87d30003c3982c1546197ab825c8
 #EXTINF:-1 group-title="央视频道",CCTV-12
-http://iptv.pdsu.edu.cn/hls/cctv12hd.m3u8
+P2p://sdgdklwos.finetv.tv:9906/59fd1014000e00ab02534cf91c075707
 #EXTINF:-1 group-title="央视频道",CCTV-13
-http://iptv.pdsu.edu.cn/hls/cctv13.m3u8
+P2p://sdgdklwos.finetv.tv:9906/59fd0ff30008c4570252cab91c8e2911
 #EXTINF:-1 group-title="央视频道",CCTV-14
-http://iptv.pdsu.edu.cn/hls/cctv14hd.m3u8
+P2p://sdgdklwos.finetv.tv:9906/59fd5039000a36c9034ddc8756e25a82
 #EXTINF:-1 group-title="央视频道",CCTV-15
-http://iptv.pdsu.edu.cn/hls/cctv15.m3u8
-#EXTINF:-1 group-title="卫视频道",北京卫视
-http://iptv.pdsu.edu.cn/hls/btv1hd.m3u8
-#EXTINF:-1 group-title="卫视频道",北京影视
-http://iptv.pdsu.edu.cn/hls/btv4hd.m3u8
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://iptv.pdsu.edu.cn/hls/hunanhd.m3u8
-#EXTINF:-1 group-title="卫视频道",浙江卫视
-http://iptv.pdsu.edu.cn/hls/zjhd.m3u8
-#EXTINF:-1 group-title="卫视频道",江苏卫视
-http://iptv.pdsu.edu.cn/hls/jshd.m3u8
-#EXTINF:-1 group-title="卫视频道",东方卫视
-http://ivi.bupt.edu.cn/hls/dfhd.m3u8
-#EXTINF:-1 group-title="卫视频道",安徽卫视
-http://iptv.pdsu.edu.cn/hls/ahhd.m3u8
-#EXTINF:-1 group-title="卫视频道",西藏卫视
-http://iptv.pdsu.edu.cn/hls/xztv.m3u8
-#EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://iptv.pdsu.edu.cn/hls/hljtv.m3u8
-#EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://iptv.pdsu.edu.cn/hls/nmtv.m3u8
-#EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://iptv.pdsu.edu.cn/hls/lnhd.m3u8
-#EXTINF:-1 group-title="卫视频道",深圳卫视
-http://iptv.pdsu.edu.cn/hls/szhd.m3u8
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://iptv.pdsu.edu.cn/hls/gdhd.m3u8
-#EXTINF:-1 group-title="卫视频道",广西卫视
-http://iptv.pdsu.edu.cn/hls/gxtv.m3u8
-#EXTINF:-1 group-title="卫视频道",天津卫视
-http://iptv.pdsu.edu.cn/hls/tjhd.m3u8
-#EXTINF:-1 group-title="卫视频道",湖北卫视
-http://iptv.pdsu.edu.cn/hls/hbhd.m3u8
-#EXTINF:-1 group-title="卫视频道",山东卫视
-http://iptv.pdsu.edu.cn/hls/sdhd.m3u8
+P2p://sdgdklwos.finetv.tv:9906/59fd500b0009f2aa034d28c736265f91
 #EXTINF:-1 group-title="卫视频道",重庆卫视
-http://iptv.pdsu.edu.cn/hls/cqhd.m3u8
-#EXTINF:-1 group-title="卫视频道",四川卫视
-http://iptv.pdsu.edu.cn/hls/schd.m3u8
-#EXTINF:-1 group-title="卫视频道",东南卫视
-http://iptv.pdsu.edu.cn/hls/dnhd.m3u8
-#EXTINF:-1 group-title="卫视频道",河北卫视
-http://iptv.pdsu.edu.cn/hls/hebhd.m3u8
-#EXTINF:-1 group-title="卫视频道",河南卫视
-http://iptv.pdsu.edu.cn/hls/hntv.m3u8
-#EXTINF:-1 group-title="卫视频道",江西卫视
-http://iptv.pdsu.edu.cn/hls/jxhd.m3u8
-#EXTINF:-1 group-title="卫视频道",新疆卫视
-http://iptv.pdsu.edu.cn/hls/xjtv.m3u8
-#EXTINF:-1 group-title="卫视频道",云南卫视
-http://iptv.pdsu.edu.cn/hls/yntv.m3u8
-#EXTINF:-1 group-title="卫视频道",宁夏卫视
-http://iptv.pdsu.edu.cn/hls/nxtv.m3u8
+P2p://sdgdklwos.finetv.tv:9906/59fd305a000a618606095bff7fb95617
 #EXTINF:-1 group-title="卫视频道",贵州卫视
-http://iptv.pdsu.edu.cn/hls/gztv.m3u8
-#EXTINF:-1 group-title="卫视频道",甘肃卫视
-http://iptv.pdsu.edu.cn/hls/gstv.m3u8
-#EXTINF:-1 group-title="卫视频道",山西卫视
-http://iptv.pdsu.edu.cn/hls/sxrtv.m3u8
-#EXTINF:-1 group-title="卫视频道",吉林卫视
-http://iptv.pdsu.edu.cn/hls/jltv.m3u8
-#EXTINF:-1 group-title="卫视频道",青海卫视
-http://iptv.pdsu.edu.cn/hls/qhtv.m3u8
-#EXTINF:-1 group-title="卫视频道",凤凰卫视
-http://iptv.pdsu.edu.cn/hls/fhzw.m3u8
-#EXTINF:-1 group-title="地方频道",浙江 Ⅰ 柯桥综合台
-http://live.scbtv.cn/hls/news/index.m3u8
-#EXTINF:-1 group-title="地方频道",浙江 Ⅰ 柯桥时尚台
-http://live.scbtv.cn/hls/qfc/index.m3u8
-#EXTINF:-1 group-title="地方频道",安徽 Ⅰ 六安综合台
-http://live.china-latv.com/channel1/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",安徽 Ⅰ 六安公共台
-http://live.china-latv.com/channel2/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",安徽 Ⅰ 淮北公共台
-http://live.0561rtv.cn/ggpd/hd/live.m3u8
-#EXTINF:-1 group-title="地方频道",安徽 Ⅰ 淮北综合台
-http://live.0561rtv.cn/xwzh/hd/live.m3u8
-#EXTINF:-1 group-title="地方频道",江苏 Ⅰ 无锡综合台
-http://live-wx.wifiwx.com/wxtv1/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",江苏 Ⅰ 无锡都市台
-http://live-wx.wifiwx.com/wxtv3/sd/live.m3u8
-#EXTINF:-1 group-title="地方频道",江苏 Ⅰ 南京综合台
-http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
-#EXTINF:-1 group-title="地方频道",江苏 Ⅰ 苏州综合台
-http://player.200877926.top/17/js/suzhoum3u8.php?id=60
-#EXTINF:-1 group-title="地方频道",江苏 Ⅰ 苏州生活台
-http://player.ioioz.com/18/tv.php?tv=jssztv&id=53
-#EXTINF:-1 group-title="地方频道",江苏 Ⅰ 扬州综合台
-http://player.200877926.top/18/yangzhou.php?u=jsyztv1
-#EXTINF:-1 group-title="地方频道",云南 Ⅰ 文山综合台
-http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
-#EXTINF:-1 group-title="地方频道",云南 Ⅰ 文山公共台
-http://tvdrs.wsrtv.com.cn:8100/channellive/ch2.flv
-#EXTINF:-1 group-title="地方频道",北京 Ⅰ 北京文艺台
-http://101.89.132.136/live/tm-btv2hd-800k.m3u8
-#EXTINF:-1 group-title="地方频道",北京 Ⅰ 北京影视台
-http://101.89.132.136/live/tm-btv4-800k.m3u8
-#EXTINF:-1 group-title="地方频道",北京 Ⅰ 北京新闻台
-http://101.89.132.136/live/tm-btv9-800k.m3u8
+P2p://sdgdklwos.finetv.tv:9906/59fd30380006d2510608d6454a1434ab
+#EXTINF:-1 group-title="卫视频道",四川卫视
+P2p://sdgdklwos.finetv.tv:9906/59fd3014000d466f06084b4b282852c6
+#EXTINF:-1 group-title="卫视频道",天津卫视
+P2p://sdgdklwos.finetv.tv:9906/59fd2fee0007c7af0607b5747b6c1e69
+#EXTINF:-1 group-title="卫视频道",广西卫视
+P2p://sdgdklwos.finetv.tv:9906/59fd2fcd00054d78060733e044786a54
+#EXTINF:-1 group-title="卫视频道",东南卫视
+P2p://sdgdklwos.finetv.tv:9906/59fd2f73000b9c7f0605d5f612ee5c28
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+P2p://sdgdklwos.finetv.tv:9906/59fd2f550008813006055ffa7bcd256a
+#EXTINF:-1 group-title="卫视频道",江西卫视
+P2p://sdgdklwos.finetv.tv:9906/59fd2f3000074d570604cf240e814177
+#EXTINF:-1 group-title="卫视频道",广东卫视
+P2p://sdgdklwos.finetv.tv:9906/59fd2f14000d158a0604633b26bd56e8
+#EXTINF:-1 group-title="卫视频道",河北卫视
+P2p://sdgdklwos.finetv.tv:9906/59fd2efa0003f4640603fb5a51765d87
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+P2p://sdgdklwos.finetv.tv:9906/59fd117a00023abf0258c06b4ad62eae
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+P2p://sdgdklwos.finetv.tv:9906/59fd10e800045e660256869869d111d3
+#EXTINF:-1 group-title="卫视频道",北京卫视
+P2p://sdgdklwos.finetv.tv:9906/59fd0e71000bf32f024ce7b40dd539ee
+#EXTINF:-1 group-title="卫视频道",东方卫视
+P2p://sdgdklwos.finetv.tv:9906/59fd0dd2000cebab024a7ada5cf83d2e
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+P2p://sdgdklwos.finetv.tv:9906/59fd0d580000b53b02489b2e76174df8
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+P2p://sdgdklwos.finetv.tv:9906/59fd0e1800093047024b8b6025a55806
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+P2p://sdgdklwos.finetv.tv:9906/59fd0df6000278d8024b04db1f825a90
+#EXTINF:-1 group-title="地方频道",海峡卫视
+p2p://860825993:18912/5b140977000c5b2317d2975142727199#p2p://860825993:18912/5b140a99000c97f517d7043116ef1a17
+#EXTINF:-1 group-title="地方频道",广东体育
+p2p://860825993:18912/5b1409fd00034c8417d4a06f6c23693c
+#EXTINF:-1 group-title="地方频道",广东卫视
+p2p://860825993:18912/5b13f6f0000627fa178a366301f93b4b
+#EXTINF:-1 group-title="地方频道",广东新闻
+p2p://860825993:18912/5b1409fd0004b9b717d4a0cd1d29663b
+#EXTINF:-1 group-title="地方频道",广东影视
+p2p://860825993:18912/5b14094a0006a29417d1e6127bad1df1
+#EXTINF:-1 group-title="地方频道",都市剧场
+P2p://sdgdklwos.finetv.tv:9906/59fd276d000b8b6d02ae80040368597e
+#EXTINF:-1 group-title="地方频道",快乐垂钓
+P2p://sdgdklwos.finetv.tv:9906/59fd0add000221eb023eeb130f1c4195
+#EXTINF:-1 group-title="地方频道",新 视 觉
+P2p://sdgdklwos.finetv.tv:9906/59fd2707000213d002acef2341433091
+#EXTINF:-1 group-title="地方频道",中国电影
+P2p://sdgdklwos.finetv.tv:9906/59fd31940007515202d627434d991d4f
+#EXTINF:-1 group-title="地方频道",中华美食
+P2p://sdgdklwos.finetv.tv:9906/59fd2b35000d642c02bd45b223ec494c
+#EXTINF:-1 group-title="地方频道",海峡卫视
+P2p://sdgdklwos.finetv.tv:9906/5aefbc720007aafb1903017e4bc35206
+#EXTINF:-1 group-title="地方频道",南方卫视
+P2p://sdgdklwos.finetv.tv:9906/59fd30fb0002434d02d3d053299809c9
+#EXTINF:-1 group-title="地方频道",广东影视
+P2p://sdgdklwos.finetv.tv:9906/5a6c9475000ad86eb92bcb4778a21506
+#EXTINF:-1 group-title="地方频道",广东体育
+P2p://sdgdklwos.finetv.tv:9906/5acb5cb90007145f2b6ce964057a3e6f
+#EXTINF:-1 group-title="地方频道",广东公共
+P2p://sdgdklwos.finetv.tv:9906/5acb5e97000832b02b7434e27e044cda
+#EXTINF:-1 group-title="地方频道",广东珠江
+P2p://sdgdklwos.finetv.tv:9906/59fd0dac0006c1b20249e4e41d8b57cf
+#EXTINF:-1 group-title="地方频道",珠江电影
+P2p://sdgdklwos.finetv.tv:9906/5a6c94d5000dae17b92d43033f1e125d
+#EXTINF:-1 group-title="地方频道",怀旧剧场
+P2p://sdgdklwos.finetv.tv:9906/59fd28b40000173b02b37a6e68ed171b
+#EXTINF:-1 group-title="地方频道",风云足球
+P2p://sdgdklwos.finetv.tv:9906/59fd0bbb000185ff02424e24243823ca
+#EXTINF:-1 group-title="地方频道",央视高网
+P2p://sdgdklwos.finetv.tv:9906/59fd0ea1000c97c2024da3637f913dde
+#EXTINF:-1 group-title="地方频道",游戏竞技
+P2p://sdgdklwos.finetv.tv:9906/59fd24f00005da6c02a4c6456cf31e13
+#EXTINF:-1 group-title="地方频道",CHC高清电影
+P2p://sdgdklwos.finetv.tv:9906/59fd0b3f0002084d024069e339cc1997
+#EXTINF:-1 group-title="地方频道",CHC动作电影
+P2p://sdgdklwos.finetv.tv:9906/59fd25c800060e1102a812154e343f18
+#EXTINF:-1 group-title="地方频道",CHC家庭影院
+P2p://sdgdklwos.finetv.tv:9906/59fd25b000031edb02a7b38a6a5d0696
 #EXTINF:-1 group-title="港台影视",HBO
-vjms://58.215.133.185:8500:3502/live/cid=261
-#EXTINF:-1 group-title="港台影视",HBO
-vjms://23.237.33.155:8500:3502/live/cid=261
-#EXTINF:-1 group-title="港台影视",HBO电影
-vjms://58.215.133.185:8500:3502/live/cid=436
-#EXTINF:-1 group-title="港台影视",HBO电影
-vjms://23.237.33.155:8500:3502/live/cid=436
-#EXTINF:-1 group-title="港台影视",HBO家庭
-vjms://58.215.133.185:8500:3502/live/cid=181
-#EXTINF:-1 group-title="港台影视",HBO家庭
-vjms://23.237.33.155:8500:3502/live/cid=181
-#EXTINF:-1 group-title="港台影视",HBO强档
-vjms://58.215.133.185:8500:3502/live/cid=238
-#EXTINF:-1 group-title="港台影视",HBO强档
-vjms://23.237.33.155:8500:3502/live/cid=238
-#EXTINF:-1 group-title="港台影视",东森电影
-http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-#EXTINF:-1 group-title="港台影视",东森电影
-http://192.154.103.75:8080//ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-#EXTINF:-1 group-title="港台影视",东森电影
-tvbus://12E14tpq7uV1zLRdMHFYh3FdyURG5XkWi53smDeAbJcfzxHpgYp
-#EXTINF:-1 group-title="港台影视",东森电影
-p8p://0198.02686.cc:16871/5d1a69af0009735f11bdcb2402d2abda.ts
-#EXTINF:-1 group-title="港台影视",东森电影
-p2p://51.79.41.138:18912/5c7249d3000cb8ea1d57e9650d7148b7.ts
-#EXTINF:-1 group-title="港台影视",东森洋片
-tvbus://1jqrNZ8dt84AhKCLVypeBgfHwfpMSvsyFqvSX6u4FfSbP9JqCv
-#EXTINF:-1 group-title="港台影视",靖天电影台
-p8p://0198.02686.cc:16871/5d1a69d4000d791711be5cb4cbc75c73.ts
-#EXTINF:-1 group-title="港台影视",龙华经典
-p2p://fccsovh.pvbox.live:18912/5b14090b0001269c17d0ee93023202c3
-#EXTINF:-1 group-title="港台影视",龙华影剧
-P2p://51.79.41.138:18912/5b1408f2000aaf8c17d08f5c001549e8.ts
-#EXTINF:-1 group-title="港台影视",美亚电影
-P2p://190.2.146.92:18912/5c724a0e000442831d58cdaa6a2c5c52.ts
-#EXTINF:-1 group-title="港台影视",美亚电影
-p2p://51.79.41.138:18912/5c724a0e000442831d58cdaa6a2c5c52.ts
-#EXTINF:-1 group-title="港台影视",星卫电影台
-P2p://190.2.146.92:18912/5c724a05000626a61d58aaff0c3f3175.ts
+P2p://sdgdklwos.finetv.tv:9906/59fd1566000391610268129978510d8e
+#EXTINF:-1 group-title="港台影视",HBO温馨家庭
+P2p://sdgdklwos.finetv.tv:9906/59fd152900015243026723c45811069b
+#EXTINF:-1 group-title="港台影视",HBO原創巨獻
+P2p://sdgdklwos.finetv.tv:9906/59fd14fc0005019f026674e730ed03b5#P2p://sdgdklwos.finetv.tv:9906/59fd22e50004a1f8029ccaff41480126
+#EXTINF:-1 group-title="港台影视",FX HD
+P2p://sdgdklwos.finetv.tv:9906/59fd279b000c06e702af33d47d4c770a
+#EXTINF:-1 group-title="港台影视",FOX HD
+P2p://sdgdklwos.finetv.tv:9906/59fd14cf000321f60265c4a24ca93407
+#EXTINF:-1 group-title="港台影视",FOX優質電影
+P2p://sdgdklwos.finetv.tv:9906/59fd246a0009125502a2bba01b0f4bf5
+#EXTINF:-1 group-title="港台影视",FOX家庭影院
+P2p://sdgdklwos.finetv.tv:9906/59fd229f000615aa029bb9ed79916213
+#EXTINF:-1 group-title="港台影视",FOX動作電影
+P2p://sdgdklwos.finetv.tv:9906/59fd244900002be402a238767364317b
+#EXTINF:-1 group-title="港台影视",FOX警匪電影
+P2p://sdgdklwos.finetv.tv:9906/59fd14ae0007a794026544e32f606291
+#EXTINF:-1 group-title="港台影视",ELTA綜合HD
+P2p://sdgdklwos.finetv.tv:9906/59fd26ca00086abe02ac0272796720c5
+#EXTINF:-1 group-title="港台影视",ELTA影劇HD
+P2p://sdgdklwos.finetv.tv:9906/59fd07e7000727bb02335b6b31754db5
+#EXTINF:-1 group-title="港台影视",東森幼幼HD
+P2p://sdgdklwos.finetv.tv:9906/5a32188e00095e2bd4b5d0737fe325f5
+#EXTINF:-1 group-title="港台影视",東森電影HD
+P2p://sdgdklwos.finetv.tv:9906/59fd0cab0008230a0245f94a229777bd#p2p://860825993:18912/5b1409f20009bbe217d4771d2d5878ee
+#EXTINF:-1 group-title="港台影视",東森戲劇HD
+P2p://sdgdklwos.finetv.tv:9906/59fd17a500022c250270d8533c186ce9
+#EXTINF:-1 group-title="港台影视",東森洋片HD
+P2p://sdgdklwos.finetv.tv:9906/59fd17860002b83302705f6a03a560d2
+#EXTINF:-1 group-title="港台影视",東森綜合HD
+P2p://sdgdklwos.finetv.tv:9906/5a141ade0007bc435f8dff2d5b3453d7
+#EXTINF:-1 group-title="港台影视",東森財經HD
+P2p://sdgdklwos.finetv.tv:9906/59fd1f94000ee56d028fd937397b7e63
+#EXTINF:-1 group-title="港台影视",靖天電影台HD
+P2p://sdgdklwos.finetv.tv:9906/59fd358c00069b9502e5a7d404d940d2
+#EXTINF:-1 group-title="港台影视",靖天映畫台HD
+P2p://sdgdklwos.finetv.tv:9906/59fd3565000a788d02e5107642590dce
+#EXTINF:-1 group-title="港台影视",靖天卡通台HD
+P2p://sdgdklwos.finetv.tv:9906/59fd38e0000de06a02f2a9c951a975a6
+#EXTINF:-1 group-title="港台影视",靖天育樂台HD
+P2p://sdgdklwos.finetv.tv:9906/59fd3068000ea26902d195477bc86f19
+#EXTINF:-1 group-title="港台影视",靖洋戲劇台HD
+P2p://sdgdklwos.finetv.tv:9906/59fd259600089bb202a74f6123416e8d
+#EXTINF:-1 group-title="港台影视",衛視卡式台
+P2p://sdgdklwos.finetv.tv:9906/5b326356000e27761d60fc701ff36973
+#EXTINF:-1 group-title="港台影视",天映經典台
+P2p://sdgdklwos.finetv.tv:9906/5b2e01c400098d0f0c42edad22c37385
+#EXTINF:-1 group-title="港台影视",天映頻道HD
+P2p://sdgdklwos.finetv.tv:9906/5b2f1ee9000d3e3d109cc71f4b240eb3
+#EXTINF:-1 group-title="港台影视",衛視中文台HD
+P2p://sdgdklwos.finetv.tv:9906/59fd0394000660a0022277050be47b46
+#EXTINF:-1 group-title="港台影视",衛視電影台HD
+P2p://sdgdklwos.finetv.tv:9906/59fd0369000ea5750221d12f32a532b8
+#EXTINF:-1 group-title="港台影视",衛視閤家歡HD
+P2p://sdgdklwos.finetv.tv:9906/59fd14190000e1040262fd2560d91f69
+#EXTINF:-1 group-title="港台影视",衛視西片台HD
+P2p://sdgdklwos.finetv.tv:9906/59fd1475000301e1026465123e2e3650
+#EXTINF:-1 group-title="港台影视",好萊塢電影HD
+P2p://sdgdklwos.finetv.tv:9906/5a141b66000b4be65f90135822b40e43
+#EXTINF:-1 group-title="港台影视",星衛電影台HD
+P2p://sdgdklwos.finetv.tv:9906/59fd086a00072cbb02355b236c4a3fcb
+#EXTINF:-1 group-title="港台影视",星衛娛樂台HD
+P2p://sdgdklwos.finetv.tv:9906/59fd332000050f8702dc318743ba40af
+#EXTINF:-1 group-title="港台影视",美亞電影台HD
+P2p://sdgdklwos.finetv.tv:9906/59fd08470008d4d60234d2d92e65644c
+#EXTINF:-1 group-title="港台影视",美亚电影台
+p2p://860825993:18912/5b14098f0007961517d2f3d97b743b7b
 #EXTINF:-1 group-title="港台影视",星卫电影
-p2p://51.79.41.138:18912/5c724a05000626a61d58aaff0c3f3175.ts
-#EXTINF:-1 group-title="港台影视",卫视电影台
-p8p://0198.02686.cc:16871/5d1a69d0000743f711be4b7d2b320c30.ts
-#EXTINF:-1 group-title="港台影视",纬来电影台
-P2p://190.2.146.92:18912/5c7249d80003096d1d57fa6c33601be9.ts
-#EXTINF:-1 group-title="港台影视",纬来电影台
-p2p://170.178.164.250:6141/5b448afc0007f4650004373eda7b4dd8.ts
-#EXTINF:-1 group-title="港台影视",FOX电影
-vjms://58.215.133.185:8500:3502/live/cid=94
-#EXTINF:-1 group-title="港台影视",FOX电影
-vjms://23.237.33.155:8500:3502/live/cid=94
-#EXTINF:-1 group-title="港台影视",FOX动作电影
-tvbus://12rkwBGpNvaenr1ERtQvtqPtr9yFZh8x9ayYwGxVFRDeY81EXjo
-#EXTINF:-1 group-title="港台影视",FOX动作电影
-P2p://51.79.41.138:18912/5b7267ae000b9c6c35cc884079c70164.ts
-#EXTINF:-1 group-title="港台影视",FOX动作电影
-http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-#EXTINF:-1 group-title="港台影视",采昌影剧
-p2p://fccsovh.pvbox.live:18912/5b1409db0009049a17d41d161677386d
-#EXTINF:-1 group-title="港台影视",TVB星河
-msc://CXHMovie
-#EXTINF:-1 group-title="港台影视",TVB星河
-p8p://0198.02686.cc:16871/5d1a69940005adb211bd60b57a4af31b.ts
-#EXTINF:-1 group-title="港台影视",TVB韩剧台
-msc://CKDrama5
-#EXTINF:-1 group-title="港台影视",華藝影剧台
-p8p://0198.02686.cc:16871/5d1a69d700008c5a11be651dc2bd3d52.ts
-#EXTINF:-1 group-title="港台影视",三立戏剧台
-p8p://0198.02686.cc:16871/5d1a69f90000ad2611bee9f55d87748f.ts
-#EXTINF:-1 group-title="港台影视",纬来电影
-p2p://51.79.41.138:18912/5c7249d80003096d1d57fa6c33601be9.ts
-#EXTINF:-1 group-title="港台影视",纬来戏剧
-vjms://58.215.133.185:8500:3502/live/cid=137
-#EXTINF:-1 group-title="港台影视",纬来戏剧
-vjms://23.237.33.155:8500:3502/live/cid=137
-#EXTINF:-1 group-title="港台影视",纬来戏剧
-P2p://190.2.146.92:18912/5c72488e000bae061d52f38e705751dd.ts
-#EXTINF:-1 group-title="港台影视",EYETV戏剧台
-p8p://0198.02686.cc:16871/5d1a69a2000ca28211bd992d29a29542.ts
-#EXTINF:-1 group-title="港台影视",凤凰电影台
-rtmp://58.200.131.2:1935/livetv/fhdy
-#EXTINF:-1 group-title="港台影视",凤凰电影台
-https://116.77.72.195/streams/d/fhdy/playlist.m3u8
-#EXTINF:-1 group-title="港台影视",WarnerTV
-http://192.200.120.82:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
-#EXTINF:-1 group-title="港台影视",AXN
-vjms://58.215.133.185:8500:3502/live/cid=2
-#EXTINF:-1 group-title="港台影视",AXN
-vjms://23.237.33.155:8500:3502/live/cid=2
-#EXTINF:-1 group-title="港台影视",FX
-p8p://0198.02686.cc:16871/5d1a69a50009208511bda3ff8356848f.ts
-#EXTINF:-1 group-title="港台影视",BLUEANT
-p8p://0198.02686.cc:16871/5d1a69a60004767211bda6b5be685208.ts
-#EXTINF:-1 group-title="港台影视",好莱坞电影
-P2p://190.2.146.92:18912/5c7249e2000125281d5820ff23a165d1.ts
-#EXTINF:-1 group-title="港台影视",CHC高清电影HD
-rtmp://58.200.131.2:1935/livetv/chchd
-#EXTINF:-1 group-title="港台影视",CHC家庭电影
-rtmp://58.200.131.2:1935/livetv/chctv
-#EXTINF:-1 group-title="港台影视",CHC动作电影
-rtmp://58.200.131.2:1935/livetv/chcatv
-#EXTINF:-1 group-title="港台娱乐",公视
-vjms://58.215.133.185:8500:3502/live/cid=236
-#EXTINF:-1 group-title="港台娱乐",公视
-vjms://23.237.33.155:8500:3502/live/cid=236
-#EXTINF:-1 group-title="港台娱乐",民视
-P2p://51.79.41.138:18912/5b14095f00097ec617d238d6575b7b8c
-#EXTINF:-1 group-title="港台娱乐",公視3
-P2p://51.79.41.138:18912/5b14094a0002d1d117d1e518204a1cf0.ts
-#EXTINF:-1 group-title="港台娱乐",中视经典
-P2p://51.79.41.138:18912/5b140a14000a368c17d4fc0d0e2537ba.ts
-#EXTINF:-1 group-title="港台娱乐",民视
-P2p://190.2.146.92:18912/5c72483f0003db4b1d51bcf349367c26.ts
-#EXTINF:-1 group-title="港台娱乐",民视
-vjms://23.237.33.155:8500:3502/live/cid=226
-#EXTINF:-1 group-title="港台娱乐",民视
-mitv://fccsovh.pvbox.live:18912/5c72483f0003db4b1d51bcf349367c26
-#EXTINF:-1 group-title="港台娱乐",中视
-tvbus://1TCAXGna1HLHhdrrCCbJWufvYbBers5fNGx1hdk6xW58irJpc9
-#EXTINF:-1 group-title="港台娱乐",中视
-P2p://190.2.146.92:18912/5c72484b000b1d091d51edb7087b7686.ts
-#EXTINF:-1 group-title="港台娱乐",中视
-vjms://23.237.33.155:8500:3502/live/cid=452
-#EXTINF:-1 group-title="港台娱乐",TVB J2-
-p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
-#EXTINF:-1 group-title="港台娱乐",TVB明珠台
-p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
-#EXTINF:-1 group-title="港台娱乐",TVB明珠台
-vjms://23.237.33.155:8500:3502/live/cid=367
-#EXTINF:-1 group-title="港台娱乐",TVB翡翠台
-vjms://23.237.33.155:8500:3502/live/cid=362
-#EXTINF:-1 group-title="港台娱乐",TVB翡翠台
-p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
-#EXTINF:-1 group-title="港台娱乐",TVB翡翠台
-http://m.567it.com/jade.m3u8
-#EXTINF:-1 group-title="港台娱乐",TVBS欢乐台
-p2p://51.79.41.138:18912/5c72488a000a56b71d52e3a07060345e.ts
-#EXTINF:-1 group-title="港台娱乐",TVBS欢乐台
-P2p://190.2.146.92:18912/5c72488a000a56b71d52e3a07060345e.ts
-#EXTINF:-1 group-title="港台娱乐",TVBS欢乐台
-vjms://23.237.33.155:8500:3502/live/cid=438
-#EXTINF:-1 group-title="港台娱乐",TVBS欢乐台
-rtmp://59.124.75.137/sat/tv421
-#EXTINF:-1 group-title="港台娱乐",TVBS精采台
-p2p://51.79.41.138:18912/5bdbf3b20000e966d2177540400d0818.ts
-#EXTINF:-1 group-title="港台娱乐",TVBS精采台
-P2p://190.2.146.92:18912/5bdbf3b20000e966d2177540400d0818.ts
-#EXTINF:-1 group-title="港台娱乐",TVBS精采台
-mitv://fccsovh.pvbox.live:18912/5bdbf3b20000e966d2177540400d0818
-#EXTINF:-1 group-title="港台娱乐",TVBS精采台
-p8p://0198.02686.cc:16871/5d1a69ab0004fab811bdba5fa309b278.ts
-#EXTINF:-1 group-title="港台娱乐",三立都会
-vjms://58.215.133.185:8500:3502/live/cid=226
-#EXTINF:-1 group-title="港台娱乐",三立台湾
-p8p://0198.02686.cc:16871/5d1a69ae00025bef11bdc56ba098b443.ts
-#EXTINF:-1 group-title="港台娱乐",八大综合
-http://cdn.5itv.tv//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
-#EXTINF:-1 group-title="港台娱乐",八大综合
-http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
-#EXTINF:-1 group-title="港台娱乐",八大第一
-vjms://58.215.133.185:8500:3502/live/cid=441
-#EXTINF:-1 group-title="港台娱乐",八大第一
-vjms://23.237.33.155:8500:3502/live/cid=441
-#EXTINF:-1 group-title="港台娱乐",JET综合
-P2p://190.2.146.92:18912/5c724892000e3e1c1d5303da4a3c6c26.ts
-#EXTINF:-1 group-title="港台娱乐",JET综合
-p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
-#EXTINF:-1 group-title="港台娱乐",三立综合台
-p8p://0198.02686.cc:16871/5d1a69fa0007d2f011beefb295d4d371.ts
-#EXTINF:-1 group-title="港台娱乐",中天综合
-http://cdn.5itv.tv//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-#EXTINF:-1 group-title="港台娱乐",中天综合
-http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-#EXTINF:-1 group-title="港台娱乐",中天亚洲 
-P2p://190.2.146.92:18912/5c724839000d2f361d51a7e41eb00016.ts
-#EXTINF:-1 group-title="港台娱乐",壹综合
-p8p://0198.02686.cc:16871/5d1a69b70007631411bde9dd9eaae997.ts
-#EXTINF:-1 group-title="港台娱乐",东森综合
-P2p://190.2.146.92:18912/5c724877000e7b2d1d529a721b487255.ts
-#EXTINF:-1 group-title="港台娱乐",东森综合
-vjms://23.237.33.155:8500:3502/live/cid=333
-#EXTINF:-1 group-title="港台娱乐",星空卫视
-rtmp://58.200.131.2:1935/livetv/startv
-#EXTINF:-1 group-title="港台娱乐",tvN
-p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
-#EXTINF:-1 group-title="港台娱乐",星卫娱乐
-p2p://190.2.146.92:18912/5c724a0a000180991d58bd4f6e533ad5
-#EXTINF:-1 group-title="港台新闻",TVB无线新闻台
-http://www.liveviptv.xyz/tv/tvb.php
-#EXTINF:-1 group-title="港台新闻",TVB无线新闻台
-http://185.180.221.194:8278/Inews/playlist.m3u8?tid=56699937&ct=18205&tsum=6a2b767494bda26fa75d52fee20a26c2
-#EXTINF:-1 group-title="港台新闻",TVB无线新闻台
-p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
-#EXTINF:-1 group-title="港台新闻",TVB无线新闻台
-vjms://23.237.33.155:8500:3502/live/cid=366
-#EXTINF:-1 group-title="港台新闻",TVBS新闻
-P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts
-#EXTINF:-1 group-title="港台新闻",TVBS新闻
-vjms://58.215.133.185:8500:3502/live/cid=348
-#EXTINF:-1 group-title="港台新闻",TVBS新闻
-vjms://23.237.33.155:8500:3502/live/cid=348
-#EXTINF:-1 group-title="港台新闻",TVBS新闻
-rtmp://59.124.75.137/sat/tv551
-#EXTINF:-1 group-title="港台新闻",TVBS
-vjms://58.215.133.185:8500:3502/live/cid=349
-#EXTINF:-1 group-title="港台新闻",TVBS
-vjms://23.237.33.155:8500:3502/live/cid=349
-#EXTINF:-1 group-title="港台新闻",有线新闻台
-http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
-#EXTINF:-1 group-title="港台新闻",有线新闻台
-https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
-#EXTINF:-1 group-title="港台新闻",凤凰香港
-http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
-#EXTINF:-1 group-title="港台新闻",凤凰香港
-p8p://0198.02686.cc:16871/5d1a69d6000505cd11be625a06b24e50.ts
-#EXTINF:-1 group-title="港台新闻",凤凰卫视
-p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts
-#EXTINF:-1 group-title="港台新闻",凤凰卫视
-vjms://23.237.33.155:8500:3502/live/cid=400
-#EXTINF:-1 group-title="港台新闻",凤凰卫视
-rtmp://58.200.131.2:1935/livetv/fhzw
-#EXTINF:-1 group-title="港台新闻",凤凰卫视
-http://liveali.ifeng.com/live/FHZW.flv
-#EXTINF:-1 group-title="港台新闻",凤凰资讯
-p8p://0198.02686.cc:16871/5d1a69d90003dbfb11be6dc698fb9973.ts
-#EXTINF:-1 group-title="港台新闻",凤凰资讯
-vjms://23.237.33.155:8500:3502/live/cid=401
-#EXTINF:-1 group-title="港台新闻",凤凰资讯
-rtmp://58.200.131.2:1935/livetv/fhzx
-#EXTINF:-1 group-title="港台新闻",凤凰资讯
-http://liveali.ifeng.com/live/FHZX.flv
-#EXTINF:-1 group-title="港台新闻",年代新闻
-http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
-#EXTINF:-1 group-title="港台新闻",年代新闻
-http://61.147.122.14/flv.live.xylive.tv/live/0088ndxw.flv
-#EXTINF:-1 group-title="港台新闻",非凡新闻
-vjms://23.237.33.155:8500:3502/live/cid=443
-#EXTINF:-1 group-title="港台新闻",非凡新闻
-P2p://190.2.146.92:18912/5c7249cb000744bc1d57c8bd53377361.ts
-#EXTINF:-1 group-title="港台新闻",非凡新闻
-vjms://58.215.133.185:8500:3502/live/cid=443
-#EXTINF:-1 group-title="港台新闻",非凡新闻
-p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts
-#EXTINF:-1 group-title="港台新闻",三立新闻
-vjms://58.215.133.185:8500:3502/live/cid=352
-#EXTINF:-1 group-title="港台新闻",三立新闻
-http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
-#EXTINF:-1 group-title="港台新闻",东森新闻
-http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-#EXTINF:-1 group-title="港台新闻",东森新闻
-http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-#EXTINF:-1 group-title="港台新闻",东森新闻
-vjms://58.215.133.185:8500:3502/live/cid=340
-#EXTINF:-1 group-title="港台新闻",东森新闻
-vjms://23.237.33.155:8500:3502/live/cid=340
-#EXTINF:-1 group-title="港台新闻",东森新闻
-p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts
-#EXTINF:-1 group-title="港台新闻",东森新闻
-P2p://190.2.146.92:18912/5c7248a0000383701d5337cb153b4b51.ts
-#EXTINF:-1 group-title="港台新闻",中天新闻
-vjms://58.215.133.185:8500:3502/live/cid=407
-#EXTINF:-1 group-title="港台新闻",中天新闻
-vjms://23.237.33.155:8500:3502/live/cid=407
-#EXTINF:-1 group-title="港台新闻",中天新闻
-rtmp://59.124.75.137/sat/tv521
-#EXTINF:-1 group-title="港台新闻",壹新闻
-vjms://23.237.33.155:8500:3502/live/cid=445
-#EXTINF:-1 group-title="港台新闻",壹新闻
-p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts
-#EXTINF:-1 group-title="港台新闻",寰宇新闻
-p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
-#EXTINF:-1 group-title="港台新闻",民视新闻
-vjms://23.237.33.155:8500:3502/live/cid=454
-#EXTINF:-1 group-title="港台新闻",民视新闻
-p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
-#EXTINF:-1 group-title="港台新闻",东森财经
-vjms://58.215.133.185:8500:3502/live/cid=456
-#EXTINF:-1 group-title="港台新闻",东森财经
-vjms://23.237.33.155:8500:3502/live/cid=456
-#EXTINF:-1 group-title="港台新闻",东森财经
-p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts
-#EXTINF:-1 group-title="港台新闻",寰宇财经台
-p8p://0198.02686.cc:16871/5d1a69bb00034ddd11bdf8710f58e2f3.ts
-#EXTINF:-1 group-title="港台新闻",耀才财经台
-http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-#EXTINF:-1 group-title="港台新闻",澳亚卫视
-http://stream.mastvnet.com/MASTV/playlist.m3u8
-#EXTINF:-1 group-title="港台新闻",澳亚卫视
-vjms://23.237.33.155:8500:3502/live/cid=337
-#EXTINF:-1 group-title="港台新闻",香港开电视
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1 group-title="港台新闻",KHS
-http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-#EXTINF:-1 group-title="港台新闻",RTHK31
-http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
-#EXTINF:-1 group-title="港台新闻",RTHK31
-p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
-#EXTINF:-1 group-title="港台新闻",RHK32
-https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
-#EXTINF:-1 group-title="港台新闻",CNBC
-vjms://58.215.133.185:8500:3502/live/cid=98
-#EXTINF:-1 group-title="港台新闻",CNBC
-p8p://0198.02686.cc:16871/5d1a69720002ca3711bcdb2830f420fe.ts
-#EXTINF:-1 group-title="港台新闻",CNBC
-vjms://23.237.33.155:8500:3502/live/cid=98
-#EXTINF:-1 group-title="港台新闻",CNN
-p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts
-#EXTINF:-1 group-title="港台新闻",CNN
-vjms://23.237.33.155:8500:3502/live/cid=428
-#EXTINF:-1 group-title="港台新闻",BBC
-vjms://58.215.133.185:8500:3502/live/cid=418
-#EXTINF:-1 group-title="港台新闻",BBC
-vjms://23.237.33.155:8500:3502/live/cid=418
-#EXTINF:-1 group-title="港台新闻",FOXNews
-vjms://58.215.133.185:8500:3502/live/cid=97
-#EXTINF:-1 group-title="港台新闻",FOXNews
-p8p://0198.02686.cc:16871/5d1a697f0002f4fc11bd0dfb9dd398c6.ts
-#EXTINF:-1 group-title="港台体育",FOXSPORT-3
-vjms://58.215.133.185:8500:3502/live/cid=95
-#EXTINF:-1 group-title="港台体育",ELTA体育HD
-vjms://58.215.133.185:8500:3502/live/cid=266
-#EXTINF:-1 group-title="港台体育",ELTA体育HD
-vjms://23.237.33.155:8500:3502/live/cid=266
-#EXTINF:-1 group-title="港台体育",ELTA体育2
-P2p://51.79.41.138:18912/5b1409da0004ba1317d418157a2631bc.ts
-#EXTINF:-1 group-title="港台体育",ELTA体育3 
-P2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
-#EXTINF:-1 group-title="港台体育",博斯高球1
-vjms://58.215.133.185:8500:3502/live/cid=265
-#EXTINF:-1 group-title="港台体育",博斯高球1
-vjms://121.14.222.75:8500:3502/live/cid=265
-#EXTINF:-1 group-title="港台体育",博斯高球1
-vjms://23.237.33.155:8500:3502/live/cid=265
-#EXTINF:-1 group-title="港台体育",博斯高球2
-p8p://0198.02686.cc:16871/5d1a69a6000ef72511bda96629eb9aa4.ts
-#EXTINF:-1 group-title="港台体育",纬来体育
-vjms://58.215.133.185:8500:3502/live/cid=202
-#EXTINF:-1 group-title="港台体育",纬来体育
-vjms://23.237.33.155:8500:3502/live/cid=202
-#EXTINF:-1 group-title="港台体育",Z频道
-p8p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts
-#EXTINF:-1 group-title="港台体育",Star Sports
-rtmp://58.200.131.2:1935/livetv/starsports
-#EXTINF:-1 group-title="综合娱乐",国家地理野生
-vjms://58.215.133.185:8500:3502/live/cid=263
-#EXTINF:-1 group-title="综合娱乐",国家地理野生
-vjms://23.237.33.155:8500:3502/live/cid=263
-#EXTINF:-1 group-title="综合娱乐",国家地理
-rtmp://58.200.131.2:1935/livetv/natlgeo
-#EXTINF:-1 group-title="综合娱乐",国家地理
-vjms://58.215.133.185:8500:3502/live/cid=115
-#EXTINF:-1 group-title="综合娱乐",国家地理
-vjms://23.237.33.155:8500:3502/live/cid=115
-#EXTINF:-1 group-title="综合娱乐",探索频道
-rtmp://58.200.131.2:1935/livetv/discovery
-#EXTINF:-1 group-title="综合娱乐",探索亚洲
-vjms://58.215.133.185:8500:3502/live/cid=440
-#EXTINF:-1 group-title="综合娱乐",探索亚洲
-vjms://23.237.33.155:8500:3502/live/cid=440
-#EXTINF:-1 group-title="综合娱乐",探索科学
-vjms://58.215.133.185:8500:3502/live/cid=457
-#EXTINF:-1 group-title="综合娱乐",探索科学
-vjms://23.237.33.155:8500:3502/live/cid=457
-#EXTINF:-1 group-title="综合娱乐",动物星球
-vjms://58.215.133.185:8500:3502/live/cid=3
-#EXTINF:-1 group-title="综合娱乐",动物星球
-http://cdn.5itv.tv//ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
-#EXTINF:-1 group-title="综合娱乐",动物星球
-p8p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts
-#EXTINF:-1 group-title="综合娱乐",动物星球
-vjms://23.237.33.155:8500:3502/live/cid=3
-#EXTINF:-1 group-title="综合娱乐",TLC旅游生活
-vjms://58.215.133.185:8500:3502/live/cid=103
-#EXTINF:-1 group-title="综合娱乐",TLC旅游生活
-vjms://23.237.33.155:8500:3502/live/cid=103
-#EXTINF:-1 group-title="综合娱乐",亚洲旅游台 HD
-p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
-#EXTINF:-1 group-title="综合娱乐",年代MUCH
-vjms://58.215.133.185:8500:3502/live/cid=439
-#EXTINF:-1 group-title="综合娱乐",年代MUCH
-vjms://23.237.33.155:8500:3502/live/cid=439
-#EXTINF:-1 group-title="综合娱乐",美食星球
-p8p://0198.02686.cc:16871/5d1a69cf0001415211be460bf6630f93.ts
-#EXTINF:-1 group-title="综合娱乐",SMART
-p8p://0198.02686.cc:16871/5d1a69a9000d171211bdb4a3d225e7dd.ts
-#EXTINF:-1 group-title="综合娱乐",MTV
-vjms://58.215.133.185:8500:3502/live/cid=52
-#EXTINF:-1 group-title="综合娱乐",FTV
-vjms://58.215.133.185:8500:3502/live/cid=399
-#EXTINF:-1 group-title="综合娱乐",Fashion
-https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="综合娱乐",TV5MONDE
-vjms://58.215.133.185:8500:3502/live/cid=396
-#EXTINF:-1 group-title="综合娱乐",TV5MONDE
-vjms://23.237.33.155:8500:3502/live/cid=396
-#EXTINF:-1 group-title="综合娱乐",StarWorld
-p8p://0198.02686.cc:16871/5d1a69aa0008eaab11bdb77907881e7a.ts
-#EXTINF:-1 group-title="综合娱乐",CHANNEL[V]
-rtmp://58.200.131.2:1935/livetv/channelv
-#EXTINF:-1 group-title="综合娱乐",衛視電影台
-http://bakup.cdn.52glb.com/live/tw_weishi_dy.m3u8
-#EXTINF:-1 group-title="综合娱乐",衛視洋片台
-http://bakup.cdn.52glb.com/live/tw_weishi_xp.m3u8
-#EXTINF:-1 group-title="综合娱乐",緯來體育台
-http://bakup.cdn.52glb.com/live/tw_weilaitiyu.m3u8
-#EXTINF:-1 group-title="综合娱乐",緯來電影台
-http://bakup.cdn.52glb.com/live/tw_weilai_dy.m3u8
-#EXTINF:-1 group-title="综合娱乐",緯來日本台
-http://bakup.cdn.52glb.com/live/tw_weilai_rb.m3u8
-#EXTINF:-1 group-title="综合娱乐",壹新聞台
-http://bakup.cdn.52glb.com/live/tw_yixinwen.m3u8
-#EXTINF:-1 group-title="综合娱乐",龍祥時代台
-http://bakup.cdn.52glb.com/live/tw_longxiang_sd.m3u8
-#EXTINF:-1 group-title="综合娱乐",龍華戲劇台
-http://bakup.cdn.52glb.com/live/tw_longhua_xj.m3u8
-#EXTINF:-1 group-title="综合娱乐",龍華洋片台
-http://bakup.cdn.52glb.com/live/tw_longhua_yp.m3u8
-#EXTINF:-1 group-title="综合娱乐",龍華動畫台
-http://bakup.cdn.52glb.com/live/tw_longhua_dh.m3u8
-#EXTINF:-1 group-title="综合娱乐",靖天電影台
-http://bakup.cdn.52glb.com/live/tw_jingtian_dy.m3u8
+p2p://860825993:18912/5b140940000a727a17d1bffc371a3967
+#EXTINF:-1 group-title="港台影视",VIU TVHD
+P2p://sdgdklwos.finetv.tv:9906/59fd171800092000026eb35003107eef#P2p://sdgdklwos.finetv.tv:9906/59fd171800092000026eb35003107eef
+#EXTINF:-1 group-title="港台影视",VIU TV6HD
+P2p://sdgdklwos.finetv.tv:9906/5ad32bae0001dd1049ed9be114c818f0#P2p://sdgdklwos.finetv.tv:9906/5ad32bae0001dd1049ed9be114c818f0
+#EXTINF:-1 group-title="港台影视",RTHK31HD
+P2p://sdgdklwos.finetv.tv:9906/5b1ea0dc000bba59d03063fa2f1a513c
+#EXTINF:-1 group-title="港台影视",RTHK32HD
+P2p://sdgdklwos.finetv.tv:9906/5b1ea120000af380d0316d6b59657817
+#EXTINF:-1 group-title="港台影视",香港開電視
+P2p://sdgdklwos.finetv.tv:9906/5acb61a30004069d2b801ab951492f07#P2p://sdgdklwos.finetv.tv:9906/5acb61a30004069d2b801ab951492f07
+#EXTINF:-1 group-title="港台影视",澳門蓮花
+P2p://sdgdklwos.finetv.tv:9906/5acb8740000253a62c1307843e7c4bc3
+#EXTINF:-1 group-title="港台影视",星空衛視
+P2p://sdgdklwos.finetv.tv:9906/5acb8af3000978192c217c90517245b7
+#EXTINF:-1 group-title="港台影视",國興衛視
+P2p://sdgdklwos.finetv.tv:9906/59fd0565000d04390229912232d21634
+#EXTINF:-1 group-title="港台影视",龍祥時代
+P2p://sdgdklwos.finetv.tv:9906/59fd0d3200071b6e02480863224e5f4d
+#EXTINF:-1 group-title="港台影视",HKC電影一台HD
+P2p://sdgdklwos.finetv.tv:9906/5a4726e4000667ca26f6a98d6a9d25a7
+#EXTINF:-1 group-title="港台新闻",TVB无线新闻
+p2p://860825993:18912/5b1409fc000a355e17d49e4d52ad164f
+#EXTINF:-1 group-title="港台新闻",TVB无线新闻
+p2p://860825993:18912/5b140953000cd4a817d20ad057051e23
+#EXTINF:-1 group-title="港台新闻",TVB无线财经
+p2p://860825993:18912/5b14095400047cf517d20c962f11530b
+#EXTINF:-1 group-title="港台新闻",TVBS新聞台HD
+P2p://sdgdklwos.finetv.tv:9906/59fd096d0003aa9702394e013b6206a2
+#EXTINF:-1 group-title="港台新闻",TVB無線新聞台
+P2p://sdgdklwos.finetv.tv:9906/5a562bec0007bfd761a2998e00b83dd5
+#EXTINF:-1 group-title="港台新闻",TVB無線新聞台
+P2p://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7
+#EXTINF:-1 group-title="港台新闻",HKC新聞台HD
+P2p://sdgdklwos.finetv.tv:9906/5a3251a3000ddd81d594cba410f708d7
+#EXTINF:-1 group-title="港台新闻",HKC體育2台HD
+P2p://sdgdklwos.finetv.tv:9906/5a142556000de0a75fb6e584062e2de9
+#EXTINF:-1 group-title="港台新闻",HKC財經資訊台HD
+P2p://sdgdklwos.finetv.tv:9906/5b062d6d000a4d8670acf35f53803edf
+#EXTINF:-1 group-title="港台新闻",東森新聞
+P2p://sdgdklwos.finetv.tv:9906/5a1427ee0009fb195fc1064a3af652d1
+#EXTINF:-1 group-title="港台新闻",HKC603
+P2p://sdgdklwos.finetv.tv:9906/5a47271f0008d01726f790b134496406
+#EXTINF:-1 group-title="港台新闻",寰宇新聞台
+P2p://sdgdklwos.finetv.tv:9906/59fd2b5e0006d13802bde4340bc41e87
+#EXTINF:-1 group-title="港台新闻",中天新聞
+P2p://sdgdklwos.finetv.tv:9906/59fd05020006070602280c953c2545e6
+#EXTINF:-1 group-title="港台新闻",中天新聞
+P2p://sdgdklwos.finetv.tv:9906/5acb650d0006707f2b8d716537d413a9
+#EXTINF:-1 group-title="港台新闻",寰宇新聞
+P2p://sdgdklwos.finetv.tv:9906/59fd2b5e0006d13802bde4340bc41e87
+#EXTINF:-1 group-title="港台新闻",非凡新聞
+P2p://sdgdklwos.finetv.tv:9906/59fd05f30007004f022bba4b77671d93
+#EXTINF:-1 group-title="港台新闻",台視新聞
+P2p://sdgdklwos.finetv.tv:9906/59fd299b00054a3002b7020e67d657e3
+#EXTINF:-1 group-title="港台新闻",年代新聞
+P2p://sdgdklwos.finetv.tv:9906/5a56230e0004af51617ff5935a3e292e
+#EXTINF:-1 group-title="港台新闻",亞洲新聞
+P2p://sdgdklwos.finetv.tv:9906/5a56d833000e41286443908c2a501e55
+#EXTINF:-1 group-title="港台新闻",民視新聞
+P2p://sdgdklwos.finetv.tv:9906/59fd05930008403b022a439a3b9b7401
+#EXTINF:-1 group-title="港台新闻",非凡新聞
+P2p://sdgdklwos.finetv.tv:9906/59fd05f30007004f022bba4b77671d93
+#EXTINF:-1 group-title="港台新闻",台視新聞
+P2p://sdgdklwos.finetv.tv:9906/59fd299b00054a3002b7020e67d657e3
+#EXTINF:-1 group-title="港台新闻",年代新聞
+P2p://sdgdklwos.finetv.tv:9906/5a56230e0004af51617ff5935a3e292e
+#EXTINF:-1 group-title="港台新闻",亞洲新聞
+P2p://sdgdklwos.finetv.tv:9906/5a56d833000e41286443908c2a501e55
+#EXTINF:-1 group-title="港台新闻",民視新聞
+P2p://sdgdklwos.finetv.tv:9906/59fd05930008403b022a439a3b9b7401
+#EXTINF:-1 group-title="港台体育",ELTA體育1台
+P2p://sdgdklwos.finetv.tv:9906/59fd07ba000a4d260232ac6f507c5a84
+#EXTINF:-1 group-title="港台体育",ELTA體育2台
+P2p://sdgdklwos.finetv.tv:9906/59fd37f9000df20002ef2381617811bf
+#EXTINF:-1 group-title="港台体育",博斯無限HD
+P2p://sdgdklwos.finetv.tv:9906/59fd149100031ddf0264d2721a4e5126
+#EXTINF:-1 group-title="港台体育",博斯網球HD
+P2p://sdgdklwos.finetv.tv:9906/59fd0790000c3d34023208dc252633c0
+#EXTINF:-1 group-title="港台体育",博斯高球1HD
+P2p://sdgdklwos.finetv.tv:9906/59fcf4c90006ba2c01e8ae1c1ec827ca
+#EXTINF:-1 group-title="港台体育",博斯高球2HD
+P2p://sdgdklwos.finetv.tv:9906/59fd073b0000c2280230b9e6743b0ab3
+#EXTINF:-1 group-title="港台体育",博斯運動1HD
+P2p://sdgdklwos.finetv.tv:9906/59fcf5fa00018d0c01ed543c25887aed
+#EXTINF:-1 group-title="港台体育",博斯運動2HD
+P2p://sdgdklwos.finetv.tv:9906/59fd3861000ae97702f0b8f522337286
+#EXTINF:-1 group-title="综合娱乐",民 視HD
+P2p://sdgdklwos.finetv.tv:9906/59fd230300046dc8029d402053e02fbf
+#EXTINF:-1 group-title="综合娱乐",中 視HD
+P2p://sdgdklwos.finetv.tv:9906/59fd06ac000555a7022e8c862ebc1019
+#EXTINF:-1 group-title="综合娱乐",華 視HD
+P2p://sdgdklwos.finetv.tv:9906/59fd068a0005f99e022e07d55c2f581d
+#EXTINF:-1 group-title="综合娱乐",台 視HD
+P2p://sdgdklwos.finetv.tv:9906/59fd099c00008ebf023a04ce64d57ff4
+#EXTINF:-1 group-title="综合娱乐",公 視HD
+P2p://sdgdklwos.finetv.tv:9906/59fd0656000e66cd022d3ee840ad175d#P2p://sdgdklwos.finetv.tv:9906/5ac5da01000d09fc15e6046427920804
+#EXTINF:-1 group-title="综合娱乐",TVBS HD
+P2p://sdgdklwos.finetv.tv:9906/59fd20d3000f24fd0294b75f4a555e2a
+#EXTINF:-1 group-title="综合娱乐",TVB J2
+P2p://sdgdklwos.finetv.tv:9906/5ad32b7d000cca4049ecdf4812f47470#P2p://sdgdklwos.finetv.tv:9906/59fd25e80008aaec02a88fc1476f2edf
+#EXTINF:-1 group-title="综合娱乐",TVB星河
+P2p://sdgdklwos.finetv.tv:9906/59fd3f91000c54e4030cccd33c6f6c3c#P2p://sdgdklwos.finetv.tv:9906/59fd3f91000c54e4030cccd33c6f6c3c
+#EXTINF:-1 group-title="综合娱乐",TVB明珠
+P2p://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9
+#EXTINF:-1 group-title="综合娱乐",TVB明珠
+P2p://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9
+#EXTINF:-1 group-title="综合娱乐",TVB明珠
+P2p://sdgdklwos.finetv.tv:9906/5ad32b590006aefa49ec511272c5262e
+#EXTINF:-1 group-title="综合娱乐",TVB經典
+P2p://sdgdklwos.finetv.tv:9906/5b2f1fc50006bfe610a020d967055499
+#EXTINF:-1 group-title="综合娱乐",TVB翡翠
+P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2
+#EXTINF:-1 group-title="综合娱乐",TVB翡翠
+P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8
+#EXTINF:-1 group-title="综合娱乐",TVB翡翠
+P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8
+#EXTINF:-1 group-title="综合娱乐",TVB武術台
+P2p://sdgdklwos.finetv.tv:9906/5a32174e0001f481d4b0ec8f67f06c2b
+#EXTINF:-1 group-title="综合娱乐",壹 綜 合HD
+P2p://sdgdklwos.finetv.tv:9906/59fd06f600087a21022fae61787f061c
 #EXTINF:-1 group-title="综合娱乐",中視經典台
-http://bakup.cdn.52glb.com/live/tw_zhongshi_jd.m3u8
+P2p://sdgdklwos.finetv.tv:9906/59fd09bd0002ab6d023a86337415321a
+#EXTINF:-1 group-title="综合娱乐",中視新聞HD
+P2p://sdgdklwos.finetv.tv:9906/59fd2282000219b8029b479b6fc21d86
+#EXTINF:-1 group-title="综合娱乐",三立戲劇台
+P2p://sdgdklwos.finetv.tv:9906/59fd274c0001400d02adfc6d23452c25
+#EXTINF:-1 group-title="综合娱乐",三立綜合台
+P2p://sdgdklwos.finetv.tv:9906/59fd27240003732f02ad60c95d8e10a7
+#EXTINF:-1 group-title="综合娱乐",三立新聞HD
+P2p://sdgdklwos.finetv.tv:9906/59fd08fd000707490237995b3c9f2775
+#EXTINF:-1 group-title="综合娱乐",三立都會台HD
+P2p://sdgdklwos.finetv.tv:9906/59fd20f5000e6b4602953c0079210fd1
+#EXTINF:-1 group-title="综合娱乐",三立台灣台HD
+P2p://sdgdklwos.finetv.tv:9906/5a1425f00009bfad5fb93e0a6f7070c4
+#EXTINF:-1 group-title="综合娱乐",中天亞洲台
+P2p://sdgdklwos.finetv.tv:9906/59fd05260002b0730228985b2c380c8a
+#EXTINF:-1 group-title="综合娱乐",中天綜合HD
+P2p://sdgdklwos.finetv.tv:9906/59fd04bc00059d610226fb164a845fa5
+#EXTINF:-1 group-title="综合娱乐",中天娛樂HD
+P2p://sdgdklwos.finetv.tv:9906/59fd049e0006fb6e0226863427c16955
+#EXTINF:-1 group-title="综合娱乐",八大第1台HD
+P2p://sdgdklwos.finetv.tv:9906/59fd22540006fb57029a95244a947e57
+#EXTINF:-1 group-title="综合娱乐",八大綜合台HD
+P2p://sdgdklwos.finetv.tv:9906/59fd22220005cbed0299d18627a207f7
+#EXTINF:-1 group-title="综合娱乐",八大戲劇台HD
+P2p://sdgdklwos.finetv.tv:9906/59fd21c7000edfe70298706f2ef217c7
+#EXTINF:-1 group-title="综合娱乐",八大娛樂台HD
+P2p://sdgdklwos.finetv.tv:9906/59fd38fe000e2eeb02f31f187a8b3f49
+#EXTINF:-1 group-title="综合娱乐",阿里郎電視
+P2p://sdgdklwos.finetv.tv:9906/59fd303f000e8d8702d0f510645c2ff4
+#EXTINF:-1 group-title="综合娱乐",寰宇財經台
+P2p://sdgdklwos.finetv.tv:9906/59fd2b98000b4fba02bec7ed4c560211
+#EXTINF:-1 group-title="综合娱乐",寰宇綜合HD
+P2p://sdgdklwos.finetv.tv:9906/59fd383a000db1c102f021590c272f6e
 #EXTINF:-1 group-title="综合娱乐",非凡商業台
-http://bakup.cdn.52glb.com/live/tw_feifanshangye.m3u8
+P2p://sdgdklwos.finetv.tv:9906/5b07a59b0005c8ff766a65e653565438
+#EXTINF:-1 group-title="综合娱乐",龍華動畫HD
+P2p://sdgdklwos.finetv.tv:9906/59fd26690002a01402aa86134bf26468
+#EXTINF:-1 group-title="综合娱乐",龍華洋片HD
+P2p://sdgdklwos.finetv.tv:9906/59fd07650001a79102315e34781149f3
+#EXTINF:-1 group-title="综合娱乐",龍華偶像HD
+P2p://sdgdklwos.finetv.tv:9906/59fd38a1000ca5a002f1b363682d5b70
+#EXTINF:-1 group-title="综合娱乐",龍華戲劇HD
+P2p://sdgdklwos.finetv.tv:9906/59fd38840006b53d02f14094613f7615
+#EXTINF:-1 group-title="综合娱乐",龍華影劇HD
+P2p://sdgdklwos.finetv.tv:9906/59fd30d6000988d702d341a0202638f5
+#EXTINF:-1 group-title="综合娱乐",龍華經典HD
+P2p://sdgdklwos.finetv.tv:9906/59fd3363000e740302dd39b062856e0b
+#EXTINF:-1 group-title="综合娱乐",龍華電影HD
+P2p://sdgdklwos.finetv.tv:9906/5acb86bc0005dc212c1104ce762f31f7
+#EXTINF:-1 group-title="综合娱乐",緯來育樂HD
+P2p://sdgdklwos.finetv.tv:9906/59fd26ad000978f002ab917848d22993
+#EXTINF:-1 group-title="综合娱乐",緯來綜合HD
+P2p://sdgdklwos.finetv.tv:9906/59fd206e00099d6f02932b6078c86d9a
+#EXTINF:-1 group-title="综合娱乐",緯來戲劇HD
+P2p://sdgdklwos.finetv.tv:9906/59fd20190002fb090291ddb256d73759
+#EXTINF:-1 group-title="综合娱乐",緯來電影HD
+P2p://sdgdklwos.finetv.tv:9906/59fd1feb0003d7be02912a31740004af
+#EXTINF:-1 group-title="综合娱乐",緯來日本HD
+P2p://sdgdklwos.finetv.tv:9906/5a142744000f25045fbe6f82276e0d88
+#EXTINF:-1 group-title="综合娱乐",緯來體育HD
+P2p://sdgdklwos.finetv.tv:9906/5a141bab0009ca9c5f91208265721808
+#EXTINF:-1 group-title="综合娱乐",緯來精彩HD
+P2p://sdgdklwos.finetv.tv:9906/5ac5d68600012bae15d868ee776c7fe2
+#EXTINF:-1 group-title="综合娱乐",大爱電視HD
+P2p://sdgdklwos.finetv.tv:9906/59fd173e0004273a026f46886dde4613
+#EXTINF:-1 group-title="综合娱乐",信大電視HD
+P2p://sdgdklwos.finetv.tv:9906/5afbd0d7000dfbc54833015a3ca55f37
+#EXTINF:-1 group-title="综合娱乐",好消息二台
+P2p://sdgdklwos.finetv.tv:9906/59fcf6310003171001ee2b72507f276b
+#EXTINF:-1 group-title="综合娱乐",曼迪日本台
+P2p://sdgdklwos.finetv.tv:9906/59fd3343000561bb02dcba5e474715ac
+#EXTINF:-1 group-title="综合娱乐",迪士尼頻道
+P2p://sdgdklwos.finetv.tv:9906/59fd1766000a51cc026fe44f425c5788
+#EXTINF:-1 group-title="综合娱乐",采昌影劇HD
+P2p://sdgdklwos.finetv.tv:9906/59fd15cc000cd7cc0269a36a466420ca
+#EXTINF:-1 group-title="综合娱乐",日舞電影HD
+P2p://sdgdklwos.finetv.tv:9906/59fd30960001991702d2459c74bd52f1
+#EXTINF:-1 group-title="综合娱乐",華納電視HD
+P2p://sdgdklwos.finetv.tv:9906/5a321796000072dfd4b2057134a263e5
+#EXTINF:-1 group-title="综合娱乐",罪案偵緝HD
+P2p://sdgdklwos.finetv.tv:9906/59fd2824000df04802b14b7973731f54
+#EXTINF:-1 group-title="综合娱乐",世界影城HD
+P2p://sdgdklwos.finetv.tv:9906/59fd29d600014b6302b7e78c36d43070
+#EXTINF:-1 group-title="综合娱乐",靖天國際台HD
+P2p://sdgdklwos.finetv.tv:9906/59fd32c800056a3402dad9e646096d29
+#EXTINF:-1 group-title="综合娱乐",靖天日本台HD
+P2p://sdgdklwos.finetv.tv:9906/59fd2893000bff8802b2fc847a9852a6
+#EXTINF:-1 group-title="综合娱乐",靖天戲劇台HD
+P2p://sdgdklwos.finetv.tv:9906/59fd36f80009b75202eb367f603a273f
 #EXTINF:-1 group-title="综合娱乐",亞洲旅遊台
-http://bakup.cdn.52glb.com/live/tw_yazhou_ly.m3u8
-#EXTINF:-1 group-title="综合娱乐",高點綜合台
-http://bakup.cdn.52glb.com/live/tw_gaodian_zh.m3u8
-#EXTINF:-1 group-title="综合娱乐",美食星球台
-http://bakup.cdn.52glb.com/live/tw_meishi_xq.m3u8
-#EXTINF:-1 group-title="综合娱乐",迪士尼卡通
-http://bakup.cdn.52glb.com/live/tw_dishini_kt.m3u8
-#EXTINF:-1 group-title="综合娱乐",MTV音樂台
-http://bakup.cdn.52glb.com/live/tw_mtv_hd.m3u8
-#EXTINF:-1 group-title="综合娱乐",MTV Live
-http://bakup.cdn.52glb.com/live/tw_mtv_yinyue.m3u8
-#EXTINF:-1 group-title="综合娱乐",boom卡通台
-http://bakup.cdn.52glb.com/live/tw_boom_kt.m3u8
-#EXTINF:-1 group-title="综合娱乐",美亞電影台
-http://bakup.cdn.52glb.com/live/tw_meiya_dy.m3u8
-#EXTINF:-1 group-title="综合娱乐",星空衛視台
-http://bakup.cdn.52glb.com/live/hk_xingkong_ws.m3u8
-#EXTINF:-1 group-title="综合娱乐",星衛電影台
-http://bakup.cdn.52glb.com/live/tw_weixing_dy.m3u8
-#EXTINF:-1 group-title="综合娱乐",星衛娛樂台
-http://bakup.cdn.52glb.com/live/tw_weixing_yl.m3u8
-#EXTINF:-1 group-title="综合娱乐",爱奇谈
-http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 group-title="综合娱乐",爱悬念
-http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 group-title="综合娱乐",爱经典
-http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 group-title="综合娱乐",爱喜剧
-http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 group-title="综合娱乐",爱动漫
-http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 group-title="综合娱乐",爱美食
-http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 group-title="综合娱乐",爱都市
-http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 group-title="综合娱乐",爱解密
-http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 group-title="综合娱乐",爱江湖
-http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 group-title="综合娱乐",爱院线
-http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 group-title="综合娱乐",爱浪漫
-http://101.71.255.229:6610/zjhs/2/10115/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 group-title="综合娱乐",精品国产剧
-http://47.240.60.73/migu.php?id=625574378
-#EXTINF:-1 group-title="综合娱乐",乡村爱情剧场
-http://47.240.60.73/migu.php?id=625774662
-#EXTINF:-1 group-title="综合娱乐",激情夜场影院
-http://47.240.60.73/migu.php?id=625188208
-#EXTINF:-1 group-title="综合娱乐",红色谍战剧场
-http://47.240.60.73/migu.php?id=634274665
-#EXTINF:-1 group-title="综合娱乐",每日科幻电影
-http://47.240.60.73/migu.php?id=625204865
-#EXTINF:-1 group-title="综合娱乐",周星驰影院
-http://47.240.60.73/migu.php?id=623338112
-#EXTINF:-1 group-title="综合娱乐",追剧少女
-http://47.240.60.73/migu.php?id=617432318
-#EXTINF:-1 group-title="综合娱乐",怀旧老片
-http://47.240.60.73/migu.php?id=621640582
-#EXTINF:-1 group-title="综合娱乐",武侠剧场
-http://47.240.60.73/migu.php?id=627198822
-#EXTINF:-1 group-title="综合娱乐",动漫剧场
-http://47.240.60.73/migu.php?id=627198751
-#EXTINF:-1 group-title="综合娱乐",假期剧场
-http://47.240.60.73/migu.php?id=627198692
-#EXTINF:-1 group-title="综合娱乐",经典频道
-http://47.240.60.73/migu.php?id=625542369
-#EXTINF:-1 group-title="综合娱乐",精品剧场
-http://47.240.60.73/migu.php?id=615810094
-#EXTINF:-1 group-title="综合娱乐",精品剧场2
-http://47.240.60.73/migu.php?id=615810094
-#EXTINF:-1 group-title="综合娱乐",四大名著剧场
-http://47.240.60.73/migu.php?id=625498432
-#EXTINF:-1 group-title="综合娱乐",东方电影高清
-http://47.240.60.73/migu.php?id=623674834
-#EXTINF:-1 group-title="综合娱乐",经典放映厅
-http://47.240.60.73/migu.php?id=626157533
-#EXTINF:-1 group-title="综合娱乐",射雕剧场
-http://47.240.60.73/migu.php?id=625681367
-#EXTINF:-1 group-title="综合娱乐",少年包青天
-http://47.240.60.73/migu.php?id=625521420
-#EXTINF:-1 group-title="综合娱乐",金庸频道
-http://47.240.60.73/migu.php?id=625774640
-#EXTINF:-1 group-title="轮播电影",成  龙
-https://aldirect.rtmp.huya.com/backsrc/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",林正英
-https://aldirect.rtmp.huya.com/backsrc/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",电影
-https://aldirect.rtmp.huya.com/huyalive/29359996-2689615538-11551810774523445248-2847687642-10057-A-1525496014-1_1200.m3u8
-#EXTINF:-1 group-title="轮播电影",李连杰
-https://al.rtmp.huya.com/src/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",吴京
-https://aldirect.rtmp.huya.com/backsrc/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",周润发
-https://aldirect.rtmp.huya.com/backsrc/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",周星驰
-https://aldirect.rtmp.huya.com/backsrc/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",黄渤
-https://aldirect.rtmp.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="轮播电影",刘德华
-https://aldirect.rtmp.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="轮播电影",徐峥
-https://aldirect.rtmp.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="轮播电影",洪金宝
-https://aldirect.rtmp.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="轮播电影",甄子丹
-https://aldirect.rtmp.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1_1200.m3u8
-#EXTINF:-1 group-title="轮播电影",超级英雄
-https://aldirect.rtmp.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="轮播电影",速度与激情
-https://aldirect.rtmp.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="轮播电影",金庸电影
-https://aldirect.rtmp.huya.com/huyalive/29359996-2689645314-11551938661469650944-2847687586-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="轮播电影",生化危机
-https://aldirect.rtmp.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="轮播电影",死神来了
-https://aldirect.rtmp.huya.com/huyalive/30765679-2484192708-10669526437821677568-3049003172-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="轮播电影",灾难
-https://aldirect.rtmp.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:-1 group-title="轮播电影",还珠格格
-https://al.rtmp.huya.com/huyalive/30765679-2523417093-10837993888602390528-2789274530-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",少年包青天
-https://aldirect.rtmp.huya.com/backsrc/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",各国赌片
-https://aldirect.rtmp.huya.com/backsrc/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",科幻动作
-https://aldirect.rtmp.huya.com/backsrc/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",黑帮大片
-https://al.rtmp.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",隋唐英雄
-https://aldirect.rtmp.huya.com/huyalive/28466698-2689650368-11551960368234364928-2847687592-10057-A-1525508640-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",新水浒传
-https://aldirect.rtmp.huya.com/huyalive/30765679-2523417567-10837995924416888832-2789253832-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",甄嬛传
-https://aldirect.rtmp.huya.com/backsrc/28466698-2686637732-11539021195139612672-3048959574-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",新三国
-https://aldirect.rtmp.huya.com/backsrc/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",西游记86
-https://aldirect.rtmp.huya.com/backsrc/29141112-2689673336-11552059015043219456-3048991588-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",西游记
-https://aldirect.rtmp.huya.com/src/30765679-2550665260-10955023874743336960-2789253862-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",爱情公寓
-https://aldirect.rtmp.huya.com/backsrc/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",医馆笑传
-https://al.rtmp.huya.com/huyalive/29359996-2689637846-11551906586653884416-2847687566-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",武林外传
-https://aldirect.rtmp.huya.com/huyalive/29141112-2689670670-11552047564660408320-2847687630-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",康熙王朝
-https://aldirect.rtmp.huya.com/backsrc/29141112-2691519968-11559990239090966528-3049003118-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",雍正王朝
-https://aldirect.rtmp.huya.com/huyalive/29359996-2689277426-11550358594541060096-2847699098-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",铁牙钢齿纪晓岚
-https://aldirect.rtmp.huya.com/backsrc/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",鹿鼎记
-https://aldirect.rtmp.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",亮剑
-https://aldirect.rtmp.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",倚天屠龙记
-https://aldirect.rtmp.huya.com/src/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",神探狄仁杰
-https://aldirect.rtmp.huya.com/huyalive/28466698-2689651522-11551965324626624512-2847699166-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",家有儿女
-https://aldirect.rtmp.huya.com/backsrc/29169025-2686221252-11537232427160174592-2847687508-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",搞笑港片
-https://aldirect.rtmp.huya.com/backsrc/30765679-2480413542-10653295043445522432-3048959596-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",异型怪物
-https://aldirect.rtmp.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",惊悚大片
-https://aldirect.rtmp.huya.com/backsrc/29106097-2689447600-11551089486305689600-2789274568-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",飞车电影
-https://aldirect.rtmp.huya.com/backsrc/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",女神系列2
-https://aldirect.rtmp.huya.com/backsrc/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",女神系列3
-https://aldirect.rtmp.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="轮播电影",楚汉传奇
-https://aldirect.rtmp.huya.com/backsrc/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",聊斋志异
-https://aldirect.rtmp.huya.com/huyalive/29169025-2750736098-11814321580836651008-3048991666-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",小众电影
-https://aldirect.rtmp.huya.com/huyalive/30765679-2554414651-10971127386468253696-3048959632-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",韩国动作
-https://aldirect.rtmp.huya.com/huyalive/28466698-2689662310-11552011658733813760-3048959582-10057-A-1525512946-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",卧底警匪片
-https://aldirect.rtmp.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",银河护卫队
-https://aldirect.rtmp.huya.com/backsrc/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",我是特种兵
-https://aldirect.rtmp.huya.com/backsrc/30765679-2497296332-10725806074360758272-2789253834-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",陈翔六点半
-https://aldirect.rtmp.huya.com/backsrc/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",男人帮
-https://aldirect.rtmp.huya.com/backsrc/28466698-2689655562-11551982676294500352-2847687628-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",牛叔说电影
-https://al.rtmp.huya.com/huyalive/94525224-2667571840-11457133812530544640-3527487402-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",电影解说
-https://aldirect.rtmp.huya.com/backsrc/94525224-2583571962-11096357083652554752-3503038830-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",老烟斗鬼故事
-https://aldirect.rtmp.huya.com/huyalive/94525224-2670502970-11469722920020869120-3739254198-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="轮播电影",山药视频
-https://aldirect.rtmp.huya.com/backsrc/1199511962590-1199511962590-5223053919860555776-2399024048636-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="亲子卡通",迪斯尼
-P2p://190.2.146.92:18912/5c72485c0008852e1d522f7314a34325.ts
-#EXTINF:-1 group-title="亲子卡通",迪斯尼
-vjms://58.215.133.185:8500:3502/live/cid=361
-#EXTINF:-1 group-title="亲子卡通",迪斯尼
-vjms://23.237.33.155:8500:3502/live/cid=361
-#EXTINF:-1 group-title="亲子卡通",CN卡通
-p8p://0198.02686.cc:16871/5d1a69b3000e2d1e11bddbfa8c491af8.ts
-#EXTINF:-1 group-title="亲子卡通",CN卡通
-vjms://23.237.33.155:8500:3502/live/cid=422
-#EXTINF:-1 group-title="亲子卡通",东森幼幼
-p8p://0198.02686.cc:16871/5d416a580007131b7660d3322e8b0a5f.ts
-#EXTINF:-1 group-title="亲子卡通",东森幼幼
-vjms://23.237.33.155:8500:3502/live/cid=344
-#EXTINF:-1 group-title="亲子卡通",BabyFirst
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1 group-title="亲子卡通",MOMO亲子台
-P2p://190.2.146.92:18912/5c7248620002c4fd1d52456c75ed6b55.ts
-#EXTINF:-1 group-title="亲子卡通",MOMO亲子台
-p2p://190.2.146.92:18912/5c7248620002c4fd1d52456c75ed6b55
-#EXTINF:-1 group-title="亲子卡通",Disney
-P2p://51.79.41.138:18912/5b1409f30004f6ec17d479cd524c4642.ts
-#EXTINF:-1 group-title="NewTV",NewTv-动作电影
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/1.m3u8
-#EXTINF:-1 group-title="NewTV",NewTv-家庭剧场
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8
-#EXTINF:-1 group-title="NewTV",NewTv-中国功夫
-http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226321/1.m3u8
-#EXTINF:-1 group-title="NewTV",NewTv-爱情喜剧
-http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8
-#EXTINF:-1 group-title="NewTV",NewTv-古装剧场
-http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226323/1.m3u8
-#EXTINF:-1 group-title="NewTV",NewTv-军旅剧场
-http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226324/1.m3u8
-#EXTINF:-1 group-title="NewTV",NewTv-军事评论
-http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226326/1.m3u8
-#EXTINF:-1 group-title="NewTV",NewTv-精品大剧
-http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
-#EXTINF:-1 group-title="NewTv",NewTV-海外剧场
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225917/1.m3u8
-#EXTINF:-1 group-title="NewTv",NewTv-超级综艺
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226127/1.m3u8
-#EXTINF:-1 group-title="NewTv",NewTv-超级电影
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226133/1.m3u8
-#EXTINF:-1 group-title="NewTv",NewTV-超级电视剧
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
-#EXTINF:-1 group-title="NewTv",NewTv-超级体育
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226157/1.m3u8
+P2p://sdgdklwos.finetv.tv:9906/59fd0809000909e90233e0b820d34ea5
+#EXTINF:-1 group-title="综合娱乐",亞洲美食HD
+P2p://sdgdklwos.finetv.tv:9906/59fd27e40007382002b04fb323e85206
+#EXTINF:-1 group-title="综合娱乐",美食星球HD
+P2p://sdgdklwos.finetv.tv:9906/59fd07190004a07d0230361f798d3b15
+#EXTINF:-1 group-title="综合娱乐",動物星球HD
+P2p://sdgdklwos.finetv.tv:9906/59fd254500042de102a611e03cd83fa7
+#EXTINF:-1 group-title="综合娱乐",高清探索HD
+P2p://sdgdklwos.finetv.tv:9906/5acb89750000af6a2c1ba62e06531ad6
+#EXTINF:-1 group-title="综合娱乐",探索亞洲HD
+P2p://sdgdklwos.finetv.tv:9906/59fd15f7000e7852026a4bd030284bc8
+#EXTINF:-1 group-title="综合娱乐",探索頻道HD
+P2p://sdgdklwos.finetv.tv:9906/59fcf587000c4fc201eb95c324ea0953
+#EXTINF:-1 group-title="综合娱乐",探索科學HD
+P2p://sdgdklwos.finetv.tv:9906/59fd166e000c7533026c1c1b4bf23d6b
+#EXTINF:-1 group-title="综合娱乐",探索夏娃HD
+P2p://sdgdklwos.finetv.tv:9906/59fd286b000e1cdb02b260d1385f3d28
+#EXTINF:-1 group-title="综合娱乐",探索動力HD
+P2p://sdgdklwos.finetv.tv:9906/59fd2846000cb99902b1cffa3bb33abb
+#EXTINF:-1 group-title="综合娱乐",國家地理HD
+P2p://sdgdklwos.finetv.tv:9906/59fd16240000683c026af7fe2edc67eb
+#EXTINF:-1 group-title="综合娱乐",地理野生HD
+P2p://sdgdklwos.finetv.tv:9906/59fd082b000c6ca7023466633fed4c93
+#EXTINF:-1 group-title="综合娱乐",地理悠人HD
+P2p://sdgdklwos.finetv.tv:9906/59fd2804000a86bb02b0cd8e6fa14a15
+#EXTINF:-1 group-title="综合娱乐",历史頻道1HD
+P2p://sdgdklwos.finetv.tv:9906/59fd16f900060059026e396d395f3348
+#EXTINF:-1 group-title="综合娱乐",历史頻道2HD
+P2p://sdgdklwos.finetv.tv:9906/59fd2b7900012c9002be4c3577197bb9
+#EXTINF:-1 group-title="综合娱乐",MTV HD
+P2p://sdgdklwos.finetv.tv:9906/59fd38c4000c84ed02f23c1b626a19ac
+#EXTINF:-1 group-title="综合娱乐",AXN HD
+P2p://sdgdklwos.finetv.tv:9906/59fd2573000c0b9e02a6c794631510c8
+#EXTINF:-1 group-title="综合娱乐",TVBS歡樂台HD
+P2p://sdgdklwos.finetv.tv:9906/59fd20ae000635720294248563346fd6
+#EXTINF:-1 group-title="综合娱乐",TVBS精采台HD
+P2p://sdgdklwos.finetv.tv:9906/59fd250f000aa01602a54096673b0f2a
+#EXTINF:-1 group-title="综合娱乐",EYETV戲劇HD
+P2p://sdgdklwos.finetv.tv:9906/59fd35bd00061f9e02e6671d60d7011c
+#EXTINF:-1 group-title="综合娱乐",EYETV旅遊HD
+P2p://sdgdklwos.finetv.tv:9906/59fd27c4000cb3b102afd41b5cc4003d
+#EXTINF:-1 group-title="综合娱乐",JET綜合台HD
+P2p://sdgdklwos.finetv.tv:9906/59fd054a00006c030229246e6fa27a75
+#EXTINF:-1 group-title="综合娱乐",MOMO親子台
+P2p://sdgdklwos.finetv.tv:9906/5a3b9d400006e7bcf9e47334508c3038
+#EXTINF:-1 group-title="综合娱乐",ASTRO AEC
+P2p://sdgdklwos.finetv.tv:9906/5b04fa270009e92c6bfca9d05e723d72
+#EXTINF:-1 group-title="综合娱乐",ASTRO小太阳
+P2p://sdgdklwos.finetv.tv:9906/5b04f9b200072af66bfae01c7c8f7421
+#EXTINF:-1 group-title="综合娱乐",ASTRO華麗台
+P2p://sdgdklwos.finetv.tv:9906/5b04f9000000c2aa6bf8272669213c39
+#EXTINF:-1 group-title="综合娱乐",ASTRO歡喜台
+P2p://sdgdklwos.finetv.tv:9906/5b04f9f5000224816bfbe48c31ca641f
+#EXTINF:-1 group-title="综合娱乐",CATCHPLAY電影台
+P2p://sdgdklwos.finetv.tv:9906/59fd26e9000849d802ac7b8a43f34f6a
+#EXTINF:-1 group-title="综合娱乐",FYI HD
+P2p://sdgdklwos.finetv.tv:9906/59fd32500009ea1902d9064f0d2c0edc
+#EXTINF:-1 group-title="综合娱乐",BBC HD
+P2p://sdgdklwos.finetv.tv:9906/59fd16bc000f2550026d4d870b85516d
+#EXTINF:-1 group-title="综合娱乐",TVN HD
+P2p://sdgdklwos.finetv.tv:9906/59fd248e000a1aa502a3488f618b6de7
+#EXTINF:-1 group-title="综合娱乐",NBA HD
+P2p://sdgdklwos.finetv.tv:9906/59fd169800027ee0026cbdab73845c4a
+#EXTINF:-1 group-title="综合娱乐",CNN HD
+P2p://sdgdklwos.finetv.tv:9906/59fd16db000b5f05026dc5a57b516fdb
+#EXTINF:-1 group-title="综合娱乐",LUXE.TV
+P2p://sdgdklwos.finetv.tv:9906/59fd32780006da1202d9a1c415a55c7e
+#EXTINF:-1 group-title="综合娱乐",MY KIDS
+P2p://sdgdklwos.finetv.tv:9906/59fd3515000d559a02e3d8b272784315
+#EXTINF:-1 group-title="综合娱乐",DIVA HD
+P2p://sdgdklwos.finetv.tv:9906/59fd33b00000188702de62ce5428150a
+#EXTINF:-1 group-title="综合娱乐",SMART HD
+P2p://sdgdklwos.finetv.tv:9906/59fd32970005fa4002da1a9d12c87a7d
+#EXTINF:-1 group-title="综合娱乐",OUTDOOR
+P2p://sdgdklwos.finetv.tv:9906/59fd15a600029d6902690c5b552d077d
+#EXTINF:-1 group-title="综合娱乐",TEAVEL HD
+P2p://sdgdklwos.finetv.tv:9906/59fd0b9100084afb0241abca38654efa
+#EXTINF:-1 group-title="综合娱乐",BBC EARTH
+P2p://sdgdklwos.finetv.tv:9906/59fd3223000ee20302d857cf1a981663
+#EXTINF:-1 group-title="综合娱乐",NHK WORLD
+P2p://sdgdklwos.finetv.tv:9906/59fd0a09000c3214023bb18461b51f7a
+#EXTINF:-1 group-title="综合娱乐",CHANNEL[5]
+P2p://sdgdklwos.finetv.tv:9906/5a31fbf500092568d4461abc4b040214
+#EXTINF:-1 group-title="综合娱乐",CHANNEL[8]
+P2p://sdgdklwos.finetv.tv:9906/5a31fc3f000ef04fd4473d4355630850
+#EXTINF:-1 group-title="综合娱乐",CHANNEL[U]
+P2p://sdgdklwos.finetv.tv:9906/5a31fc73000836bdd44806ad15337fe5
+#EXTINF:-1 group-title="综合娱乐",MTV LIVE HD
+P2p://sdgdklwos.finetv.tv:9906/59fd338800019be502ddc6ec066c3089
+#EXTINF:-1 group-title="综合娱乐",BBC LIFESTYLE
+P2p://sdgdklwos.finetv.tv:9906/59fd320000071ba102d7cd137e585878
+#EXTINF:-1 group-title="综合娱乐",MEZZO LIVEHD
+P2p://sdgdklwos.finetv.tv:9906/59fd297e00073d5c02b691533fb45133
+#EXTINF:-1 group-title="综合娱乐",FOX SPORTS3HD
+P2p://sdgdklwos.finetv.tv:9906/59fd0ab7000ca0d6023e595351427583
+#EXTINF:-1 group-title="综合娱乐",ELEVEN SPORTS+
+P2p://sdgdklwos.finetv.tv:9906/59fd23c0000c1e7f02a0245c6964058b
+#EXTINF:-1 group-title="综合娱乐",E!ENTERTAINMENT
+P2p://sdgdklwos.finetv.tv:9906/59fd29f4000d9cec02b85fd97aba3e4f
+#EXTINF:-1 group-title="轮播电影",熊猫直播
+https://mobilelive-play.ysp.cctv.cn/ysp/2001366601_hd.m3u8
+#EXTINF:-1 group-title="轮播电影",家庭影院
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240278_1/encoder/0/playlist.m3u8#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240278_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="轮播电影",亚洲电影
+http://aldirect.hls.huya.com:80/huyalive/28466698-2689662310-11552011658733813760-3048959582-10057-A-1525512946-1_2000.m3u8
+#EXTINF:-1 group-title="轮播电影",星影电影
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="轮播电影",海外影院
+http://tx.hls.huya.com/huyalive/28466698-2689654812-11551979455069028352-2847687626-10057-A-1525510268-1.m3u8
+#EXTINF:-1 group-title="轮播电影",海外剧场
+http://tx.hls.huya.com/huyalive/29141112-2689675788-11552069546303029248-2847687634-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="轮播电影",戏剧影院
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240276_1/encoder/0/playlist.m3u8#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240276_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="轮播电影",高清影视
+http://tx.hls.huya.com/huyalive/29359996-2689607744-11551777299548340224-2847687540-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="轮播电影",恐怖电影
+http://aldirect.hls.huya.com:80/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="轮播电影",惊魂电影
+http://aldirect.hls.huya.com/huyalive/1448686674-1448686674-6222061886981013504-2789274590-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播电影",金庸武侠
+https://aldirect.hls.huya.com/huyalive/29359996-2689645314-11551938661469650944-2847687586-10057-A-0-1_2000.m3u8
+#EXTINF:-1 group-title="轮播电影",虎牙电影
+http://aldirect.hls.huya.com:80/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1.m3u8
+#EXTINF:-1 group-title="轮播电影",虎牙电视剧
+http://aldirect.hls.huya.com/huyalive/29106097-2689284984-11550391055903883264-2847699150-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="轮播电影",周星驰电影
+https://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_2000.m3u8
+#EXTINF:-1 group-title="轮播电影",周润发电影
+http://tx.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播电影",刘德华电影
+http://tx.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_2000.m3u8
+#EXTINF:-1 group-title="轮播电影",甄子丹电影
+http://tx.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1_2000.m3u8
+#EXTINF:-1 group-title="轮播电影",李连杰电影
+https://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_2000.m3u8
+#EXTINF:-1 group-title="轮播电影",洪金宝电影
+https://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_2000.m3u8
+#EXTINF:-1 group-title="轮播电影",林正英电影
+http://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_2000.m3u8
+#EXTINF:-1 group-title="轮播电影",好莱坞电影
+http://aldirect.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播电影",科幻电影
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播电影",怪物科幻
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播电影",漫威电影
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播电影",灾难电影
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播电影",丧尸电影
+http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="轮播电影",虎牙动漫
+http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="轮播电影",虎牙电影
+http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="轮播电影",亚洲电影
+http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="轮播电影",好莱坞片
+http://cibn.peoplevideo.cn/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8?wsSecret=771e13c21abf2b58b4c375b614f113f4
+#EXTINF:-1 group-title="轮播电影",院线大片
+http://cibn.peoplevideo.cn/hls/vCIBNHYPD/1800/vCIBNHYPD.m3u8?wsSecret=771e13c21abf2b58b4c375b614f113f4
+#EXTINF:-1 group-title="轮播电影",H爱院线
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/01.m3u8?fmt=ts2hls,2646,01.m3u8,0,7813,0,0
+#EXTINF:-1 group-title="轮播电影",H爱奇谈
+http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3861320200218100739053952#http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3831320200218100852042231
+#EXTINF:-1 group-title="轮播电影",H爱悬疑
+http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3904520200218100750052940#http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="轮播电影",H爱喜剧
+http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3833620200218100800050352#http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="轮播电影",H爱经典
+http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3925820200218100809041098
+#EXTINF:-1 group-title="轮播电影",H爱动漫
+http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3833920200218100820048558
+#EXTINF:-1 group-title="轮播电影",H爱美食
+http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3829820200218100937056644
+#EXTINF:-1 group-title="轮播电影",H爱解密
+http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3937820200218100949047174
+#EXTINF:-1 group-title="轮播电影",H爱电竞
+http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3829820200218100958056654
+#EXTINF:-1 group-title="轮播电影",H爱都市
+http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3833620200218101025050385
+#EXTINF:-1 group-title="轮播电影",H爱幼教
+http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3907320200218101032052154
+#EXTINF:-1 group-title="轮播电影",H爱科幻
+http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3833620200218101042050390
+#EXTINF:-1 group-title="轮播电影",H爱江湖
+http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3833620200218101050050396
+#EXTINF:-1 group-title="轮播电影",H爱浪漫
+http://101.71.255.229:6610/zjhs/2/10115/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3927720200218101100045178
+#EXTINF:-1 group-title="轮播电影",H爱时尚
+http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3910520200218101126047718
+#EXTINF:-1 group-title="轮播电影",H爱军武
+http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3833920200218101132048572
+#EXTINF:-1 group-title="轮播电影",H爱历史
+http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3828720200218101142050251
+#EXTINF:-1 group-title="轮播电影",H爱世界
+http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3832020200218134238042834
+#EXTINF:-1 group-title="轮播电影",H爱旅行
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
+#EXTINF:-1 group-title="轮播电影",H爱科学
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
+#EXTINF:-1 group-title="轮播电影",H爱探索
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
+#EXTINF:-1 group-title="轮播电影",CLBN电影
+http://cinb1.peoplevideo.cn/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+#EXTINF:-1 group-title="轮播电影",CLBN精品影院
+http://cinb1.peoplevideo.cn/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+#EXTINF:-1 group-title="轮播电影",CLBN喜剧影院
+http://cinb1.peoplevideo.cn/hls/vCIBNHSYX/1800/vCIBNHSYX.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+#EXTINF:-1 group-title="轮播电影",CLBN古装剧场
+http://cinb1.peoplevideo.cn/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+#EXTINF:-1 group-title="轮播电影",Movie电影HD
+http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
+#EXTINF:-1 group-title="NewTv",Newtv-动作电影
+http://111.40.205.87/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 group-title="NewTv",Newtv-古装剧场
+http://111.40.205.87/PLTV/88888888/224/3221225663/index.m3u8
+#EXTINF:-1 group-title="NewTv",Newtv-明星大片
+http://111.40.205.87/PLTV/88888888/224/3221225664/index.m3u8
+#EXTINF:-1 group-title="NewTv",Newtv-惊悚悬疑
+http://111.40.205.87/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 group-title="NewTv",Newtv-金牌综艺
+http://111.40.205.87/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 group-title="NewTv",Newtv-军事评论
+http://111.40.205.87/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1 group-title="NewTv",Newtv-爱情喜剧
+http://111.40.205.87/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 group-title="NewTv",Newtv-精品大剧
+http://111.40.205.87/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 group-title="NewTv",Newtv-海外剧场
+http://111.40.205.87/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 group-title="NewTv",Newtv-精品记录
+http://111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 group-title="NewTv",Newtv-健康有约
+http://111.40.205.87/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1 group-title="NewTv",Newtv-精品体育
+http://111.40.205.87/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 group-title="NewTv",Newtv-军旅剧场
+http://111.40.205.87/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 group-title="NewTv",Newtv-家庭剧场
+http://111.40.205.87/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 group-title="NewTv",Newtv-搏击剧场
+http://111.40.205.87/PLTV/88888888/224/3221225680/index.m3u8
+#EXTINF:-1 group-title="NewTv",Newtv-中国功夫
+http://111.40.205.87/PLTV/88888888/224/3221225681/index.m3u8
 #EXTINF:-1 group-title="NewTv",Newtv-黑莓电影
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
+http://111.40.205.87/PLTV/88888888/224/3221225667/index.m3u8
 #EXTINF:-1 group-title="NewTv",Newtv-黑莓动画
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8
+http://111.40.205.87/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 group-title="NewTv",Newtv-黑莓电竞
+http://111.40.205.87/PLTV/88888888/224/3221225675/index.m3u8
 #EXTINF:-1 group-title="嗨曲",车舞 - 泰国波动比基尼美女
 https://mrw.so/4YfTFh?dsjtv.com/hw/20200205.mp4
 #EXTINF:-1 group-title="嗨曲",车舞 - 泰国超甜美丽模特
@@ -891,11 +733,75 @@ https://mrw.so/4QK768?dsjtv.com/hw/20200205.mp4
 https://mrw.so/5kKle0?dsjtv.com/hw/20200205.mp4
 #EXTINF:-1 group-title="嗨曲",舞蹈 - 风靡一时的鬼步舞
 https://mrw.so/4QK77A?dsjtv.com/hw/20200205.mp4
-#EXTINF:-1 group-title="4K",BesTV4k
+#EXTINF:-1 group-title="嗨曲",混音 Ⅰ 美丽的人说
+http://www.zuori.cc/index/downloads?d=43165&v=6lD80AFR
+#EXTINF:-1 group-title="嗨曲",泰国 Ⅰ 黑色比基尼
+http://www.zuori.cc/index/downloads?d=43165&v=Vv5vUlsM
+#EXTINF:-1 group-title="嗨曲",夜店 Ⅰ 调情俱乐部
+http://www.zuori.cc/index/downloads?d=43165&v=acPB0w06
+#EXTINF:-1 group-title="嗨曲",夜店 Ⅰ 比基尼派对
+http://www.zuori.cc/index/downloads?d=43165&v=OvuRosJO
+#EXTINF:-1 group-title="嗨曲",夜店 Ⅰ 尬舞俱乐部
+http://www.zuori.cc/index/downloads?d=43165&v=6coAxHVF
+#EXTINF:-1 group-title="嗨曲",夜店 Ⅰ 慕尼黑聚会
+http://www.zuori.cc/index/downloads?d=43165&v=54M0khyO
+#EXTINF:-1 group-title="嗨曲",夜店 Ⅰ 两姐妹领舞
+http://www.zuori.cc/index/downloads?d=43165&v=4xHguSxl
+#EXTINF:-1 group-title="嗨曲",混音 Ⅰ 迪斯科舞曲
+http://www.zuori.cc/index/downloads?d=43165&v=sVUrPAkF
+#EXTINF:-1 group-title="嗨曲",电音 Ⅰ 做我的爱人
+http://www.zuori.cc/index/downloads?d=43165&v=RaQAd2ef
+#EXTINF:-1 group-title="嗨曲",电音 Ⅰ 最好的一面
+http://www.zuori.cc/index/downloads?d=43165&v=kJOLL7qs
+#EXTINF:-1 group-title="嗨曲",派对 Ⅰ 麦王滑板车
+http://www.zuori.cc/index/downloads?d=43165&v=f4Mf7Sou
+#EXTINF:-1 group-title="嗨曲",舞曲 Ⅰ 大家都跳舞
+http://www.zuori.cc/index/downloads?d=43165&v=VdI9HOwH
+#EXTINF:-1 group-title="嗨曲",舞曲 Ⅰ 极速鬼步舞
+http://www.zuori.cc/index/downloads?d=43165&v=VSUEF0Sq
+#EXTINF:-1 group-title="嗨曲",舞曲 Ⅰ 再一次鬼步舞
+http://www.zuori.cc/index/downloads?d=43165&v=R4SIsRRH
+#EXTINF:-1 group-title="嗨曲",混音 Ⅰ 温柔的抚摸我
+http://www.zuori.cc/index/downloads?d=43165&v=nO3nU3vC
+#EXTINF:-1 group-title="嗨曲",夜店 Ⅰ 俱乐部的一天
+http://www.zuori.cc/index/downloads?d=43165&v=v2cu36ks
+#EXTINF:-1 group-title="嗨曲",夜店 Ⅰ 狂野的俱乐部
+http://www.zuori.cc/index/downloads?d=43165&v=I7plIu2a
+#EXTINF:-1 group-title="嗨曲",派对 Ⅰ 我们如何聚会
+http://www.zuori.cc/index/downloads?d=43165&v=GphYWFNW
+#EXTINF:-1 group-title="嗨曲",电音 Ⅰ 永远在你身边
+http://www.zuori.cc/index/downloads?d=43165&v=DqPafWf2
+#EXTINF:-1 group-title="嗨曲",电音 Ⅰ 美女沙滩大海
+http://www.zuori.cc/index/downloads?d=43165&v=h8SKIzR4
+#EXTINF:-1 group-title="嗨曲",电音 Ⅰ 活在黑夜里
+http://www.zuori.cc/index/downloads?d=43165&v=LNnplfDT
+#EXTINF:-1 group-title="嗨曲",车展 Ⅰ 泰国迷你直通车
+http://www.zuori.cc/index/downloads?d=43165&v=lpWRRLUD
+#EXTINF:-1 group-title="嗨曲",车展 Ⅰ 泰国比基尼舞蹈
+http://www.zuori.cc/index/downloads?d=43165&v=U9kkGlvv
+#EXTINF:-1 group-title="嗨曲",派对 Ⅰ 泰国跳舞家族聚会
+http://www.zuori.cc/index/downloads?d=43165&v=HXPFyvSW
+#EXTINF:-1 group-title="嗨曲",嗨曲 Ⅰ 黎明前的泰国美眉
+http://www.zuori.cc/index/downloads?d=43165&v=vJeUyqpy
+#EXTINF:-1 group-title="嗨曲",舞曲 Ⅰ 风靡一时的鬼步舞
+http://www.zuori.cc/index/downloads?d=43165&v=BnnJWufX
+#EXTINF:-1 group-title="嗨曲",车展 Ⅰ 泰国三美女比基尼
+http://www.zuori.cc/index/downloads?d=43165&v=kt81QJUJ
+#EXTINF:-1 group-title="嗨曲",车展 Ⅰ 泰国超甜美丽模特
+http://www.zuori.cc/index/downloads?d=43165&v=njEPbOh5
+#EXTINF:-1 group-title="嗨曲",派对 Ⅰ 迈阿密音乐节克鲁斯
+http://www.zuori.cc/index/downloads?d=43165&v=XEX5F0J1
+#EXTINF:-1 group-title="嗨曲",走秀 Ⅰ 祝贺男人比基尼美女
+http://www.zuori.cc/index/downloads?d=43165&v=fe0MmmdY
+#EXTINF:-1 group-title="嗨曲",车展 Ⅰ 泰国波动比基尼美女
+http://www.zuori.cc/index/downloads?d=43165&v=8ojPWmEM
+#EXTINF:-1 group-title="嗨曲",车展 Ⅰ 泰国郊郎蓝色比基尼美女
+http://www.zuori.cc/index/downloads?d=43165&v=yq8JSUqD
+#EXTINF:-1 group-title="4K",BesTV 4k
 http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 group-title="4K",纯享4K
+#EXTINF:-1 group-title="4K",纯享 4K
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1 group-title="4K",CCTV4K
+#EXTINF:-1 group-title="4K",CCTV 4K
 http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 #EXTINF:-1 group-title="4K",爱上4K
 http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
