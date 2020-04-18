@@ -1,100 +1,102 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频道",CCTV1
-http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+http://iptv.pdsu.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视频道",CCTV2
-http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
+http://iptv.pdsu.edu.cn/hls/cctv2hd.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视频道",CCTV3
-http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+http://iptv.pdsu.edu.cn/hls/cctv3hd.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视频道",CCTV4
-http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
+http://iptv.pdsu.edu.cn/hls/cctv4hd.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视频道",CCTV5
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
+http://iptv.pdsu.edu.cn/hls/cctv5hd.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视频道",CCTV5+
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
+http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视频道",CCTV6
-http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+http://iptv.pdsu.edu.cn/hls/cctv6hd.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视频道",CCTV7
-http://ivi.bupt.edu.cn/hls/cctv7hd.m3u8
+http://iptv.pdsu.edu.cn/hls/cctv7hd.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视频道",CCTV8
-http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+http://iptv.pdsu.edu.cn/hls/cctv8hd.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视频道",CCTV9
-http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
+http://iptv.pdsu.edu.cn/hls/cctv9hd.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视频道",CCTV10
-http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
+http://iptv.pdsu.edu.cn/hls/cctv10hd.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视频道",CCTV11
-http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+http://iptv.pdsu.edu.cn/hls/cctv11.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视频道",CCTV12
-http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
+http://iptv.pdsu.edu.cn/hls/cctv12hd.m3u8http://iptv.pdsu.edu.cn/hls/cctv12hd.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视频道",CCTV13
-http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+http://iptv.pdsu.edu.cn/hls/cctv13.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视频道",CCTV14
-http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
+http://iptv.pdsu.edu.cn/hls/cctv14hd.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视频道",CCTV15
-http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+http://iptv.pdsu.edu.cn/hls/cctv15.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频道",CCTV17
 http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视频道",CCTV4k
+http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视频道",湖南卫视
-http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
+http://iptv.pdsu.edu.cn/hls/hunanhd.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视频道",浙江卫视
-http://ivi.bupt.edu.cn/hls/zjhd.m3u8
+http://iptv.pdsu.edu.cn/hls/zjhd.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视频道",江苏卫视
-http://ivi.bupt.edu.cn/hls/jshd.m3u8
+http://iptv.pdsu.edu.cn/hls/jshd.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视频道",北京卫视
-http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
+http://iptv.pdsu.edu.cn/hls/btv1hd.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视频道",东方卫视
-http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+http://iptv.pdsu.edu.cn/hls/dfhd.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视频道",天津卫视
-http://ivi.bupt.edu.cn/hls/tjhd.m3u8
+http://iptv.pdsu.edu.cn/hls/tjhd.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视频道",广东卫视
-http://ivi.bupt.edu.cn/hls/gdhd.m3u8
+http://iptv.pdsu.edu.cn/hls/gdhd.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视频道",深圳卫视
-http://ivi.bupt.edu.cn/hls/sztv.m3u8
+http://iptv.pdsu.edu.cn/hls/szhd.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视频道",山东卫视
-http://ivi.bupt.edu.cn/hls/sdhd.m3u8
+http://iptv.pdsu.edu.cn/hls/sdhd.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视频道",湖北卫视
-http://ivi.bupt.edu.cn/hls/hbhd.m3u8
+http://iptv.pdsu.edu.cn/hls/hbhd.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视频道",安徽卫视
-http://ivi.bupt.edu.cn/hls/ahhd.m3u8
+http://iptv.pdsu.edu.cn/hls/ahhd.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视频道",东南卫视
-http://ivi.bupt.edu.cn/hls/dntv.m3u8
+http://iptv.pdsu.edu.cn/hls/dnhd.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视频道",江西卫视
-http://ivi.bupt.edu.cn/hls/jxtv.m3u8
+http://iptv.pdsu.edu.cn/hls/jxhd.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视频道",四川卫视
-http://ivi.bupt.edu.cn/hls/sctv.m3u8
+http://iptv.pdsu.edu.cn/hls/schd.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视频道",贵州卫视
-http://ivi.bupt.edu.cn/hls/gztv.m3u8
+http://iptv.pdsu.edu.cn/hls/gztv.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视频道",重庆卫视
-http://ivi.bupt.edu.cn/hls/cqhd.m3u8
+http://iptv.pdsu.edu.cn/hls/cqhd.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视频道",海南卫视
-http://ivi.bupt.edu.cn/hls/lytv.m3u8
+http://iptv.pdsu.edu.cn/hls/lytv.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视频道",河北卫视
-http://ivi.bupt.edu.cn/hls/hebtv.m3u8
+http://iptv.pdsu.edu.cn/hls/hebhd.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视频道",河南卫视
-http://ivi.bupt.edu.cn/hls/hntv.m3u8
+http://iptv.pdsu.edu.cn/hls/hntv.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视频道",辽宁卫视
-http://ivi.bupt.edu.cn/hls/lntv.m3u8
+http://iptv.pdsu.edu.cn/hls/lnhd.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视频道",黑龙江卫视
-http://ivi.bupt.edu.cn/hls/hljtv.m3u8
+http://iptv.pdsu.edu.cn/hls/hljtv.m3u8
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视频道",甘肃卫视
-http://ivi.bupt.edu.cn/hls/gstv.m3u8
+http://iptv.pdsu.edu.cn/hls/gstv.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视频道",广西卫视
-http://ivi.bupt.edu.cn/hls/gxtv.m3u8
+http://iptv.pdsu.edu.cn/hls/gxtv.m3u8
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视频道",青海卫视
-http://ivi.bupt.edu.cn/hls/qhtv.m3u8
+http://iptv.pdsu.edu.cn/hls/qhtv.m3u8
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视频道",山西卫视
-http://ivi.bupt.edu.cn/hls/sxrtv.m3u8
+http://iptv.pdsu.edu.cn/hls/sxrtv.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视频道",云南卫视
-http://ivi.bupt.edu.cn/hls/yntv.m3u8
+http://iptv.pdsu.edu.cn/hls/yntv.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视频道",陕西卫视
-http://ivi.bupt.edu.cn/hls/sxtv.m3u8
+http://iptv.pdsu.edu.cn/hls/sxtv.m3u8
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视频道",吉林卫视
-http://ivi.bupt.edu.cn/hls/jltv.m3u8
+http://iptv.pdsu.edu.cn/hls/jltv.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视频道",内蒙古卫视
-http://ivi.bupt.edu.cn/hls/nmtv.m3u8
+http://iptv.pdsu.edu.cn/hls/nmtv.m3u8
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视频道",新疆卫视
-http://ivi.bupt.edu.cn/hls/xjtv.m3u8
+http://iptv.pdsu.edu.cn/hls/xjtv.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视频道",西藏卫视
-http://ivi.bupt.edu.cn/hls/xztv.m3u8
+http://iptv.pdsu.edu.cn/hls/xztv.m3u8
 EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="卫视频道",CHC高清电影
 rtmp://58.200.131.2:1935/livetv/chchd
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="卫视频道",CHC家庭电影
@@ -103,10 +105,6 @@ rtmp://58.200.131.2:1935/livetv/chctv
 rtmp://58.200.131.2:1935/livetv/chcatv
 #EXTINF:-1 group-title="地方频道",山东齐鲁
 http://39.137.76.32:8089/00/SNM/CHANNEL00000052/index.m3u8
-#EXTINF:-1 group-title="地方频道",济南少儿
-http://ts2.ijntv.cn/jnse/playlist.m3u8?_upt=a3db69d31586688801
-#EXTINF:-1 group-title="地方频道",济南影视
-http://ts1.ijntv.cn/jnyd/playlist.m3u8?_upt=8737686e1586688867
 #EXTINF:-1 group-title="地方频道",福州影视
 http://live1.fzntv.cn/live/zohi_fztv2/playlist.m3u8
 #EXTINF:-1 group-title="地方频道",欢笑剧场
@@ -214,13 +212,9 @@ https://tv.elibei.com/tv/play?token=489c8d68b159f764ef9b6f1ce13638df&k=744986701
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港台娱乐",无线新闻
 https://tv.elibei.com/tv/play?token=c53c2425123852327994cc6b8b57e2e2&k=7449867010c26a0b26566c330d124e1e&cid=196&uid=36808
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港台娱乐",TVB翡翠台
-https://tv.elibei.com/tv/play?token=499b831fdfbdb8bc62b5a3b23ee3b27a&k=7449867010c26a0b26566c330d124e1e&cid=183&uid=36808
+https://1gradcmttge3nhctigczdgqy.ourdvsss.com/hdl0901.plures.net/onlive/a6feb006f5c001c093b20c0a9565e695.flv
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港台娱乐",TVB明珠台
-https://tv.elibei.com/tv/play?token=f7d2c7dd769c478bfe767c01d4026db7&k=7449867010c26a0b26566c330d124e1e&cid=184&uid=36808
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港台娱乐",翡翠台（备用）
-http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港台娱乐",TVB 明珠台（备用）
-http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+http://xiao068.vip/888/xxhb.php?id=9
 #EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港台娱乐",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港台娱乐",香港开电视
@@ -618,11 +612,13 @@ https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 group-title="综合娱乐",CHANNEL[V]
 rtmp://58.200.131.2:1935/livetv/channelv
 #EXTINF:-1 group-title="虎牙电影",亮剑
-https://aldirect.rtmp.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_2500.m3u8
+https://aldirect.rtmp.huya.com/backsrc/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="虎牙电影",雪豹
 https://aldirect.rtmp.huya.com/backsrc/29169025-2686221276-11537232530239389696-2777027178-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="虎牙电影",鹿鼎记
-https://aldirect.rtmp.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_2500.m3u8
+https://aldirect.rtmp.huya.com/backsrc/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_2500.m3u8
+#EXTINF:-1 group-title="虎牙电影",开心鬼
+http://aldirect.rtmp.huya.com/backsrc/1448686638-1448686638-6222061732362190848-2789253842-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="虎牙电影",成龙电影
 https://aldirect.rtmp.huya.com/backsrc/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="虎牙电影",吴京电影
@@ -630,53 +626,61 @@ https://aldirect.rtmp.huya.com/backsrc/30765679-2554414705-10971127618396487680-
 #EXTINF:-1 group-title="虎牙电影",沈腾电影
 https://aldirect.rtmp.huya.com/backsrc/29141112-2689675756-11552069408864075776-3048959626-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="虎牙电影",黄渤电影
-https://aldirect.rtmp.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8
+https://aldirect.rtmp.huya.com/backsrc/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="虎牙电影",徐峥电影
-https://aldirect.rtmp.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1_1200.m3u8
+https://aldirect.rtmp.huya.com/backsrc/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="虎牙电影",搞笑港片
 https://aldirect.rtmp.huya.com/backsrc/30765679-2480413542-10653295043445522432-3048959596-10057-A-0-1_2500.m3u8
+#EXTINF:-1 group-title="虎牙电影",港产搞笑
+https://aldirect.rtmp.huya.com/backsrc/30765679-2499070088-10733424298371842048-2789274548-10057-A-0-1_2500.m3u8
+#EXTINF:-1 group-title="虎牙电影",粤语港片
+http://aldirect.rtmp.huya.com/backsrc/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="虎牙电影",天龙八部
 https://aldirect.rtmp.huya.com/backsrc/30765679-2475713428-10633108207528050688-3048991608-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="虎牙电影",惊悚大片
-https://aldirect.rtmp.huya.com/backsrc/29106097-2689447600-11551089486305689600-2789274568-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="虎牙电影",漫威电影
-https://aldirect.rtmp.huya.com/backsrc/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_2500.m3u8#https://aldirect.rtmp.huya.com/huyalive/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1_2500.m3u8
+https://aldirect.rtmp.huya.com/backsrc/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="虎牙电影",女神电影
 https://aldirect.rtmp.huya.com/backsrc/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_2500.m3u8
+#EXTINF:-1 group-title="虎牙电影",女神港片
+https://aldirect.rtmp.huya.com/backsrc/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="虎牙电影",怀念金庸
-https://aldirect.rtmp.huya.com/huyalive/29359996-2689645314-11551938661469650944-2847687586-10057-A-0-1_2500.m3u8
+https://aldirect.rtmp.huya.com/backsrc/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="虎牙电影",黑帮大片
-https://aldirect.rtmp.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1_2500.m3u8
+https://aldirect.rtmp.huya.com/backsrc/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1_2500.m3u8
+#EXTINF:-1 group-title="虎牙电影",最佳拍档
+http://aldirect.rtmp.huya.com/backsrc/1448738224-1448738224-6222283292545122304-2789253866-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="虎牙电影",周星驰电影
-https://aldirect.rtmp.huya.com/src/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_2500.m3u8#https://aldirect.rtmp.huya.com/backsrc/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_2500.m3u8
+https://aldirect.rtmp.huya.com/backsrc/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="虎牙电影",甄子丹电影
-https://aldirect.rtmp.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1_2500.m3u8
+https://aldirect.rtmp.huya.com/backsrc/29169025-2686219938-11537226783573147648-2847699096-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="虎牙电影",周润发电影
 https://aldirect.rtmp.huya.com/backsrc/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="虎牙电影",刘德华电影
-https://aldirect.rtmp.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
+https://aldirect.rtmp.huya.com/backsrc/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="虎牙电影",洪金宝电影
-https://aldirect.rtmp.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
+https://aldirect.rtmp.huya.com/backsrc/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="虎牙电影",林正英电影
 https://aldirect.rtmp.huya.com/backsrc/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="虎牙电影",李连杰电影
-https://aldirect.rtmp.huya.com/src/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_2500.m3u8
+https://aldirect.rtmp.huya.com/backsrc/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="虎牙电影",速度与激情
-https://aldirect.rtmp.huya.com/huyalive/29359996-2689642844-11551928052900429824-2847699142-10057-A-0-1_2500.m3u8
+https://aldirect.rtmp.huya.com/backsrc/94525224-2708800086-11634207780771987456-2373228722-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="虎牙电影",神探狄仁杰
 https://aldirect.rtmp.huya.com/huyalive/28466698-2689651522-11551965324626624512-2847699166-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="虎牙电影",少年包青天
 https://aldirect.rtmp.huya.com/backsrc/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="虎牙电影",迪迦奥特曼
-https://aldirect.rtmp.huya.com/huyalive/29106097-2689405806-11550909982442520576-3048959658-10057-A-1525400208-1_2500.m3u8
+https://aldirect.rtmp.huya.com/backsrc/28-2579730188-11079856789963931648-3048959658-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="虎牙电影",五福星电影
 https://aldirect.rtmp.huya.com/backsrc/29169025-2686220040-11537227221659811840-2713685416-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="虎牙电影",倚天屠龙记
 https://aldirect.rtmp.huya.com/src/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_2500.m3u8
+#EXTINF:-1 group-title="虎牙电影",成龙历险记
+https://aldirect.rtmp.huya.com/backsrc/29169025-2686220626-11537229738510647296-2847699128-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="虎牙电影",铁齿铜牙纪晓岚
 https://aldirect.rtmp.huya.com/backsrc/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="虎牙电影",康熙微服私访记
-https://aldirect.rtmp.huya.com/huyalive/29169025-2686221704-11537234368485392384-2789274536-10057-A-0-1_2500.m3u8
+https://aldirect.rtmp.huya.com/backsrc/29169025-2686221704-11537234368485392384-2789274536-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="NewTv",NewTv-动作电影
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/1.m3u8
 #EXTINF:-1 group-title="NewTv",NewTv-家庭剧场
