@@ -252,11 +252,11 @@ AXN,tvbus://4XYR3iE6kxEzCUJdX9wH9QwbanGsRiGxnDcQDFe3zonYqTcRoX
 动物星球 HD,p2p://lino.homeunix.com:6007/59fd254500042de102a611e03cd83fa7.ts
 星卫电影 HD,p2p://lino.homeunix.com:6007/59fd086a00072cbb02355b236c4a3fcb.ts
 美亚电影 HD,p2p://lino.homeunix.com:6007/59fd08470008d4d60234d2d92e65644c.ts
-东森电影 HD,p2p://lino.homeunix.com:6007/59fd0cab0008230a0245f94a229777bd.ts
 卫视电影 HD,p2p://lino.homeunix.com:6007/59fd0369000ea5750221d12f32a532b8.ts
 纬来电影 HD,p2p://lino.homeunix.com:6007/59fd1feb0003d7be02912a31740004af.ts
 靖天电影 HD,p2p://lino.homeunix.com:6007/59fd358c00069b9502e5a7d404d940d2.ts
 靖天映画 HD,p2p://lino.homeunix.com:6007/59fd3565000a788d02e5107642590dce.ts
+有線電影,tvbus://4f5jNLdAYjb6hn5rU9HCA8atb5cJwx9PK41ZDunEG66ymTVyXE
 CHC 动作电影 HD,p2p://lino.homeunix.com:6007/59fd25c800060e1102a812154e343f18.ts
 CHC 家庭影院 HD,p2p://lino.homeunix.com:6007/59fd25b000031edb02a7b38a6a5d0696.ts
 CHC 高清电影 HD,p2p://lino.homeunix.com:6007/59fd0b3f0002084d024069e339cc1997.ts
@@ -1076,8 +1076,7 @@ iHOT爱军武,http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=z
 刘涛作品集,http://47.240.60.73/migu.php?id=625514969
 天龙八部集,http://47.240.60.73/migu.php?id=625703337
 盗墓方法论,http://47.240.60.73/migu.php?id=625525181
-海底小纵队,http://kkitv.com/iptv/mg.php?id=639528330#http://www.dszbdq.cn/diao/migu.php?id=639528330
-海底小纵队2,http://player.ioioz.com/17/0/migum3u8.php?id=639528330#http://ao.52yi.vip/migu.php?id=639528330#http://kkitv.com/iptv/mg.php?id=639528330
+海底小纵队,http://kkitv.com/iptv/mg.php?id=639528330#http://www.dszbdq.cn/diao/migu.php?id=639528330#http://player.ioioz.com/17/0/migum3u8.php?id=639528330#http://ao.52yi.vip/migu.php?id=639528330#http://kkitv.com/iptv/mg.php?id=639528330
 男宝宝最爱,http://player.ioioz.com/17/0/migum3u8.php?id=639528180#http://ao.52yi.vip/migu.php?id=639528180#http://kkitv.com/iptv/mg.php?id=63928180
 女宝宝最爱,http://player.ioioz.com/17/0/migum3u8.php?id=639528313#http://ao.52yi.vip/migu.php?id=639528313#http://kkitv.com/iptv/mg.php?id=639528313
 经典西游记,https://aldirect.rtmp.huya.com/huyalive/29141112-2689673336-11552059015043219456-3048991588-10057-A-0-1_1200.m3u8
@@ -1130,7 +1129,6 @@ MOMO親子 ,p2p://51.79.41.138:18912/5c7248620002c4fd1d52456c75ed6b55.ts
 黑子的篮球,https://aldirect.rtmp.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
 七龙珠,https://aldirect.rtmp.huya.com/huyalive/29169025-2686220712-11537230107877834752-3048959618-10057-A-0-1_1200.m3u8
 Miao Mi TV,http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
-黑霉动画,http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
 YOYO HD卡通,http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
 纬来戏剧,P2p://190.2.146.92:18912/5c72488e000bae061d52f38e705751dd.ts#p2p://190.2.146.92:18912/5c72488e000bae061d52f38e705751dd.ts
 纬来电影,p2p://51.79.41.138:18912/5c7249d80003096d1d57fa6c33601be9.ts#P2p://190.2.146.92:18912/5c7249d80003096d1d57fa6c33601be9.ts#p2p://170.178.164.250:6141/5b448afc0007f4650004373eda7b4dd8.ts#p2p://190.2.146.92:18912/5c7249d80003096d1d57fa6c33601be9.ts
@@ -1138,7 +1136,19 @@ YOYO HD卡通,http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
 美国中文电视,http://ec.sinovision.net/video/ts/lv.m3u8
 美食星球,http://341697390.r.fdccdn.net/live/tw_meishi_xq.m3u8
 耀才财经台,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-臺新聞,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
+TVBS新闻台 HD,p2p://lino.homeunix.com:6007/59fd096d0003aa9702394e013b6206a2.ts
+三立新闻,p2p://lino.homeunix.com:6007/59fd08fd000707490237995b3c9f2775.ts
+壹电视新闻 HD,p2p://lino.homeunix.com:6007/59fd08ad000509c00236604f613b08e7.ts
+非凡新闻 HD,p2p://lino.homeunix.com:6007/59fd05f30007004f022bba4b77671d93.ts
+年代新闻 HD,p2p://lino.homeunix.com:6007/5a56230e0004af51617ff5935a3e292e.ts
+民视新闻台,p2p://lino.homeunix.com:6007/59fd05930008403b022a439a3b9b7401.ts
+东森新闻 HD,p2p://lino.homeunix.com:6007/5a1427ee0009fb195fc1064a3af652d1.ts
+东森财经新闻 HD,p2p://lino.homeunix.com:6007/59fd1f94000ee56d028fd937397b7e63.ts
+寰宇新闻频道 HD,p2p://lino.homeunix.com:6007/59fd2b5e0006d13802bde4340bc41e87.ts
+寰宇新闻二台,p2p://lino.homeunix.com:6007/5a142744000f25045fbe6f82276e0d88.ts
+台视新闻台 HD,p2p://lino.homeunix.com:6007/59fd299b00054a3002b7020e67d657e3.ts
+中视新闻台 HD,p2p://lino.homeunix.com:6007/59fd2282000219b8029b479b6fc21d86.ts
+中天新闻HD,p2p://lino.homeunix.com:6007/59fd05020006070602280c953c2545e6.ts
 華藏衛視,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
 采昌影剧,p2p://fccsovh.pvbox.live:18912/5b1409db0009049a17d41d161677386d
 非凡新闻,p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts#P2p://190.2.146.92:18912/5c7249cb000744bc1d57c8bd53377361.ts#p2p://190.2.146.92:18912/5c7249cb000744bc1d57c8bd53377361.ts
