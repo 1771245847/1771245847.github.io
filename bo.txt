@@ -233,7 +233,6 @@ Ci罪案侦缉 HD,p2p://lino.homeunix.com:6007/59fd2824000df04802b14b7973731f54.
 亚洲美食 HD,p2p://lino.homeunix.com:6007/59fd27e40007382002b04fb323e85206.ts
 EYETV旅游 HD,p2p://lino.homeunix.com:6007/59fd27c4000cb3b102afd41b5cc4003d.ts
 FX 福克斯影视 HD,p2p://lino.homeunix.com:6007/59fd279b000c06e702af33d47d4c770a.ts
-都市剧场 HD,p2p://lino.homeunix.com:6007/59fd276d000b8b6d02ae80040368597e.ts
 三立都会台 HD,p2p://lino.homeunix.com:6007/59fd20f5000e6b4602953c0079210fd1.ts
 三立戏剧台 HD,p2p://lino.homeunix.com:6007/59fd274c0001400d02adfc6d23452c25.ts
 三立综合台 HD,p2p://lino.homeunix.com:6007/59fd27240003732f02ad60c95d8e10a7.ts
@@ -245,7 +244,6 @@ FRANCE 24（English）,p2p://lino.homeunix.com:6007/59fd268900088bbe02ab049910f0
 東森新聞_HD,tvbus://4RhcF47U5m1uZGwmN5a3ZYRhh9XAZKgxFYrrHjL5sDte3wf3bD
 東森電影,tvbus://4JYzMG4LN9stqwmmHSYBrR5wJTruGvbZqJwAq2vWHGHex9TmRh
 龍祥時代,tvbus://3D6awDkbpyHT1F6YXV45PZjo1hgc9FQ3TNoZZUBpcRrwm9qbA4
-HBO_HD,tvbus://3LPWjDzo57fdMDeGy6qYxWRmMa79pHefPotsZUNx9Mjr2LWa7w
 東森洋片,tvbus://4GGbsZaCaQq1aHdBViJw6aLHTUUeBpQ4d4XBj8BfkPp37ftrAN
 AXN,tvbus://4XYR3iE6kxEzCUJdX9wH9QwbanGsRiGxnDcQDFe3zonYqTcRoX
 好萊塢電影_HD,tvbus://4XE2pHPDHCBtNmYTBxyMxzJnfVaEf4KuhUYtGjNnHJ2V5ww9AT
