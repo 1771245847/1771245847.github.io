@@ -619,18 +619,18 @@ CCTV-4K,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original
 CCTV-4K,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 XX_0212,#genre#
-HAPPY,P2p://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
-惊艳台,P2p://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
-彩虹电影,P2p://51.79.41.138:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts
-彩虹e台,P2p://51.79.41.138:18912/5c18f8ef000d41c9c073eec574332890.ts.ts
-彩虹k台,P2p://51.79.41.138:18912/5c18f8f300074bdfc073fcde6e553705.ts.ts
-HOT星颜,P2p://51.79.41.138:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts
-松视,P2p://51.79.41.138:18912/5c18f8fb00064883c0741bdf109f114a.ts.ts
-松视2,P2p://51.79.41.138:18912/5c18f8f7000d865dc0740e1426765941.ts.ts
-松视3,P2p://51.79.41.138:18912/5c18f9020004cea3c07436da29307240.ts.ts
-香蕉台,P2p://51.79.41.138:18912/5c18f9090004f8a0c07452412e4e369f.ts.ts
-潘多拉粉红,P2p://51.79.41.138:18912/5c18f90c000e8229c074606a15084f35.ts.ts
-潘多拉完美,P2p://51.79.41.138:18912/5c18f905000c08fbc07444661e2e685e.ts.ts
+香蕉台,p2p://51.79.41.139:18912/5c18f9090004f8a058092fb69f8b260d.ts
+惊艳台,p2p://51.79.41.139:18912/5c18f9100006a3e216c73f0df5e8c139.ts
+松视1台,p2p://51.79.41.139:18912/5c18f8fb000648839ad60aa0ba532ed5.ts
+松視2台,p2p://51.79.41.139:18912/5c18f8f7000d865d5ab52e9a3d98f376.ts
+松視3台,p2p://51.79.41.139:18912/5c18f9020004cea37a4b4bdc9c6422ce.ts
+彩虹电影,p2p://51.79.41.139:18912/5c18f8eb000ca1803b96579c41d92bda.ts
+彩虹e台,p2p://51.79.41.139:18912/5c18f8ef000d41c9e23ec4ef80f9d5bd.ts
+彩虹k台,p2p://51.79.41.139:18912/18912/5c18f8f300074bdf86631730bdaa190e.ts
+潘多拉粉红 高清,p2p://51.79.41.139:18912/5c18f90c000e82291f3975518dd690b4.ts
+潘多拉完美 高清,p2p://51.79.41.139:18912/5c18f905000c08fb8bb5050d7782e2df.ts
+HOT,p2p://51.79.41.139:18912/5c18f8e80001d0466d12577248a36bf0.ts
+欢乐台,p2p://51.79.41.139:18912/18912/5c18f8fe000ca53e02ad0e2581da3188.ts
 菊花台（翻墙）,http://46.29.165.95:8081/stream/Runight/chunks.m3u8#p2p://51.79.41.138:18912/5b3b1072000af9565da0393c2a56462d.ts
 IBiza Media(翻),https://cdn1.ibizastream.biz:441/free/2/playlist_dvr.m3u8
 NYX MEDIA(翻),https://cdn1.ibizastream.biz:441/free/1/playlist_dvr.m3u8
@@ -693,13 +693,7 @@ Sex31HD(翻),rtmp://62.210.55.60/stream3xVJ/3x31#p2p://c.love69.cc:6004/5bc770bf
 18禁 Ⅰ 3P插到潮喷,https://qqc1107.phpdaniu.com/japan/20191013/lcMXHzfW/500kb/hls/index.m3u8
 18禁 Ⅰ 美穴欣赏【叶山瞳】,https://qqc1107.phpdaniu.com/japan/20191013/EMDCPRKl/index.m3u8
 18禁 Ⅰ 美穴欣赏【麻生希】,https://qqc1107.phpdaniu.com/japan/20191013/VBDebMeI/500kb/hls/index.m3u8
-18禁 Ⅰ 鱼水交欢,https://qqc1107.phpdaniu.com/japan/wuma/031116-519_06/index.m3u8
-新婚妻子调情,https://135zyv6.xw0371.com/2019/03/17/TN7ccn21rlJlaA4W/playlist.m3u8
-国产楼顶开车,http://cdn.710681.com/cp/84/12cp8450592f95a9c1a654db071f819badcb2f5874.m3u8
-车震,http://cdn.710681.com/ky/61/12ky6142c530a247939a81f0f100d81c2e622b5903.m3u8
-爱在你我之间,https://135zyv6.xw0371.com/2019/03/13/lv22oelf3fYZhrk8/playlist.m3u8
-兼职的妻子,https://135zyv6.xw0371.com/2019/03/17/h0JjWtggjlxCZjmG/playlist.m3u8
-我朋友的妈妈,https://135zyv6.xw0371.com/2019/03/13/rCXlwWLcluwsMhe7/playlist.m3u8
+18禁 Ⅰ 鱼水交欢,https://qqc1107.phpdaniu.com/japan/wuma/031116-519_06/index.m3u8p
 洗衣,http://video.gujianzhixiang.com:8091/81820190301/818201903010576/index.m3u8
 性感,http://video.gujianzhixiang.com:8091/81820190301/818201903010603/index.m3u8
 送り続,http://video.gujianzhixiang.com:8091/81820190301/818201903010548/index.m3u8
