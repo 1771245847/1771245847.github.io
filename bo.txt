@@ -335,10 +335,24 @@ DOXTV,http://39.135.15.70:6610/PLTV/88888888/224/3221226048/1/index.m3u8?fmt=ts2
 海爷TV9,https://cn-hbxy-cmcc-live-01.live-play.acgvideo.com/live-bvc/523156/live_82436982_2406441_1500.m3u8
 好莱坞漫威,https://cn-hbxy-cmcc-live-01.live-play.acgvideo.com/live-bvc/601982/live_334056_8894439_1500.m3u8
 林正英,https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/367887/live_22989278_9714011_1500.m3u8#https://cn-sdjn2-cmcc-live-02.bilivideo.com/live-bvc/367887/live_22989278_9714011_1500.m3u8
-林正英2,https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/108273/live_386725629_13296528.m3u8#https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/108273/live_386725629_13296528.m3u8
+林正英电影,https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/108273/live_386725629_13296528.m3u8#https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/108273/live_386725629_13296528.m3u8
 香港电影,https://cn-hbxy-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_102569357_4797059.m3u8#https://cn-hbxy-cmcc-live-02.live-play.acgvideo.com/live-bvc/live_102569357_4797059.m3u8
 济公,https://cn-sdjn2-cmcc-live-02.bilivideo.com/live-bvc/107402/live_21084389_5381646.m3u8#https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/107402/live_21084389_5381646.m3u8
 奥特曼,https://cn-sdjn2-cmcc-live-02.bilivideo.com/live-bvc/818632/live_47699114_1714550.m3u8#https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/818632/live_47699114_1714550.m3u8
+橙子橙色-港剧,http://tx2play1.douyucdn.cn/live/4549169rBrOwlVfg.flv
+三月skr,http://tx2play1.douyucdn.cn/live/6928069rLJwXAXkY.flv
+周星驰,http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.flv
+林正英,http://tx2play1.douyucdn.cn/218859rBEzPMFyR5.flv
+香港赌片,http://tx2play1.douyucdn.cn/315457rm3dWHAWuW.flv
+假面骑士,http://tx2play1.douyucdn.cn/5100147rVkUrhJFc.flv
+假面骑士特摄,http://tx2play1.douyucdn.cn/1033558rR6CATVOy.flv
+苹果漫漫,http://tx2play1.douyucdn.cn/1174353rDyxpIFF4.flv
+小猪酱啊,http://tx2play1.douyucdn.cn/live/7029806rgYu64q25.flv
+一条小姽婳,http://tx2play1.douyucdn.cn/live/1409682ruVLfAgIM.flv
+冷蕊吖,http://tx2play1.douyucdn.cn/live/7771299rfYqyPy5h.flv
+我是村头小渣猫,http://tx2play1.douyucdn.cn/live/8477994ryz347d26.flv
+壹钥,http://tx2play1.douyucdn.cn/live/7234183rtxZILbQV.flv
+奶虫恐怖片,http://tx2play1.douyucdn.cn/live/263824roapeJ4Anu.flv
 Ocean TV,http://91.192.168.242:9091
 Первый Музыкальный BY,http://rtmp.one.by:1200
 Первый Музыкальный BY [FHD],http://rtmp.one.by:1300
