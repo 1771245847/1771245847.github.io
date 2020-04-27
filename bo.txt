@@ -162,7 +162,6 @@ $c_start港台娱乐$c_end
 明珠台 备,p2p://lino.homeunix.com:6007/5ad32b590006aefa49ec511272c5262e.ts
 星河频道,p2p://lino.homeunix.com:6007/59fd3f91000c54e4030cccd33c6f6c3c.ts
 TVB经典台,p2p://lino.homeunix.com:6007/5b2f1fc50006bfe610a020d967055499.ts
-TVB星河,tvbus://2x1hbZ9nHnRxGmUz74sgiW6BfXNr3KFgbbLFgryHAEVvP7UfUD
 功夫台,p2p://lino.homeunix.com:6007/5a32174e0001f481d4b0ec8f67f06c2b.ts
 viu TV,p2p://lino.homeunix.com:6007/59fd171800092000026eb35003107eef.ts
 viu TV备,p2p://lino.homeunix.com:6007/5ad32bae0001dd1049ed9be114c818f0.ts
@@ -1006,8 +1005,7 @@ Al Kass Sports 3 HD,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
 Al Kass Sports 4 HD,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 Афонтово (Красноярск),http://xstream.afontovo.ru/afontovo_ya.m3u8
 龙祥时代,p2p://lino.homeunix.com:6007/59fd0d3200071b6e02480863224e5f4d.ts
-佛山影视,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd.m3u8#http://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd.m3u8
-济南影视,http://ts1.ijntv.cn/yshd/hd/live.m3u8#http://ts1.ijntv.cn/yshd/hd/live.m3u8
+佛山影视,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd.m3u8
 广州影视,https://aplay.gztv.com/sec/yingshi.m3u8#https://aplay.gztv.com/sec/yingshi.m3u8
 广东影视,http://nclive.grtn.cn/tvs4/sd/live.m3u8
 iHOT爱奇谈,http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -1133,7 +1131,6 @@ $c_start虎牙电影$c_end
 亮剑,https://aldirect.rtmp.huya.com/backsrc/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_2500.m3u8
 雪豹,https://aldirect.rtmp.huya.com/backsrc/29169025-2686221276-11537232530239389696-2777027178-10057-A-0-1_2500.m3u8
 鹿鼎记,https://aldirect.rtmp.huya.com/backsrc/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_2500.m3u8
-开心鬼,http://aldirect.rtmp.huya.com/backsrc/1448686638-1448686638-6222061732362190848-2789253842-10057-A-0-1_2500.m3u8
 成龙电影,https://aldirect.rtmp.huya.com/backsrc/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_2500.m3u8
 吴京电影,https://aldirect.rtmp.huya.com/backsrc/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_2500.m3u8
 沈腾电影,https://aldirect.rtmp.huya.com/backsrc/29141112-2689675756-11552069408864075776-3048959626-10057-A-0-1_2500.m3u8
@@ -1166,22 +1163,16 @@ $c_start虎牙电影$c_end
 铁齿铜牙纪晓岚,https://aldirect.rtmp.huya.com/backsrc/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_2500.m3u8
 康熙微服私访记,https://aldirect.rtmp.huya.com/backsrc/29169025-2686221704-11537234368485392384-2789274536-10057-A-0-1_2500.m3u8
 $c_startNewTv$c_end
-NewTv-中国功夫,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226321/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225951/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226321/1.m3u8
-NewTv-农业致富,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225930/1.m3u8
-NewTv-明星大片,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225929/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226295/1.m3u8
-NewTv-金牌综艺,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225920/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226296/1.m3u8
-NewTv-炫舞未来,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226248/1.m3u8
-NewTv-爱情喜剧,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225913/1.m3u8
 NewTv-动作电影,http://111.40.205.87/PLTV/88888888/224/3221225661/index.m3u8
 NewTv-古装剧场,http://111.40.205.87/PLTV/88888888/224/3221225663/index.m3u8
 NewTv-明星大片,http://111.40.205.87/PLTV/88888888/224/3221225664/index.m3u8
 NewTv-惊悚悬疑,http://111.40.205.87/PLTV/88888888/224/3221225665/index.m3u8
-NewTv-金牌综艺,http://111.40.205.87/PLTV/88888888/224/3221225666/index.m3u8 
-NewTv-军事评论,http://111.40.205.87/PLTV/88888888/224/3221225668/index.m3u8 
-NewTv-爱情喜剧,http://111.40.205.87/PLTV/88888888/224/3221225669/index.m3u8 
+NewTv-金牌综艺,http://111.40.205.87/PLTV/88888888/224/3221225666/index.m3u8
+NewTv-军事评论,http://111.40.205.87/PLTV/88888888/224/3221225668/index.m3u8
+NewTv-爱情喜剧,http://111.40.205.87/PLTV/88888888/224/3221225669/index.m3u8
 NewTv-精品大剧,http://111.40.205.87/PLTV/88888888/224/3221225670/index.m3u8
 NewTv-海外剧场,http://111.40.205.87/PLTV/88888888/224/3221225671/index.m3u8
-NewTv-精品记录,http://111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8 
+NewTv-精品记录,http://111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8
 NewTv-健康有约,http://111.40.205.87/PLTV/88888888/224/3221225673/index.m3u8
 NewTv-精品体育,http://111.40.205.87/PLTV/88888888/224/3221225674/index.m3u8
 NewTv-军旅剧场,http://111.40.205.87/PLTV/88888888/224/3221225676/index.m3u8
