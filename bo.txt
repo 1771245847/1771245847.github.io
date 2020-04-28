@@ -332,11 +332,25 @@ DOXTV,http://39.135.15.70:6610/PLTV/88888888/224/3221226048/1/index.m3u8?fmt=ts2
 海爷TV7,https://cn-hbxy-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_261831479_8429255_1500.m3u8
 海爷TV8,https://cn-sdjn2-cmcc-live-02.bilivideo.com/live-bvc/833445/live_280698572_9101071.m3u8#https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/833445/live_280698572_9101071.m3u8
 海爷TV9,https://cn-hbxy-cmcc-live-01.live-play.acgvideo.com/live-bvc/523156/live_82436982_2406441_1500.m3u8
+林正英,https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/367887/live_22989278_9714011_1500.m3u8
+林正英电影,https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/108273/live_386725629_13296528.m3u8
+林正英精选电影,https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/767791/live_437402790_81859640.m3u8
+怀念林正英,https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/253509/live_76438587_9765173.m3u8
+林正英女鬼,https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/632164/live_386725629_13296528.m3u8
+林正英女片,https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/778187/live_381718124_59580738.m3u8
+香港电影,https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/235406/live_102569357_4797059_1500.m3u8
+济公,https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/107402/live_21084389_5381646.m3u8
+奥特曼,https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/818632/live_47699114_1714550.m3u8
+迪迦奥特曼,https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/760171/live_24693519_5689660.m3u8
+神探狄仁杰,https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/619879/live_17234502_67971503.m3u8
+周星驰电影,https://cn-hbxy-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_420351661_73320656.m3u8
+邵氏电影,https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/703359/live_97065163_17925468_1500.m3u8
+怀念经典电影,https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/873500/live_455217309_62410985.m3u8
 橙子-港剧,http://tx2play1.douyucdn.cn/live/4549169rBrOwlVfg.flv
 三月skr,http://tx2play1.douyucdn.cn/live/6928069rLJwXAXkY.flv
 周星驰,http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.flv
 喜剧港片,http://tx2play1.douyucdn.cn/live/8294640reDY9Bjsj.flv
-林正英,http://tx2play1.douyucdn.cn/218859rBEzPMFyR5.flv
+林正英经典,http://tx2play1.douyucdn.cn/218859rBEzPMFyR5.flv
 香港赌片,http://tx2play1.douyucdn.cn/315457rm3dWHAWuW.flv
 假面骑士,http://tx2play1.douyucdn.cn/5100147rVkUrhJFc.flv
 假面骑士特摄,http://tx2play1.douyucdn.cn/1033558rR6CATVOy.flv
@@ -353,16 +367,10 @@ DOXTV,http://39.135.15.70:6610/PLTV/88888888/224/3221226048/1/index.m3u8?fmt=ts2
 经典科幻,http://tx2play1.douyucdn.cn/live/8550878r0SpmeetV.flv
 萌妹纸怡宝,http://tx2play1.douyucdn.cn/live/434971rI6SMC5qnU.flv
 特辑电影院,http://tx2play1.douyucdn.cn/3637778rcBwjuCtU.flv
-爱脸红的朱朱呀,http://tx2play1.douyucdn.cn/live/8313496r8PUBK3au.flv
 遇见你们有点小幸运,http://tx2play1.douyucdn.cn/live/7270927rOEgJLgdY.flv
 经典科幻动作灾难,http://tx2play1.douyucdn.cn/live/248753rdHGJBGtaq.flv
 经典鹿鼎记,http://tx2play1.douyucdn.cn/live/8378559rLqk4aJpe.flv
 月亮BaBy,http://tx2play1.douyucdn.cn/live/8330611rrXpTvwiZ.flv
-Первый Музыкальный BY,http://rtmp.one.by:1200
-Первый Музыкальный BY [FHD],http://rtmp.one.by:1300
-Первый Музыкальный RU BY [FHD],http://rtmp.one.by:2300
-Первый Музыкальный BY [FHD],http://rtmp.one.by:1300
-ОКЕАН ТВ,http://91.192.168.242:9091
 Disney Junior,http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 К1,http://109.68.40.67/life/k1_3/index.m3u8
 К1,http://109.68.40.67/life/k1_3/index.m3u8
@@ -384,10 +392,6 @@ RADIO TELEBOSTON,http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
 TV1,http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 Radio 51 TV,http://178.32.140.155/canale51/canale51/playlist.m3u8
 Одинцово ТВ,http://185.18.4.16/live/3m/playlist.m3u8
-Кино UHD,http://188.35.9.18:16050/udp/238.0.16.1:69000
-Кино UHD,http://188.35.9.18:16050/udp/238.0.16.1:69000
-Film 1 Premiere HD,http://188.35.9.5:10005/stolen/141q/imposter.rar
-Русский Роман HD,http://188.35.9.5:10007/stolen/127k/parasite.install
 Артек Речной HD,http://193.238.110.3/6/hls/live.m3u8
 Артек Речной HD,http://193.238.110.3/6/hls/live.m3u8
 Артек Хрустальный HD,http://193.238.110.3/2/hls/live.m3u8
@@ -422,12 +426,6 @@ MTV Mix,http://81.30.182.82:18092/hls/live.m3u8
 MTV Mix (Уфа),http://81.30.182.82:18092/hls/live.m3u8
 MTV Mix (Уфа) +2,http://81.30.182.82:18092/hls/live.m3u8
 Radio Beverwijk,http://84.22.97.59:80/beverwijk/studio/playlist.m3u8
-ПЯТНИЦА! HD,http://85.112.114.11:8086/udp/233.170.170.112:58631
-Супер HD,http://85.112.114.11:8086/udp/238.2.49.249:1234
-ТНТ4 HD,http://85.112.114.11:8086/udp/233.170.170.130:58631
-ПЯТНИЦА! HD,http://85.112.114.11:8086/udp/233.170.170.112:58631
-Супер HD,http://85.112.114.11:8086/udp/238.2.49.249:1234
-ТНТ4 HD,http://85.112.114.11:8086/udp/233.170.170.130:58631
 ATV 2,http://85.132.81.184:8080/atv-2/index.m3u8
 RTG TV,http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/841/index.m3u8
 Авто 24,http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/538/index.m3u8
