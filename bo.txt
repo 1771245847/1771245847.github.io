@@ -332,7 +332,9 @@ DOXTV,http://39.135.15.70:6610/PLTV/88888888/224/3221226048/1/index.m3u8?fmt=ts2
 海爷TV7,https://cn-hbxy-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_261831479_8429255_1500.m3u8
 海爷TV8,https://cn-sdjn2-cmcc-live-02.bilivideo.com/live-bvc/833445/live_280698572_9101071.m3u8#https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/833445/live_280698572_9101071.m3u8
 海爷TV9,https://cn-hbxy-cmcc-live-01.live-play.acgvideo.com/live-bvc/523156/live_82436982_2406441_1500.m3u8
-林正英,https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/367887/live_22989278_9714011_1500.m3u8
+周星驰,https://zb3.qhqsnedu.com/live/zhouxingxinga/playlist.m3u8
+林正英-爱美剧,https://zb3.qhqsnedu.com/live/chingyinglam/playlist.m3u8
+林正英-爱美剧,https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/367887/live_22989278_9714011_1500.m3u8
 林正英电影,https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/108273/live_386725629_13296528.m3u8
 林正英精选电影,https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/767791/live_437402790_81859640.m3u8
 怀念林正英,https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/253509/live_76438587_9765173.m3u8
