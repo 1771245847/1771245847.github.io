@@ -307,11 +307,6 @@ H爱世界,http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs
 H爱旅行,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
 H爱科学,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
 H爱探索,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
-CLBN电影,http://cinb1.peoplevideo.cn/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-CLBN精品影院,http://cinb1.peoplevideo.cn/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-CLBN喜剧影院,http://cinb1.peoplevideo.cn/hls/vCIBNHSYX/1800/vCIBNHSYX.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-CLBN古装剧场,http://cinb1.peoplevideo.cn/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-Movie电影HD,http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 鬼吹灯之龙岭迷窟,http://vwecam.gtimg.com/1006_d5ee5843f04841b59c9ecd3451ddf06a.f20.mp4?vkey=E7287E66D92CE15E263FFF5F3DDC1D2B74E312C6A304892EF59675ED1A7C5E35CA57E7265E71E738E697C74338D6A470750657724F9DDD1DBE4A6F1CBFC7FD290F60C424D554E905C9ACDD442159838AAA7A2F5852F749AA&QQ=335583&From=www.nxflv.com
 叶问4,http://videotiantian.gslawyerunion.com/20200209/96Vlt5jX/hls/index.m3u8?wsSecret=fad4d63063ad8379d016c5420f09a926&wsTime=1609237548421
 肥龙过江,https://baidu.oss.aliyuncs.gms-lighting.com/m3u8/1903.m3u8
@@ -320,7 +315,7 @@ Movie电影HD,http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 香港第一凶宅,https://mrw.so/4QJsQO?http://dsjtv.com/20200205.flv
 僵尸归来,https://data.ylybz.cn/data/youku/XMzYzNjg2NjQ0NA==.m3u8
 僵尸归来2,https://data.ylybz.cn/data/youku/XMjc0MTAwMjk0NA==.m3u8#https://m3u8.gms-lighting.com/data/youku/XMTUwMDgwNjY1Mg==.m3u8
-,#genre#
+NewTv,#genre#
 Newtv-动作电影,http://111.40.205.87/PLTV/88888888/224/3221225661/index.m3u8
 Newtv-古装剧场,http://111.40.205.87/PLTV/88888888/224/3221225663/index.m3u8
 Newtv-明星大片,http://111.40.205.87/PLTV/88888888/224/3221225664/index.m3u8
