@@ -360,6 +360,30 @@ YOYO HD卡通,http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
 台湾台,http://pull.leshantangjt.com/live/playlist.m3u8
 凤凰中文HD,http://223.82.250.72/live/fhchinese/1.m3u8#http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8#http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226977/index.m3u8#http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226977/index.m3u8
 凤凰资讯HD,http://223.82.250.72/live/fhzixun/1.m3u8#http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8#http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226980/index.m3u8#http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226980/index.m3u8
+翡翠臺HD,p2p://fccseuro.pvbox.live:18912/5b1409fc00088a7f9382eac80b8109d9.ts
+翡翠臺HD,p2p://fccseuro.pvbox.live:18912/5d1220350000ba2724a028c23cd1f63f.ts
+無線新聞,p2p://fccseuro.pvbox.live:18912/5b140953000cd4a817961c7ae76199ad.ts
+無線新聞HD,p2p://fccseuro.pvbox.live:18912/5b1409fc000a355e25bb8c90ac1c395b.ts
+J2HD,p2p://fccseuro.pvbox.live:18912/5d122036000a06610e911ae85b70a0fb.ts
+J2HD,p2p://fccseuro.pvbox.live:18912/5b1409fc000dca06858e1fae1a06cb56.ts
+p2p://fccseuro.pvbox.live:18912/5dbeb1cc0007501633bb7bbe835141e5.ts
+有線新闻HD,p2p://fccseuro.pvbox.live:18912/5b13f6f100047cde0d55a9a7e9706670.ts
+有線電影HD,p2p://fccseuro.pvbox.live:18912/5b140a1600025764ce93bcc8429b0d73.ts
+私人影院,p2p://fccseuro.pvbox.live:18912/5b140a98000c5ae6b8efc09aa4f8f3c0.ts
+星河HD,p2p://fccseuro.pvbox.live:18912/5d65048c0003e9aed78b2a8c508cf169.ts
+VIUTV6HD,p2p://fccseuro.pvbox.live:18912/5b1409fd000796832c596cce2bc28153.ts
+VIUHD,p2p://fccseuro.pvbox.live:18912/5b14095400066519f4a0f9004b5ad80f.ts
+WBTV,p2p://fccseuro.pvbox.live:18912/5b140a1600043fc9cda3d7ff5e6fccd3.ts
+CHINA MOVIE,p2p://fccseuro.pvbox.live:18912/5b14095e00097ea89084c60be5182551.ts
+NOW ,p2p://fccseuro.pvbox.live:18912/5b20e3ae00008df9e0a235f3dbd73ea4.ts
+NOWSPORTS1,p2p://fccseuro.pvbox.live:18912/5e7c6d93000c7d7471586222fef09685.ts
+RTHK31,p2p://fccseuro.pvbox.live:18912/5badd38d000891c411774a31f85ea59f.ts
+RTHK32,p2p://fccseuro.pvbox.live:18912/5badd3910003a73dbb871ef20d4d6b9c.ts
+TVB US1,p2p://fccseuro.pvbox.live:18912/5cffd79b000822469dda419c634e075e.ts
+BEINSPORTS,p2p://fccseuro.pvbox.live:18912/5cf559ed000079fb14445601b36944ee.ts
+WWE,p2p://fccseuro.pvbox.live:18912/5cffd5d9000724964caf741711821486.ts
+TVB US2,p2p://fccseuro.pvbox.live:189125cffd79d0004cbb6bd1be5c9b948f3a1.ts
+TVBHD,p2p://fccseuro.pvbox.live:18912/5cf559f800003d1bcd0ecfe448d6b4fe.ts
 DOXTV,http://39.135.15.70:6610/PLTV/88888888/224/3221226048/1/index.m3u8?fmt=ts2hls&IASHttpSessionId=OTT733920200307125001059408#http://39.135.15.70:6610/PLTV/88888888/224/3221226048/1/index.m3u8?fmt=ts2hls
 海爷TV1,https://cn-hbxy-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_27444411_4287972_1500.m3u8
 海爷TV2,https://cn-hbxy-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_52370715_1734265_1500.m3u8
@@ -392,12 +416,7 @@ DOXTV,http://39.135.15.70:6610/PLTV/88888888/224/3221226048/1/index.m3u8?fmt=ts2
 假面骑士,http://tx2play1.douyucdn.cn/5100147rVkUrhJFc.flv
 假面骑士特摄,http://tx2play1.douyucdn.cn/1033558rR6CATVOy.flv
 苹果漫漫,http://tx2play1.douyucdn.cn/1174353rDyxpIFF4.flv
-小猪酱啊,http://tx2play1.douyucdn.cn/live/7029806rgYu64q25.flv
-一条小姽婳,http://tx2play1.douyucdn.cn/live/1409682rypfRT9e4.flv
-冷蕊吖,http://tx2play1.douyucdn.cn/live/7771299rfYqyPy5h.flv
-壹钥,http://tx2play1.douyucdn.cn/live/7234183rtxZILbQV.flv
-奶虫恐怖片,http://tx2play1.douyucdn.cn/live/263824roapeJ4Anu.flv
-神探狄仁杰,http://tx2play1.douyucdn.cn/live/3439096r84gM6v7U.flv#http://tx2play1.douyucdn.cn/live/6027991rouH6w6l5.flv
+神探狄仁杰,http://tx2play1.douyucdn.cn/live/6027991rouH6w6l5.flv
 经典电影,http://tx2play1.douyucdn.cn/live/8251179r45kicAbM.flv
 恐怖惊悚,http://tx2play1.douyucdn.cn/live/8566329rrgQF3T0b.flv
 古装大剧,http://tx2play1.douyucdn.cn/live/8553690rZKd1PXZA.flv
@@ -656,22 +675,17 @@ CCTV-4K,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original
 CCTV-4K,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 XX_0212,#genre#
-香蕉台,p2p://51.79.41.139:18912/5c18f9090004f8a058092fb69f8b260d.ts
-惊艳台,p2p://51.79.41.139:18912/5c18f9100006a3e216c73f0df5e8c139.ts
-松视1台,p2p://51.79.41.139:18912/5c18f8fb000648839ad60aa0ba532ed5.ts
-松視2台,p2p://51.79.41.139:18912/5c18f8f7000d865d5ab52e9a3d98f376.ts
-松視3台,p2p://51.79.41.139:18912/5c18f9020004cea37a4b4bdc9c6422ce.ts
-彩虹电影,p2p://51.79.41.139:18912/5c18f8eb000ca1803b96579c41d92bda.ts
-彩虹e台,p2p://51.79.41.139:18912/5c18f8ef000d41c9e23ec4ef80f9d5bd.ts
-彩虹k台,p2p://51.79.41.139:18912/18912/5c18f8f300074bdf86631730bdaa190e.ts
-潘多拉粉红 高清,p2p://51.79.41.139:18912/5c18f90c000e82291f3975518dd690b4.ts
-潘多拉完美 高清,p2p://51.79.41.139:18912/5c18f905000c08fb8bb5050d7782e2df.ts
-HOT,p2p://51.79.41.139:18912/5c18f8e80001d0466d12577248a36bf0.ts
-欢乐台,p2p://51.79.41.139:18912/18912/5c18f8fe000ca53e02ad0e2581da3188.ts
-菊花台（翻墙）,http://46.29.165.95:8081/stream/Runight/chunks.m3u8#p2p://51.79.41.138:18912/5b3b1072000af9565da0393c2a56462d.ts
-IBiza Media(翻),https://cdn1.ibizastream.biz:441/free/2/playlist_dvr.m3u8
-NYX MEDIA(翻),https://cdn1.ibizastream.biz:441/free/1/playlist_dvr.m3u8
-Sex31HD(翻),rtmp://62.210.55.60/stream3xVJ/3x31#p2p://c.love69.cc:6004/5bc770bf00024ac45ee4d9f921fd3ee3.ts 
+松视1台,P2p://fccseuro.pvbox.live:18912/5c18f8fb00064883ab4a7502e99eb880.ts
+松視2台,P2p://fccseuro.pvbox.live:18912/5c18f8f7000d865da227cc18456f9b78.ts
+松視3台,P2p://fccseuro.pvbox.live:18912/5c18f9020004cea3f2f4f4dfb50c3fe2.ts
+驚豔台 HD,P2p://fccseuro.pvbox.live:18912/5c18f9100006a3e277957d172c265f60.ts
+Pandola HD,P2p://fccseuro.pvbox.live:18912/5c18f90c000e82295eddee09ba5154d2.ts#P2p://fccseuro.pvbox.live:18912/5c18f905000c08fb1eb848d8c5aa3097.ts
+香蕉台 HD,P2p://fccseuro.pvbox.live:18912/5c18f9090004f8a02ad92f47af32cd8d.ts#http://l.iafuiq.vip/dl/tv/8/wintvh.php?id=14#http://p2.live.126.net/live/88j2-77.flv
+彩虹台,P2p://fccseuro.pvbox.live:18912/5c18f8ef000d41c9d0cb955b8eaf0176.ts
+彩虹电影,P2p://fccseuro.pvbox.live:18912/5c18f8eb000ca18052d40238dd95b247.ts
+HOT,P2p://fccseuro.pvbox.live:18912/5c18f8e80001d0461e3a097b2f0a3194.ts
+大人台,P2p://fccseuro.pvbox.live:18912/5c18f8f300074bdff6b178dc9607b8dc.ts
+欢乐台,P2p://fccseuro.pvbox.live:18912/5c18f8fe000ca53e3c7b319d75d5e20f.ts
 18禁 Ⅰ 东京热美妇中出,https://qqc1107.phpdaniu.com/japan/ZW0910/8F8YJ4lB/800kb/hls/index.m3u8
 18禁 Ⅰ 东京轮奸空姐,https://qqc1107.phpdaniu.com/japan/ZW0910/AITV4deO/index.m3u8
 18禁 Ⅰ 牛仔裤女郎,https://qqc1107.phpdaniu.com/japan/20191013/jz4knROn/500kb/hls/index.m3u8
