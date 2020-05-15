@@ -674,7 +674,7 @@ BesTV4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 CCTV-4K,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/ys4kcq_4000.m3u8
 CCTV-4K,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
-XX_0212,#genre#
+XX_0116,#genre#
 松视1台,P2p://fccseuro.pvbox.live:18912/5c18f8fb00064883ab4a7502e99eb880.ts
 松視2台,P2p://fccseuro.pvbox.live:18912/5c18f8f7000d865da227cc18456f9b78.ts
 松視3台,P2p://fccseuro.pvbox.live:18912/5c18f9020004cea3f2f4f4dfb50c3fe2.ts
@@ -744,7 +744,6 @@ HOT,P2p://fccseuro.pvbox.live:18912/5c18f8e80001d0461e3a097b2f0a3194.ts
 18禁 Ⅰ 3P插到潮喷,https://qqc1107.phpdaniu.com/japan/20191013/lcMXHzfW/500kb/hls/index.m3u8
 18禁 Ⅰ 美穴欣赏【叶山瞳】,https://qqc1107.phpdaniu.com/japan/20191013/EMDCPRKl/index.m3u8
 18禁 Ⅰ 美穴欣赏【麻生希】,https://qqc1107.phpdaniu.com/japan/20191013/VBDebMeI/500kb/hls/index.m3u8
-18禁 Ⅰ 鱼水交欢,https://qqc1107.phpdaniu.com/japan/wuma/031116-519_06/index.m3u8p
 洗衣,http://video.gujianzhixiang.com:8091/81820190301/818201903010576/index.m3u8
 性感,http://video.gujianzhixiang.com:8091/81820190301/818201903010603/index.m3u8
 送り続,http://video.gujianzhixiang.com:8091/81820190301/818201903010548/index.m3u8
