@@ -186,7 +186,7 @@ iHOT爱浪漫,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888
 林正英-爱美剧,https://zb3.qhqsnedu.com/live/chingyinglam/playlist.m3u8
 橙子-港剧,http://tx2play1.douyucdn.cn/live/4549169rBrOwlVfg.flv
 周星驰电影,http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.flv
-成龙,https://aldirect.hls.huya.com/src/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1_2000.m3u8?wsSecret=7754b86fe2a98ea5be458d515ef27d46&wsTime=5ed5f53c&u=0&seqid=15909938536272094&ctype=huya_tars&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
+少年包青天,https://aldirect.hls.huya.com/src/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1_2000.m3u8?wsSecret=7754b86fe2a98ea5be458d515ef27d46&wsTime=5ed5f53c&u=0&seqid=15909938536272094&ctype=huya_tars&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
 鹿鼎记,https://txdirect.hls.huya.com/src/1420736865-1420736865-6102018371396567040-2847687618-10057-A-0-1_2000.m3u8?wsSecret=a3093d2e0a8ed1c1b33373367a770631&wsTime=5ed5f46c&u=0&seqid=15909936454642212&ctype=huya_tars&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
 周星星,https://hw.hls.huya.com/src/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_2000.m3u8?wsSecret=f90c10667acb68bb16f001bbc23fc3f3&wsTime=5ed5f0a2&u=0&seqid=15909926753735228&ctype=huya_tars&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
 周星驰,https://al.hls.huya.com/huyalive/1099531728510-1099531728510-86331995155595264-2199063580476-10057-A-0-1_2000.m3u8?wsSecret=2e2f87f758a25280a342151052353bdc&wsTime=5ed5f6ce&u=0&seqid=15909942561352388&ctype=huya_tars&fs=bgct
