@@ -157,7 +157,6 @@ http://live.zbjh.cc/live/ws124.m3u8
 http://live.zbjh.cc/live/ws127.m3u8
 #EXTINF:-1 group-title="港台频道",东森戏剧
 http://live.zbjh.cc/live/ws128.m3u8
-#EXTM3U
 #EXTINF:-1 group-title="虎牙电影",成龙
 https://aldirect.hls.huya.com/src/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1_2000.m3u8?wsSecret=7754b86fe2a98ea5be458d515ef27d46&wsTime=5ed5f53c&u=0&seqid=15909938536272094&ctype=huya_tars&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
 #EXTINF:-1 group-title="虎牙电影",鹿鼎记
