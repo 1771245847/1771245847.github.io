@@ -611,76 +611,28 @@ http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/chunklist_w233574547.
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 group-title="综合娱乐",CHANNEL[V]
 rtmp://58.200.131.2:1935/livetv/channelv
-#EXTINF:-1 group-title="虎牙电影",亮剑
-https://aldirect.rtmp.huya.com/backsrc/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="虎牙电影",雪豹
-https://aldirect.rtmp.huya.com/backsrc/29169025-2686221276-11537232530239389696-2777027178-10057-A-0-1_2500.m3u8
+#EXTINF:-1 group-title="虎牙电影",成龙
+https://aldirect.hls.huya.com/src/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1_2000.m3u8?wsSecret=7754b86fe2a98ea5be458d515ef27d46&wsTime=5ed5f53c&u=0&seqid=15909938536272094&ctype=huya_tars&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
 #EXTINF:-1 group-title="虎牙电影",鹿鼎记
-https://aldirect.rtmp.huya.com/backsrc/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="虎牙电影",开心鬼
-http://aldirect.rtmp.huya.com/backsrc/1448686638-1448686638-6222061732362190848-2789253842-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="虎牙电影",成龙电影
-https://aldirect.rtmp.huya.com/backsrc/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="虎牙电影",吴京电影
-https://aldirect.rtmp.huya.com/backsrc/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="虎牙电影",沈腾电影
-https://aldirect.rtmp.huya.com/backsrc/29141112-2689675756-11552069408864075776-3048959626-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="虎牙电影",黄渤电影
-https://aldirect.rtmp.huya.com/backsrc/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="虎牙电影",徐峥电影
-https://aldirect.rtmp.huya.com/backsrc/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1_1200.m3u8
+https://txdirect.hls.huya.com/src/1420736865-1420736865-6102018371396567040-2847687618-10057-A-0-1_2000.m3u8?wsSecret=a3093d2e0a8ed1c1b33373367a770631&wsTime=5ed5f46c&u=0&seqid=15909936454642212&ctype=huya_tars&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
+#EXTINF:-1 group-title="虎牙电影",周星星
+https://hw.hls.huya.com/src/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_2000.m3u8?wsSecret=f90c10667acb68bb16f001bbc23fc3f3&wsTime=5ed5f0a2&u=0&seqid=15909926753735228&ctype=huya_tars&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
+#EXTINF:-1 group-title="虎牙电影",周星驰
+https://al.hls.huya.com/huyalive/1099531728510-1099531728510-86331995155595264-2199063580476-10057-A-0-1_2000.m3u8?wsSecret=2e2f87f758a25280a342151052353bdc&wsTime=5ed5f6ce&u=0&seqid=15909942561352388&ctype=huya_tars&fs=bgct
 #EXTINF:-1 group-title="虎牙电影",搞笑港片
-https://aldirect.rtmp.huya.com/backsrc/30765679-2480413542-10653295043445522432-3048959596-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="虎牙电影",港产搞笑
-https://aldirect.rtmp.huya.com/backsrc/30765679-2499070088-10733424298371842048-2789274548-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="虎牙电影",粤语港片
-http://aldirect.rtmp.huya.com/backsrc/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="虎牙电影",天龙八部
-https://aldirect.rtmp.huya.com/backsrc/30765679-2475713428-10633108207528050688-3048991608-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="虎牙电影",漫威电影
-https://aldirect.rtmp.huya.com/backsrc/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="虎牙电影",女神电影
-https://aldirect.rtmp.huya.com/backsrc/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="虎牙电影",女神港片
-https://aldirect.rtmp.huya.com/backsrc/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="虎牙电影",怀念金庸
-https://aldirect.rtmp.huya.com/backsrc/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="虎牙电影",黑帮大片
-https://aldirect.rtmp.huya.com/backsrc/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="虎牙电影",最佳拍档
-http://aldirect.rtmp.huya.com/backsrc/1448738224-1448738224-6222283292545122304-2789253866-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="虎牙电影",周星驰电影
-https://aldirect.rtmp.huya.com/backsrc/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="虎牙电影",甄子丹电影
-https://aldirect.rtmp.huya.com/backsrc/29169025-2686219938-11537226783573147648-2847699096-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="虎牙电影",周润发电影
-https://aldirect.rtmp.huya.com/backsrc/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="虎牙电影",刘德华电影
-https://aldirect.rtmp.huya.com/backsrc/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="虎牙电影",洪金宝电影
-https://aldirect.rtmp.huya.com/backsrc/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="虎牙电影",林正英电影
-https://aldirect.rtmp.huya.com/backsrc/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="虎牙电影",李连杰电影
-https://aldirect.rtmp.huya.com/backsrc/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="虎牙电影",速度与激情
-https://aldirect.rtmp.huya.com/backsrc/94525224-2708800086-11634207780771987456-2373228722-10057-A-0-1_2500.m3u8
+https://txdirect.hls.huya.com/src/1250011-1250011-5368756364640256-3048959596-10057-A-0-1_2000.m3u8?wsSecret=cb9773e8f0f76e3b6f3715cf3e76b38c&wsTime=5ed5f73e&u=0&seqid=15909943671607544&ctype=huya_tars&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
+#EXTINF:-1 group-title="虎牙电影",五褔星
+https://txdirect.hls.huya.com/src/58461003-58461003-251088095976357888-2713685416-10057-A-0-1_2000.m3u8?wsSecret=39aefc309183b16ac78c51d2e0e6f717&wsTime=5ed5f704&u=0&seqid=15909943097984608&ctype=huya_tars&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
+#EXTINF:-1 group-title="虎牙电影",林正英
+https://aldirect.hls.huya.com/src/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_2000.m3u8?wsSecret=3658031f0bb94ae6bc628bfb7e0f7f86&wsTime=5ed5f377&u=0&seqid=15909934005979678&ctype=huya_tars&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
+#EXTINF:-1 group-title="虎牙电影",僵尸大片
+https://al.hls.huya.com/huyalive/1099531729211-1099531729211-86335005927669760-2199063581878-10057-A-0-1_2000.m3u8?wsSecret=faba4631637126f99ae6725fbd3b23d8&wsTime=5ed5f402&u=0&seqid=15909935396161666&ctype=huya_tars&fs=bgct
+#EXTINF:-1 group-title="虎牙电影",神医喜来
+https://txdirect.hls.huya.com/src/1449698223-1449698223-6226406456854315008-3048959664-10057-A-0-1_2000.m3u8?wsSecret=1b201d72949a814118ae5e82132ba23d&wsTime=5ed5f59f&u=0&seqid=15909939522805526&ctype=huya_tars&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
 #EXTINF:-1 group-title="虎牙电影",神探狄仁杰
-https://aldirect.rtmp.huya.com/huyalive/28466698-2689651522-11551965324626624512-2847699166-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="虎牙电影",少年包青天
-https://aldirect.rtmp.huya.com/backsrc/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="虎牙电影",迪迦奥特曼
-https://aldirect.rtmp.huya.com/backsrc/28-2579730188-11079856789963931648-3048959658-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="虎牙电影",五福星电影
-https://aldirect.rtmp.huya.com/backsrc/29169025-2686220040-11537227221659811840-2713685416-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="虎牙电影",倚天屠龙记
-https://aldirect.rtmp.huya.com/src/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="虎牙电影",成龙历险记
-https://aldirect.rtmp.huya.com/backsrc/29169025-2686220626-11537229738510647296-2847699128-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="虎牙电影",铁齿铜牙纪晓岚
-https://aldirect.rtmp.huya.com/backsrc/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="虎牙电影",康熙微服私访记
-https://aldirect.rtmp.huya.com/backsrc/29169025-2686221704-11537234368485392384-2789274536-10057-A-0-1_2500.m3u8
+https://aldirect.hls.huya.com/src/28466698-2689651522-11551965324626624512-2847699166-10057-A-0-1_2000.m3u8?wsSecret=ed7ac6a3bd0a2e71c268bc1ecec83157&wsTime=5ed5f442&u=0&seqid=15909936038111454&ctype=huya_tars&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
+#EXTINF:-1 group-title="虎牙电影",最佳拍挡
+https://txdirect.hls.huya.com/huyalive/1448738224-1448738224-6222283292545122304-2789253866-10057-A-0-1_2000.m3u8?wsSecret=64596e3a059258147884a4da55bbeb28&wsTime=5ed5f50b&u=0&seqid=15909938040308238&ctype=huya_tars&fs=bgct
 #EXTINF:-1 group-title="NewTv",NewTv-动作电影
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/1.m3u8
 #EXTINF:-1 group-title="NewTv",NewTv-家庭剧场
