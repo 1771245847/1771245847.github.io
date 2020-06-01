@@ -611,8 +611,6 @@ http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/chunklist_w233574547.
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 group-title="综合娱乐",CHANNEL[V]
 rtmp://58.200.131.2:1935/livetv/channelv
-#EXTINF:-1 group-title="虎牙电影",成龙
-https://aldirect.hls.huya.com/src/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1_2000.m3u8?wsSecret=7754b86fe2a98ea5be458d515ef27d46&wsTime=5ed5f53c&u=0&seqid=15909938536272094&ctype=huya_tars&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
 #EXTINF:-1 group-title="虎牙电影",鹿鼎记
 https://txdirect.hls.huya.com/src/1420736865-1420736865-6102018371396567040-2847687618-10057-A-0-1_2000.m3u8?wsSecret=a3093d2e0a8ed1c1b33373367a770631&wsTime=5ed5f46c&u=0&seqid=15909936454642212&ctype=huya_tars&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
 #EXTINF:-1 group-title="虎牙电影",周星星
