@@ -174,13 +174,13 @@ iHOT爱赛车,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888
 iHOT爱浪漫,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
 残月影视,#genre#
 奇门相术,https://api.adinisp.com/ximu-7611e67b073f98f5b6193ef538deda42.m3u8
-武神苏乞儿之黄金海盗,https://omts.tc.qq.com/varietyts.tc.qq.com/vipts.tc.qq.com/AHJ7c7IqgPIJVVUObrPLPvYwwpdKgnIiNOqUDpUEqvGU/uwMROfz2r5xgoaQXGdGnC2df64gVTKzl5C_X6A3JOVT0QIb-/1ursR-OM7pciYIPiWTRnFD_AcMLVcp2RiJ-uES8fvohYymCkgfndCv_etAwAXhFruUSG17Zm_EoY7lpXF_7cUz4uy1S9j2eNf37nonbfa_vLS2TBp7ulzOJ_Et4Khlz0AXWOki9L4kTWIpROx6Mihdgw63YqQo9IHiolzFQRUIc/l00344c9o6b.321004.ts.m3u8
-倩女幽魂 人间情,https://omts.tc.qq.com/varietyts.tc.qq.com/vipts.tc.qq.com/AtlT3MmyqHb5Gh1zCIQMHG5ZWE7q4ctRsZILDxMi5_-Q/uwMROfz2r5xgoaQXGdGnC2df64gVTKzl5C_X6A3JOVT0QIb-/jSt4QH-wnhAg003XiZDsgKjv2L6VLQCXhKNRgGacbU3JutibTSrIMWtzWlSKYLRJwZIUMD-BaCv7wAwAg2wZBG-FeN2ikW9janc9ghRKxWGqCuYFW7rfsU9uCPlpRUZLSg1Iwp9hoQxvhL8exXQsBpStgYSvg9-Asit-pfabuCE/z0033dhdxy0.321004.ts.m3u8
-复仇者联盟4：终局之战,http://photovideo.photo.qq.com/1075_0b53tf7aikqa4yac4trhabpdhgieasxab4ca.f20.mp4?dis_k=3176fa77a198db65cf28db15963c9200&dis_t=1593700681&vuin=721744048#https://omts.tc.qq.com/varietyts.tc.qq.com/vipts.tc.qq.com/AxjqiV399FVh4q71pTyg47HVIiYkhkoWm33ZXHdayHdA/uwMROfz2r5xgoaQXGdGnCmdf647akrTOv4dasyizOytSZL1x/KTQAAbIA0Hl_neq4P2NOMflWX2tMPefiJ3c3-aNaAnqGQn-Eop3OmEaWnRtuCvyq5HF36vmQIGnfxPcTTz5_W9nMSwG19TsqVDLPkXVY6XdRTnKBVEUVdts98YsPxBDZWgxZZsiOUudVUaxYjXIXEQ/u00315w81xn.321002.ts.m3u8
+武神苏乞儿之黄金海盗,https://omts.tc.qq.com/varietyts.tc.qq.com/vipts.tc.qq.com/AgBDUpQVNKGeom_OZwnGNIFbVtWcJVpzJcT481AWemFo/uwMROfz2r5xgoaQXGdGnC2df64gVTKzl5C_X6A3JOVT0QIb-/8ZFDC6HYD7O1Dq19VtZlKe3I_drN4DmTVckfjRUiAHc8xr93UW0zL8GfkuefNxUgtQV-B2028S30mGmluJ8hboPHajXrqeJkUjucks0dXVXqZAVzarFU98cjn2OojmYguqSefQKQQc1YgX99bWDhHMkKwcgU_f2P-gOiFBK24zY/l00344c9o6b.321004.ts.m3u8?ver=4
+倩女幽魂 人间情,https://omts.tc.qq.com/varietyts.tc.qq.com/vipts.tc.qq.com/ACux-WwMLZZePTx_jQdW-4bbiSC13cymPA3JafJaU0oQ/uwMROfz2r5xgoaQXGdGnC2df64gVTKzl5C_X6A3JOVT0QIb-/ekx-OatBxYIGY0tLOxu_Lm0hWfXkIfJc77MUD8ZYFmMrXpIMK8IiTYJirLsDhuELgrgKgUXWTPPvZRRDAjoE19BqRQ45yEar4WLqGFjCylPH8iJ7oPRCD3R8JOXKBvedVXgMcVHMlONDA3q9Jw8SByHM7ngYi6lfj9oEQPFnxxk/z0033dhdxy0.321004.ts.m3u8?ver=4
+复仇者联盟4：终局之战,http://photovideo.photo.qq.com/1075_0b53tf7aikqa4yac4trhabpdhgieasxab4ca.f20.mp4?dis_k=d86ed132a16ca323b495cb4742cf620c&dis_t=1593770528&vuin=721744048
 霍家拳之铁臂娇娃,https://api.adinisp.com/ximu-9c99cc72f36fe04f2b2f2239e07b0e8e.m3u8
 蜘蛛侠之英雄归来,https://api.adinisp.com/ximu-fe97d0a8285f51a05d2e14dd73aea8d8.m3u8
 疯魔神丐苏乞儿,https://api.adinisp.com/ximu-dc6911972002119bfb2b675b1f2c40c7.m3u8
-哪吒之魔童降世,https://omts.tc.qq.com/varietyts.tc.qq.com/vipts.tc.qq.com/AM38FCZo6MBJjkL7RRf3hVm6VKwYJ0t7C0XWit7tPtqg/uwMROfz2r5xgoaQXGdGnC2df64gVTKzl5C_X6A3JOVT0QIb-/jq8DowlL1TVKhaakFbynqDv09EltayFz0g1_tAphkyhdFGBi0kRYaDM5u7x28yd0Mu-GVutcybGvn7ru5ujfPXP1qF8isaYt7D3El9ycoyc8DVj_Qp6nfU9IliscsBTgSwr75z9BdKLMYC7PQBSkdKXeftTzuxrV3nsnJXSa7Rw/q0033zt27ge.321004.ts.m3u8
+哪吒之魔童降世,https://api.adinisp.com/ximu-8be068918c647cccad92a85722b2a034.m3u8
 海爷TV 2号厅,https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_52370715_1734265.m3u8
 海爷TV 2号厅,https://cn-zjwz-dx-live-01.bilivideo.com/live-bvc/731624/live_268522326_2538218.m3u8
 海爷TV 4号厅,https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_189986442_7728008.m3u8
