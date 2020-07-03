@@ -181,7 +181,15 @@ iHOT爱怀旧,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888
 iHOT爱体育,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
 iHOT爱赛车,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
 iHOT爱浪漫,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
-$c_start轮播电影$c_end
+$c_start残月影视$c_end
+奇门相术,https://api.adinisp.com/ximu-7611e67b073f98f5b6193ef538deda42.m3u8
+武神苏乞儿之黄金海盗,https://omts.tc.qq.com/varietyts.tc.qq.com/vipts.tc.qq.com/AgBDUpQVNKGeom_OZwnGNIFbVtWcJVpzJcT481AWemFo/uwMROfz2r5xgoaQXGdGnC2df64gVTKzl5C_X6A3JOVT0QIb-/8ZFDC6HYD7O1Dq19VtZlKe3I_drN4DmTVckfjRUiAHc8xr93UW0zL8GfkuefNxUgtQV-B2028S30mGmluJ8hboPHajXrqeJkUjucks0dXVXqZAVzarFU98cjn2OojmYguqSefQKQQc1YgX99bWDhHMkKwcgU_f2P-gOiFBK24zY/l00344c9o6b.321004.ts.m3u8?ver=4
+倩女幽魂 人间情,https://omts.tc.qq.com/varietyts.tc.qq.com/vipts.tc.qq.com/ACux-WwMLZZePTx_jQdW-4bbiSC13cymPA3JafJaU0oQ/uwMROfz2r5xgoaQXGdGnC2df64gVTKzl5C_X6A3JOVT0QIb-/ekx-OatBxYIGY0tLOxu_Lm0hWfXkIfJc77MUD8ZYFmMrXpIMK8IiTYJirLsDhuELgrgKgUXWTPPvZRRDAjoE19BqRQ45yEar4WLqGFjCylPH8iJ7oPRCD3R8JOXKBvedVXgMcVHMlONDA3q9Jw8SByHM7ngYi6lfj9oEQPFnxxk/z0033dhdxy0.321004.ts.m3u8?ver=4
+复仇者联盟4：终局之战,http://photovideo.photo.qq.com/1075_0b53tf7aikqa4yac4trhabpdhgieasxab4ca.f20.mp4?dis_k=d86ed132a16ca323b495cb4742cf620c&dis_t=1593770528&vuin=721744048
+霍家拳之铁臂娇娃,https://api.adinisp.com/ximu-9c99cc72f36fe04f2b2f2239e07b0e8e.m3u8
+蜘蛛侠之英雄归来,https://api.adinisp.com/ximu-fe97d0a8285f51a05d2e14dd73aea8d8.m3u8
+疯魔神丐苏乞儿,https://api.adinisp.com/ximu-dc6911972002119bfb2b675b1f2c40c7.m3u8
+哪吒之魔童降世,https://api.adinisp.com/ximu-8be068918c647cccad92a85722b2a034.m3u8
 海爷TV 2号厅,https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_52370715_1734265.m3u8
 海爷TV 2号厅,https://cn-zjwz-dx-live-01.bilivideo.com/live-bvc/731624/live_268522326_2538218.m3u8
 海爷TV 4号厅,https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_189986442_7728008.m3u8
@@ -190,22 +198,8 @@ $c_start轮播电影$c_end
 海爷TV 7号厅,https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_261831479_8429255.m3u8
 海爷TV 8号厅,https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_280698572_9101071.m3u8
 海爷TV 9号厅,https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_82436982_2406441.m3u8
-邵氏电影,http://tx2play1.douyucdn.cn/live/4246519rat4Jmic3.flv
 周星驰-爱美剧,https://zb3.qhqsnedu.com/live/zhouxingxinga/playlist.m3u8
 林正英-爱美剧,https://zb3.qhqsnedu.com/live/chingyinglam/playlist.m3u8
-橙子-港剧,http://tx2play1.douyucdn.cn/live/4549169rBrOwlVfg.flv
-周星驰电影,http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.flv
-少年包青天,https://aldirect.hls.huya.com/src/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1_2000.m3u8?wsSecret=7754b86fe2a98ea5be458d515ef27d46&wsTime=5ed5f53c&u=0&seqid=15909938536272094&ctype=huya_tars&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
-鹿鼎记,https://txdirect.hls.huya.com/src/1420736865-1420736865-6102018371396567040-2847687618-10057-A-0-1_2000.m3u8?wsSecret=a3093d2e0a8ed1c1b33373367a770631&wsTime=5ed5f46c&u=0&seqid=15909936454642212&ctype=huya_tars&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
-周星星,https://hw.hls.huya.com/src/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_2000.m3u8?wsSecret=f90c10667acb68bb16f001bbc23fc3f3&wsTime=5ed5f0a2&u=0&seqid=15909926753735228&ctype=huya_tars&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
-周星驰,https://al.hls.huya.com/huyalive/1099531728510-1099531728510-86331995155595264-2199063580476-10057-A-0-1_2000.m3u8?wsSecret=2e2f87f758a25280a342151052353bdc&wsTime=5ed5f6ce&u=0&seqid=15909942561352388&ctype=huya_tars&fs=bgct
-搞笑港片,https://txdirect.hls.huya.com/src/1250011-1250011-5368756364640256-3048959596-10057-A-0-1_2000.m3u8?wsSecret=cb9773e8f0f76e3b6f3715cf3e76b38c&wsTime=5ed5f73e&u=0&seqid=15909943671607544&ctype=huya_tars&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
-五褔星,https://txdirect.hls.huya.com/src/58461003-58461003-251088095976357888-2713685416-10057-A-0-1_2000.m3u8?wsSecret=39aefc309183b16ac78c51d2e0e6f717&wsTime=5ed5f704&u=0&seqid=15909943097984608&ctype=huya_tars&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
-林正英,https://aldirect.hls.huya.com/src/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_2000.m3u8?wsSecret=3658031f0bb94ae6bc628bfb7e0f7f86&wsTime=5ed5f377&u=0&seqid=15909934005979678&ctype=huya_tars&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
-僵尸大片,https://al.hls.huya.com/huyalive/1099531729211-1099531729211-86335005927669760-2199063581878-10057-A-0-1_2000.m3u8?wsSecret=faba4631637126f99ae6725fbd3b23d8&wsTime=5ed5f402&u=0&seqid=15909935396161666&ctype=huya_tars&fs=bgct
-神医喜来,https://txdirect.hls.huya.com/src/1449698223-1449698223-6226406456854315008-3048959664-10057-A-0-1_2000.m3u8?wsSecret=1b201d72949a814118ae5e82132ba23d&wsTime=5ed5f59f&u=0&seqid=15909939522805526&ctype=huya_tars&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
-神探狄仁杰,https://aldirect.hls.huya.com/src/28466698-2689651522-11551965324626624512-2847699166-10057-A-0-1_2000.m3u8?wsSecret=ed7ac6a3bd0a2e71c268bc1ecec83157&wsTime=5ed5f442&u=0&seqid=15909936038111454&ctype=huya_tars&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
-最佳拍挡,https://txdirect.hls.huya.com/huyalive/1448738224-1448738224-6222283292545122304-2789253866-10057-A-0-1_2000.m3u8?wsSecret=64596e3a059258147884a4da55bbeb28&wsTime=5ed5f50b&u=0&seqid=15909938040308238&ctype=huya_tars&fs=bgct
 $c_startNewTv$c_end
 Newtv-动作电影,http://111.40.205.87/PLTV/88888888/224/3221225661/index.m3u8
 Newtv-古装剧场,http://111.40.205.87/PLTV/88888888/224/3221225663/index.m3u8
