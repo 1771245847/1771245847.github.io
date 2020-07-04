@@ -157,28 +157,6 @@ http://live.zbjh.cc/live/ws124.m3u8
 http://live.zbjh.cc/live/ws127.m3u8
 #EXTINF:-1 group-title="港台频道",东森戏剧
 http://live.zbjh.cc/live/ws128.m3u8
-#EXTINF:-1 group-title="虎牙电影",少年包青天
-https://aldirect.hls.huya.com/src/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1_2000.m3u8?wsSecret=7754b86fe2a98ea5be458d515ef27d46&wsTime=5ed5f53c&u=0&seqid=15909938536272094&ctype=huya_tars&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
-#EXTINF:-1 group-title="虎牙电影",鹿鼎记
-https://txdirect.hls.huya.com/src/1420736865-1420736865-6102018371396567040-2847687618-10057-A-0-1_2000.m3u8?wsSecret=a3093d2e0a8ed1c1b33373367a770631&wsTime=5ed5f46c&u=0&seqid=15909936454642212&ctype=huya_tars&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
-#EXTINF:-1 group-title="虎牙电影",周星星
-https://hw.hls.huya.com/src/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_2000.m3u8?wsSecret=f90c10667acb68bb16f001bbc23fc3f3&wsTime=5ed5f0a2&u=0&seqid=15909926753735228&ctype=huya_tars&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
-#EXTINF:-1 group-title="虎牙电影",周星驰
-https://al.hls.huya.com/huyalive/1099531728510-1099531728510-86331995155595264-2199063580476-10057-A-0-1_2000.m3u8?wsSecret=2e2f87f758a25280a342151052353bdc&wsTime=5ed5f6ce&u=0&seqid=15909942561352388&ctype=huya_tars&fs=bgct
-#EXTINF:-1 group-title="虎牙电影",搞笑港片
-https://txdirect.hls.huya.com/src/1250011-1250011-5368756364640256-3048959596-10057-A-0-1_2000.m3u8?wsSecret=cb9773e8f0f76e3b6f3715cf3e76b38c&wsTime=5ed5f73e&u=0&seqid=15909943671607544&ctype=huya_tars&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
-#EXTINF:-1 group-title="虎牙电影",五褔星
-https://txdirect.hls.huya.com/src/58461003-58461003-251088095976357888-2713685416-10057-A-0-1_2000.m3u8?wsSecret=39aefc309183b16ac78c51d2e0e6f717&wsTime=5ed5f704&u=0&seqid=15909943097984608&ctype=huya_tars&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
-#EXTINF:-1 group-title="虎牙电影",林正英
-https://aldirect.hls.huya.com/src/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_2000.m3u8?wsSecret=3658031f0bb94ae6bc628bfb7e0f7f86&wsTime=5ed5f377&u=0&seqid=15909934005979678&ctype=huya_tars&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
-#EXTINF:-1 group-title="虎牙电影",僵尸大片
-https://al.hls.huya.com/huyalive/1099531729211-1099531729211-86335005927669760-2199063581878-10057-A-0-1_2000.m3u8?wsSecret=faba4631637126f99ae6725fbd3b23d8&wsTime=5ed5f402&u=0&seqid=15909935396161666&ctype=huya_tars&fs=bgct
-#EXTINF:-1 group-title="虎牙电影",神医喜来
-https://txdirect.hls.huya.com/src/1449698223-1449698223-6226406456854315008-3048959664-10057-A-0-1_2000.m3u8?wsSecret=1b201d72949a814118ae5e82132ba23d&wsTime=5ed5f59f&u=0&seqid=15909939522805526&ctype=huya_tars&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
-#EXTINF:-1 group-title="虎牙电影",神探狄仁杰
-https://aldirect.hls.huya.com/src/28466698-2689651522-11551965324626624512-2847699166-10057-A-0-1_2000.m3u8?wsSecret=ed7ac6a3bd0a2e71c268bc1ecec83157&wsTime=5ed5f442&u=0&seqid=15909936038111454&ctype=huya_tars&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
-#EXTINF:-1 group-title="虎牙电影",最佳拍挡
-https://txdirect.hls.huya.com/huyalive/1448738224-1448738224-6222283292545122304-2789253866-10057-A-0-1_2000.m3u8?wsSecret=64596e3a059258147884a4da55bbeb28&wsTime=5ed5f50b&u=0&seqid=15909938040308238&ctype=huya_tars&fs=bgct
 #EXTINF:-1 group-title="NewTv",NewTv-动作电影
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/1.m3u8
 #EXTINF:-1 group-title="NewTv",NewTv-家庭剧场
