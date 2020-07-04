@@ -183,9 +183,9 @@ iHOT爱赛车,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888
 iHOT爱浪漫,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
 $c_start残月影视$c_end
 奇门相术,https://api.adinisp.com/ximu-7611e67b073f98f5b6193ef538deda42.m3u8
-武神苏乞儿之黄金海盗,https://omts.tc.qq.com/varietyts.tc.qq.com/vipts.tc.qq.com/AgBDUpQVNKGeom_OZwnGNIFbVtWcJVpzJcT481AWemFo/uwMROfz2r5xgoaQXGdGnC2df64gVTKzl5C_X6A3JOVT0QIb-/8ZFDC6HYD7O1Dq19VtZlKe3I_drN4DmTVckfjRUiAHc8xr93UW0zL8GfkuefNxUgtQV-B2028S30mGmluJ8hboPHajXrqeJkUjucks0dXVXqZAVzarFU98cjn2OojmYguqSefQKQQc1YgX99bWDhHMkKwcgU_f2P-gOiFBK24zY/l00344c9o6b.321004.ts.m3u8?ver=4
-倩女幽魂 人间情,https://omts.tc.qq.com/varietyts.tc.qq.com/vipts.tc.qq.com/ACux-WwMLZZePTx_jQdW-4bbiSC13cymPA3JafJaU0oQ/uwMROfz2r5xgoaQXGdGnC2df64gVTKzl5C_X6A3JOVT0QIb-/ekx-OatBxYIGY0tLOxu_Lm0hWfXkIfJc77MUD8ZYFmMrXpIMK8IiTYJirLsDhuELgrgKgUXWTPPvZRRDAjoE19BqRQ45yEar4WLqGFjCylPH8iJ7oPRCD3R8JOXKBvedVXgMcVHMlONDA3q9Jw8SByHM7ngYi6lfj9oEQPFnxxk/z0033dhdxy0.321004.ts.m3u8?ver=4
-复仇者联盟4：终局之战,http://photovideo.photo.qq.com/1075_0b53tf7aikqa4yac4trhabpdhgieasxab4ca.f20.mp4?dis_k=d86ed132a16ca323b495cb4742cf620c&dis_t=1593770528&vuin=721744048
+武神苏乞儿之黄金海盗,http://v9-default.ixigua.com/b8d74c6f59b2e7303afc2f73f06e136c/5f00a09c/video/tos/cn/tos-cn-ve-15/5799827c72a745fb9dbcd6ea374b39b4/
+倩女幽魂 人间情,http://v3-default.ixigua.com/3d2b1c8c58aff1649e46b8cf6b2dd22a/5f00a7d6/video/tos/cn/tos-cn-ve-15/f6e93d5fa280487686522bfc27f9f980/
+复仇者联盟4：终局之战,http://v3-default.ixigua.com/c43ef61c1d11d3f093fdabc908e08607/5f00bcd8/video/tos/cn/tos-cn-ve-15/0edc3d7a62984f909555e3daaeeb4b95/
 霍家拳之铁臂娇娃,https://api.adinisp.com/ximu-9c99cc72f36fe04f2b2f2239e07b0e8e.m3u8
 蜘蛛侠之英雄归来,https://api.adinisp.com/ximu-fe97d0a8285f51a05d2e14dd73aea8d8.m3u8
 疯魔神丐苏乞儿,https://api.adinisp.com/ximu-dc6911972002119bfb2b675b1f2c40c7.m3u8
