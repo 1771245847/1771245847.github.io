@@ -92,65 +92,172 @@ $c_start地方频道$c_end
 江苏 Ⅰ 连云港综合,http://live.lyg1.com/zhpd/sd/live.m3u8
 江苏 Ⅰ 连云港公共,http://live.lyg1.com/ggpd/sd/live.m3u8
 $c_start港台频道$c_end
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-凤凰卫视HD,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
-凤凰咨询HD,http://112.5.223.10:80/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8?icpid=88888888&from=99&ocs=2_112.5.223.46_80&popid=99&hms_devid=83&prioritypopid=99
-日本Japanet Channel DX,http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
-韩国Arirang (Opt-1),http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-越南ANTVHD,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-CINEMAX电影,http://111.13.111.192/211.75.9.37:20020/20023#http://111.13.111.192/211.75.9.37:20060/20063
-CN卡通,http://111.13.111.192/211.75.9.37:20040/20043
-FOX 体育,http://111.13.111.192/211.75.9.37:20020/20025#http://111.13.111.192/211.75.9.37:20060/20065
-FOX电影,http://111.13.111.192/211.75.9.37:20040/20046
-HBO family,http://111.13.111.192/211.75.9.37:20030/20036#http://111.13.111.192/211.75.9.37:20030/20037
-HBO HiTS ,http://111.13.111.192/211.75.9.37:20030/20032#http://111.13.111.192/211.75.9.37:20030/20033
-HBO signature,http://111.13.111.192/211.75.9.37:20030/20035#http://111.13.111.192/211.75.9.37:20030/20034
-JET综合台,http://111.13.111.192/211.75.9.37:20030/20031
-TLC台 ,http://111.13.111.192/211.75.9.37:20000/20001
-TVBS台,http://111.13.111.192/211.75.9.37:20010/20016#http://111.13.111.192/211.75.9.37:20060/20068
-TVBS欢乐台,http://111.13.111.192/211.75.9.37:20010/20013
-迪斯尼频道台,http://111.13.111.192/211.75.9.37:20040/20044
-东森电影台,http://111.13.111.192/211.75.9.37:20050/20051
-东森戏剧台,http://111.13.111.192/211.75.9.37:20010/20012
-东森新闻台,http://111.13.111.192/211.75.9.37:20000/20005#http://111.13.111.192/211.75.9.37:20060/20066
-东森洋片台,http://111.13.111.192/211.75.9.37:20060/20069#http://111.13.111.192/211.75.9.37:20010/20018
-AXN台,http://111.13.111.192/211.75.9.37:20020/20029
-东森综合台,http://111.13.111.192/211.75.9.37:20040/20045
-动物星球台,http://111.13.111.192/211.75.9.37:20000/20002
-非凡商业台,http://111.13.111.192/211.75.9.37:20050/20052
-非凡新闻台,http://111.13.111.192/211.75.9.37:20020/20028#http://111.13.111.192/211.75.9.37:20060/20061
-好莱坞电影台,http://111.13.111.192/211.75.9.37:20020/20022
-纬来电影台,http://111.13.111.192/211.75.9.37:20020/20027
-卫视电影台,http://111.13.111.192/211.75.9.37:20020/20026
-卫视中文台,http://111.13.111.192/211.75.9.37:20000/20006
-中天新闻台,http://111.13.111.192/211.75.9.37:20010/20011#http://111.13.111.192/211.75.9.37:20060/20067
-中天综合台,http://111.13.111.192/211.75.9.37:20000/20007
+凤凰中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#p2p://fccsovh.pvbox.live:18912/5b14092b00075956b021861efc75b7ed.ts
+凤凰资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8#p2p://fccsovh.pvbox.live:18912/5b14092b00090483328819f2db8ecad0.ts
+凤凰香港台,http://104.250.154.42:8080/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8#p2p://fccsovh.pvbox.live:18912/5b14092b000ab058aba6213c0ddec4b0.ts
+TVB娱乐,p2p://fccseuro.pvbox.live:18912/5b140a99000c97f5e048bfdfbba41d0d.ts#p2p://fccsovh.pvbox.live:18912/5b140a99000c97f5e048bfdfbba41d0d.ts
+莲花卫视,http://244852077.cloudvdn.com/a.m3u8?domain=livehls.macaulotustv.com&player=fU8AAPXDrFomhkW&secondToken=secondToken%3AnxYHHDmQKJE7Vhw2QgB5awoxU&streamid=lotustv%3Alotustv
+翡翠,p2p://fccseuro.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058.ts#http://116.199.5.52:8114/00000000/index.m3u8?
+翡翠(备),p2p://fccseuro.pvbox.live:18912/5dbeb1c60000e0465bf4890714f16176.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1c60000e0465bf4890714f16176.ts
+无线新闻,p2p://fccseuro.pvbox.live:18912/5dbeb1c40003f9a457dd11d6cb7a10d0.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1c40003f9a457dd11d6cb7a10d0.ts
+无线新闻(备),p2p://fccsovh.pvbox.live:18912/5ee71d1c0004c66962b2bbef39b16ddb.ts#p2p://fccseuro.pvbox.live:18912/5ee71d1c0004c66962b2bbef39b16ddb.ts
+J2,p2p://fccseuro.pvbox.live:18912/5dbeb1ce0004b0ebd816f2f1ed100d7b.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1ce0004b0ebd816f2f1ed100d7b.ts
+J2(备),p2p://fccseuro.pvbox.live:18912/5d122036000a0661d2e59906fed8fd3c.ts#http://pililivehdl.qhmywl.com/dsdtv/9de1ac6a9a4642e1aac41462c6159b92.flv#p2p://fccsovh.pvbox.live:18912/5d122036000a0661d2e59906fed8fd3c.ts
+J5,p2p://fccseuro.pvbox.live:18912/5b14095400047cf5d3436751842bee62.ts#p2p://fccsovh.pvbox.live:18912/5b14095400047cf5d3436751842bee62.ts
+明珠,p2p://fccseuro.pvbox.live:18912/5dbeb1ca000ccc5031839eb645936fa4.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1ca000ccc5031839eb645936fa4.ts
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+无线财经,p2p://fccseuro.pvbox.live:18912/5dbeb1cc0007501623a21bd1ab71921c.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1cc0007501623a21bd1ab71921c.ts
+HKC新闻,p2p://fccsovh.pvbox.live:18912/5cb870e80007bd8518bd664dc725ad75.ts#p2p://fccseuro.pvbox.live:18912/5cb870e80007bd8518bd664dc725ad75.ts
+有线体育,p2p://fccsovh.pvbox.live:18912/5cb870de000968d092345e9ff2a5d955.ts#p2p://fccseuro.pvbox.live:18912/5cb870de000968d092345e9ff2a5d955.ts
+財經資訊,p2p://fccsovh.pvbox.live:18912/5cb870e2000e6af34fc116afe55bd97f.ts#p2p://fccseuro.pvbox.live:18912/5cb870e2000e6af34fc116afe55bd97f.ts
+香港開電視,p2p://fccseuro.pvbox.live:18912/5b140a990002d1a89cac9e13b5b361a2.ts#p2p://fccsovh.pvbox.live:18912/5b140a990002d1a89cac9e13b5b361a2.ts
+TVB星河,p2p://fccseuro.pvbox.live:18912/5d65048c0003e9aecc353f52270c8bbe.ts#p2p://fccsovh.pvbox.live:18912/5d65048c0003e9aecc353f52270c8bbe.ts
+VIUTV6,p2p://fccseuro.pvbox.live:18912/5dbeb1c9000305c43cdb0149358f3a61.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1c9000305c43cdb0149358f3a61.ts
+VIU,p2p://fccseuro.pvbox.live:18912/5dbeb1c70009386833caae6ccb5d0800.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1c70009386833caae6ccb5d0800.ts
+$c_start少儿频道$c_end
+超级飞侠,http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010213/50/index.m3u8?ProgramID=&encrypt= 超级飞侠#http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010213/75/index.m3u8?ProgramID=&encrypt= 超级飞侠
+小猪佩奇,http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010216/50/index.m3u8?ProgramID=&encrypt= 小猪佩奇#http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010216/75/index.m3u8?ProgramID=&encrypt= 小猪佩奇
+少儿动漫,http://live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/sedm/350/index.m3u8?ProgramID=&encrypt= 少儿动漫#http://live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/sedm/1000/index.m3u8?ProgramID=&encrypt= 少儿动漫
+快乐儿歌,http://live.hcs.cmvideo.cn:8088/migu/gunbo/5102439680/50/20190827/index.m3u8?ProgramID=&encrypt= 快乐儿歌#http://live.hcs.cmvideo.cn:8088/migu/gunbo/5102439680/51/20190827/index.m3u8?ProgramID=&encrypt= 快乐儿歌
+益智学堂,http://live.hcs.cmvideo.cn:8088/migu/gunbo/5102440005/50/20190827/index.m3u8?ProgramID=&encrypt= 益智学堂#http://live.hcs.cmvideo.cn:8088/migu/gunbo/5102440005/51/20190827/index.m3u8?ProgramID=&encrypt= 益智学堂
+梦幻童话,http://live.hcs.cmvideo.cn:8088/migu/gunbo/5102439963/50/20190827/index.m3u8?ProgramID=&encrypt= 梦幻童话#http://live.hcs.cmvideo.cn:8088/migu/gunbo/5102439963/51/20190827/index.m3u8?ProgramID=&encrypt= 梦幻童话
+英语启蒙,http://live.hcs.cmvideo.cn:8088/migu/gunbo/5102440001/50/20190827/index.m3u8?ProgramID=&encrypt= 英语启蒙#http://live.hcs.cmvideo.cn:8088/migu/gunbo/5102440001/51/20190827/index.m3u8?ProgramID=&encrypt= 英语启蒙
+优漫卡通,http://live.hcs.cmvideo.cn:8088/wd_r2/jstv/ymkt/350/index.m3u8?ProgramID=&encrypt= 优漫卡通#http://live.hcs.cmvideo.cn:8088/wd_r2/jstv/ymkt/600/index.m3u8?ProgramID=&encrypt= 优漫卡通
+哈哈炫动,http://live.hcs.cmvideo.cn:8088/ws_w/2018/xdkt/xdkt450/350/index.m3u8?ProgramID=&encrypt= 哈哈炫动#http://live.hcs.cmvideo.cn:8088/ws_w/2018/xdkt/xdkt711/1000/index.m3u8?ProgramID=&encrypt= 哈哈炫动
+嘉佳卡通,http://live.hcs.cmvideo.cn:8088/wd_r1/2018/nfmedia/jjkt/350/index.m3u8?ProgramID=&encrypt= 嘉佳卡通#http://live.hcs.cmvideo.cn:8088/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?ProgramID=&encrypt= 嘉佳卡通
+狮子王国,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
+倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
+反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
+云朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
+熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
+熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
+猪侠英雄,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
+大头儿子★01,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/252a7fe7786645b084271751a3f75725/1200.m3u8
+大头儿子★02,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8c6227ce3d1d4c9297d5cfd9a08a4fa9/1200.m3u8
+大头儿子★03,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1a86eb58a9e04c34a87f8c883932cfa2/1200.m3u8
+大头儿子★04,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/46e4d00d85fe4287b54c8015de46e102/1200.m3u8
+熊熊乐园★01,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b333914bfe2b49d793d41f3233505f5f/1200.m3u8
+熊熊乐园★02,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7d35b256e4794918837e184d35f34492/1200.m3u8
+熊熊乐园★03,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8da51eedd80c4c0b98765b20d1729d42/1200.m3u8
+熊熊乐园★04,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e86d503179254fc0ba5ebb6f44103d9d/1200.m3u8
+熊熊乐园★05,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3f437da4d62e4708bc8892cd6f3c9bd8/1200.m3u8
+熊熊乐园★06,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7e38bf0a4c274a3c98abe1d79ca7c8ef/1200.m3u8
+熊熊乐园★07,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a14f86e6e1434908a12fd00a2c8b0b73/1200.m3u8
+熊熊乐园★08,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6a7b458f35cd49a390faa0378d4ecde5/1200.m3u8
+熊熊乐园★09,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6a35f12e8fb6420181c83cd1a847206b/1200.m3u8
+熊熊乐园★10,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/34cf417bf8d64ce8a993e8c5db16b914/1200.m3u8
+熊熊乐园★11,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f966ee5dac0d4393bcdd2483b24d06a3/1200.m3u8
+熊熊乐园★12,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/70344cd85dc34abf8400eb9738bec779/1200.m3u8
+熊熊乐园★13,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3976afaa79a14ede8dcf818ead874ac1/1200.m3u8
+熊熊乐园★14,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/50a132bdc16e47cfb6e292ace9dde5ee/1200.m3u8
+熊熊乐园★15,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8336c7ea1fd04a98aeb5bab0350f9855/1200.m3u8
+熊熊乐园★16,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5ed717fd676042cfb4c145423e1bb31b/1200.m3u8
+熊熊乐园★17,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/54371858578a45d9b9de4b64f81863eb/1200.m3u8
+熊熊乐园★18,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1e77c23aef1a4defa52bc76a56ac35bc/1200.m3u8
+熊熊乐园★19,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6c9cd714ab4b4a4b9695c17766470ee8/1200.m3u8
+熊熊乐园★20,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/97d9d7f096bc4b90bcdaf2b7ce9ea556/1200.m3u8
+熊熊乐园★21,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c5c9a732d2dd4179828895fb75a3ca08/1200.m3u8
+熊熊乐园★22,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9a7401b1279a4fa09135deaab29bf51d/1200.m3u8
+熊熊乐园★23,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3cfd36364d804fee8599aa72b970e9cd/1200.m3u8
+熊熊乐园★24,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ed010caa1668481ab5a7250291bb6f33/1200.m3u8
+熊熊乐园★25,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/adb82894c295447e86d12aeccdd17d50/1200.m3u8
+熊熊乐园★26,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4404b8b709f84c7fa045a0901f23a133/1200.m3u8
+熊熊乐园★27,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7e7b56d0d35a44dc807b9888cc37bce0/1200.m3u8
+熊熊乐园★28,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6b9d91ae03eb4348a9270aa0e5018135/1200.m3u8
+熊熊乐园★29,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/59c667667d2349c587db921d3f639223/1200.m3u8
+熊熊乐园★30,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/473591a6614e4a769ad912fbf58e79da/1200.m3u8
+熊熊乐园★31,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8a99941f33164ea3aa11d5243a4a93ad/1200.m3u8
+熊熊乐园★32,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/84ab44d3c9af4460a1a9981a22489417/1200.m3u8
+熊熊乐园★33,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1d01816b5ae945bea728f10ee99d7c41/1200.m3u8
+熊熊乐园★34,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ef0bb93b6d9a44f6b68f7abc15770a9e/1200.m3u8
+熊熊乐园★35,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5b0e9527423542efbe1ab81c3701c20e/1200.m3u8
+熊熊乐园★36,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/be17a82213094c1284570913c1cce887/1200.m3u8
+熊熊乐园★37,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d9925bccfeb84ab6ab090d56547a7a2d/1200.m3u8
+熊熊乐园★38,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f5148f0035d44d77b74aa58aa6d57c18/1200.m3u8
+熊熊乐园★39,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6cde3ec7780446e9a834a35772378ff8/1200.m3u8
+熊熊乐园★40,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1c03ccf0e34b4476a80c2396ffe99a29/1200.m3u8
+熊熊乐园★41,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f986f8de576f487fb1febdcc7dfa87d8/1200.m3u8
+熊熊乐园★42,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c99361cb40a9457c9ca95beab9c780af/1200.m3u8
+熊熊乐园★43,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e9dbad5b80884597a721947629a9b169/1200.m3u8
+熊熊乐园★44,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e0a3c64fa73947289e5664984f4cf5e2/1200.m3u8
+熊熊乐园★45,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cea468a9e46f47f5bd232aef671a7d8e/1200.m3u8
+熊熊乐园★46,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f185a4cb6fec4e5fac0b7c3bda661cfa/1200.m3u8
+熊熊乐园★47,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1b3716f4a8ac42fda150b24e9266e7f2/1200.m3u8
+熊熊乐园★48,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1e3bb6fcc0b642d896b0bb51514a3545/1200.m3u8
+熊熊乐园★49,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4f7fa80c6686462cb3afcf9ce48b7678/1200.m3u8
+熊熊乐园★50,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f93cb9edd30544b78797b6dce897dbdc/1200.m3u8
+熊熊乐园★51,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7fc7a246576744e1b032622846c1fd43/1200.m3u8
+熊熊乐园★52,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/23d304c091184090b3b6ceef8822a273/1200.m3u8
+小猪佩奇★029,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/5f35f5e7ea7941c5a23931291e3b8b43/850.m3u8
+小猪佩奇★028,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/323e94884d92487c888de167ba56d0fb/850.m3u8
+小猪佩奇★027,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/7007b7345cc6466c8689181ded8743e8/850.m3u8
+小猪佩奇★026,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/db6f0d7768e2469db3e4918fbf581a20/850.m3u8
+小猪佩奇★025,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/84647431d2ee451bb25bff92e85ba6ac/850.m3u8
+小猪佩奇★024,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/a70f7eb8e70f4740b8f9319683ddfae2/850.m3u8
+小猪佩奇★023,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/a704b004d8444fa8b9f25e1b283fc553/850.m3u8
+小猪佩奇★022,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/573615f532644ffe92663f3560d147ab/850.m3u8
+小猪佩奇★021,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/8084e57cfac444e8a9a32818a0fc6bf3/850.m3u8
+小猪佩奇★020,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/5dcb55cede734b9e8ac61d38ff7d8a49/850.m3u8
+小猪佩奇★019,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/7c7909eacda94ad091f99dd4f6581222/850.m3u8
+小猪佩奇★018,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/2411e6fb6eab406b9616a2a06096160d/850.m3u8
+小猪佩奇★017,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/b7c20322e3c542f8b36b6be709504568/850.m3u8
+小猪佩奇★016,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/e323ffc96be244458a1cc9aa1693751b/850.m3u8
+小猪佩奇★015,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/71bf6c88c4c149da88885d08e4493063/850.m3u8
+小猪佩奇★014,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/7b0585d4acdb48deb861ef3cbafa4cf7/850.m3u8
+小猪佩奇★013,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/0f2739e728ec468e90ac7f7b38a8932d/850.m3u8
+小猪佩奇★012,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/61e8b761f540453896cca0b44f94b7d7/850.m3u8
+小猪佩奇★011,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/8b28655c23ba4c97a26ab39a7fad7b8a/850.m3u8
+小猪佩奇★010,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/4ee1975fae814bb183db93af59223bd2/850.m3u8
+小猪佩奇★009,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/933fe890e678410d9e1dbcc1577bba1e/850.m3u8
+小猪佩奇★008,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c474b2a647044e89aa982d05abc7470e/850.m3u8
+小猪佩奇★007,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/50adf8eed8824cec96d693e755f26878/850.m3u8
+小猪佩奇★006,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/9ef314447b4f49ecabecf745f24947bf/850.m3u8
+小猪佩奇★005,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/bc9e3dd496f342de977b68ed9199e00e/850.m3u8
+小猪佩奇★004,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/cacee61eeac643ff8c3512f2044b9366/850.m3u8
+小猪佩奇★003,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/a81fae2a8d1141ca9d041715fdba3e26/850.m3u8
+小猪佩奇★002,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/405b104872d94b3a91395ccb32ab54c8/850.m3u8
+小猪佩奇★001,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/91226e8d4f664fefa888e31d72ed8cd5/850.m3u8
+汪汪队长★001,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f96cb7c6f8354da1ab9c67a92bd03296/1200.m3u8
+汪汪队长★002,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/11a3110e23b546878b9fc34ab087fc99/1200.m3u8
+汪汪队长★003,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a076bfa8f5534589a6a32a1211d526f6/1200.m3u8
+汪汪队长★004,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1e628c3b1c7f41ef9569439bbc20c3b1/1200.m3u8
+汪汪队长★005,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a02cb85d5c0a4840ae320f189fef9ad5/1200.m3u8
+汪汪队长★006,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b361d95253e04a75b5c262c067e26e7a/1200.m3u8
+汪汪队长★007,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d1ae53296a16475c8bc2667fccf1718f/1200.m3u8
+汪汪队长★008,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cb462eedab924864bb52a076eff3f35a/1200.m3u8
+汪汪队长★009,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/667dc8e9785047f4a2bf2008759a0d41/1200.m3u8
+汪汪队长★010,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c7bdfb0bacfc4b76b6492b371645bec9/1200.m3u8
+汪汪队长★011,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/104718fde00347c0bdf3892056f6c424/1200.m3u8
+汪汪队长★012,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/10bcc3bdf9534b86a3ecc558eb88e8c1/1200.m3u8
+汪汪队长★013,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9e862c5952b24af6b11e2ff5c82e3ef6/1200.m3u8
+汪汪队长★014,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bf22bd5354eb4eceb751698f1197a443/1200.m3u8
+汪汪队长★015,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e708bd144bc040968a0697d401c55721/1200.m3u8
+汪汪队长★016,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e358bc63629a4da0b571f09c1758632f/1200.m3u8
+汪汪队长★017,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/aab9e8b4cb15456395344f0bf506b7e5/1200.m3u8
+汪汪队长★018,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6de71403ea864646b457f6fb55eb7a7d/1200.m3u8
+汪汪队长★019,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8a6ce466f26941cbb9d49fa58a742395/1200.m3u8
+汪汪队长★020,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ff6bb3e89ece439991951d4fb5ba0b69/1200.m3u8
+汪汪队长★021,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b731bdafeb81400591a9ed620320d745/1200.m3u8
+汪汪队长★022,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c064f62c75954d3583195caa67b68b49/1200.m3u8
+汪汪队长★023,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cc40c88c98ec49398f4359dfa371adbf/1200.m3u8
 $c_start综合娱乐$c_end
-國家地理野生,p2p://fccsovh.pvbox.live:18912/5b1409170007d3426fb48c0b2237b791.ts
-國家地理HD,p2p://fccsovh.pvbox.live:18912/5b13f6f0000e0621ed47c61aba4bcb15.ts2hls
-中天綜合,p2p://fccsovh.pvbox.live:18912/5b14096a0007d345adf7d3be9e90853c.ts
-中華美食,p2p://fccsovh.pvbox.live:18912/5b14092b000126612897cc5f75157a2a.ts
-中天娛樂,p2p://fccsovh.pvbox.live:18912/5b1409f300034b942173930dce7ae53a.ts
-東森戲劇,p2p://fccsovh.pvbox.live:18912/5b1409f20000320b50f779b77ee95c34.ts
-八大戲劇,p2p://fccsovh.pvbox.live:18912/5b1409690000706a9826a03ed5af637b.ts
-TVBS歡樂,p2p://fccsovh.pvbox.live:18912/5b1409600006657bacba82dfd86340c9.ts
-緯來戲劇,p2p://fccsovh.pvbox.live:18912/5b1409f3000a72b5d549bb4219f601e5.ts
-龍祥時代,p2p://fccsovh.pvbox.live:18912/5b14092200071c6181ef2920ff316506.ts
-JET 综合,p2p://fccsovh.pvbox.live:18912/5b1409f30001262702e7dc172f28e81b.ts
-靖天映畫,p2p://fccsovh.pvbox.live:18912/5b14093f0002d1c2758c007809570d1c.ts
-壹電視新聞,p2p://fccsovh.pvbox.live:18912/5b14094000088a466e47d3afd44bb2c1.ts
-年代新聞,p2p://fccsovh.pvbox.live:18912/5c2dd76000032856cc77709577dc1ebc.ts
-東森新聞,p2p://fccsovh.pvbox.live:18912/5c2dd7310008b319c22d543273ae752d.ts
-中天新聞,p2p://fccsovh.pvbox.live:18912/5c2dd72e0002527b767acda
-BERNAMA,http://50.7.161.82:8278/Bernama/playlist.m3u8?tid=m02000000000012087578&ct=17975&tsum=73be977f4f0798142ff736e6f09da82d
-AWANI,https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8#http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8
-DISNEY JUNIOR,http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-PRIMA,http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m36fb09f3c61113453606&ct=17858&tsum=3095762479d46a3f27c12c65e15cf93f
-TV1,http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
-TV2,http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
-RTM SPORTS,http://rtmsportshdmobile.secureswiftcontent.com:80/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8#http://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b764000.m3u8
-TV IKIM,http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48
+TVB 无线新闻,http://45.93.217.106/jiuban/hg.php?id=1#http://77.83.242.11/hk168.php?id=9&xl=2
+TVB 无线翡翠,http://103.140.229.13/zbtv/zxxg.php?id=1&xl=1#http://77.83.242.11/hk168.php?id=1&xl=2
+TVB 无线财经,http://45.93.217.106/jiuban/hg.php?id=2#http://77.83.242.11/hk168.php?id=10&xl=2#http://103.140.229.13/zbtv/zxxg.php?id=10&xl=1
+澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
+澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
+卫视国际电影,http://106.54.30.243/gz009/gz.php?id=wsgjdy
+TVB J2,http://www.aclive.live/dvr/2ee368c0/xmj3kp59/index.m3u8#http://www.dszbdq.cn/play/list.php?id=tvbj2#http://77.83.242.11/hk168.php?id=12&xl=2
+V I U TV,http://www.dszbdq.cn/play/hk22.php?id=viutv#http://77.83.242.11/hk168.php?id=8&xl=2#http://103.140.229.13/zbtv/zxxg.php?id=8&xl=1
+HBO 亚洲频道,http://106.54.30.243/gz009/gz.php?id=hbo
+HKC 有线娱乐,http://www.dszbdq.cn/play/xgyx.php?id=yxyl
+HKC 有线财经,http://www.dszbdq.cn/play/xgyx.php?id=yxcjhd
+MTV 亚洲音乐,http://106.54.30.243/gz009/gz.php?id=mtv#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+AXN 影视频道,http://106.54.30.243/gz009/gz.php?id=axn
+NOW 新闻频道,http://www.dszbdq.cn/play/hk22.php?id=nownews#http://103.140.229.13/zbtv/zxxg.php?id=16&xl=1#http://77.83.242.11/hk168.php?id=16&xl=2
+TVB 经典频道,http://www.dszbdq.cn/play/list.php?id=tvbjd
+星河频道,http://104.250.154.42:8080/ZZ_xinghe/ZZ_xinghe.m3u8#http://77.83.242.11/hk168.php?id=17&xl=2
+天映频道,http://www.dszbdq.cn/play/list.php?id=typd
 iHOT爱电竞,http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 iHOT爱动漫,http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 iHOT爱都市,http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -183,9 +290,10 @@ iHOT爱赛车,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888
 iHOT爱浪漫,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
 $c_start残月影视$c_end
 奇门相术,https://api.adinisp.com/ximu-7611e67b073f98f5b6193ef538deda42.m3u8
-武神苏乞儿之黄金海盗,http://v9-default.ixigua.com/b8d74c6f59b2e7303afc2f73f06e136c/5f00a09c/video/tos/cn/tos-cn-ve-15/5799827c72a745fb9dbcd6ea374b39b4/
-倩女幽魂 人间情,http://v3-default.ixigua.com/3d2b1c8c58aff1649e46b8cf6b2dd22a/5f00a7d6/video/tos/cn/tos-cn-ve-15/f6e93d5fa280487686522bfc27f9f980/
-复仇者联盟4：终局之战,http://v3-default.ixigua.com/c43ef61c1d11d3f093fdabc908e08607/5f00bcd8/video/tos/cn/tos-cn-ve-15/0edc3d7a62984f909555e3daaeeb4b95/
+绝世古镇之九宫八卦门,https://omts.tc.qq.com/varietyts.tc.qq.com/vipts.tc.qq.com/AbvMgKv_vB_7lKKx8Q6Dqoqw3ql52mBwdsI139begQmk/uwMROfz2r5xgoaQXGdGnC2df64gVTKzl5C_X6A3JOVT0QIb-/d96yvi7LU1yeO3LbPXsS27jC0pZZhKXhTMVSzcQ9P0BVRlej8cGM7PDyzvhTmg3fyuHWuD3fuAnM245d1pZE9SCu_nogNj7I9hc5L5N-DPaJ2jsnBpMn8OTQ0e15EufEeLGsDN7SorVip2EWGD7UQZQnA9yZcDqD8Y_TgePF4hY/v0034fp6iy5.321004.ts.m3u8?ver=4
+迷毒之无足鸟,https://omts.tc.qq.com/varietyts.tc.qq.com/vipts.tc.qq.com/APP9D7UAGPEHXz73T6jMA1FirIlT6Bq4Dhf9rmsFSkDg/uwMROfz2r5xgoaQXGdGnC2df64gVTKzl5C_X6A3JOVT0QIb-/eJBNZLR2AfS_0b8qZaNlQvy9wZxo9OI3oMq8js75Deq1pvs8LJ5O78ViVt8FOz6gmiSzvZrkabNr69IyOnTJRbKv42wrVV-4n0pt57AlSgnBBzSSbOpTM5q_iCM1Q-1zzv76dy571xvexDJ4cxAZoBx2EgqduaY-eyqsDRKNE5Y/h00344910n4.321004.ts.m3u8?ver=4
+武神苏乞儿之黄金海盗,https://omts.tc.qq.com/varietyts.tc.qq.com/vipts.tc.qq.com/A4id_WWDskzPkIU6ChNqBMr1uDpFZ4c8G0uwDbWsMkcA/uwMROfz2r5xgoaQXGdGnC2df64gVTKzl5C_X6A3JOVT0QIb-/VduuJOKupn_p3GmH82CvOIisIaQ0oBiyP65xHUMhr4INbWdYa-pK49-OA-aczuMEQZhfCHy8l5gi0CIXuyjwllRlHBRmhY9PUwm69h8uC1XBEft79ZZmCWRK8GGF8ZM7CqzpLnEpb7AZzX8_TQrXNis80-MUKcn5hi1wz8BDd4Q/l00344c9o6b.321004.ts.m3u8?ver=4
+倩女幽魂 人间情,https://omts.tc.qq.com/varietyts.tc.qq.com/vipts.tc.qq.com/AZXeWKICAL7RllyO4AZIld9RAvDpSqxj1xRuuU-2sy38/uwMROfz2r5xgoaQXGdGnC2df64gVTKzl5C_X6A3JOVT0QIb-/kSLm4HE-geaP59jOeJ3T30hEwOS5tXiODpR8YNLR9Yh7ZenR489wAgUlKe0N7QQZef0FvfJz0bjnVZkpm4pt7vT3MovWkSljqTSqb5csaBLwZ4uWclhJktNHYq9UNbwbo6o0MmXQ7EkFMqXHNrQIfwzs4epJF6IEj46EMk-YiyY/z0033dhdxy0.321004.ts.m3u8?ver=4
 霍家拳之铁臂娇娃,https://api.adinisp.com/ximu-9c99cc72f36fe04f2b2f2239e07b0e8e.m3u8
 蜘蛛侠之英雄归来,https://api.adinisp.com/ximu-fe97d0a8285f51a05d2e14dd73aea8d8.m3u8
 疯魔神丐苏乞儿,https://api.adinisp.com/ximu-dc6911972002119bfb2b675b1f2c40c7.m3u8
@@ -221,6 +329,56 @@ Newtv-黑莓电影,http://111.40.205.87/PLTV/88888888/224/3221225667/index.m3u8
 Newtv-黑莓动画,http://111.40.205.87/PLTV/88888888/224/3221225662/index.m3u8
 Newtv-黑莓电竞,http://111.40.205.87/PLTV/88888888/224/3221225675/index.m3u8
 $c_start嗨曲$c_end
+1-MKV,http://em.21dtv.com/songs/60110001.mkv
+2-MKV,http://em.21dtv.com/songs/60110002.mkv
+3-MKV,http://em.21dtv.com/songs/60110003.mkv
+4-MKV,http://em.21dtv.com/songs/60110006.mkv
+5-MKV,http://em.21dtv.com/songs/60110004.mkv
+6-MKV,http://em.21dtv.com/songs/60110007.mkv
+7-MKV,http://em.21dtv.com/songs/60110005.mkv
+8-MKV,http://em.21dtv.com/songs/60110008.mkv
+9-MKV,http://em.21dtv.com/songs/60110009.mkv
+10-MKV,http://em.21dtv.com/songs/60110011.mkv
+11-MKV,http://em.21dtv.com/songs/60110012.mkv
+12-MKV,http://em.21dtv.com/songs/60110010.mkv
+13-MKV,http://em.21dtv.com/songs/60110013.mkv
+14-MKV,http://em.21dtv.com/songs/60110015.mkv
+15-MKV,http://em.21dtv.com/songs/60110016.mkv
+16-MKV,http://em.21dtv.com/songs/60110014.mkv
+17-MKV,http://em.21dtv.com/songs/60110017.mkv
+18-MKV,http://em.21dtv.com/songs/60110020.mkv
+19-MKV,http://em.21dtv.com/songs/60110018.mkv
+20-MKV,http://em.21dtv.com/songs/60110019.mkv
+21-MKV,http://em.21dtv.com/songs/60110021.mkv
+22-MKV,http://em.21dtv.com/songs/60110022.mkv
+23-MKV,http://em.21dtv.com/songs/60110023.mkv
+24-MKV,http://em.21dtv.com/songs/60110024.mkv
+25-MKV,http://em.21dtv.com/songs/60110025.mkv
+26-MKV,http://em.21dtv.com/songs/60110026.mkv
+27-MKV,http://em.21dtv.com/songs/60110027.mkv
+28-MKV,http://em.21dtv.com/songs/60110028.mkv
+29-MKV,http://em.21dtv.com/songs/60110030.mkv
+30-MKV,http://em.21dtv.com/songs/60110031.mkv
+31-MKV,http://em.21dtv.com/songs/60110033.mkv
+32-MKV,http://em.21dtv.com/songs/60110032.mkv
+33-MKV,http://em.21dtv.com/songs/60110035.mkv
+34-MKV,http://em.21dtv.com/songs/60110034.mkv
+35-MKV,http://em.21dtv.com/songs/60110029.mkv
+36-MKV,http://em.21dtv.com/songs/60110036.mkv
+37-MKV,http://em.21dtv.com/songs/60110037.mkv
+38-MKV,http://em.21dtv.com/songs/60110038.mkv
+39-MKV,http://em.21dtv.com/songs/60110000.mkv
+40-MKV,http://em.21dtv.com/songs/60110040.mkv
+41-MKV,http://em.21dtv.com/songs/60110039.mkv
+42-MKV,http://em.21dtv.com/songs/60110041.mkv
+43-MKV,http://em.21dtv.com/songs/60110042.mkv
+44-MKV,http://em.21dtv.com/songs/60110043.mkv
+46-MKV,http://em.21dtv.com/songs/60110045.mkv
+45-MKV,http://em.21dtv.com/songs/60110044.mkv
+47-MKV,http://em.21dtv.com/songs/60110046.mkv
+48-MKV,http://em.21dtv.com/songs/60110047.mkv
+49-MKV,http://em.21dtv.com/songs/60110048.mkv
+50-MKV,http://em.21dtv.com/songs/60110049.mkv
 舞蹈1,https://mvvideoshare2.meitudata.com/5e5a6b18f102dH264WEB683142_H264_4_1910a1499517b2.mp4
 舞蹈2,https://mvvideoshare2.meitudata.com/5e18860eebc3cspgpz9db86402_H264_4_4cdc5e794ee29.mp4
 舞蹈3,https://mvvideoshare2.meitudata.com/5e5cb64b3981b6eph4svtt5180_H264_4_732ebc590038a.mp4
@@ -233,6 +391,17 @@ $c_start嗨曲$c_end
 舞蹈11,https://mvvideoshare2.meitudata.com/5e634cf2141a92hpybf7m04115_H264_4_384eeaf91555b.mp4
 舞蹈12,https://mvvideoshare2.meitudata.com/5e5f6bccd6301xbqixb91x6045_H264_4_287f706bd4799.mp4
 点歌的人,https://vd3.bdstatic.com/mda-kdi6hifkag5xsc4p/v1-cae/hd/mda-kdi6hifkag5xsc4p.mp4
+欧美动感DJ节奏舞曲-DontStopTheParty,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyMqg4gUo-uSR5AU.mp4
+HELLOVENUS - WiggleWiggle,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4
+T-ara - 成员 朴孝敏 – SKETCH,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAguq6r7gUouOyF4gE.mp4
+小风波收集 【以防盗码】,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgianW4gUoj9-Aaw.mp4
+小风波收集【以防盗码】,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpdia4gUo7oWfiAE.mp4
+Madonna - Girls Gone Wild,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjd2w4gUou--ljQE.mp4
+EXID - 上下(中文版),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtd6M9QUokpHf7AY.mp4
+欧美群星-天下一家-We Are The World,http://sofa.resource.shida.sogoucdn.com/6abaf62b-c77e-4642-999b-9301c1826f6e1_0_0.mp4#https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpt6a4gUo1aeryAQ.mp4
+迈克尔杰克逊30周年演唱会片段-比利·金-BILLIE.JEAN,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw9ma4gUo3YLDvgU.mp4
+泫雅-CHANGE-甩Nai舞,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgp92c4gUovM-V_QU.mp4
+EXID - Every Night,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz-qc4gUo4vj-tQY.mp4
 SHE《像女孩的女人》,http://v4.qutoutiao.net/toutiao_video_zdgq_online_self/abafcc7ae31e5a0b9956eb8885af4ceb/hd.mp4
 想遇见一个人,http://v4.qutoutiao.net/toutiao_video_zdgq_online_self/c2f5977210375bca8baad58dbe277b22/hd.mp4
 月亮湾,http://v4.qutoutiao.net/toutiao_video_zdgq_online_self/681de4d7a89e540ab16b48587284e1ce/hd.mp4
