@@ -289,11 +289,8 @@ iHOT爱体育,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888
 iHOT爱赛车,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
 iHOT爱浪漫,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
 $c_start残月影视$c_end
+美人皮,https://apd-f766a3d122c0bf512d8f0c9a66a009ca.v.smtcdns.com/vipts.tc.qq.com/vipts.tc.qq.com/AiBiY6yGbuGIgA1PmQp_As3vPvnPc8ld30BF3iJ4edLI/uwMROfz2r5xgoaQXGdGnC2df64gVTKzl5C_X6A3JOVT0QIb-/xJzp-qnUvhwSKKDzNxKW_mMQLBfopXAJLCeKfPVJ7zNd6T_HKOrTLPTWksfj5rArRpqfadO5j-li8N9KUvah0PTIlOJh1sxndbb6gs27Z_9KPZE0VpDh52KOzC0ideyvoXvsh8XG6QS4yFTQusiBq_2Ku5XtKUMIXB1LwEhmKCk/u0034gjjzrv.321004.ts.m3u8?ver=4
 奇门相术,https://api.adinisp.com/ximu-7611e67b073f98f5b6193ef538deda42.m3u8
-绝世古镇之九宫八卦门,https://omts.tc.qq.com/varietyts.tc.qq.com/vipts.tc.qq.com/AbvMgKv_vB_7lKKx8Q6Dqoqw3ql52mBwdsI139begQmk/uwMROfz2r5xgoaQXGdGnC2df64gVTKzl5C_X6A3JOVT0QIb-/d96yvi7LU1yeO3LbPXsS27jC0pZZhKXhTMVSzcQ9P0BVRlej8cGM7PDyzvhTmg3fyuHWuD3fuAnM245d1pZE9SCu_nogNj7I9hc5L5N-DPaJ2jsnBpMn8OTQ0e15EufEeLGsDN7SorVip2EWGD7UQZQnA9yZcDqD8Y_TgePF4hY/v0034fp6iy5.321004.ts.m3u8?ver=4
-迷毒之无足鸟,https://omts.tc.qq.com/varietyts.tc.qq.com/vipts.tc.qq.com/APP9D7UAGPEHXz73T6jMA1FirIlT6Bq4Dhf9rmsFSkDg/uwMROfz2r5xgoaQXGdGnC2df64gVTKzl5C_X6A3JOVT0QIb-/eJBNZLR2AfS_0b8qZaNlQvy9wZxo9OI3oMq8js75Deq1pvs8LJ5O78ViVt8FOz6gmiSzvZrkabNr69IyOnTJRbKv42wrVV-4n0pt57AlSgnBBzSSbOpTM5q_iCM1Q-1zzv76dy571xvexDJ4cxAZoBx2EgqduaY-eyqsDRKNE5Y/h00344910n4.321004.ts.m3u8?ver=4
-武神苏乞儿之黄金海盗,https://omts.tc.qq.com/varietyts.tc.qq.com/vipts.tc.qq.com/A4id_WWDskzPkIU6ChNqBMr1uDpFZ4c8G0uwDbWsMkcA/uwMROfz2r5xgoaQXGdGnC2df64gVTKzl5C_X6A3JOVT0QIb-/VduuJOKupn_p3GmH82CvOIisIaQ0oBiyP65xHUMhr4INbWdYa-pK49-OA-aczuMEQZhfCHy8l5gi0CIXuyjwllRlHBRmhY9PUwm69h8uC1XBEft79ZZmCWRK8GGF8ZM7CqzpLnEpb7AZzX8_TQrXNis80-MUKcn5hi1wz8BDd4Q/l00344c9o6b.321004.ts.m3u8?ver=4
-倩女幽魂 人间情,https://omts.tc.qq.com/varietyts.tc.qq.com/vipts.tc.qq.com/AZXeWKICAL7RllyO4AZIld9RAvDpSqxj1xRuuU-2sy38/uwMROfz2r5xgoaQXGdGnC2df64gVTKzl5C_X6A3JOVT0QIb-/kSLm4HE-geaP59jOeJ3T30hEwOS5tXiODpR8YNLR9Yh7ZenR489wAgUlKe0N7QQZef0FvfJz0bjnVZkpm4pt7vT3MovWkSljqTSqb5csaBLwZ4uWclhJktNHYq9UNbwbo6o0MmXQ7EkFMqXHNrQIfwzs4epJF6IEj46EMk-YiyY/z0033dhdxy0.321004.ts.m3u8?ver=4
 霍家拳之铁臂娇娃,https://api.adinisp.com/ximu-9c99cc72f36fe04f2b2f2239e07b0e8e.m3u8
 蜘蛛侠之英雄归来,https://api.adinisp.com/ximu-fe97d0a8285f51a05d2e14dd73aea8d8.m3u8
 疯魔神丐苏乞儿,https://api.adinisp.com/ximu-dc6911972002119bfb2b675b1f2c40c7.m3u8
