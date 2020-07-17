@@ -1,0 +1,67 @@
+<html>
+<head>
+  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+  <SCRIPT LANGUAGE="JavaScript">
+      <!--
+      function onload(){
+//                var obj=document.getElementById('jk');
+      }
+      function fnChange(){
+      }
+      function onClear(){
+          document.getElementById("vipurl").value="";
+      }
+      function onPlay(){
+          var oJK = document.getElementById("jk");
+          var sJK=oJK.options[oJK.selectedIndex].value;
+          var sVipUrl = document.getElementById("vipurl").value;
+          var oWin = document.getElementById("play");
+          if (sVipUrl.length>0){
+              oWin.src=sJK + sVipUrl;
+          }
+      }
+      //        function iFrameHeight() {
+      //                var ifm = document.getElementById("play");
+      //                var subWeb = document.frames ? document.frames["play"].document : ifm.contentDocument;
+      //                ifm.height = subWeb.body.scrollHeight;
+      //                ifm.width = subWeb.body.scrollWidth;
+      //        }
+      //-->
+  </SCRIPT>
+  <title>VIP播放器</title>
+</head>
+<body onload="onload()" bgcolor=#000000>
+<table  width="100%" align="center" height="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="9">
+      <form method="post" action="">
+        <select name="jk" id="jk" size=1 onchange="fnChange()">
+          <option value="http://p2.api.47ks.com/webcloud/?v=">接口1</option>
+          <option value="http://mt2t.com/yun?url=">接口2</option>
+          <option value="http://000o.cc/jx/ty.php?url=">接口3</option>
+          <option value="http://yyygwz.com/index.php?url=">接口4</option>
+          <option value="http://vipjiexi.com/vip.php?url=">接口5</option>
+          <option value="http://www.wmxz.wang/video.php?url=">接口6</option>
+          <option value="http://jx.ck921.com/?url=">接口7</option>
+          <option value="http://s1y2.com/?url=">接口8</option>
+          <option value="http://www.ou522.cn/t2/1.php?url=">接口9</option>
+          <option value="http://jx.xuanpianwang.com/parse?url=">接口10</option>
+          <option value="https://apiv.ga/magnet/">接口11</option>
+          <option value="http://000o.cc/jx/ty.php?url=">新增接口1</option>
+          <option value="http://j.zz22x.com/jx/?url=">新增接口2</option>
+          <option value="http://jx.vgoodapi.com/jx.php?url=">新增接口3</option>
+          <option value="http://jiexi.92fz.cn/player/vip.php?url=">新增接口4</option>
+          <option value="http://jx.aeidu.cn/index404.php?url=" selected>新增接口5</option>
+        </select>
+        <input type="text" name="vipurl" id="vipurl" size=88 value="http://v.youku.com/v_show/id_XMjQ4NTczNTE1Ng==.html">
+        <input type="button" value="播放" onclick="onPlay()">
+        <input type="button" value="清除" onclick="onClear()">
+      </form>
+    </td>
+  </tr>
+  <tr>
+    <td><iframe src="" name="play" id="play" width="100%" align="center" height="100%" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe></td>
+  </tr>
+</table>
+</body>
+</html>
