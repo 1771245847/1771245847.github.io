@@ -83,60 +83,25 @@ $c_start地方频道$c_end
 乐山公共,http://flv.channellive.leshantv.net/live/ch2.flv
 广州影视,http://aplay.gztv.com/sec/yingshi.flv
 $c_start港台频道$c_end
-TVB 翡翠台,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-TVB 明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1,tvming-XGMingZhu
-HKS卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-香港卫视,http://cctvalih5ca.v.myalicdn.com/cstv/xianggangweishi_2/index.m3u8
-凤凰卫视资讯台,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
-凤凰卫视中文台,http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8
-凤凰卫视香港台,http://qlive.fengshows.cn/live720p/PHK.flv
-TVB无线新闻台,p2p://3114910866:9906/5a562bec0007bfd761a2998e00b83dd5#p2p://3114910866:9906/5ad32bdc000b780449ee52022e841cf7
-TVB无线财经台,p2p://3114910866:9906/59fd314f000be93d02d51ae40a3a24e8#p2p://3114910866:9906/59fd314f000be93d02d51ae40a3a24e8#p2p://3114910866:9906/5ad32aed000d8fa649eaacf716d70340
-TVB星河台,p2p://3114910866:9906/59fd3f91000c54e4030cccd33c6f6c3c#p2p://3114910866:9906/59fd3f91000c54e4030cccd33c6f6c3c
-天映经典台,p2p://3114910866:9906/5b2e01c400098d0f0c42edad22c37385
-天映频道HD,p2p://3114910866:9906/5b2f1ee9000d3e3d109cc71f4b240eb3
-翡翠明珠,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-翡翠综合,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
-亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-赛马频道,http://tvbilive11-i.akamaihd.net/hls/live/494672/CH88/CH88-01.m3u8
-博斯魅力,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-宝贝亲子,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-神州卫视,http://pull.leshantangjt.com/live/playlist.m3u8
-中天综合,http://192.154.103.75:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-中天新闻,rtmp://xiaoyu.speedws.com/sat/tv521#http://192.154.103.75:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-中天娱乐,http://192.154.103.75:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-东森电影,http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8#http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8#http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8#http://live5.ocnttv.com:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-东森洋片,http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
-东森财经,rtmp://xiaoyu.speedws.com/sat/tv571
-八大综合,http://192.154.103.75:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
-龙翔电影,http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8#http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
-纬来日本,rtmp://xiaoyu.speedws.com/sat/tv772
-纬来育乐,rtmp://xiaoyu.speedws.com/sat/tv701
-纬来体育,rtmp://xiaoyu.speedws.com/sat/tv721
-动物星球,http://192.154.103.75:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8#http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
-博斯运动一台,rtmp://xiaoyu.speedws.com/sat/md021
-爱尔达体育一,rtmp://xiaoyu.speedws.com/sat/md041
-爱尔达体育二,rtmp://xiaoyu.speedws.com/sat/md051
-好莱坞电影台,http://192.154.103.75:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-GoodTV 好消息台,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
-GoodTV 好消息二,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
-GoodTV 真情部落,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
-GoodTV 健康煮流,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch13-2.m3u8
-GoodTV 经典音乐,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
-GoodTV 爱旅行台,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
-GoodTV 共享观点,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch19-2.m3u8
-TVBS 欢乐频道,rtmp://xiaoyu.speedws.com/sat/tv421
-TVBS 新闻频道,rtmp://xiaoyu.speedws.com/sat/tv551
-壹新闻台,http://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
-FOX 电影频道,http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction.m3u8#http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-FOX 体育一台,rtmp://xiaoyu.speedws.com/sat/tv731
-FOX 体育二台,rtmp://xiaoyu.speedws.com/sat/tv742
-FOX 体育三台,rtmp://xiaoyu.speedws.com/sat/md031
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
+东森新闻,http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+年代新闻,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+龙祥时代,http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
+东森洋片,http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+东森电影,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+八大综合,http://104.250.154.42:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+中天娱乐,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianyule.m3u8
+星河频道,http://104.250.154.42:8080/ZZ_xinghe/ZZ_xinghe.m3u8
+华视,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
+中视,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+好莱坞电影,http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+动物星球,http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 国家地理,http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
-百事通台,http://112.17.40.145/PLTV/88888888/224/3221226596/index.m3u8
-MTV音乐,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+FOX电影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+华纳电影,http://104.250.154.42:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
+东森综合,http://ltv3.228888888.xyz:8081/live/ws131.m3u8
 $c_start综合娱乐$c_end
 凤凰卫视HD,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 凤凰咨询HD,http://112.5.223.10:80/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8?icpid=88888888&from=99&ocs=2_112.5.223.46_80&popid=99&hms_devid=83&prioritypopid=99
