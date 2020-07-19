@@ -250,15 +250,6 @@ Hope俄罗斯,https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/chunklist.m3u
 澳大利亚赛马网,https://racingvic-i.akamaized.net/hls/live/598695/racingvic/268.m3u8
 俄罗斯时尚台,http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v1a1/index.m3u8
 全美電視,https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-RAI 4,http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
-M2OTV,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-KPRF,http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
-Ytv,http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/chunklist.m3u8
-TVS,http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8
-VB,http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
-REUN,https://livefta.malimarcdn.com/ftaedge00/houngfa.sdp/chunklist.m3u8
-REUN2,https://livefta.malimarcdn.com/ftaedge00/houngfa.sdp/chunklist.m3u8
-THAIPBS-3,http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
 越南PTP hd,http://113.161.4.48:8080/phuyen/tv.m3u8
 読売テレビP7p,p8p://0198.02686.cc:16871/5d414f6d00024d6a75f7ac02caeafefc.ts
 NHK総合-大阪P7p,p8p://0198.02686.cc:16871/5d414f6c00077b3d75f7a96d657b07ca.ts
@@ -266,21 +257,6 @@ NHK総合-大阪P7p,p8p://0198.02686.cc:16871/5d414f6c00077b3d75f7a96d657b07ca.t
 テレビ朝日P7p,p8p://0198.02686.cc:16871/5d414f6a000606ea75f7a13e185ff3ac.ts
 TBSP7p,p8p://0198.02686.cc:16871/5d414f6b0000da6d75f7a3d306a9cc7f.ts
 日テレP7p,p8p://0198.02686.cc:16871/5d414f69000b12b375f79ea00d680a47.ts
-NHKEテレ东京P7p,p8p://0198.02686.cc:16871/5d414f68000e596775f79b8f963b1f60.ts
-NHK総合-东京P7p,p8p://0198.02686.cc:16871/5d414f680002d76075f7989dcc8ec320.ts
-J_SPORTS_1P7p,p8p://0198.02686.cc:16871/5d414f0c000c884875f633b8399ef99b.ts
-J_SPORTS_2P7p,p8p://0198.02686.cc:16871/5d414f0d0008fadf75f636b74704d31b.ts
-J_SPORTS_3P7p,p8p://0198.02686.cc:16871/5d414f0e00038bf575f6393b9482ee08.ts
-J_SPORTS_4P7p,p8p://0198.02686.cc:16871/5d414f0e000d818675f63bc8452f12fd.ts
-BS日本映画専门chP7p,p8p://0198.02686.cc:16871/5d414f66000120c375f7905ddc89411f.ts
-ディズニーチャンネルHDP7p,p8p://0198.02686.cc:16871/5d414f670007f99c75f79605c29ad2f3.ts
-BSアニマックスP7p,p8p://0198.02686.cc:16871/5d414f0c0000e2af75f630bd8ab9817b.ts
-グリーンチャネルP7p,p8p://0198.02686.cc:16871/5d414f0b000643ec75f62e35ff1bc7ce.ts
-ミュージックジャパンP7p,p8p://0198.02686.cc:16871/5d414f0a000b927475f62ba9129d404b.ts
-ゴルフネットHDP7p,p8p://0198.02686.cc:16871/5d414f08000a629e75f6238b753dc166.ts
-时代剧専门chHDP7p,p8p://0198.02686.cc:16871/5d414f090005219175f6261b9435013a.ts
-ホームドラマCHP7p,p8p://0198.02686.cc:16871/5d414f0a00018ac375f62918a4b93718.ts
-スカイAP7p,p8p://0198.02686.cc:16871/5d414e7d0005202475f4033b0324db85.ts
 日テレジータスP7p,p8p://0198.02686.cc:16871/5d414e7e0000d57575f406097529becf.ts
 TOKYO　MXP7p,p8p://0198.02686.cc:16871/5d414e7c00096eb975f4006de34ca37e.ts
 フジテレビP7p,p8p://0198.02686.cc:16871/5d414e7b000d387e75f3fd7d08f4d2ce.ts
@@ -300,100 +276,6 @@ NHKBSプレミアムP7p,p8p://0198.02686.cc:16871/5d400581000b66b570eeec7672a2ec
 ABC朝日放送P7p,p8p://0198.02686.cc:16871/5d40057f000bcd0b70eee4c0aa37319f.ts
 関西テレビP7p,p8p://0198.02686.cc:16871/5d40057f0002f0b670eee27c7e0cae84.ts
 MBS毎日放送P7p,p8p://0198.02686.cc:16871/5d40057e000b0ab570eee0a6c5bec41b.ts
-EBS1P7p,p8p://0198.02686.cc:16871/5d3077b700047e14342d0da1799244a1.ts
-KBS1P7p,p8p://0198.02686.cc:16871/5d307612000d2db03426a352d0657846.ts
-KBS2P7p,p8p://0198.02686.cc:16871/5d30766c000ea07334280341c265680e.ts
-MBCP7p,p8p://0198.02686.cc:16871/5d3077560004f7d8342b92d8bd2dfcc1.ts
-OCNP7p,p8p://0198.02686.cc:16871/5d307a4b0008af27343720d4d33869ea.ts
-SUPERACTIONP7p,p8p://0198.02686.cc:16871/5d442be10008767c8124d2b5017d23cb.ts
-CTSP7p,p8p://0198.02686.cc:16871/5d3079eb0009d6223435aa1f74a34572.ts
-MBNP7p,p8p://0198.02686.cc:16871/5d3079b00006e0cf3434c2e64202ee24.ts
-JTBC_GOLFP7p,p8p://0198.02686.cc:16871/5d307925000619ae3432a3bb1d2dd533.ts
-National_GeographicP7p,p8p://elive.wuyelive.com:16868/5b724e8d000889c91118581e3f87708b.ts
-SBS_???P7p,p8p://0198.02686.cc:16871/5d3078ff00082ee834320fd3f4a81475.ts
-OGNP7p,p8p://0198.02686.cc:16871/5d30789a000effc73430870a39e70c46.ts
-MBCSPORTS+P7p,p8p://0198.02686.cc:16871/5d307912000d8af134325b6a14ba34f6.ts
-SPOTVP7p,p8p://0198.02686.cc:16871/5d3077d50001b1d4342d821a12dc432d.ts
-???P7p,p8p://0198.02686.cc:16871/5d3077990001c68b342c97bf6aa0a6d6.ts
-MNETP7p,p8p://0198.02686.cc:16871/5d30776b00021ea7342be426a1b8411b.ts
-CATCHONP7p,p8p://0198.02686.cc:16871/5d442b21000ccd7b8121e5d212760cd8.ts
-CGVP7p,p8p://0198.02686.cc:16871/5d442ac30007d7f68120755df5af6656.ts
-CHANNELAP7p,p8p://0198.02686.cc:16871/5d3079d6000f34b9343559771f05f96f.ts
-TV??P7p,p8p://0198.02686.cc:16871/5d3079c30003ced734350c54c6299937.ts
-YTNP7p,p8p://0198.02686.cc:16871/5d30799c000124803434734e97688b9b.ts
-XTVNP7p,p8p://0198.02686.cc:16871/5d3079660009d8093433a298b413e9ab.ts
-SBSGOLFP7p,p8p://0198.02686.cc:16871/5d3079360003b49c3432e58628e69e37.ts
-KBSKBSNSPORTSP7p,p8p://0198.02686.cc:16871/5d3078ec000867673431c5aa50609ce0.ts
-?????P7p,p8p://0198.02686.cc:16871/5d3078c90008aa7e34313d03af1fae73.ts
-??TVP7p,p8p://0198.02686.cc:16871/5d3078870001abed3430396800e90045.ts
-SPOTV+P7p,p8p://0198.02686.cc:16871/5d30786e000e5b8b342fdb002f698a92.ts
-CNTVP7p,p8p://0198.02686.cc:16871/5d30785a000d906d342f8cac788d5b6c.ts
-SBSPLUSP7p,p8p://0198.02686.cc:16871/5d307847000635a8342f40926b89c3f8.ts
-MBC_DramaP7p,p8p://0198.02686.cc:16871/5d3078250001a410342eba96e179e13f.ts
-KBSDRAMAP7p,p8p://0198.02686.cc:16871/5d307810000217c9342e68ace1859ec5.ts
-TVNP7p,p8p://0198.02686.cc:16871/5d3077fa00078681342e1420a3749e7e.ts
-INETVP7p,p8p://0198.02686.cc:16871/5d30778000079602342c3794f42fde53.ts
-SBSP7p,p8p://0198.02686.cc:16871/5d307740000c3249342b3ec24e8436df.ts
-JTBCP7p,p8p://0198.02686.cc:16871/5d3077e6000bd0cf342dc7198448dfa1.ts
-时装台WFC,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
-卫视体育1台,http://47.240.60.73/gzyx.php?id=wsty1
-卫视体育2台,http://47.240.60.73/gzyx.php?id=wsty
-Star Sports,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-SportNet 360,mitv://51.79.41.138:18912/5cffd5d2000e898629bf8a4159c54415.ts
-SportNet World,mitv://51.79.41.138:18912/5cffd5d10003ce2529bf839978971685.ts
-BLUEANT,p8p://0198.02686.cc:16871/5d1a69a60004767211bda6b5be685208.ts
-奥林匹克国际频道,http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8#http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-KISS TV,https://fms-https1.mediadirect.ro/live3/_definst_/kiss/playlist.m3u8
-KlipkarTV,http://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream01/3000/prog_index.m3u8
-CCTV-Русский,http://live.cgtn.com/cctv-r.m3u8
-CGTN Documentary,https://livedoc.cgtn.com/500d/prog_index.m3u8
-CGTN Русский,http://liveru.cgtn.com/1000r/prog_index.m3u8
-World Fashion International,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v3a1/index.m3u8
-World Fashion Россия,http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v3a1/index.m3u8#http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
-Fashion TV (SK),http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
-ID Fashion,http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_mid/index.m3u8#http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
-HD Fashion & Lifestyle (UA),http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8
-WOW!TV,http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8#http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
-Amedia HBO,http://178.163.89.138:4022/udp/234.0.0.169:2000
-American Horrors,http://170.178.189.66:1935/live/Stream1/.m3u8
-Ariana TV,http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w1314452267.m3u8
-Arirang TV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-AUTOMOTO TV,http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-Bahrain Sport,http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w1452818509.m3u8
-Bambarbia TV,http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
-Bloomberg (EN),https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
-California Music Channel,https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
-CBSN HD,https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_700.m3u8
-Classique TV,http://stmv3.srvstm.com/classique/classique/playlist.m3u8
-CMC TV,http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
-Most Video 2,http://w4.mostvideo.tv/heltv/ch2.m3u8
-Movie Classic,http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
-Music Box (SK),http://80.94.54.42/tvnasa/stream/playlist.m3u8
-MUSIC JAPAN,http://122.155.180.8:5021/live/495
-Music Top,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
-Music Top | HD,http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-Russian Music Box,http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
-Sky Folk TV,http://eu.live.skyfolk.mk/live.m3u8
-NBC,http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8#http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
-NEWS 24,http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
-News 24 Balkan,http://tv.balkanweb.com/news24/livestream/playlist.m3u8
-News Center 7 (Ohio),http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8
-Nick Kids,http://54.36.109.228/20600/mono.m3u8#http://54.36.109.228/20600/index.m3u8
-Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-Red Bull TV HD,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-Redcom TV (Хабаровск),https://tvstreamer.redcom.ru/Redcams/index.m3u8
-Discovery World,http://78.157.230.19/streaming/discoveryworld/364/gpu_tvrecw/playlist.m3u8
-Disney Junior,http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-Ditty TV,http://azroe0x-lh.akamaihd.net/i/test_1@775856/index_3500_av-p.m3u8
-Dubai Sports,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-Esperanza TV,https://bcliveunivsecure-lh.akamaihd.net/i/Esperanza_1@571273/index_1096_av-p.m3u8
-France 24 (ESP),http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
-France 24 Arabic,http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-HD Media,http://serv25.vintera.tv:8081/hdmedia/hdmedia_pay/playlist.m3u8
-Hope TV (ESP),http://bcliveunivsecure-lh.akamaihd.net/i/IADSpanish_1@572888/index_596_av-p.m3u8
-TV 5,http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
-TV5 Monde,http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_6.m3u8
-TV7+ (Хмельн),http://tv7plus.com/hls/tv7_site.m3u8
 日本 Ⅰ TOKYO,http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8
 日本 Ⅰ 天气频道,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 日本 Ⅰ 全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
@@ -458,154 +340,6 @@ TV7+ (Хмельн),http://tv7plus.com/hls/tv7_site.m3u8
 越南K+PCHD,P2p://51.79.41.138:18912/5be79db8000f1cdfffa7a05a257150cc.ts
 越南K+PMHDVTC1,P2p://51.79.41.138:18912/5be79dbf000d8fd4ffa7bb54206e5c51.ts
 越南MAXBYHBO,P2p://51.79.41.138:18912/5c09fd960008b51485ee19f401b51d94.ts
-CnnNewsP7p,p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts
-EspnP7p,p8p://0198.02686.cc:16871/5d1a69780009978d11bcf455a30b876a.ts
-ABCHDP7p,p8p://0198.02686.cc:16871/5d1a696200050e9f11bc9d3cb1d3a565.ts
-ABC-NEWSP7p,p8p://0198.02686.cc:16871/5d1a696300009fd311bca002a1e12728.ts
-ACTION-MAXP7p,p8p://0198.02686.cc:16871/5d1a6963000ba36f11bca2d48d62b2ad.ts
-AE-HDP7p,p8p://0198.02686.cc:16871/5d1a696400072d7811bca597e0dd7a76.ts
-AMC-HDP7p,p8p://0198.02686.cc:16871/5d1a6965000287cf11bca84f14c84ff7.ts
-ANIMAL-PLANETP7p,p8p://0198.02686.cc:16871/5d1a6965000da65111bcab275e29e995.ts
-BEINSports01P7p,p8p://0198.02686.cc:16871/5d1a69680000b18511bcb38e309496c6.ts
-BEINSports02P7p,p8p://0198.02686.cc:16871/5d1a6968000bcac511bcb666bdeec451.ts
-BEINSports03P7p,p8p://0198.02686.cc:16871/5d1a69690007ccaf11bcb94876fe6e8a.ts
-BEIN-SPORTSP7p,p8p://0198.02686.cc:16871/5d1a696a00035ba411bcbc0de901e12a.ts
-BET-HDP7p,p8p://0198.02686.cc:16871/5d1a696b0009debb11bcc1a073945821.ts
-BRAVO-HDP7p,p8p://0198.02686.cc:16871/5d1a696c0005fbb511bcc48953b9dfbc.ts
-CARTOON-NETWORKP7p,p8p://0198.02686.cc:16871/5d1a696d0001979411bcc7516aeb2236.ts
-CBS-HDP7p,p8p://0198.02686.cc:16871/5d1a696e0008b29f11bccd0ba35fcc88.ts
-CBSN-HDP7p,p8p://0198.02686.cc:16871/5d1a696f0004c63611bccff23b1319e7.ts
-CNBCP7p,p8p://0198.02686.cc:16871/5d1a69720002ca3711bcdb2830f420fe.ts
-DISNEY-CHANNELP7p,p8p://0198.02686.cc:16871/5d1a697500003e7211bce6394f3f445a.ts
-DISNEY-JRP7p,p8p://0198.02686.cc:16871/5d1a6975000b89e211bce91ded33f2df.ts
-DISNEY-XDP7p,p8p://0198.02686.cc:16871/5d1a69760007a6f711bcec06f7be3200.ts
-DIYNETWORKP7p,p8p://0198.02686.cc:16871/5d1a6977000356b111bceed483381bdd.ts
-ESPN-2P7p,p8p://0198.02686.cc:16871/5d1a6977000e2bcf11bcf19a3cdc6db3.ts
-ESPN-NEWSP7p,p8p://0198.02686.cc:16871/5d1a69790005067111bcf7122cbdef5f.ts
-FOOD-NETWORKP7p,p8p://0198.02686.cc:16871/5d1a697c000f143811bd055d7544615f.ts
-FOX-HDP7p,p8p://0198.02686.cc:16871/5d1a697e0006db4f11bd0b1275a5ae74.ts
-FOX-NEWSP7p,p8p://0198.02686.cc:16871/5d1a697f0002f4fc11bd0dfb9dd398c6.ts
-FOX-SPORTS 1P7p,p8p://0198.02686.cc:16871/5d3dbde900063ceb68074164e80ad397.ts
-FOX-SPORTS2P7p,p8p://0198.02686.cc:16871/5d1a6980000a5de111bd13c8299365a8.ts
-FX-HDP7p,p8p://0198.02686.cc:16871/5d1a6982000291cf11bd19997ce5188f.ts
-FXXP7p,p8p://0198.02686.cc:16871/5d1a6982000ddd6311bd1c7d06ca18a6.ts
-SCIENCAP7p,p8p://0198.02686.cc:16871/5d1a69e9000419a411beac56677fc008.ts
-STARZEASTP7p,p8p://0198.02686.cc:16871/5d1a69ea000ad1c711beb1f6f97cd3db.ts
-SYFYP7p,p8p://0198.02686.cc:16871/5d1a69ec0001f0cd11beb7809bed1b1e.ts
-TBS-HDP7p,p8p://0198.02686.cc:16871/5d1a69ec000d0d6311beba58790a0391.ts
-TNT-HDP7p,p8p://0198.02686.cc:16871/5d1a69f00005151711bec7ee07d5886d.ts
-TRAVEL-CHANNELP7p,p8p://0198.02686.cc:16871/5d1a69f1000c88a511becdbe69be6f03.ts
-VICELANDP7p,p8p://0198.02686.cc:16871/5d1a69f4000ac0e011bed902ea7910be.ts
-WEATHERP7p,p8p://0198.02686.cc:16871/5d1a69f50006456d11bedbc41e2736ae.ts
-NTV7P7p,p8p://0198.02686.cc:16871/5d4abb0f00053d2f9ac41d922e9e9127.ts
-AECP7p,p8p://0198.02686.cc:16871/5d1c8b08000635b61a100df85222a143.ts
-AODP7p,p8p://elive.wuyelive.com:16868/5baf4b5d000d575cc23ce50f575e0092.ts
-ASSP1P7p,p8p://0198.02686.cc:16871/5d1a698700051a1e11bd2dc728fc8714.ts
-ASSP2P7p,p8p://0198.02686.cc:16871/5d1a69880000d32311bd30979fa3cc97.ts
-ASSP3P7p,p8p://0198.02686.cc:16871/5d1a6988000baada11bd335de53daff1.ts
-ASSP4P7p,p8p://0198.02686.cc:16871/5d1a69890007822011bd3635979841b1.ts
-HD8(線路二）P7p,p8p://0198.02686.cc:16871/5d4a9ea0000ccfdb9a550deaae525935.ts
-STAR_UtsavP7p,p8p://0198.02686.cc:16871/5d3309c00006c6843e37815fbb1a3736.ts
-FirangiP7p,p8p://0198.02686.cc:16871/5d3309bf000d75b03e377f2d7b199ad9.ts
-Aalami_SaharaP7p,p8p://0198.02686.cc:16871/5d3309bf000625453e377d4e3b598079.ts
-FilmyP7p,p8p://0198.02686.cc:16871/5d3309be000e3b243e377b77ef26b68f.ts
-Zee新闻台P7p,p8p://0198.02686.cc:16871/5d3306e000056e953e2c460708a8e2e4.ts
-ZingP7p,p8p://0198.02686.cc:16871/5d3306df000d83063e2c443051c7b088.ts
-Bethat_TVP7p,p8p://0198.02686.cc:16871/5d3306df000660c53e2c425d54588de5.ts
-B4U音乐台P7p,p8p://0198.02686.cc:16871/5d3306de000eb7af3e2c4097221952d5.ts
-BIG_ThrillP7p,p8p://0198.02686.cc:16871/5d3306de00031a723e2c3d9e943e579b.ts
-BIG_Magic_HDP7p,p8p://0198.02686.cc:16871/5d3306dd000b7c0f3e2c3bdbaa2c7e3c.ts
-Sahara_MPP7p,p8p://0198.02686.cc:16871/5d3306dd00030bf13e2c39b251935bf0.ts
-Big_Ganga_TalkiesP7p,p8p://0198.02686.cc:16871/5d3306dc0009ed8b3e2c378d90685820.ts
-BIG_Magic_PunjabP7p,p8p://0198.02686.cc:16871/5d3306dc0002ea0f3e2c35c29e7bc3e2.ts
-Metro_TVP7p,p8p://0198.02686.cc:16871/5d3312ab000ca3483e5a58d74b639374.ts
-SBS_IN_HDP7p,p8p://elive.wuyelive.com:16868/5c986eda000f2f3ddc26217615bd44f9.ts
-TVRIP7p,p8p://0198.02686.cc:16871/5d3312ab0003e1d73e5a56994d8de097.ts
-Bandung_TVP7p,p8p://0198.02686.cc:16871/5d3312a8000dfa893e5a4d77d923b604.ts
-Al_Iman_TVP7p,p8p://0198.02686.cc:16871/5d3312a90005d5ed3e5a4f4909b690f7.ts
-shareP7p,p8p://0198.02686.cc:16871/5d3312a9000cf5a23e5a511c5cea4252.ts
-MNC_TVP7p,p8p://0198.02686.cc:16871/5d3312aa0004e5283e5a52f4f2a71a3b.ts
-TVRI_3P7p,p8p://0198.02686.cc:16871/5d3312aa000c02323e5a54c612860cab.ts
-TVP7p,p8p://0198.02686.cc:16871/5d3312ac00060c8b3e5a5b0f268aed03.ts
-Ruai_TVP7p,p8p://0198.02686.cc:16871/5d3312ac000d447a3e5a5ce8a308a186.ts
-Puldapii_TVP7p,p8p://0198.02686.cc:16871/5d3312ad0006d0183e5a5f29327e61aa.ts
-TVRI_sport_HDP7p,p8p://0198.02686.cc:16871/5d3312ad000e0ed23e5a6104a3fc10c1.ts
-Ahsan_TVP7p,p8p://0198.02686.cc:16871/5d3312ae00077cf03e5a633e2afc1105.ts
-M_Cine_ChannelP7p,p8p://0198.02686.cc:16871/5d3312ae000e9c4c3e5a65101db1bb9a.ts
-BBC-AMERICAP7p,p8p://0198.02686.cc:16871/5d1a69660009ae9211bcae0b3b66fb97.ts
-8P7p,p8p://0198.02686.cc:16871/5d1a6960000d01a711bc9775a84751d1.ts
-NationP7p,p8p://0198.02686.cc:16871/5d1a69e2000bb03311be92ef2a2330ac.ts
-25P7p,p8p://0198.02686.cc:16871/5d1a695e000a3f8f11bc8ef07ef72e30.ts
-Movie_TVP7p,p8p://0198.02686.cc:16871/5d1a69e100040c4b11be8d124a4f4447.ts
-WPP7p,p8p://0198.02686.cc:16871/5d1a69f600023bca11bedea3bf1b937b.ts
-3P7p,p8p://0198.02686.cc:16871/5d1a695f000648b011bc91d5fde79a51.ts
-No_ServiceP7p,p8p://0198.02686.cc:16871/5d1a69e7000cff0b11bea6cd57a945c2.ts
-ThairathTvP7p,p8p://0198.02686.cc:16871/5d1a69ee000cf50811bec2224d35c419.ts
-CH.9P7p,p8p://0198.02686.cc:16871/5d1a69710006f75211bcd8515d005138.ts
-News_1P7p,p8p://0198.02686.cc:16871/5d1a69e50009ada611be9e2382445a24.ts
-7P7p,p8p://0198.02686.cc:16871/5d1a69600001e93b11bc949ed0710e31.ts
-M_ChannelP7p,p8p://0198.02686.cc:16871/5d1a69e000083da011be8a3df3ee304a.ts
-FAH_WAN_MAIP7p,p8p://0198.02686.cc:16871/5d1a697c0003bc2911bd027666ca5967.ts
-SpringP7p,p8p://0198.02686.cc:16871/5d1a69e9000f3cb011beaf2f0ed9fa6c.ts
-TPBSP7p,p8p://0198.02686.cc:16871/5d1a69f100012dda11becad65c4970fe.ts
-Super_EntP7p,p8p://0198.02686.cc:16871/5d1a69eb00066bb811beb4be2e00f8bf.ts
-News1_(USA)P7p,p8p://0198.02686.cc:16871/5d1a69e600058ab011bea0fc8a6fa32d.ts
-CH.1P7p,p8p://0198.02686.cc:16871/5d1a6970000ba43811bcd59c32d704df.ts
-TGNP7p,p8p://0198.02686.cc:16871/5d1a69ee00020c6911bebf57495301ab.ts
-D Music,https://1765965335.rsc.cdn77.org/LS-50041-SIN-18/tracks-v3a1/mono.m3u8
-TV3 HD,https://1454048121.rsc.cdn77.org/LS-50041-SIN-17/tracks-v3a1/mono.m3u8
-Town TV Full HD,https://1661779960.rsc.cdn77.org/LS-50041-SIN-16/tracks-v3a1/mono.m3u8
-CTV8,https://1909041562.rsc.cdn77.org/LS-50041-SIN-15/tracks-v3a1/mono.m3u8
-Nice TV,https://1546733910.rsc.cdn77.org/LS-50041-SIN-14/tracks-v3a1/mono.m3u8
-Apsara TV,https://1470210323.rsc.cdn77.org/LS-50041-SIN-13/tracks-v3a1/mono.m3u8
-TV9 HDTV,https://1014844237.rsc.cdn77.org/LS-50041-SIN-12/tracks-v3a1/mono.m3u8
-TV5,https://1612097999.rsc.cdn77.org/LS-50041-SIN-11/tracks-v3a1/mono.m3u8
-BTV News,https://1672046706.rsc.cdn77.org/LS-50041-SIN-10/tracks-v3a1/mono.m3u8
-ETV,https://1054166422.rsc.cdn77.org/LS-50041-SIN-9/tracks-v3a1/mono.m3u8
-Bayon TV,https://1523926405.rsc.cdn77.org/LS-50041-SIN-8/tracks-v3a1/mono.m3u8
-CNC News,https://1061752280.rsc.cdn77.org/LS-50041-SIN-7/tracks-v3a1/mono.m3u8
-MyTV,https://1737081326.rsc.cdn77.org/LS-50041-SIN-6/tracks-v3a1/mono.m3u8
-CTN,https://1004597868.rsc.cdn77.org/LS-50041-SIN-5/tracks-v3a1/mono.m3u8
-Rasmey Hang Meas HDTV,https://1363455353.rsc.cdn77.org/LS-50041-SIN-4/tracks-v3a1/mono.m3u8
-TVK,https://1749089154.rsc.cdn77.org/LS-50041-SIN-3/tracks-v3a1/mono.m3u8
-PNN,https://1345225764.rsc.cdn77.org/LS-50041-SIN-2/tracks-v3a1/mono.m3u8
-Hang Meas HDTV,https://1145067750.rsc.cdn77.org/LS-50041-SIN-1/tracks-v1a1/mono.m3u8
-Bull & Chicken Showtime,https://1396402344.rsc.cdn77.org/LS-50041-SIN-23/tracks-v3a1/mono.m3u8
-Thai Voice TV,https://1808558851.rsc.cdn77.org/LS-50041-SIN-24/tracks-v3a1/mono.m3u8
-Thai One,https://1521567559.rsc.cdn77.org/LS-50041-SIN-22/tracks-v3a1/mono.m3u8
-Thai TV7,https://1419021143.rsc.cdn77.org/LS-50041-SIN-21/tracks-v3a1/mono.m3u8
-Thai TV5,https://1905117544.rsc.cdn77.org/LS-50041-SIN-20/tracks-v3a1/mono.m3u8
-Thai TV3,https://1468481365.rsc.cdn77.org/LS-50041-SIN-19/tracks-v3a1/mono.m3u8
-印度AALAMISAHARA,P2p://51.79.41.138:18912/5b140a89000f379f17d6c65d66746e51.ts
-印度ALJAZEERA(半岛电视台),P2p://51.79.41.138:18912/5b140a84000533c717d6b0444e2a6dcd.ts
-印度B4UMOVIES,P2p://51.79.41.138:18912/5ce00638000468b5143ba8fb145c0645.ts
-印度FILMY,P2p://51.79.41.138:18912/5b140a890009bd5f17d6c4f567807bc6.ts
-印度IndiaTV,P2p://51.79.41.138:18912/5b140a890004b9ea17d6c3ad76bc421d.ts
-印度NDTV新德里電視台,P2p://51.79.41.138:18912/5b140a87000dc92517d6be2f7ee45257.ts
-印度SAHARABIH,P2p://51.79.41.138:18912/5b140a87000dc92517d6be2f7ee45257.ts
-印度SAHARAMP,P2p://51.79.41.138:18912/5b140a850000e96e17d6b31302f418d9.ts
-印度SAHARAMUM,P2p://51.79.41.138:18912/5b140a88000efa2e17d6c2654a1d3a44.ts
-印度SAHARANAT,P2p://51.79.41.138:18912/5b140a880009bb5717d6c10d55fc4fc1.ts
-印度SAHARANCR,P2p://51.79.41.138:18912/5b140a8800043fbe17d6bfa64e0f3a0d.ts
-印度SAHARAONE,P2p://51.79.41.138:18912/5b140a84000aafa217d6b1ac4c80417b.ts
-印度SAHARAUP,P2p://51.79.41.138:18912/5b140a890004b9ea17d6c3ad76bc421d.ts
-印度Sanskar,P2p://51.79.41.138:18912/5b140a89000f379f17d6c65d66746e51.ts
-阿联酋Saudi1,P2p://51.79.41.138:18912/5ce013e10007793e147105ee3d480df6.ts
-印度ZEEAction,P2p://51.79.41.138:18912/5d720286000607ee114e3e170c135faa.ts
-印度ZEEBusiness,P2p://51.79.41.138:18912/5d72027f0001061f114e217765a761f2.ts
-印度ZEEFLASH,P2p://51.79.41.138:18912/5b140a85000664f617d6b47b66ea0f3c.ts
-印度ZEEMPCHHATTISGA,P2p://51.79.41.138:18912/5ce0063400068e18143b99e7231b1e0b.ts
-印度ZEENews,P2p://51.79.41.138:18912/5d7202910006bf1f114e693e698c376d.ts
-印度ZEEPUNJABIHH,P2p://51.79.41.138:18912/5b140a8700088a7c17d6bcd74661512f.ts
-印度ZEERAJASTHAN,P2p://51.79.41.138:18912/5b140a8700088a7c17d6bcd74661512f.ts
-印度ZEETamil,P2p://51.79.41.138:18912/5d72027d00082cf8114e1b7c6a730caa.ts
-印度ZEETV,P2p://51.79.41.138:18912/5d720289000acccc114e4b086d2751b1.ts
-印度ZEE新闻台,P2p://51.79.41.138:18912/5b140a8700034bae17d6bb7f05807cf9.ts
-印度ZNEWS,P2p://51.79.41.138:18912/5b140a880009bb5717d6c10d55fc4fc1.ts
-印尼IGNWHD,P2p://51.79.41.138:18912/5c90a36e000e3df293e5ef3a082413ee.ts
-印尼KTVHD,P2p://51.79.41.138:18912/5d7202880002ee4a114e451c117c69b6.ts
-印尼SINEMAX,P2p://51.79.41.138:18912/5c90a38400007cfa93e641b024a37892.ts
-印尼SCTV,P2p://51.79.41.138:18912/5d72049a00086dbc11565cd425230002.ts
 印尼美都電視台MetroTV,P2p://51.79.41.138:18912/5d720498000ede7c115656aa12c95c83.ts
 iHOT爱奇谈,http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 iHOT爱悬念,http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -753,8 +487,7 @@ $c_start轮播电影$c_end
 海爷TV9,https://cn-hbxy-cmcc-live-01.live-play.acgvideo.com/live-bvc/523156/live_82436982_2406441_1500.m3u8
 周星驰-爱美剧,https://zb3.qhqsnedu.com/live/zhouxingxinga/playlist.m3u8
 林正英-爱美剧,https://zb3.qhqsnedu.com/live/chingyinglam/playlist.m3u8
-假面骑士,http://tx2play1.douyucdn.cn/live/1218414rY0ntJvgC.flv
-动漫电影,http://tx2play1.douyucdn.cn/live/1174353rfajORIIe.flv
+假面骑士,http://tx2play1.douyucdn.cn/live/1218414reZZG0Ns0.flv
 林正英,https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/367887/live_22989278_9714011_1500.m3u8
 林正英电影,https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/108273/live_386725629_13296528.m3u8#https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/632164/live_386725629_13296528.m3u8
 怀念林正英,https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/253509/live_76438587_9765173.m3u8
@@ -772,8 +505,6 @@ CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
 CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 CHC高清电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8
 CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD_H265.m3u8
-黑莓电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
-超级电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 广州影视,http://aplay.gztv.com/sec/yingshi.flv
 珠江电影,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=39&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 $c_startNewTv$c_end
