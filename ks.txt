@@ -125,7 +125,7 @@ CCTV-17,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226
 国家地理,http://cdn1.zbbh.xyz:8080/ZZ_hbo/ZZ_hbo.m3u8
 八大综合,http://cdn1.zbbh.xyz:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 中天综合,http://cdn1.zbbh.xyz:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-FOX动作电影,http://cdn1.zbbh.xyz:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+FOX电影,http://cdn1.zbbh.xyz:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 东森新闻,http://cdn1.zbbh.xyz:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 东森电影,http://cdn1.zbbh.xyz:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 东森洋片,http://cdn1.zbbh.xyz:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
@@ -267,7 +267,7 @@ TVB明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_o
 日本l全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 新马l朝阳频道,http://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-越南l越南人民报,http://27.118.16.98:1935/live/truyenhinhnhandan720/chunklist_w2006762604.m3u8
+越南人民报,http://27.118.16.98:1935/live/truyenhinhnhandan720/chunklist_w2006762604.m3u8
 越南和平HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 越南ktv,http://210.245.20.94/hls/ktv1.m3u8
 越南UNTV,https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b1128000.m3u8
