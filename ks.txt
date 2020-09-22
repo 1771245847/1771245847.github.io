@@ -343,7 +343,6 @@ iHOT爱体育,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888
 iHOT爱赛车,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
 iHOT爱浪漫,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
 轮播电影,#genre#
-海爷TV 2号厅,https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_52370715_1734265.m3u8
 海爷TV 2号厅,https://cn-zjwz-dx-live-01.bilivideo.com/live-bvc/731624/live_268522326_2538218.m3u8
 海爷TV 4号厅,https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_189986442_7728008.m3u8
 海爷TV 5号厅,https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_199793349_7660540.m3u8
@@ -351,34 +350,22 @@ iHOT爱浪漫,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888
 海爷TV 7号厅,https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_261831479_8429255.m3u8
 海爷TV 8号厅,https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_280698572_9101071.m3u8
 海爷TV 9号厅,https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_82436982_2406441.m3u8
-周星驰,http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.flv
-鹿鼎记,http://tx2play1.douyucdn.cn/live/194049rvBVd3e1SZ.flv
-恐怖经典,http://tx2play1.douyucdn.cn/live/218859rfOPyx8bzb.flv
-经典古装,http://tx2play1.douyucdn.cn/live/6166636r4k4tqwU5.flv
-神探狄仁杰,http://tx2play1.douyucdn.cn/live/674441rBn4Acp8Cu.flv
-经典电影,http://tx2play1.douyucdn.cn/live/3637778rE263MoD4.flv
 周星驰-爱美剧,https://zb3.qhqsnedu.com/live/zhouxingxinga/playlist.m3u8
 林正英-爱美剧,https://zb3.qhqsnedu.com/live/chingyinglam/playlist.m3u8
 NewTv,#genre#
-Newtv-动作电影,http://111.40.205.87/PLTV/88888888/224/3221225661/index.m3u8
-Newtv-古装剧场,http://111.40.205.87/PLTV/88888888/224/3221225663/index.m3u8
-Newtv-明星大片,http://111.40.205.87/PLTV/88888888/224/3221225664/index.m3u8
-Newtv-惊悚悬疑,http://111.40.205.87/PLTV/88888888/224/3221225665/index.m3u8
-Newtv-金牌综艺,http://111.40.205.87/PLTV/88888888/224/3221225666/index.m3u8 
-Newtv-军事评论,http://111.40.205.87/PLTV/88888888/224/3221225668/index.m3u8 
-Newtv-爱情喜剧,http://111.40.205.87/PLTV/88888888/224/3221225669/index.m3u8 
-Newtv-精品大剧,http://111.40.205.87/PLTV/88888888/224/3221225670/index.m3u8
-Newtv-海外剧场,http://111.40.205.87/PLTV/88888888/224/3221225671/index.m3u8
-Newtv-精品记录,http://111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8 
-Newtv-健康有约,http://111.40.205.87/PLTV/88888888/224/3221225673/index.m3u8
-Newtv-精品体育,http://111.40.205.87/PLTV/88888888/224/3221225674/index.m3u8
-Newtv-军旅剧场,http://111.40.205.87/PLTV/88888888/224/3221225676/index.m3u8
-Newtv-家庭剧场,http://111.40.205.87/PLTV/88888888/224/3221225677/index.m3u8
-Newtv-搏击剧场,http://111.40.205.87/PLTV/88888888/224/3221225680/index.m3u8
-Newtv-中国功夫,http://111.40.205.87/PLTV/88888888/224/3221225681/index.m3u8
-Newtv-黑莓电影,http://111.40.205.87/PLTV/88888888/224/3221225667/index.m3u8
-Newtv-黑莓动画,http://111.40.205.87/PLTV/88888888/224/3221225662/index.m3u8
-Newtv-黑莓电竞,http://111.40.205.87/PLTV/88888888/224/3221225675/index.m3u8
+Newtv-动作电影,http://112.17.40.140/PLTV/88888888/224/3221226747/index.m3u8
+Newtv-古装剧场,http://112.17.40.140/PLTV/88888888/224/3221226753/index.m3u8
+Newtv-明星大片,http://112.17.40.140/PLTV/88888888/224/3221226751/index.m3u8
+Newtv-惊悚悬疑,http://112.17.40.140/PLTV/88888888/224/3221226656/index.m3u8
+Newtv-金牌综艺,http://112.17.40.140/PLTV/88888888/224/3221226749/index.m3u8
+Newtv-爱情喜剧,http://112.17.40.140/PLTV/88888888/224/3221226660/index.m3u8
+Newtv-精品大剧,http://112.17.40.140/PLTV/88888888/224/3221226668/index.m3u8
+Newtv-海外剧场,http://112.17.40.140/PLTV/88888888/224/3221226662/index.m3u8
+Newtv-军旅剧场,http://112.17.40.140/PLTV/88888888/224/3221226682/index.m3u8
+Newtv-家庭剧场,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225918/1.m3u8
+Newtv-超级电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
+Newtv-黑莓电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
+Newtv-黑莓动画,http://117.169.124.37:6610/ysten-businessmobile/live/donghuawg/yst.m3u8
 嗨曲,#genre#
 1-MKV,http://em.21dtv.com/songs/60110001.mkv
 2-MKV,http://em.21dtv.com/songs/60110002.mkv
@@ -465,10 +452,6 @@ SHE《像女孩的女人》,http://v4.qutoutiao.net/toutiao_video_zdgq_online_se
 九儿《摇太阳》,http://v4.qutoutiao.net/toutiao_video_zdgq_online_self/145de5d5fcfd5056b8ce44241af255ae/hd.mp4
 悸动,http://v4.qutoutiao.net/toutiao_video_zdgq_online_self/8d5a931398b35159a5cc10ab8312a1cc/hd.mp4
 XX_9277,#genre#
-松视1台,P2p://fccseuro.pvbox.live:18912/5c18f8fb00064883ab4a7502e99eb880.ts
-松視2台,P2p://fccseuro.pvbox.live:18912/5c18f8f7000d865da227cc18456f9b78.ts
-松視3台,P2p://fccseuro.pvbox.live:18912/5c18f9020004cea3f2f4f4dfb50c3fe2.ts
-彩虹台,P2p://fccseuro.pvbox.live:18912/5c18f8ef000d41c9d0cb955b8eaf0176.ts
 18禁 Ⅰ 东京热美少妇,https://qqc1107.phpdaniu.com/japan/ZW0910/8F8YJ4lB/800kb/hls/index.m3u8
 18禁 Ⅰ 东京热奸空姐,https://qqc1107.phpdaniu.com/japan/ZW0910/AITV4deO/index.m3u8
 18禁 Ⅰ 牛仔裤女郎,https://qqc1107.phpdaniu.com/japan/20191013/jz4knROn/500kb/hls/index.m3u8
