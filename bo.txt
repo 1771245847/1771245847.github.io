@@ -133,88 +133,10 @@ SPORTS,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 凤凰卫视HD,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 凤凰咨询HD,http://112.5.223.10:80/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8?icpid=88888888&from=99&ocs=2_112.5.223.46_80&popid=99&hms_devid=83&prioritypopid=99
 法国24台英语,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-俄罗斯IGITV蓝光,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-俄罗斯ТВTV蓝光,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
-墨西哥卫视蓝光,http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-CINEMA,http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
-新加坡8频道,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-新加坡5频道,https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
-新加坡U频道,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
-新妙米频道,https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
-新加坡OktoOn5,https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master.m3u8
-新加坡SuriaTV,https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
-新加坡春天,https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
-新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-新马l亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-日本l全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
-新马l朝阳频道,http://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
-ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-越南l越南人民报,http://27.118.16.98:1935/live/truyenhinhnhandan720/chunklist_w2006762604.m3u8
-越南和平HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
-越南ktv,http://210.245.20.94/hls/ktv1.m3u8
-越南UNTV,https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b1128000.m3u8
-泰国lNBT 曼谷频道,http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
-泰国PBS,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
-泰国33HD,http://1468481365.rsc.cdn77.org/LS-50041-SIN-19/tracks-v1a1/mono.m3u8
-泰国SEATV,http://203.189.147.211:1935/live/mp4:myStream_720p/playlist.m3u8
-MRTV4,http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8
-CHAHHEHD7,http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8
-韩国 Ⅰ WFC,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
-韩国 Ⅰ KCTV,http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
-韩国 Ⅰ KOREA YTN,http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
-韩国 Ⅰ BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
-韩国 Ⅰ SBS 星级频道,https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
-韩国 Ⅰ SBS 影视频道,https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
-韩国 Ⅰ YTN 联合新闻,http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
-韩国 Ⅰ 阿里郎WORLD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
-朝鲜中央频道,http://tv.nknews.org/tvhls/stream.m3u8
-韩国lKCTV中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-韩国lUBC SBS,http://59.25.202.81:1935/live/UBCstream/chunklist_w1495115977.m3u8
-韩国lKTV 韩国电视,http://218.38.152.31:1935/klive/klive.stream/playlist.m3u8
-韩国lEBS 儿童频道,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
-印度音乐电视台,http://104.237.60.234/live/gabruutv.m3u8?dsjtv.m3u8
-蒙古国lMNB,http://103.14.38.107:1935/live/mnb.stream/master.m3u8
-阿尔巴利亚,http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
-卡塔尔l半岛新闻,http://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8
-美国  狗狗宠物,http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-彭博财经(美)Bloomberg TV,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-美国Cheddar电视,https://live.chdrstatic.com/cheddar/primary/4.m3u8
-美国CSBN,https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
-美国购物QVC TV HD UK,http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
-美国购物QVC Beauty TV HD UK,http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/3/prog_index.m3u8
-美国Denver 8 TV,http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
-美国TVW2,http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
-美国l 美国之音,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
-美国l 美国中央台,http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
-美国l 中国环球 (美国),http://live.cgtn.com/1000/prog_index.m3u8
-美国宇航局频道,http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
-法国l 法国24台 (英语),http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_900.m3u8
-法国l 法国24台 (法语),http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 法国时装秀WFC,https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
 俄罗斯l RU 音乐频道,http://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
 俄罗斯l 军事频道,http://serv25.vintera.tv:8081/parad/patriot/playlist.m3u8
 俄罗斯l 俄罗斯一台,http://a787201928-s26881.cdn.ngenix.net/hls/russia_hd/playlist_3.m3u8
-Hope俄罗斯,https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/chunklist.m3u8
-西班牙l 西班牙四台,https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
-西班牙l 西班牙五台,https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
-西班牙l 神性电视台,https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
-意大利l Rai 吞咽,http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
-意大利l Rai 幼幼,http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
-意大利l Rai 电影,http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-意大利l Rai 溢价,http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8
-斯诺伐克l J O J 频道,http://nn2.joj.sk/hls/joj-540.m3u8
-斯洛伐克l WAU 频道,http://nn2.joj.sk/hls/wau-540.m3u8
-阿联酋l迪拜赛马,http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-阿联酋l迪拜萨马,http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
-越南越南,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
-联合国频道,https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
-以色列1,https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/master.m3u8
-以色列2,https://dvr.ch20-cdnwiz.com/mobilehls/dvr.m3u8
-以色列3,https://ihoplive-f.akamaihd.net/i/yeshuachai_tv@124973/index_2_av-p.m3u8
-以色列4,http://rtb-channel.glue.live/smil:rtb1/playlist_sleng.m3u8
-澳大利亚赛马网,https://racingvic-i.akamaized.net/hls/live/598695/racingvic/268.m3u8
-俄罗斯时尚台,http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v1a1/index.m3u8
-全美電視,https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 越南PTP hd,http://113.161.4.48:8080/phuyen/tv.m3u8
 読売テレビP7p,p8p://0198.02686.cc:16871/5d414f6d00024d6a75f7ac02caeafefc.ts
 NHK総合-大阪P7p,p8p://0198.02686.cc:16871/5d414f6c00077b3d75f7a96d657b07ca.ts
@@ -263,49 +185,10 @@ MBS毎日放送P7p,p8p://0198.02686.cc:16871/5d40057e000b0ab570eee0a6c5bec41b.ts
 法国 Ⅰ 热带音乐,http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
 法国 Ⅰ 中国环球,http://live.cgtn.com/1000f/prog_index.m3u8
 法国 Ⅰ 第五世界台,http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-卡塔尔 Ⅰ 半岛新闻,http://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8#http://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
-卡塔尔 Ⅰ 卡斯体育,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-阿拉伯 Ⅰ 中国环球,http://live.cgtn.com/1000a/prog_index.m3u8
-阿联酋 Ⅰ ATV 1,http://85.132.81.184:8080/atv/index.m3u8
-阿联酋 Ⅰ ATV 2,http://85.132.81.184:8080/atv-2/index.m3u8
-阿联酋 Ⅰ ATV 4,http://85.132.81.184:8080/atv-4/index.m3u8
-阿联酋 Ⅰ 阿布扎比,http://adtv.ercdn.net/adaloula/adaloula_720p.m3u8
-阿联酋 Ⅰ 阿布戏剧,http://adtv.ercdn.net/addrama/addrama_720p.m3u8
-阿联酋 Ⅰ 阿布石油,http://adtv.ercdn.net/adalemarat/adalemarat_720p.m3u8
-阿联酋 Ⅰ 阿布体育1,http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-阿联酋 Ⅰ 阿布体育2,http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-俄罗斯 Ⅰ 中国环球,http://live.cgtn.com/1000r/prog_index.m3u8
 俄罗斯 Ⅰ FM 音乐频道,http://rtmp.one.by:1200
 俄罗斯 Ⅰ OR 音乐频道,http://rtmp.one.by:2200/
 俄罗斯 Ⅰ HD 时尚频道,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 乌克兰 Ⅰ M2 音乐频道,http://live.m2.tv/hls3/stream.m3u8
-西班牙 Ⅰ 皇马足球,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
-西班牙 Ⅰ 中国环球,http://livees.cgtn.com/1000e/prog_index.m3u8
-西班牙 Ⅰ 西班牙四台,https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
-西班牙 Ⅰ 西班牙五台,https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
-西班牙 Ⅰ 神性电视台,https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
-西班牙 Ⅰ 活力电视台,https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_3.m3u8
-西班牙 Ⅰ 啵嘤卡通台,https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_3.m3u8
-意大利 Ⅰ 意大利电台,http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
-意大利 Ⅰ V2 音乐频道,http://de1se01.v2beat.live/playlist.m3u8
-联合国 Ⅰ 联合国台,https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
-越南333HD,P2p://51.79.41.138:18912/5d7206e100001827115f40096c610f09.ts
-越南5SHOPchnnu5HD,P2p://51.79.41.138:18912/5d7206e20008ea4c115f463361693692.ts
-越南7chHD,P2p://51.79.41.138:18912/5d7206e40002006c115f4c3e38da3cdd.ts
-越南FOXSPORT,P2p://51.79.41.138:18912/5bf4f3c3000ce37233bfbac57c7601f3.ts
-越南FOXSPORT2,P2p://51.79.41.138:18912/5c0f8a240000fe649b9b22b04be77536.ts
-越南HTV3,P2p://51.79.41.138:18912/5c09fd92000ee7d685ee0bea73414b7b.ts
-越南HTV4,P2p://51.79.41.138:18912/5befb737000e82aa1f4b3853035f4903.ts
-越南HTV7,P2p://51.79.41.138:18912/5b8e5fb00002026ba30d4d9f4e3c1f45.ts
-越南HTV9,P2p://51.79.41.138:18912/5b8e5fac000767b4a30d3f674191096b.ts
-越南HTVCPHIM,P2p://51.79.41.138:18912/5c0f8a1c0003fcff9b9b042b38001b1c.ts
-越南HTVCTHETHAO,P2p://51.79.41.138:18912/5c0f8a200006dd329b9b148759ad160d.ts
-越南K+1,P2p://51.79.41.138:18912/5be79db50002be6dffa7917563c52836.ts
-越南K+NSHD,P2p://51.79.41.138:18912/5be79dbc000623fcffa7adb816774547.ts
-越南K+PCHD,P2p://51.79.41.138:18912/5be79db8000f1cdfffa7a05a257150cc.ts
-越南K+PMHDVTC1,P2p://51.79.41.138:18912/5be79dbf000d8fd4ffa7bb54206e5c51.ts
-越南MAXBYHBO,P2p://51.79.41.138:18912/5c09fd960008b51485ee19f401b51d94.ts
-印尼美都電視台MetroTV,P2p://51.79.41.138:18912/5d720498000ede7c115656aa12c95c83.ts
 iHOT爱奇谈,http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 iHOT爱悬念,http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 iHOT爱经典,http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -452,7 +335,6 @@ $c_start轮播电影$c_end
 海爷TV9,https://cn-hbxy-cmcc-live-01.live-play.acgvideo.com/live-bvc/523156/live_82436982_2406441_1500.m3u8
 周星驰-爱美剧,https://zb3.qhqsnedu.com/live/zhouxingxinga/playlist.m3u8
 林正英-爱美剧,https://zb3.qhqsnedu.com/live/chingyinglam/playlist.m3u8
-假面骑士,http://tx2play1.douyucdn.cn/live/1218414reZZG0Ns0.flv
 林正英,https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/367887/live_22989278_9714011_1500.m3u8
 林正英电影,https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/108273/live_386725629_13296528.m3u8
 林正英精选电影,https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/767791/live_437402790_81859640.m3u8
@@ -474,28 +356,20 @@ CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
 CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 CHC高清电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8
 CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD_H265.m3u8
-广州影视,http://aplay.gztv.com/sec/yingshi.flv
-珠江电影,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=39&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 $c_startNewTv$c_end
-NewTv-动作电影,http://111.40.205.87/PLTV/88888888/224/3221225661/index.m3u8
-NewTv-古装剧场,http://111.40.205.87/PLTV/88888888/224/3221225663/index.m3u8
-NewTv-明星大片,http://111.40.205.87/PLTV/88888888/224/3221225664/index.m3u8
-NewTv-惊悚悬疑,http://111.40.205.87/PLTV/88888888/224/3221225665/index.m3u8
-NewTv-金牌综艺,http://111.40.205.87/PLTV/88888888/224/3221225666/index.m3u8
-NewTv-军事评论,http://111.40.205.87/PLTV/88888888/224/3221225668/index.m3u8
-NewTv-爱情喜剧,http://111.40.205.87/PLTV/88888888/224/3221225669/index.m3u8
-NewTv-精品大剧,http://111.40.205.87/PLTV/88888888/224/3221225670/index.m3u8
-NewTv-海外剧场,http://111.40.205.87/PLTV/88888888/224/3221225671/index.m3u8
-NewTv-精品记录,http://111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8
-NewTv-健康有约,http://111.40.205.87/PLTV/88888888/224/3221225673/index.m3u8
-NewTv-精品体育,http://111.40.205.87/PLTV/88888888/224/3221225674/index.m3u8
-NewTv-军旅剧场,http://111.40.205.87/PLTV/88888888/224/3221225676/index.m3u8
-NewTv-家庭剧场,http://111.40.205.87/PLTV/88888888/224/3221225677/index.m3u8
-NewTv-搏击剧场,http://111.40.205.87/PLTV/88888888/224/3221225680/index.m3u8
-NewTv-中国功夫,http://111.40.205.87/PLTV/88888888/224/3221225681/index.m3u8
-NewTv-黑莓电影,http://111.40.205.87/PLTV/88888888/224/3221225667/index.m3u8
-NewTv-黑莓动画,http://111.40.205.87/PLTV/88888888/224/3221225662/index.m3u8
-NewTv-黑莓电竞,http://111.40.205.87/PLTV/88888888/224/3221225675/index.m3u8
+NewTv-动作电影,http://112.17.40.140/PLTV/88888888/224/3221226747/index.m3u8
+NewTv-古装剧场,http://112.17.40.140/PLTV/88888888/224/3221226753/index.m3u8
+NewTv-明星大片,http://112.17.40.140/PLTV/88888888/224/3221226751/index.m3u8
+NewTv-惊悚悬疑,http://112.17.40.140/PLTV/88888888/224/3221226656/index.m3u8
+NewTv-金牌综艺,http://112.17.40.140/PLTV/88888888/224/3221226749/index.m3u8
+NewTv-爱情喜剧,http://112.17.40.140/PLTV/88888888/224/3221226660/index.m3u8
+NewTv-精品大剧,http://112.17.40.140/PLTV/88888888/224/3221226668/index.m3u8
+NewTv-海外剧场,http://112.17.40.140/PLTV/88888888/224/3221226662/index.m3u8
+NewTv-军旅剧场,http://112.17.40.140/PLTV/88888888/224/3221226682/index.m3u8
+NewTv-家庭剧场,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225918/1.m3u8
+NewTv-超级电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
+NewTv-黑莓电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
+NewTv-黑莓动画,http://117.169.124.37:6610/ysten-businessmobile/live/donghuawg/yst.m3u8
 $c_start嗨曲$c_end
 点歌的人,https://vd3.bdstatic.com/mda-kdi6hifkag5xsc4p/v1-cae/hd/mda-kdi6hifkag5xsc4p.mp4
 毛不易 Ⅰ 像我这样的人,https://vd3.bdstatic.com/mda-ka8qm8710ymkqdry/hd/mda-ka8qm8710ymkqdry.mp4?pd=20&vt=1
