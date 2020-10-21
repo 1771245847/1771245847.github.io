@@ -48,23 +48,6 @@ CCTV_第一剧场,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/32212257
 CCTV_风云剧场,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
 CCTV_世界地理,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
 地方频道,#genre#
-广东 ‖ 岭南戏曲台,http://szlive.grtn.cn/lnxq/sd/live.m3u8
-广东 ‖ 韶关综合台,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
-广东 ‖ 韶关公共台,https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
-广东 ‖ 番禺综合台,http://live.pybtv.cn/channel1/sd/live.m3u8?_upt=16fb00e01563813775
-广东 ‖ 湛江综合台,http://120.237.237.11:8000/public/HDCH01/playlist.m3u8#http://dslive.grtn.cn/zjzh/sd/live.m3u8
-广东 ‖ 湛江公共台,http://120.237.237.11:8000/public/HDCH02/playlist.m3u8
-广东 ‖ 汕尾综合台,http://dslive.grtn.cn/swzh/sd/live.m3u8
-广东 ‖ 佛山综合台,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_zhpd.m3u8
-广东 ‖ 佛山影视台,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd.m3u8
-广东 ‖ 佛山公共台,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_ggpd.m3u8
-广东 ‖ 佛山顺德区,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_sdpd.m3u8
-广东 ‖ 佛山南海区,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_nhpd.m3u8
-广东 ‖ 佛山三水区,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_sspd.m3u8
-广东 ‖ 佛山高明区,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_gmpd.m3u8
-广东 ‖ 清远综合台,http://stream1.0763f.com/qyzh/sd/live.m3u8
-广东 ‖ 清远公共台,http://stream1.0763f.com/qygg/sd/live.m3u8
-广东 ‖ 清新综合台,http://hls.wiseqx.com/live/qxzh.m3u8
 武汉综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 武汉电视,http://stream.appwuhan.com/2tzb/sd/live.m3u8
 武汉生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
@@ -122,6 +105,23 @@ CCTV_世界地理,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/32212257
 江苏 Ⅰ 张家港民生,http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
 江苏 Ⅰ 连云港综合,http://live.lyg1.com/zhpd/sd/live.m3u8
 江苏 Ⅰ 连云港公共,http://live.lyg1.com/ggpd/sd/live.m3u8
+广东 ‖ 岭南戏曲台,http://szlive.grtn.cn/lnxq/sd/live.m3u8
+广东 ‖ 韶关综合台,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
+广东 ‖ 韶关公共台,https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
+广东 ‖ 番禺综合台,http://live.pybtv.cn/channel1/sd/live.m3u8?_upt=16fb00e01563813775
+广东 ‖ 湛江综合台,http://120.237.237.11:8000/public/HDCH01/playlist.m3u8#http://dslive.grtn.cn/zjzh/sd/live.m3u8
+广东 ‖ 湛江公共台,http://120.237.237.11:8000/public/HDCH02/playlist.m3u8
+广东 ‖ 汕尾综合台,http://dslive.grtn.cn/swzh/sd/live.m3u8
+广东 ‖ 佛山综合台,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_zhpd.m3u8
+广东 ‖ 佛山影视台,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd.m3u8
+广东 ‖ 佛山公共台,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_ggpd.m3u8
+广东 ‖ 佛山顺德区,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_sdpd.m3u8
+广东 ‖ 佛山南海区,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_nhpd.m3u8
+广东 ‖ 佛山三水区,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_sspd.m3u8
+广东 ‖ 佛山高明区,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_gmpd.m3u8
+广东 ‖ 清远综合台,http://stream1.0763f.com/qyzh/sd/live.m3u8
+广东 ‖ 清远公共台,http://stream1.0763f.com/qygg/sd/live.m3u8
+广东 ‖ 清新综合台,http://hls.wiseqx.com/live/qxzh.m3u8
 港台频道,#genre#
 凤凰中文台,http://hls111.dszbdq.cn/fhshow.php?id=2#p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8#rtmp://58.200.131.2:1935/livetv/fhzw
 凤凰资讯台,http://hls111.dszbdq.cn/fhshow.php?id=1#p8p://0198.02686.cc:16871/5d1a69d90003dbfb11be6dc698fb9973.ts#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8#rtmp://58.200.131.2:1935/livetv/fhzx
@@ -320,10 +320,10 @@ TVBS欢乐台,p8p://user3.shusongw.mobi:16871/5dbad7cb0007c9accdfc423fb19c38d1
 汪汪队长★049,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f9a25d444289482d91b91bf18c403b7e/1200.m3u8
 汪汪队长★050,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/34011c8212d2486789428ecd59fbfa8b/1200.m3u8
 综合娱乐,#genre#
-峨眉电影,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-NHK_华语视界-日本,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-NHK_国际频道-日本,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+峨眉电影,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+NHK华语视界-日本,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+NHK国际频道-日本,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 TVB翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
 TVB明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1,tvming-XGMingZhu
 日本全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
