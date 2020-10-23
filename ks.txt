@@ -15,6 +15,9 @@ CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/index.m3u8#
 CCTV14,http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8#http://39.130.206.213:6410/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8#http://117.169.120.160:8080/live/cctv-14/1.m3u8
 CCTV15,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/1.m3u8#http://117.169.120.160:8080/live/cctv-15/1.m3u8
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
+CCTV_第一剧场,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls
+CCTV_风云剧场,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
+CCTV_世界地理,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
 卫视频道,#genre#
 北京卫视,http://111.13.42.43/PLTV/88888888/224/3221226160/3.m3u8#http://liveplay-kk.rtxapp.com/live/program/live/bjwshd/2300000/mnf.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225678/index.m3u8#http://121.31.30.87:8085/ysten-business/live/hdbeijingstv/1.m3u8#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=30&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 东方卫视,http://liveplay-kk.rtxapp.com/live/program/live/hddfws/2300000/mnf.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
@@ -44,9 +47,6 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8#
 海南卫视,http://39.134.39.38/PLTV/88888888/224/3221226301/index.m3u8#http://ivi.bupt.edu.cn/hls/lyhd.m3u8
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225640/index.m3u8#http://liveplay-kk.rtxapp.com/live/program/live/hljwshd/2300000/mnf.m3u8
 内蒙古卫视,http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
-CCTV_第一剧场,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls
-CCTV_风云剧场,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
-CCTV_世界地理,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
 地方频道,#genre#
 武汉综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 武汉电视,http://stream.appwuhan.com/2tzb/sd/live.m3u8
@@ -405,15 +405,8 @@ iHOT爱体育,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888
 iHOT爱赛车,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
 iHOT爱浪漫,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
 轮播电影,#genre#
-海爷TV 2号厅,https://cn-zjwz-dx-live-01.bilivideo.com/live-bvc/731624/live_268522326_2538218.m3u8
-海爷TV 4号厅,https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_189986442_7728008.m3u8
-海爷TV 5号厅,https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_199793349_7660540.m3u8
-海爷TV 6号厅,https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_255137759_7132099.m3u8
-海爷TV 7号厅,https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_261831479_8429255.m3u8
-海爷TV 8号厅,https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_280698572_9101071.m3u8
-海爷TV 9号厅,https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_82436982_2406441.m3u8
-周星驰-爱美剧,https://zb3.qhqsnedu.com/live/zhouxingxinga/playlist.m3u8
-林正英-爱美剧,https://zb3.qhqsnedu.com/live/chingyinglam/playlist.m3u8
+周星驰,https://zb3.qhqsnedu.com/live/zhouxingxingaa/playlist.m3u8
+林正英,https://zb3.qhqsnedu.com/live/chingyinglama/playlist.m3u8
 NewTv,#genre#
 NewTv-动作电影,http://112.17.40.140/PLTV/88888888/224/3221226747/index.m3u8
 NewTv-古装剧场,http://112.17.40.140/PLTV/88888888/224/3221226753/index.m3u8
