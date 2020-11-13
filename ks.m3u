@@ -1,108 +1,530 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视频道",CCTV-1
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-2
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-3
-http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-4
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-5
-http://39.134.168.91/PLTV/1/224/3221225556/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-6
-http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-7
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-8
-http://39.134.168.91/PLTV/1/224/3221225562/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-9
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-10
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-11
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-12
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-13
-http://39.134.168.91/PLTV/1/224/3221225572/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-14
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-15
-http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-16
-http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-17
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
-#EXTINF:-1 group-title="卫视频道",东方卫视
-http://39.134.168.91/PLTV/1/224/3221225504/index.m3u8
-#EXTINF:-1 group-title="卫视频道",浙江卫视
-http://39.134.168.91/PLTV/1/224/3221225520/index.m3u8
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://39.134.168.91/PLTV/1/224/3221225516/index.m3u8
-#EXTINF:-1 group-title="卫视频道",江苏卫视
-http://39.134.168.91/PLTV/1/224/3221225512/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://stream4.jlntv.cn/cctv1/sd/live.m3u8#http://liveplay-kk.rtxapp.com/live/program/live/cctv1hd/2300000/mnf.m3u8#http://121.31.30.87:8085/ysten-business/live/cctv-1/1.m3u8#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=29&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="央视频道",CCTV2
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225747/index.m3u8#http://121.31.30.87:8085/ysten-business/live/cctv-2/1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV3
+http://liveplay-kk.rtxapp.com/live/program/live/cctv3hd/2300000/mnf.m3u8#http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV4
+http://121.31.30.87:8085/ysten-business/live/cctv-4/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225590/index.m3u8#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=26&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="央视频道",CCTV5
+http://121.31.30.87:8085/ysten-business/live/cctv-5/1.m3u8#http://liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV6
+http://liveplay-kk.rtxapp.com/live/program/live/cctv6hd/2300000/mnf.m3u8#http://121.31.30.91:8085/ysten-business/live/cctv-6/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225607/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225488/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV7
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV8
+http://liveplay-kk.rtxapp.com/live/program/live/cctv8hd/2300000/mnf.m3u8#http://121.31.30.91:8085/ysten-business/live/cctv-8/1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV9
+http://39.135.135.30/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV10
+http://liveplay-kk.rtxapp.com/live/program/live/cctv10hd/2300000/mnf.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8#http://39.130.206.213:6410/gitv_live/G_CCTV-10-HD/G_CCTV-10-HD.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV11
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/1.m3u8#http://117.169.120.160:8080/live/cctv-11/1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV12
+http://39.130.206.213:6410/gitv_live/G_CCTV-12-HD/G_CCTV-12-HD.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225598/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV13
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV14
+http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8#http://39.130.206.213:6410/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8#http://117.169.120.160:8080/live/cctv-14/1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV15
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/1.m3u8#http://117.169.120.160:8080/live/cctv-15/1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV17
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV第一剧场
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="央视频道",CCTV风云剧场
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="央视频道",CCTV世界地理
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",北京卫视
-http://39.134.168.91/PLTV/1/224/3221225524/index.m3u8
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://39.134.168.91/PLTV/1/224/3221225528/index.m3u8
-#EXTINF:-1 group-title="卫视频道",深圳卫视
-http://39.134.168.91/PLTV/1/224/3221225532/index.m3u8
-#EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://39.134.168.91/PLTV/1/224/3221225536/index.m3u8
-#EXTINF:-1 group-title="卫视频道",山东卫视
-http://39.134.168.91/PLTV/1/224/3221225540/index.m3u8
-#EXTINF:-1 group-title="卫视频道",湖北卫视
-http://39.134.168.91/PLTV/1/224/3221225544/index.m3u8
-#EXTINF:-1 group-title="卫视频道",安徽卫视
-http://39.134.168.91/PLTV/1/224/3221225548/index.m3u8
-#EXTINF:-1 group-title="卫视频道",东南卫视
-http://39.134.168.91/PLTV/1/224/3221225580/index.m3u8
-#EXTINF:-1 group-title="卫视频道",江西卫视
-http://39.134.168.91/PLTV/1/224/3221225588/index.m3u8
-#EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://39.134.168.91/PLTV/1/224/3221225590/index.m3u8
-#EXTINF:-1 group-title="卫视频道",天津卫视
-http://39.134.168.91/PLTV/1/224/3221225594/index.m3u8
-#EXTINF:-1 group-title="卫视频道",广西卫视
-http://39.134.168.91/PLTV/1/224/3221225598/index.m3u8
-#EXTINF:-1 group-title="卫视频道",贵州卫视
-http://101.71.255.229:6610/zjhs/2/10015/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=6Y1VNBZQTNW1U6PYSQFNXMCZ5T03&ts=1550812363
-#EXTINF:-1 group-title="卫视频道",河北卫视
-http://39.134.168.91/PLTV/1/224/3221225624/index.m3u8
-#EXTINF:-1 group-title="卫视频道",河南卫视
-http://39.134.168.91/PLTV/1/224/3221225584/index.m3u8
+http://111.13.42.43/PLTV/88888888/224/3221226160/3.m3u8#http://liveplay-kk.rtxapp.com/live/program/live/bjwshd/2300000/mnf.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225678/index.m3u8#http://121.31.30.87:8085/ysten-business/live/hdbeijingstv/1.m3u8#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=30&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://liveplay-kk.rtxapp.com/live/program/live/hddfws/2300000/mnf.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1 group-title="卫视频道",重庆卫视
-http://39.134.168.91/PLTV/1/224/3221225576/index.m3u8
-#EXTINF:-1 group-title="卫视频道",吉林卫视
-http://39.134.168.91/PLTV/1/224/3221225586/index.m3u8
+https://onsitecdn.cbgcloud.com/76btqk/d6tb4v.m3u8#http://39.130.206.213:6410/gitv_live/G_CHONGQING-HD/G_CHONGQING-HD.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
+#EXTINF:-1 group-title="卫视频道",天津卫视
+http://liveplay-kk.rtxapp.com/live/program/live/tjwshd/2300000/mnf.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8#http://121.31.30.87:8085/ysten-business/live/hdtianjinstv/1.m3u8
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8#http://liveplay-kk.rtxapp.com/live/program/live/zjwshd/2300000/mnf.m3u8#http://121.31.30.87:8085/ysten-business/live/hdzhejiangstv/1.m3u8
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://liveplay-kk.rtxapp.com/live/program/live/jswshd/2300000/mnf.m3u8#http://121.31.30.87:8085/ysten-business/live/hdjiangsustv/1.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://liveplay-kk.rtxapp.com/live/program/live/jxwshd/2300000/mnf.m3u8#http://121.31.30.87:8085/ysten-business/live/jiangxistv/1.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225705/index.m3u8
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://zbbf2.ahtv.cn/live/749.m3u8#http://liveplay-kk.rtxapp.com/live/program/live/ahwshd/2300000/mnf.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225844/1.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=6&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://liveplay-kk.rtxapp.com/live/program/live/hnwshd/2300000/mnf.m3u8#http://121.31.30.87:8085/ysten-business/live/hdhunanstv/1.m3u8
 #EXTINF:-1 group-title="卫视频道",四川卫视
-http://39.134.168.91/PLTV/1/224/3221225592/index.m3u8
+http://39.130.206.213:6410/gitv_live/G_SICHUAN-HD/G_SICHUAN-HD.m3u8#http://scgctvshow.sctv.com/scgc/sctv1deu5453w/1.m3u8#http://ivi.bupt.edu.cn/hls/schd.m3u8
 #EXTINF:-1 group-title="卫视频道",云南卫视
-http://39.134.168.91/PLTV/1/224/3221225632/index.m3u8
-#EXTINF:-1 group-title="卫视频道",山西卫视
-http://39.134.168.91/PLTV/1/224/3221225646/index.m3u8
-#EXTINF:-1 group-title="卫视频道",陕西卫视
-http://39.134.168.91/PLTV/1/224/3221225628/index.m3u8
-#EXTINF:-1 group-title="卫视频道",青海卫视
-http://39.134.168.91/PLTV/1/224/3221225622/index.m3u8
-#EXTINF:-1 group-title="卫视频道",宁夏卫视
-http://39.134.168.91/PLTV/1/224/3221225638/index.m3u8
+http://hwzbout.yunshicloud.com/8xughf/e0bx15.m3u8#http://39.130.215.158:6610/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://liveplay-kk.rtxapp.com/live/program/live/sdwshd/2300000/mnf.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225843/1.m3u8
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225736/index.m3u8#http://liveplay-kk.rtxapp.com/live/program/live/gdwshd/2300000/mnf.m3u8#http://121.31.30.87:8085/ysten-business/live/hdguangdongstv/1.m3u8
+#EXTINF:-1 group-title="卫视频道",广西卫视
+http://39.130.215.158:6610/gitv_live/G_GUANGXI-HD/G_GUANGXI-HD.m3u8#http://ivi.bupt.edu.cn/hls/gxhd.m3u8
+#EXTINF:-1 group-title="卫视频道",南方卫视
+http://39.134.156.12/PLTV/88888888/224/3221225614/index.m3u8#http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://liveplay-kk.rtxapp.com/live/program/live/szwshd/2300000/mnf.m3u8#http://39.135.135.53/PLTV/88888888/224/3221225668/index.m3u8#http://121.31.30.87:8085/ysten-business/live/hdshenzhenstv/1.m3u8
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+http://live.cjyun.org/hubeitv/s10008-live-hbws.m3u8#http://liveplay-kk.rtxapp.com/live/program/live/hbwshd/2300000/mnf.m3u8#http://121.31.30.87:8085/ysten-business/live/hdhubeistv/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225840/1.m3u8
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://live01.hebtv.com/channels/hebtv/video_channel_04/m3u8:2000k/live#http://live5.plus.hebtv.com/hbws/sd/live.m3u8
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225709/1/index.m3u8?fmt=ts2hls#http://ivi.bupt.edu.cn/hls/hnhd.m3u8
+#EXTINF:-1 group-title="卫视频道",福建卫视
+http://liveplay-kk.rtxapp.com/live/program/live/dnwshd/2300000/mnf.m3u8#http://121.31.30.87:8085/ysten-business/live/dongnanstv/1.m3u8
+#EXTINF:-1 group-title="卫视频道",厦门卫视
+http://cstvpull.live.wscdns.com/live/xiamen.flv#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://liveplay-kk.rtxapp.com/live/program/live/lnwshd/2300000/mnf.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225832/1.m3u8
+#EXTINF:-1 group-title="卫视频道",康巴卫视
+http://scgctvshow.sctv.com/hdlive/kangba/1.m3u8
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
-http://39.134.168.91/PLTV/1/224/3221225636/index.m3u8
-#EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://39.134.168.91/PLTV/1/224/3221225626/index.m3u8
-#EXTINF:-1 group-title="卫视频道",西藏卫视
-http://39.134.168.91/PLTV/1/224/3221225648/index.m3u8
+http://39.134.39.38/PLTV/88888888/224/3221226240/index.m3u8
+#EXTINF:-1 group-title="卫视频道",青海卫视
+http://live.geermurmt.com/qhws/sd/live.m3u8
 #EXTINF:-1 group-title="卫视频道",海南卫视
-http://39.134.168.91/PLTV/1/224/3221225620/index.m3u8
-#EXTINF:-1 group-title="卫视频道",新疆卫视
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
-#EXTINF:-1 group-title="卫视频道",CHC高清电影
-http://ivi.bupt.edu.cn/hls/chchd.m3u8
-#EXTINF:-1 group-title="卫视频道",CHC动作电影
-http://125.210.152.18:9090/live/DZDYHD.m3u8
-#EXTINF:-1 group-title="卫视频道",CHC家庭电影
-http://125.210.152.18:9090/live/JTYYHD.m3u8
+http://39.134.39.38/PLTV/88888888/224/3221226301/index.m3u8#http://ivi.bupt.edu.cn/hls/lyhd.m3u8
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225640/index.m3u8#http://liveplay-kk.rtxapp.com/live/program/live/hljwshd/2300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",内蒙古卫视
+http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
+#EXTINF:-1 group-title="地方频道",武汉综合
+http://stream.appwuhan.com/1tzb/sd/live.m3u8
+#EXTINF:-1 group-title="地方频道",武汉电视
+http://stream.appwuhan.com/2tzb/sd/live.m3u8
+#EXTINF:-1 group-title="地方频道",武汉生活
+http://stream.appwuhan.com/3tzb/sd/live.m3u8
+#EXTINF:-1 group-title="地方频道",武汉经济
+http://stream.appwuhan.com/4tzb/sd/live.m3u8
+#EXTINF:-1 group-title="地方频道",武汉文体
+http://stream.appwuhan.com/5tzb/sd/live.m3u8
+#EXTINF:-1 group-title="地方频道",宁波影视
+http://stream.zhxwzx.com/2/sd/live.m3u8
+#EXTINF:-1 group-title="地方频道",宁波综合
+http://stream.zhxwzx.com/1/sd/live.m3u8
+#EXTINF:-1 group-title="地方频道",绍兴时尚
+http://live.scbtv.cn/hls/qfc/index.m3u8
+#EXTINF:-1 group-title="地方频道",绍兴综合
+http://live.scbtv.cn/hls/news/index.m3u8
+#EXTINF:-1 group-title="地方频道",贵阳1HD
+http://39.135.15.70:6610/PLTV/88888888/224/3221225743/1/index.m3u8?fmt=ts2hls&IASHttpSessionId=OTT3841120200216220847000714
+#EXTINF:-1 group-title="地方频道",泉州卫视
+http://live.qztvxwgj.com/live/news.m3u8
+#EXTINF:-1 group-title="地方频道",晋江卫视
+http://stream.jinjiang.tv/1/sd/live.m3u8
+#EXTINF:-1 group-title="地方频道",南安卫视
+http://natv.cnjrna.com:3000/channel/sovp/1000000000000018/video_1564_none.m3u8
+#EXTINF:-1 group-title="地方频道",亚旅卫视
+http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+#EXTINF:-1 group-title="地方频道",厦门综合
+http://112.50.243.8/PLTV/88888888/224/3221226814/3.m3u8
+#EXTINF:-1 group-title="地方频道",厦门海峡
+http://112.50.243.8/PLTV/88888888/224/3221226777/3.m3u8
+#EXTINF:-1 group-title="地方频道",厦门生活
+http://112.50.243.8/PLTV/88888888/224/3221226760/3.m3u8
+#EXTINF:-1 group-title="地方频道",厦门影视
+http://112.50.243.8/PLTV/88888888/224/3221226764/3.m3u8
+#EXTINF:-1 group-title="地方频道",四川新闻
+http://60.255.149.210/tslive/c211_scc_20190617_t0x01q5a_original_r10/sctv4_4000.m3u8&
+#EXTINF:-1 group-title="地方频道",四川旅游
+http://60.255.149.210/tslive/c211_scc_20190617_t0x01q5a_original_r10/sctv2hd_4000.m3u8&
+#EXTINF:-1 group-title="地方频道",四川经济
+http://60.255.149.210/tslive/c211_scc_20190617_t0x01q5a_original_r10/sctv3hd_4000.m3u8&
+#EXTINF:-1 group-title="地方频道",四川文艺
+http://60.255.149.210/tslive/c211_scc_20190617_t0x01q5a_original_r10/sctv5hd_4000.m3u8&
+#EXTINF:-1 group-title="地方频道",四川妇女
+http://60.255.149.210/tslive/c211_scc_20190617_t0x01q5a_original_r10/sctv7_4000.m3u8&
+#EXTINF:-1 group-title="地方频道",泸州综合
+http://file.weblz.com.cn:6066/cms/videos/nmip-media-dz/channellive/channel3/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",泸州公共
+http://file.weblz.com.cn:6066/cms/videos/nmip-media-dz/channellive/channel4/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",泸州科技
+http://file.weblz.com.cn:6066/cms/videos/nmip-media-dz/channellive/channel5/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",乐山综合
+http://flv.channellive.leshantv.net/live/ch1.flv
+#EXTINF:-1 group-title="地方频道",乐山公共
+http://flv.channellive.leshantv.net/live/ch2.flv
+#EXTINF:-1 group-title="地方频道",广州影视
+http://aplay.gztv.com/sec/yingshi.flv
+#EXTINF:-1 group-title="地方频道",云南娱乐
+http://39.130.206.132:6410/gitv_live/G_YNTV-3-HD/G_YNTV-3-HD.m3u8
+#EXTINF:-1 group-title="地方频道",云南生活
+http://39.130.206.132:6410/gitv_live/G_YNTV-4-HD/G_YNTV-4-HD.m3u8
+#EXTINF:-1 group-title="地方频道",云南影视
+http://39.130.206.132:6410/gitv_live/G_YNTV-5-HD/G_YNTV-5-HD.m3u8
+#EXTINF:-1 group-title="地方频道",云南公共
+http://39.130.206.132:6410/gitv_live/G_YNTV-6-HD/G_YNTV-6-HD.m3u8
+#EXTINF:-1 group-title="地方频道",湖北电视
+http://live.cjyun.org/hubeitv/s10008-live-hbzh.m3u8
+#EXTINF:-1 group-title="地方频道",北京文艺
+http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
+#EXTINF:-1 group-title="地方频道",北京科教
+http://ivi.bupt.edu.cn/hls/btv3.m3u8
+#EXTINF:-1 group-title="地方频道",北京影视
+http://ivi.bupt.edu.cn/hls/btv4.m3u8
+#EXTINF:-1 group-title="地方频道",北京财经
+http://ivi.bupt.edu.cn/hls/btv5.m3u8
+#EXTINF:-1 group-title="地方频道",北京生活
+http://ivi.bupt.edu.cn/hls/btv7.m3u8
+#EXTINF:-1 group-title="地方频道",北京青年
+http://ivi.bupt.edu.cn/hls/btv8.m3u8
+#EXTINF:-1 group-title="地方频道",北京新闻
+http://ivi.bupt.edu.cn/hls/btv9.m3u8
+#EXTINF:-1 group-title="地方频道",上海教育
+http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
+#EXTINF:-1 group-title="地方频道",江苏 Ⅰ 无锡综合台
+http://live-wx.wifiwx.com/wxtv1/sd/live.m3u8
+#EXTINF:-1 group-title="地方频道",江苏 Ⅰ 无锡都市台
+http://live-wx.wifiwx.com/wxtv3/sd/live.m3u8
+#EXTINF:-1 group-title="地方频道",江苏 Ⅰ 苏州资讯台
+http://player.ioioz.com/18/tv.php?tv=jssztv&id=53
+#EXTINF:-1 group-title="地方频道",江苏 Ⅰ 苏州文化台
+http://player.ioioz.com/18/tv.php?tv=jssztv&id=52
+#EXTINF:-1 group-title="地方频道",江苏 Ⅰ 靖江电视台
+http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",江苏 Ⅰ 吴江综合台
+http://30515.hlsplay.aodianyun.com/lms_30515/tv_channel_239.m3u8
+#EXTINF:-1 group-title="地方频道",江苏 Ⅰ 睢宁综合台
+http://tv.jrsncn.com:9001/hls/live/live1/stream.m3u8
+#EXTINF:-1 group-title="地方频道",江苏 Ⅰ 睢宁生活台
+http://tv.jrsncn.com:9001/hls/live/live2/stream.m3u8
+#EXTINF:-1 group-title="地方频道",江苏 Ⅰ 东海综合台
+rtmp://livetv.dhtv.cn/live/news
+#EXTINF:-1 group-title="地方频道",江苏 Ⅰ 东海文娱台
+http://jsdh.chinashadt.com:2035/live/3.stream/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",江苏 Ⅰ 东海国学台
+http://jsdh.chinashadt.com:2035/live/2.stream/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",江苏 Ⅰ 张家港综合
+http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",江苏 Ⅰ 张家港民生
+http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",江苏 Ⅰ 连云港综合
+http://live.lyg1.com/zhpd/sd/live.m3u8
+#EXTINF:-1 group-title="地方频道",江苏 Ⅰ 连云港公共
+http://live.lyg1.com/ggpd/sd/live.m3u8
+#EXTINF:-1 group-title="地方频道",广东 ‖ 岭南戏曲台
+http://szlive.grtn.cn/lnxq/sd/live.m3u8
+#EXTINF:-1 group-title="地方频道",广东 ‖ 韶关综合台
+https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
+#EXTINF:-1 group-title="地方频道",广东 ‖ 韶关公共台
+https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
+#EXTINF:-1 group-title="地方频道",广东 ‖ 番禺综合台
+http://live.pybtv.cn/channel1/sd/live.m3u8?_upt=16fb00e01563813775
+#EXTINF:-1 group-title="地方频道",广东 ‖ 湛江综合台
+http://120.237.237.11:8000/public/HDCH01/playlist.m3u8#http://dslive.grtn.cn/zjzh/sd/live.m3u8
+#EXTINF:-1 group-title="地方频道",广东 ‖ 湛江公共台
+http://120.237.237.11:8000/public/HDCH02/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",广东 ‖ 汕尾综合台
+http://dslive.grtn.cn/swzh/sd/live.m3u8
+#EXTINF:-1 group-title="地方频道",广东 ‖ 佛山综合台
+http://pili-live-rtmp.wdit.com.cn/wditlive/fs_zhpd.m3u8
+#EXTINF:-1 group-title="地方频道",广东 ‖ 佛山影视台
+http://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd.m3u8
+#EXTINF:-1 group-title="地方频道",广东 ‖ 佛山公共台
+http://pili-live-rtmp.wdit.com.cn/wditlive/fs_ggpd.m3u8
+#EXTINF:-1 group-title="地方频道",广东 ‖ 佛山顺德区
+http://pili-live-rtmp.wdit.com.cn/wditlive/fs_sdpd.m3u8
+#EXTINF:-1 group-title="地方频道",广东 ‖ 佛山南海区
+http://pili-live-rtmp.wdit.com.cn/wditlive/fs_nhpd.m3u8
+#EXTINF:-1 group-title="地方频道",广东 ‖ 佛山三水区
+http://pili-live-rtmp.wdit.com.cn/wditlive/fs_sspd.m3u8
+#EXTINF:-1 group-title="地方频道",广东 ‖ 佛山高明区
+http://pili-live-rtmp.wdit.com.cn/wditlive/fs_gmpd.m3u8
+#EXTINF:-1 group-title="地方频道",广东 ‖ 清远综合台
+http://stream1.0763f.com/qyzh/sd/live.m3u8
+#EXTINF:-1 group-title="地方频道",广东 ‖ 清远公共台
+http://stream1.0763f.com/qygg/sd/live.m3u8
+#EXTINF:-1 group-title="地方频道",广东 ‖ 清新综合台
+http://hls.wiseqx.com/live/qxzh.m3u8
+#EXTINF:-1 group-title="少儿频道",狮子王国
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
+#EXTINF:-1 group-title="少儿频道",倒霉特熊
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",反转星球
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",云朵妈妈
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊大熊二
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊大过年
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",猪侠英雄
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",大头儿子★01
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/252a7fe7786645b084271751a3f75725/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",大头儿子★02
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8c6227ce3d1d4c9297d5cfd9a08a4fa9/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",大头儿子★03
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1a86eb58a9e04c34a87f8c883932cfa2/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",大头儿子★04
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/46e4d00d85fe4287b54c8015de46e102/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★01
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b333914bfe2b49d793d41f3233505f5f/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★02
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7d35b256e4794918837e184d35f34492/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★03
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8da51eedd80c4c0b98765b20d1729d42/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★04
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e86d503179254fc0ba5ebb6f44103d9d/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★05
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3f437da4d62e4708bc8892cd6f3c9bd8/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★06
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7e38bf0a4c274a3c98abe1d79ca7c8ef/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★07
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a14f86e6e1434908a12fd00a2c8b0b73/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★08
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6a7b458f35cd49a390faa0378d4ecde5/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★09
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6a35f12e8fb6420181c83cd1a847206b/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★10
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/34cf417bf8d64ce8a993e8c5db16b914/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★11
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f966ee5dac0d4393bcdd2483b24d06a3/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★12
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/70344cd85dc34abf8400eb9738bec779/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★13
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3976afaa79a14ede8dcf818ead874ac1/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★14
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/50a132bdc16e47cfb6e292ace9dde5ee/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★15
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8336c7ea1fd04a98aeb5bab0350f9855/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★16
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5ed717fd676042cfb4c145423e1bb31b/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★17
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/54371858578a45d9b9de4b64f81863eb/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★18
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1e77c23aef1a4defa52bc76a56ac35bc/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★19
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6c9cd714ab4b4a4b9695c17766470ee8/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★20
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/97d9d7f096bc4b90bcdaf2b7ce9ea556/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★21
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c5c9a732d2dd4179828895fb75a3ca08/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★22
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9a7401b1279a4fa09135deaab29bf51d/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★23
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3cfd36364d804fee8599aa72b970e9cd/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★24
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ed010caa1668481ab5a7250291bb6f33/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★25
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/adb82894c295447e86d12aeccdd17d50/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★26
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4404b8b709f84c7fa045a0901f23a133/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★27
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7e7b56d0d35a44dc807b9888cc37bce0/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★28
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6b9d91ae03eb4348a9270aa0e5018135/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★29
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/59c667667d2349c587db921d3f639223/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★30
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/473591a6614e4a769ad912fbf58e79da/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★31
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8a99941f33164ea3aa11d5243a4a93ad/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★32
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/84ab44d3c9af4460a1a9981a22489417/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★33
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1d01816b5ae945bea728f10ee99d7c41/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★34
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ef0bb93b6d9a44f6b68f7abc15770a9e/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★35
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5b0e9527423542efbe1ab81c3701c20e/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★36
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/be17a82213094c1284570913c1cce887/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★37
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d9925bccfeb84ab6ab090d56547a7a2d/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★38
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f5148f0035d44d77b74aa58aa6d57c18/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★39
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6cde3ec7780446e9a834a35772378ff8/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★40
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1c03ccf0e34b4476a80c2396ffe99a29/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★41
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f986f8de576f487fb1febdcc7dfa87d8/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★42
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c99361cb40a9457c9ca95beab9c780af/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★43
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e9dbad5b80884597a721947629a9b169/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★44
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e0a3c64fa73947289e5664984f4cf5e2/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★45
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cea468a9e46f47f5bd232aef671a7d8e/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★46
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f185a4cb6fec4e5fac0b7c3bda661cfa/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★47
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1b3716f4a8ac42fda150b24e9266e7f2/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★48
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1e3bb6fcc0b642d896b0bb51514a3545/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★49
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4f7fa80c6686462cb3afcf9ce48b7678/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★50
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f93cb9edd30544b78797b6dce897dbdc/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★51
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7fc7a246576744e1b032622846c1fd43/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",熊熊乐园★52
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/23d304c091184090b3b6ceef8822a273/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",小猪佩奇★029
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/5f35f5e7ea7941c5a23931291e3b8b43/850.m3u8
+#EXTINF:-1 group-title="少儿频道",小猪佩奇★028
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/323e94884d92487c888de167ba56d0fb/850.m3u8
+#EXTINF:-1 group-title="少儿频道",小猪佩奇★027
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/7007b7345cc6466c8689181ded8743e8/850.m3u8
+#EXTINF:-1 group-title="少儿频道",小猪佩奇★026
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/db6f0d7768e2469db3e4918fbf581a20/850.m3u8
+#EXTINF:-1 group-title="少儿频道",小猪佩奇★025
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/84647431d2ee451bb25bff92e85ba6ac/850.m3u8
+#EXTINF:-1 group-title="少儿频道",小猪佩奇★024
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/a70f7eb8e70f4740b8f9319683ddfae2/850.m3u8
+#EXTINF:-1 group-title="少儿频道",小猪佩奇★023
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/a704b004d8444fa8b9f25e1b283fc553/850.m3u8
+#EXTINF:-1 group-title="少儿频道",小猪佩奇★022
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/573615f532644ffe92663f3560d147ab/850.m3u8
+#EXTINF:-1 group-title="少儿频道",小猪佩奇★021
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/8084e57cfac444e8a9a32818a0fc6bf3/850.m3u8
+#EXTINF:-1 group-title="少儿频道",小猪佩奇★020
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/5dcb55cede734b9e8ac61d38ff7d8a49/850.m3u8
+#EXTINF:-1 group-title="少儿频道",小猪佩奇★019
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/7c7909eacda94ad091f99dd4f6581222/850.m3u8
+#EXTINF:-1 group-title="少儿频道",小猪佩奇★018
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/2411e6fb6eab406b9616a2a06096160d/850.m3u8
+#EXTINF:-1 group-title="少儿频道",小猪佩奇★017
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/b7c20322e3c542f8b36b6be709504568/850.m3u8
+#EXTINF:-1 group-title="少儿频道",小猪佩奇★016
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/e323ffc96be244458a1cc9aa1693751b/850.m3u8
+#EXTINF:-1 group-title="少儿频道",小猪佩奇★015
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/71bf6c88c4c149da88885d08e4493063/850.m3u8
+#EXTINF:-1 group-title="少儿频道",小猪佩奇★014
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/7b0585d4acdb48deb861ef3cbafa4cf7/850.m3u8
+#EXTINF:-1 group-title="少儿频道",小猪佩奇★013
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/0f2739e728ec468e90ac7f7b38a8932d/850.m3u8
+#EXTINF:-1 group-title="少儿频道",小猪佩奇★012
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/61e8b761f540453896cca0b44f94b7d7/850.m3u8
+#EXTINF:-1 group-title="少儿频道",小猪佩奇★011
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/8b28655c23ba4c97a26ab39a7fad7b8a/850.m3u8
+#EXTINF:-1 group-title="少儿频道",小猪佩奇★010
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/4ee1975fae814bb183db93af59223bd2/850.m3u8
+#EXTINF:-1 group-title="少儿频道",小猪佩奇★009
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/933fe890e678410d9e1dbcc1577bba1e/850.m3u8
+#EXTINF:-1 group-title="少儿频道",小猪佩奇★008
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c474b2a647044e89aa982d05abc7470e/850.m3u8
+#EXTINF:-1 group-title="少儿频道",小猪佩奇★007
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/50adf8eed8824cec96d693e755f26878/850.m3u8
+#EXTINF:-1 group-title="少儿频道",小猪佩奇★006
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/9ef314447b4f49ecabecf745f24947bf/850.m3u8
+#EXTINF:-1 group-title="少儿频道",小猪佩奇★005
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/bc9e3dd496f342de977b68ed9199e00e/850.m3u8
+#EXTINF:-1 group-title="少儿频道",小猪佩奇★004
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/cacee61eeac643ff8c3512f2044b9366/850.m3u8
+#EXTINF:-1 group-title="少儿频道",小猪佩奇★003
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/a81fae2a8d1141ca9d041715fdba3e26/850.m3u8
+#EXTINF:-1 group-title="少儿频道",小猪佩奇★002
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/405b104872d94b3a91395ccb32ab54c8/850.m3u8
+#EXTINF:-1 group-title="少儿频道",小猪佩奇★001
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/91226e8d4f664fefa888e31d72ed8cd5/850.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★001
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f96cb7c6f8354da1ab9c67a92bd03296/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★002
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/11a3110e23b546878b9fc34ab087fc99/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★003
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a076bfa8f5534589a6a32a1211d526f6/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★004
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1e628c3b1c7f41ef9569439bbc20c3b1/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★005
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a02cb85d5c0a4840ae320f189fef9ad5/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★006
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b361d95253e04a75b5c262c067e26e7a/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★007
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d1ae53296a16475c8bc2667fccf1718f/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★008
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cb462eedab924864bb52a076eff3f35a/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★009
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/667dc8e9785047f4a2bf2008759a0d41/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★010
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c7bdfb0bacfc4b76b6492b371645bec9/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★011
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/104718fde00347c0bdf3892056f6c424/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★012
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/10bcc3bdf9534b86a3ecc558eb88e8c1/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★013
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9e862c5952b24af6b11e2ff5c82e3ef6/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★014
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bf22bd5354eb4eceb751698f1197a443/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★015
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e708bd144bc040968a0697d401c55721/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★016
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e358bc63629a4da0b571f09c1758632f/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★017
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/aab9e8b4cb15456395344f0bf506b7e5/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★018
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6de71403ea864646b457f6fb55eb7a7d/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★019
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8a6ce466f26941cbb9d49fa58a742395/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★020
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ff6bb3e89ece439991951d4fb5ba0b69/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★021
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b731bdafeb81400591a9ed620320d745/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★022
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c064f62c75954d3583195caa67b68b49/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★023
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cc40c88c98ec49398f4359dfa371adbf/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★024
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/02f23f6dc67b463a8b0ae74dae52b3f7/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★025
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bbb24743a4e64b18a2156cccc21987af/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★026
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c100256a0b3e4193b5f92a43693dbc77/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★027
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e670a68ddb92483bbef8b1683edee4a3/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★028
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cd67233519ea43da9174ae05ca1ccf57/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★029
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fdb0c5306cd242ac9b12070e65412e50/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★030
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ec904e499d8046e0b5d53fa014d72a4c/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★031
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/34145495b3104941805df790e3b40719/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★032
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/44d516bca92e4845aef4a419097e007a/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★033
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/637ac17e2b2f47a5a2333834dafa6e3f/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★034
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9a2d0ebd3ffb419fb02ff0c0e59e0209/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★035
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fa54ffb0b7114bc9a93a22a5796518a9/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★036
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6e9224d87c2e4065837bd18fd4603650/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★037
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/85fedbfc85d848e9ae08ca74697443d7/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★038
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/57069bf2d17e4340b7e865c9c958de6e/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★039
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/aa25758ec7d44282be2860fb91f6a443/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★040
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f1e068184532473bb8b3594ab52473f6/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★041
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b49f6e0cbce64287bc0822855dd5e427/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★042
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/735a493eb20b480cb244f8d1e76a7aee/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★043
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5f55300db9b24cf4b217665674eb91db/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★044
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bb132688ccb4498b8bd757dc2becd7c1/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★045
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/708e12616f6e48a3adf59ca2a2fee0f6/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★046
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0d68f04232644c84b93996de169a71cf/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★047
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3c8b90d10b6345cda0be4eff0e0bf93b/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★048
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/01a6644dd1594449b17433c282698e3c/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★049
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f9a25d444289482d91b91bf18c403b7e/1200.m3u8
+#EXTINF:-1 group-title="少儿频道",汪汪队长★050
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/34011c8212d2486789428ecd59fbfa8b/1200.m3u8
 #EXTINF:-1 group-title="港台频道",TVB翡翠台
 http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:-1 group-title="港台频道",TVB明珠台
@@ -151,6 +573,12 @@ http://live.zbjh.cc/live/ws124.m3u8
 http://live.zbjh.cc/live/ws127.m3u8
 #EXTINF:-1 group-title="港台频道",东森戏剧
 http://live.zbjh.cc/live/ws128.m3u8
+#EXTINF:-1 group-title="轮播电影",CHC高清电影
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 group-title="轮播电影",CHC动作电影
+http://125.210.152.18:9090/live/DZDYHD.m3u8
+#EXTINF:-1 group-title="轮播电影",CHC家庭电影
+http://125.210.152.18:9090/live/JTYYHD.m3u8
 #EXTINF:-1 group-title="NewTv",NewTv-动作电影
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/1.m3u8
 #EXTINF:-1 group-title="NewTv",NewTv-家庭剧场
