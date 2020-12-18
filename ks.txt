@@ -345,53 +345,6 @@ NHK国际频道-日本,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwl
 TVB翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
 TVB明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1,tvming-XGMingZhu
 日本全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
-新马朝阳频道,http://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
-ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-越南人民报,http://27.118.16.98:1935/live/truyenhinhnhandan720/chunklist_w2006762604.m3u8
-越南和平HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
-越南ktv,http://210.245.20.94/hls/ktv1.m3u8
-越南UNTV,https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b1128000.m3u8
-泰国lNBT曼谷频道,http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
-泰国PBS,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
-泰国33HD,http://1468481365.rsc.cdn77.org/LS-50041-SIN-19/tracks-v1a1/mono.m3u8
-泰国SEATV,http://203.189.147.211:1935/live/mp4:myStream_720p/playlist.m3u8
-MRTV4,http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8
-CHAHHEHD7,http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8
-韩国 Ⅰ WFC,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
-韩国 Ⅰ KCTV,http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
-韩国 Ⅰ KOREA YTN,http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
-韩国 Ⅰ BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
-韩国 Ⅰ SBS 星级频道,https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
-韩国 Ⅰ SBS 影视频道,https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
-韩国 Ⅰ YTN 联合新闻,http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
-韩国 Ⅰ 阿里郎WORLD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
-朝鲜中央频道,http://tv.nknews.org/tvhls/stream.m3u8
-韩国lKCTV中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-韩国lUBC SBS,http://59.25.202.81:1935/live/UBCstream/chunklist_w1495115977.m3u8
-韩国lKTV,http://218.38.152.31:1935/klive/klive.stream/playlist.m3u8
-韩国lEBS,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
-印度音乐电视台,http://104.237.60.234/live/gabruutv.m3u8?dsjtv.m3u8
-蒙古国lMNB,http://103.14.38.107:1935/live/mnb.stream/master.m3u8
-阿尔巴利亚,http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
-卡塔尔l半岛新闻,http://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8
-美国  狗狗宠物,http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-彭博财经(美)Bloomberg TV,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-美国Cheddar电视,https://live.chdrstatic.com/cheddar/primary/4.m3u8
-美国CSBN,https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
-美国购物QVC TV HD UK,http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
-美国购物QVC Beauty TV HD UK,http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/3/prog_index.m3u8
-美国Denver 8 TV,http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
-美国TVW2,http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
-美国l 美国之音,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
-美国l 美国中央台,http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
-美国l 中国环球 (美国),http://live.cgtn.com/1000/prog_index.m3u8
-美国宇航局频道,http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
-法国24台 (英语),http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_900.m3u8
-法国24台 (法语),http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
-法国时装秀WFC,https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
-俄罗斯RU音乐频道,http://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
-俄罗斯军事频道,http://serv25.vintera.tv:8081/parad/patriot/playlist.m3u8
-俄罗斯一台,http://a787201928-s26881.cdn.ngenix.net/hls/russia_hd/playlist_3.m3u8
 凤凰中文,http://154.209.228.33/live/jiegectx2/jiegectx2/25.m3u8
 凤凰资讯,http://154.209.228.33/live/jiegectx2/jiegectx2/26.m3u8
 凤凰资讯,http://154.209.228.33/live/jiegectx2/jiegectx2/27.m3u8
@@ -467,19 +420,18 @@ iHOT爱体育,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888
 iHOT爱赛车,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
 iHOT爱浪漫,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
 轮播电影,#genre#
-星驰电影,http://tv.rdys888.top/bak/proxy/youku.php?id=8021901
-周润发电影,http://tv.rdys888.top/bak/proxy/youku.php?id=8021907
-刘德华电影,http://tv.rdys888.top/bak/proxy/youku.php?id=8018618
-张国荣电影,http://tv.rdys888.top/bak/proxy/youku.php?id=8019325
-黄渤电影,http://tv.rdys888.top/bak/proxy/youku.php?id=8021910
-张学友电影,http://tv.rdys888.top/bak/proxy/youku.php?id=8027929
-宋慧乔电影,http://tv.rdys888.top/bak/proxy/youku.php?id=8020223
+周星驰,http://tv.rdys888.top/bak/proxy/youku.php?id=8021901#https://zb3.qhqsnedu.com/live/zhouxingxingaa/playlist.m3u8
+林正英,https://zb3.qhqsnedu.com/live/chingyinglama/playlist.m3u8
+周润发,http://tv.rdys888.top/bak/proxy/youku.php?id=8021907
+刘德华,http://tv.rdys888.top/bak/proxy/youku.php?id=8018618
+张国荣,http://tv.rdys888.top/bak/proxy/youku.php?id=8019325
+黄渤,http://tv.rdys888.top/bak/proxy/youku.php?id=8021910
+张学友,http://tv.rdys888.top/bak/proxy/youku.php?id=8027929
+宋慧乔,http://tv.rdys888.top/bak/proxy/youku.php?id=8020223
 奥斯卡,http://tv.rdys888.top/bak/proxy/youku.php?id=8018655
 酷影厅,http://tv.rdys888.top/bak/proxy/youku.php?id=8032840
 金庸武侠,http://tv.rdys888.top/bak/proxy/youku.php?id=8026519
 警匪电影,http://tv.rdys888.top/bak/proxy/youku.php?id=8019691
-周星驰,https://zb3.qhqsnedu.com/live/zhouxingxingaa/playlist.m3u8
-林正英,https://zb3.qhqsnedu.com/live/chingyinglama/playlist.m3u8
 NewTv,#genre#
 NewTv-动作电影,http://112.17.40.140/PLTV/88888888/224/3221226747/index.m3u8
 NewTv-古装剧场,http://112.17.40.140/PLTV/88888888/224/3221226753/index.m3u8
