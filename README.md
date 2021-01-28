@@ -39,14 +39,24 @@ DIYP【自带源版本,支持回看！进入软件时，重启一下软件即可
 下载＞https://1771245847.lanzous.com/ilXfgkvh7yj
 
 直播源接口如下，txt
+
 https://1771245847.github.io/ks.txt
+
 https://1771245847.github.io/bo.txt
+
 https://1771245847.github.io/list.txt
+
 https://1771245847.github.io/hongbo.txt
+
 直播源接口如下，m3u
+
 https://1771245847.github.io/ks.m3u
+
 https://1771245847.github.io/bo.m3u
+
 https://1771245847.github.io/list.m3u
+
 https://1771245847.github.io/hongbo.m3u
+
 
 项目持续更新中 !!!
