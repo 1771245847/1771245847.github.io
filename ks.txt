@@ -1,4 +1,4 @@
-🇨🇳央视频道,#genre#
+⚡央视频道,#genre#
 CCTV1,http://39.134.39.4/PLTV/88888888/224/3221226247/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
 CCTV2,http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
 CCTV3,http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
@@ -17,7 +17,7 @@ CCTV14,http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
 CCTV15,http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
 CCTV17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-📺卫视频道,#genre#
+⚡卫视频道,#genre#
 湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
 浙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8
 江苏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8
@@ -50,7 +50,7 @@ CCTV17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 内蒙古卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8
 西藏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
 新疆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
-📺地方频道,#genre#
+⚡地方频道,#genre#
 北京文艺,http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
 北京科教,http://ivi.bupt.edu.cn/hls/btv3.m3u8
 北京影视,http://ivi.bupt.edu.cn/hls/btv4.m3u8
@@ -149,7 +149,7 @@ CCTV17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 广东 ‖ 清远综合台,http://stream1.0763f.com/qyzh/sd/live.m3u8
 广东 ‖ 清远公共台,http://stream1.0763f.com/qygg/sd/live.m3u8
 广东 ‖ 清新综合台,http://hls.wiseqx.com/live/qxzh.m3u8
-🇭🇰港台频道,#genre#
+⚡港台频道,#genre#
 凤凰中文台,http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8#http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8#http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 凤凰资讯台,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8#http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8#http://111.13.42.10/PLTV/88888888/224/3221225949/1.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 凤凰香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8#http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8#http://183.207.249.36/PLTV/3/224/3221226975/index.m3u8
@@ -198,7 +198,7 @@ MoMo·综合台,rtmp://59.124.75.157/sat/tv761
 华视新闻·,http://cdn.elibei.com/pull/index/pinyin/twhsxw#http://seb.sason.top/sc/hsxw_fhd.m3u8
 民视新闻·,http://cdn.elibei.com/pull/index/pinyin/twmsxw#http://210.61.56.23/hls/ftvtv/index.m3u8#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://seb.sason.top/sc/msxw_fhd.m3u8
 壹新闻台·,http://cdn.elibei.com/pull/index/pinyin/twyxw#http://stream.nexttv.com.tw/n001/hd/live.m3u8
-台灣頻道,#genre#
+⚡台灣頻道,#genre#
 民視,rtmp://59.124.75.138/sat/tv051
 民視,http://50.7.61.147:30080/Entry/ftv
 民視新聞台,http://50.7.61.148:30080/Entry/ftvnews
@@ -339,7 +339,7 @@ AXN,http://50.7.61.148:30080/Entry/axn
 電影6_斗魚,http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
 電影7_斗魚,http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
 電影8_斗魚,http://dyscdnali1.douyucdn.cn/live/2935323rnTpNsu74.flv?uuid=
-音樂頻道,#genre#
+⚡音樂頻道,#genre#
 MTVYo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 MTVBiggestPop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 MTVBlockParty,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
@@ -357,7 +357,7 @@ KBS,http://luotuo.ycchenrong.cn/dl/youku.php?id=8034767
 韓國阿里郎WORLD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
 KBSWorld,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 阿里郎,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-📺少儿频道,#genre#
+⚡少儿频道,#genre#
 狮子王国,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
 反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
@@ -479,7 +479,7 @@ KBSWorld,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 汪汪队长★048,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/01a6644dd1594449b17433c282698e3c/1200.m3u8
 汪汪队长★049,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f9a25d444289482d91b91bf18c403b7e/1200.m3u8
 汪汪队长★050,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/34011c8212d2486789428ecd59fbfa8b/1200.m3u8
-🇭🇰综合娱乐,#genre#
+⚡综合娱乐,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 峨眉电影,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 NHK华语视界-日本,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
@@ -708,7 +708,7 @@ iHot爱旅行,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888888
 精彩电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
 精彩综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
 精彩体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
-残月频道,#genre#
+⚡残月频道,#genre#
 J2,https://p2.weizan.cn/1646497941/805766058439696937/live.m3u8
 鄂尔多斯四套蒙语,http://live.erdszs.org.cn/634d7Ls/800/live.m3u8
 鄂尔多斯一套汉语新闻综合,http://live.erdszs.org.cn/16XW47m/800/live.m3u8
