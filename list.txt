@@ -391,7 +391,7 @@ KBS 国际频道,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworl
 法国国际台,http://v3plusinfo247hls-i.akamaihd.net:80/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 法国24新闻,http://f24hls-i.akamaihd.net:80/hls/live/221147/F24_EN_HI_HLS/01.m3u8
 
-$c_start_残月频道$c_end
+$c_start残月频道$c_end
 翡翠台,http://dllb.jxin122.top/jj.php?id=78&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 翡翠台(备),http://51.222.193.143:10010/2
 无线新闻,http://huanqiuzhibo.cn/manifest/hktv.php?id=78
@@ -427,7 +427,7 @@ TVBS综合台,http://dllb.jxin122.top/jj.php?id=37&p=0&c=3&key=ced06b227baa54c96
 TVBS新闻台,http://dllb.jxin122.top/jj.php?id=38&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 TVBS欢乐台,http://61.222.202.191/hodlive/yzyh.php?id=22
 
-$c_start_NewTv$c_end
+$c_startNewTv$c_end
 NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 NewTV农业致富,http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8
 NewTV家庭剧场,http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
