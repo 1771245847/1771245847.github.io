@@ -34,18 +34,20 @@ https://1771245847.github.io/list.m3u
 
 把上面接口，导入即可 《txt》 ↑
 
-这个版本没有自带节目源，需要自己导入或制作，虽然麻烦点不会和谐
+这个版本没有自带直播源，需要自己导入或制作，虽然麻烦点不会和谐
 
 DIYP https://1771245847.lanzoui.com/i8butwf 
 
 DIYP影音 https://1771245847.lanzoui.com/icusbgh
 
-自带源版本   ↓
+自带直播源版本  ↓
 
-自带接口版本，进入软件，重启即可
+自带源接口版本，进入软件，重启即可
 
 DIYP -5.2.1 https://1771245847.lanzouf.com/iCufklebxze
 
-项目持续更新中
+请勿用于任何商业用途，仅供学习交流
 
 Copyright © 2023 All Rights Reserved
+
+项目持续更新中   →
