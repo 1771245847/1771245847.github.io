@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+
+    <meta charset="UTF-8" />
+
+    <meta name="keywords" content="残月引导页"/>
+
+    <meta name="description"content="个人引导页，残月个人引导页">
+
+    <meta name="author"content="1771245847">
+
+    <title>残月引导页</title>
+
+    <link rel="shortcut icon" href="favicon.ico">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <style>
+
+      /* 通用样式 */
+
+      * {
+
+        padding: 0;
+
+        margin: 0;
+
+        box-sizing: border-box;
+
+      }
+
+      body {
+
+        font-family: Arial, sans-serif;
+
+        background-color: #f5f5f5;
+
+      }
+
+      /* 外层容器样式 */
+
+      .container {
+
+        display: flex;
+
+        justify-content: center;
+
+        align-items: center;
+
+        height: 100vh;
+
+      }
+
+      /* 拟态框样式 */
+
+      .modal {
+
+        display: flex;
+
+        flex-direction: column;
+
+        justify-content: center;
+
+        align-items: center;
+
+        border-radius: 10px;
+
+        background-color: #e3f2f6;
+
+        box-shadow: 0 2px 20px rgba(0, 0, 0, 0.1);
+
+        padding: 40px;
+
+        max-width: 600px;
+
+        width: 80vw;
+
+        border: 5px solid #ffffff;
+
+        border-color: rgba(0, 0, 0, 0.1);
+
+      }
+
+      /* 头像样式 */
+
+      .avatar {
+
+        width: 120px;
+
+        height: 120px;
+
+        margin-bottom: 20px;
+
+        border-radius: 50%;
+
+        background-image: url(https://upload.jianshu.io/users/upload_avatars/25392849/e532f4c7-d3f7-4dd0-91dc-af5ae5a50af8.jpg);
+
+        background-size: cover;
+
+        background-position: center;
+
+        background-repeat: no-repeat;
+
+        filter: drop-shadow(0px 4px 8px rgba(0, 0, 0, 0.4));
+
+      }
+
+      /* 名称样式 */
+
+      .name {
+
+        text-align: center;
+
+        margin-bottom: 20px;
+
+        font-size: 28px;
+
+        font-weight: 700;
+
+        color: #565656;
+
+        text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.5);
+
+        filter: drop-shadow(0px 2px 2px rgba(0, 0, 0, 0.2));
+
+      }
+
+      /* 下载按钮样式 */
+
+      .download-btn {
+
+        display: flex;
+
+        justify-content: center;
+
+        align-items: center;
+
+        width: 200px;
+
+        height: 60px;
+
+        margin-top: 20px;
+
+        margin-bottom: 40px;
+
+        border: none;
+
+        border-radius: 30px;
+
+        box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.3);
+
+        background-image: linear-gradient(to bottom right, #b5a0f7, #8db6ff);
+
+        color: #ffffff;
+
+        font-size: 20px;
+
+        font-weight: 700;
+
+        text-align: center;
+
+        line-height: 60px;
+
+        cursor: pointer;
+
+        outline: none;
+
+        transition: transform 0.2s ease-out;
+
+      }
+
+      /* 下载按钮悬停时的样式 */
+
+      .download-btn:hover {
+
+        transform: scale(1.05);
+
+      }
+
+      /* 安卓下载按钮样式 */
+
+      .android-btn {
+
+        background-image: linear-gradient(to bottom right, #b5a0f7, #8db6ff);
+
+      }
+
+      /* 苹果下载按钮样式 */
+
+      .apple-btn {
+
+        background-color: #4dd0e1;
+
+        color: #ffffff;
+
+      }
+
+      /* 苹果下载按钮悬停时的样式 */
+
+      .apple-btn:hover {
+
+        background-color: #26c6da;
+
+      }
+
+      /* 描述样式 */
+
+      .description {
+
+        margin: 20px 0;
+
+        font-size: 16px;
+
+        color: #666;
+
+        text-align: center;
+
+      }
+
+      /* 其他信息样式 */
+
+      .info {
+
+        margin-bottom: 40px;
+
+        font-size: 16px;
+
+        color: #666;
+
+        text-align: center;
+
+      }
+
+      /* 标题样式 */
+
+      .title {
+
+        margin-bottom: 10px;
+
+        font-weight: 700;
+
+      }
+
+      /* 软件截图样式 */
+
+      .screenshot {
+
+        width: 100%;
+
+        margin-top: 20px;
+
+        margin-bottom: 20px;
+
+        background-image: url(https://upload.jianshu.io/users/upload_avatars/25392849/e532f4c7-d3f7-4dd0-91dc-af5ae5a50af8.jpg);
+
+        background-repeat: no-repeat;
+
+        background-size: contain;
+
+        background-position: center;
+
+      }
+
+      @media only screen and (max-width: 768px) {
+
+        /* 拟态框样式 */
+
+        .modal {
+
+          padding: 20px;
+
+          border: 3px solid #ffffff;
+
+        }
+
+        /* 头像样式 */
+
+        .avatar {
+
+          width: 80px;
+
+          height: 80px;
+
+          margin-bottom: 10px;
+
+        }
+
+        /* 名称样式 */
+
+        .name {
+
+          margin-bottom: 10px;
+
+          font-size: 20px;
+
+        }
+
+        /* 描述样式 */
+
+        .description {
+
+          margin: 10px 0;
+
+          font-size: 14px;
+
+        }
+
+        /* 下载按钮样式 */
+
+        .download-btn {
+
+          width: 160px;
+
+          height: 50px;
+
+          font-size: 18px;
+
+          line-height: 50px;
+
+          margin-top: 10px;
+
+          margin-bottom: 20px;
+
+        }
+
+        /* 其他信息样式 */
+
+        .info {
+
+          font-size: 14px;
+
+        }
+
+      }
+
+    </style>
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <div class="modal">
+
+        <div class="avatar"></div>
+
+        <div class="name">个人引导页</div>
+
+        <a href="http://canyue.freetzi.com" class="download-btn android-btn">残月解析</a>
+
+        <a href="https://qm.qq.com/cgi-bin/qm/qr?k=XfNLAc1YgfT_VcKbaPUrc5J4elTh4T1I&noverify=0" class="download-btn apple-btn">联系</a>
+
+        <div class="screenshot"></div>
+
+        <p class="description">
+
+        Copyright © 2023 All Rights Reserved
+
+        </p>
+
+        <div class="info">
+
+          <p><span class="title"></span></p>
+
+          <p><span class="title"></span></p>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </body>
+
+</html>
