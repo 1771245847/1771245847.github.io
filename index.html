@@ -1,379 +1,632 @@
 <!DOCTYPE html>
-
-<html lang="en">
-
-  <head>
-
-    <meta charset="UTF-8" />
-
-    <meta name="keywords" content="残月引导页"/>
-
-    <meta name="description"content="个人引导页，残月个人引导页">
-
-    <meta name="author"content="1771245847">
-
-    <title>残月引导页</title>
-
-    <link rel="shortcut icon" href="favicon.ico">
-
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-    <style>
-
-      /* 通用样式 */
-
-      * {
-
-        padding: 0;
-
-        margin: 0;
-
-        box-sizing: border-box;
-
-      }
-
-      body {
-
-        font-family: Arial, sans-serif;
-
-        background-color: #f5f5f5;
-
-      }
-
-      /* 外层容器样式 */
-
-      .container {
-
-        display: flex;
-
-        justify-content: center;
-
-        align-items: center;
-
-        height: 100vh;
-
-      }
-
-      /* 拟态框样式 */
-
-      .modal {
-
-        display: flex;
-
-        flex-direction: column;
-
-        justify-content: center;
-
-        align-items: center;
-
-        border-radius: 10px;
-
-        background-color: #e3f2f6;
-
-        box-shadow: 0 2px 20px rgba(0, 0, 0, 0.1);
-
-        padding: 40px;
-
-        max-width: 600px;
-
-        width: 80vw;
-
-        border: 5px solid #ffffff;
-
-        border-color: rgba(0, 0, 0, 0.1);
-
-      }
-
-      /* 头像样式 */
-
-      .avatar {
-
-        width: 120px;
-
-        height: 120px;
-
-        margin-bottom: 20px;
-
-        border-radius: 50%;
-
-        background-image: url(https://upload.jianshu.io/users/upload_avatars/25392849/e532f4c7-d3f7-4dd0-91dc-af5ae5a50af8.jpg);
-
-        background-size: cover;
-
-        background-position: center;
-
-        background-repeat: no-repeat;
-
-        filter: drop-shadow(0px 4px 8px rgba(0, 0, 0, 0.4));
-
-      }
-
-      /* 名称样式 */
-
-      .name {
-
-        text-align: center;
-
-        margin-bottom: 20px;
-
-        font-size: 28px;
-
-        font-weight: 700;
-
-        color: #565656;
-
-        text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.5);
-
-        filter: drop-shadow(0px 2px 2px rgba(0, 0, 0, 0.2));
-
-      }
-
-      /* 下载按钮样式 */
-
-      .download-btn {
-
-        display: flex;
-
-        justify-content: center;
-
-        align-items: center;
-
-        width: 200px;
-
-        height: 60px;
-
-        margin-top: 20px;
-
-        margin-bottom: 40px;
-
-        border: none;
-
-        border-radius: 30px;
-
-        box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.3);
-
-        background-image: linear-gradient(to bottom right, #b5a0f7, #8db6ff);
-
-        color: #ffffff;
-
-        font-size: 20px;
-
-        font-weight: 700;
-
-        text-align: center;
-
-        line-height: 60px;
-
-        cursor: pointer;
-
-        outline: none;
-
-        transition: transform 0.2s ease-out;
-
-      }
-
-      /* 下载按钮悬停时的样式 */
-
-      .download-btn:hover {
-
-        transform: scale(1.05);
-
-      }
-
-      /* 安卓下载按钮样式 */
-
-      .android-btn {
-
-        background-image: linear-gradient(to bottom right, #b5a0f7, #8db6ff);
-
-      }
-
-      /* 苹果下载按钮样式 */
-
-      .apple-btn {
-
-        background-color: #4dd0e1;
-
-        color: #ffffff;
-
-      }
-
-      /* 苹果下载按钮悬停时的样式 */
-
-      .apple-btn:hover {
-
-        background-color: #26c6da;
-
-      }
-
-      /* 描述样式 */
-
-      .description {
-
-        margin: 20px 0;
-
-        font-size: 16px;
-
-        color: #666;
-
-        text-align: center;
-
-      }
-
-      /* 其他信息样式 */
-
-      .info {
-
-        margin-bottom: 40px;
-
-        font-size: 16px;
-
-        color: #666;
-
-        text-align: center;
-
-      }
-
-      /* 标题样式 */
-
-      .title {
-
-        margin-bottom: 10px;
-
-        font-weight: 700;
-
-      }
-
-      /* 软件截图样式 */
-
-      .screenshot {
-
-        width: 100%;
-
-        margin-top: 20px;
-
-        margin-bottom: 20px;
-
-        background-image: url(https://upload.jianshu.io/users/upload_avatars/25392849/e532f4c7-d3f7-4dd0-91dc-af5ae5a50af8.jpg);
-
-        background-repeat: no-repeat;
-
-        background-size: contain;
-
-        background-position: center;
-
-      }
-
-      @media only screen and (max-width: 768px) {
-
-        /* 拟态框样式 */
-
-        .modal {
-
-          padding: 20px;
-
-          border: 3px solid #ffffff;
-
-        }
-
-        /* 头像样式 */
-
-        .avatar {
-
-          width: 80px;
-
-          height: 80px;
-
-          margin-bottom: 10px;
-
-        }
-
-        /* 名称样式 */
-
-        .name {
-
-          margin-bottom: 10px;
-
-          font-size: 20px;
-
-        }
-
-        /* 描述样式 */
-
-        .description {
-
-          margin: 10px 0;
-
-          font-size: 14px;
-
-        }
-
-        /* 下载按钮样式 */
-
-        .download-btn {
-
-          width: 160px;
-
-          height: 50px;
-
-          font-size: 18px;
-
-          line-height: 50px;
-
-          margin-top: 10px;
-
-          margin-bottom: 20px;
-
-        }
-
-        /* 其他信息样式 */
-
-        .info {
-
-          font-size: 14px;
-
-        }
-
-      }
-
-    </style>
-
-  </head>
-
-  <body>
-
-    <div class="container">
-
-      <div class="modal">
-
-        <div class="avatar"></div>
-
-        <div class="name">个人引导页</div>
-
-        <a href="http://canyue.freetzi.com" class="download-btn android-btn">残月解析</a>
-
-        <a href="https://qm.qq.com/cgi-bin/qm/qr?k=XfNLAc1YgfT_VcKbaPUrc5J4elTh4T1I&noverify=0" class="download-btn apple-btn">联系</a>
-
-        <div class="screenshot"></div>
-
-        <p class="description">
-
-        Copyright © 2023 All Rights Reserved
-
-        </p>
-
-        <div class="info">
-
-          <p><span class="title"></span></p>
-
-          <p><span class="title"></span></p>
-
-        </div>
-
+<html lang="zh-cn">
+<head>
+<style>
+// html {overflow-y:scroll;filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);-webkit-filter: grayscale(100%);}
+</style>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>残月引导页</title>
+<meta name="keywords" content="个人引导页">
+<meta name="description" content="个人引导页">
+<meta name="author"content="1771245847">
+<link rel="shortcut icon" href="favicon.ico">
+<link rel="stylesheet" href="css/buttons.css">
+<link rel="stylesheet" id="patternfly-adjusted-css" href="css/style.css"type="text/css" media="all">
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<style>#main article {
+	border-bottom: none;
+}
+
+body {
+	font: 500 .875em PingFang SC, Lantinghei SC, Microsoft Yahei, Hiragino Sans GB, Microsoft Sans Serif, WenQuanYi Micro Hei, sans;
+	background-color: #07040e;
+	width: 100vw;
+    overflow: hidden;
+/*	background: url(https://api.dujin.org/bing/1920.php) bottom center no-repeat #efeff4 ;
+*/}
+
+#canvas {
+	position: absolute;
+	z-index: 10;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	cursor: none;
+}
+
+.content {
+	position: absolute;
+	z-index: 11;
+	right: 0;
+	left: 0;
+	top: 0;
+	bottom: 0;
+}
+
+.splash {
+	position: relative;
+}
+
+img#qq {
+	width: 128px;
+	background-size: cover;
+	border-radius: 200px;
+	box-shadow: 0px 0px 40px rgba(63, 81, 181, 0.72);
+	border: 3px solid #00a0ff;
+	opacity: 1;
+	margin: 0 auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	transition: all 1.0s;
+}
+
+#qq:hover {
+	box-shadow: 0 0 10px #fff;
+	-webkit-box-shadow: 0 0 19px #fff;
+	transform: rotate(360deg);
+	-ms-transform: rotate(360deg);
+	/* IE 9 */
+	-moz-transform: rotate(360deg);
+	/* Firefox */
+	-webkit-transform: rotate(360deg);
+	/* Safari 和 Chrome */
+	-o-transform: rotate(360deg);
+	/* Opera */
+	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+}
+</style>
+
+</head>
+<body class="home page page-id-194 page-template page-template-page-homepage page-template-page-homepage-php custom-background" ondragstart="window.event.returnValue=false" oncontextmenu="window.event.returnValue=false" onselectstart="event.returnValue=false" >
+  <header role="banner">
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <a class="navbar-brand" id="logo" title="残月引导页" href="" target="_blank">   </a>   </div>
+      </li>
       </div>
-
+    </nav>
+</header>
+<div class="jumbotron">
+    <div class="container">
+      <div class="splash">
+        <div class="content">
+          <img src="https://upload.jianshu.io/users/upload_avatars/25392849/e532f4c7-d3f7-4dd0-91dc-af5ae5a50af8.jpg" alt="PatternFly logo" id="qq" class="wow fadeInDown animated"
+          style="visibility: visible; animation-name: fadeInDown;">
+          <h1 class="wow fadeIn animated" data-wow-delay="750ms" style="visibility: visible; animation-delay: 750ms; animation-name: fadeIn;">
+          个人主页
+          </h1>
+          <p class="description wow fadeIn animated" data-wow-delay="1250ms" style="visibility: visible; animation-delay: 1250ms; animation-name: fadeIn; color:black;"><a href="#" target="_blank" style="color:DoderBlue;">个人引导页</a></p>
+	<a href="http://canyue.freetzi.com" class="button button-glow button-border button-rounded button-primary" target="_blank"><i class=""></i>残月解析</a>
+	<a href="/jx" class="button button-glow button-border button-rounded button-primary" target="_blank"><i class=""></i>残月解析②</a>
+	<a href="https://qm.qq.com/cgi-bin/qm/qr?k=XfNLAc1YgfT_VcKbaPUrc5J4elTh4T1I&noverify=0" class="button button-glow button-border button-rounded button-primary" target="_blank"><i class=""></i>联系</a>
+<br> <br> <br> <br> <br>
+	<div style="
+    width: 100%;
+    bottom: 30px;
+    box-sizing: border-box;
+    left: 0;"> Copyright © 2023 All Rights Reserved <script type="text/javascript"></script></div>
     </div>
+    </div>
+<canvas id="canvas" width="100%" height="100%"></canvas>
+</div>
+<script type="text/javascript">
+    function addFavorite() {
+        var url = window.location;
+        var title = document.title;
+        var ua = navigator.userAgent.toLowerCase();
+        if (ua.indexOf("msie 8") > -1) {
+            external.AddToFavoritesBar(url, title, '');//IE8
+        } else {
+            try {
+                window.external.addFavorite(url, title);
+            } catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");//firefox
+                } catch (e) {
+                    alert("加入收藏失败，请使用Ctrl+D进行添加");
+                }
+            }
+        }
+    }
 
-  </body>
+    //设为首页 <a οnclick="setHome(this,window.location)">设为首页</a>
+    function setHome(obj,vrl){
+        try{
+            obj.style.behavior='url(#default#homepage)';obj.setHomePage(vrl);
+        }
+        catch(e){
+            if(window.netscape) {
+                try {
+                    netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                }
+                catch (e) {
+                    alert("此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]的值设置为'true',双击即可。");
+                }
+                var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                prefs.setCharPref('browser.startup.homepage',vrl);
+            }
+        }
+    }
 
+</script>
+
+<script src="js/hover.js"></script>
+<script type="text/javascript">
+// particlesJS('particles-js',
+//   {
+//     "particles": {
+//       "number": {
+//         "value": 110,
+//         "density": {
+//           "enable": true,
+//           "value_area": 800
+//         }
+//       },
+//       "color": {
+//         "value": "#ffffff"
+//       },
+//       "shape": {
+//         "type": "circle",
+//         "stroke": {
+//           "width": 0,
+//           "color": "#000000"
+//         },
+//         "polygon": {
+//           "nb_sides": 5
+//         },
+//         "image": {
+//           "src": "img/github.svg",
+//           "width": 100,
+//           "height": 100
+//         }
+//       },
+//       "opacity": {
+//         "value": 0.5,
+//         "random": false,
+//         "anim": {
+//           "enable": false,
+//           "speed": 1,
+//           "opacity_min": 0.1,
+//           "sync": false
+//         }
+//       },
+//       "size": {
+//         "value": 1,
+//         "random": true,
+//         "anim": {
+//           "enable": false,
+//           "speed": 20,
+//           "size_min": 0.1,
+//           "sync": false
+//         }
+//       },
+//       "line_linked": {
+//         "enable": true,
+//         "distance": 40,
+//         "color": "#fff",
+//         "opacity": 1,
+//         "width": 1
+//       },
+//       "move": {
+//         "enable": true,
+//         "speed": 3,
+//         "direction": "none",
+//         "random": false,
+//         "straight": false,
+//         "out_mode": "out",
+//         "attract": {
+//           "enable": false,
+//           "rotateX": 600,
+//           "rotateY": 1200
+//         }
+//       }
+//     },
+//     "interactivity": {
+//       "detect_on": "canvas",
+//       "events": {
+//         "onhover": {
+//           "enable": true,
+//           "mode": "grab"
+//         },
+//         "onclick": {
+//           "enable": true,
+//           "mode": "push"
+//         },
+//         "resize": true
+//       },
+//       "modes": {
+//         "grab": {
+//           "distance": 120,
+//           "line_linked": {
+//             "opacity": 1
+//           }
+//         },
+//         "bubble": {
+//           "distance": 400,
+//           "size": 40,
+//           "duration": 2,
+//           "opacity": 8,
+//           "speed": 3
+//         },
+//         "repulse": {
+//           "distance": 300
+//         },
+//         "push": {
+//           "particles_nb": 4
+//         },
+//         "remove": {
+//           "particles_nb": 2
+//         }
+//       }
+//     },
+//     "retina_detect": true,
+//     "config_demo": {
+//       "hide_card": false,
+//       "background_color": "#b61924",
+//       "background_image": "",
+//       "background_position": "50% 50%",
+//       "background_repeat": "no-repeat",
+//       "background_size": "cover"
+//     }
+//   }
+
+// );
+
+;
+(function(window) {
+
+	var ctx,
+		hue,
+		logo,
+		form,
+		buffer,
+		target = {},
+		tendrils = [],
+		settings = {};
+
+	settings.debug = true;
+	settings.friction = 0.5;
+	settings.trails = 20;
+	settings.size = 50;
+	settings.dampening = 0.25;
+	settings.tension = 0.98;
+
+	Math.TWO_PI = Math.PI * 2;
+
+
+
+	function Oscillator(options) {
+		this.init(options || {});
+	}
+
+	Oscillator.prototype = (function() {
+
+		var value = 0;
+
+		return {
+
+			init: function(options) {
+				this.phase = options.phase || 0;
+				this.offset = options.offset || 0;
+				this.frequency = options.frequency || 0.001;
+				this.amplitude = options.amplitude || 1;
+			},
+
+			update: function() {
+				this.phase += this.frequency;
+				value = this.offset + Math.sin(this.phase) * this.amplitude;
+				return value;
+			},
+
+			value: function() {
+				return value;
+			}
+		};
+
+	})();
+
+
+
+	function Tendril(options) {
+		this.init(options || {});
+	}
+
+	Tendril.prototype = (function() {
+
+		function Node() {
+			this.x = 0;
+			this.y = 0;
+			this.vy = 0;
+			this.vx = 0;
+		}
+
+		return {
+
+			init: function(options) {
+
+				this.spring = options.spring + (Math.random() * 0.1) - 0.05;
+				this.friction = settings.friction + (Math.random() * 0.01) - 0.005;
+				this.nodes = [];
+
+				for(var i = 0, node; i < settings.size; i++) {
+
+					node = new Node();
+					node.x = target.x;
+					node.y = target.y;
+
+					this.nodes.push(node);
+				}
+			},
+
+			update: function() {
+
+				var spring = this.spring,
+					node = this.nodes[0];
+
+				node.vx += (target.x - node.x) * spring;
+				node.vy += (target.y - node.y) * spring;
+
+				for(var prev, i = 0, n = this.nodes.length; i < n; i++) {
+
+					node = this.nodes[i];
+
+					if(i > 0) {
+
+						prev = this.nodes[i - 1];
+
+						node.vx += (prev.x - node.x) * spring;
+						node.vy += (prev.y - node.y) * spring;
+						node.vx += prev.vx * settings.dampening;
+						node.vy += prev.vy * settings.dampening;
+					}
+
+					node.vx *= this.friction;
+					node.vy *= this.friction;
+					node.x += node.vx;
+					node.y += node.vy;
+
+					spring *= settings.tension;
+				}
+			},
+
+			draw: function() {
+
+				var x = this.nodes[0].x,
+					y = this.nodes[0].y,
+					a, b;
+
+				ctx.beginPath();
+				ctx.moveTo(x, y);
+
+				for(var i = 1, n = this.nodes.length - 2; i < n; i++) {
+
+					a = this.nodes[i];
+					b = this.nodes[i + 1];
+					x = (a.x + b.x) * 0.5;
+					y = (a.y + b.y) * 0.5;
+
+					ctx.quadraticCurveTo(a.x, a.y, x, y);
+				}
+
+				a = this.nodes[i];
+				b = this.nodes[i + 1];
+
+				ctx.quadraticCurveTo(a.x, a.y, b.x, b.y);
+				ctx.stroke();
+				ctx.closePath();
+			}
+		};
+
+	})();
+
+	// ----------------------------------------------------------------------------------------
+
+	function init(event) {
+
+		document.removeEventListener('mousemove', init);
+		document.removeEventListener('touchstart', init);
+
+		document.addEventListener('mousemove', mousemove);
+		document.addEventListener('touchmove', mousemove);
+		document.addEventListener('touchstart', touchstart);
+
+		mousemove(event);
+		reset();
+		loop();
+	}
+
+	function reset() {
+
+		tendrils = [];
+
+		for(var i = 0; i < settings.trails; i++) {
+
+			tendrils.push(new Tendril({
+				spring: 0.45 + 0.025 * (i / settings.trails)
+			}));
+		}
+	}
+
+	function loop() {
+
+		if(!ctx.running) return;
+
+		ctx.globalCompositeOperation = 'source-over';
+		ctx.fillStyle = 'rgba(8,5,16,0.4)';
+		ctx.fillRect(0, 0, ctx.canvas.width, ctx.canvas.height);
+		ctx.globalCompositeOperation = 'lighter';
+		ctx.strokeStyle = 'hsla(' + Math.round(hue.update()) + ',90%,50%,0.25)';
+		ctx.lineWidth = 1;
+
+		if(ctx.frame % 60 == 0) {
+			console.log(hue.update(), Math.round(hue.update()), hue.phase, hue.offset, hue.frequency, hue.amplitude);
+		}
+
+		for(var i = 0, tendril; i < settings.trails; i++) {
+			tendril = tendrils[i];
+			tendril.update();
+			tendril.draw();
+		}
+
+		ctx.frame++;
+		ctx.stats.update();
+		requestAnimFrame(loop);
+	}
+
+	function resize() {
+		ctx.canvas.width = window.innerWidth;
+		ctx.canvas.height = window.innerHeight;
+	}
+
+	function start() {
+		if(!ctx.running) {
+			ctx.running = true;
+			loop();
+		}
+	}
+
+	function stop() {
+		ctx.running = false;
+	}
+
+	function mousemove(event) {
+		if(event.touches) {
+			target.x = event.touches[0].pageX;
+			target.y = event.touches[0].pageY;
+		} else {
+			target.x = event.clientX
+			target.y = event.clientY;
+		}
+		event.preventDefault();
+	}
+
+	function touchstart(event) {
+		if(event.touches.length == 1) {
+			target.x = event.touches[0].pageX;
+			target.y = event.touches[0].pageY;
+		}
+	}
+
+	function keyup(event) {
+
+		switch(event.keyCode) {
+			case 32:
+				save();
+				break;
+			default:
+				// console.log(event.keyCode); 
+		}
+	}
+
+	function letters(id) {
+
+		var el = document.getElementById(id),
+			letters = el.innerHTML.replace('&amp;', '&').split(''),
+			heading = '';
+
+		for(var i = 0, n = letters.length, letter; i < n; i++) {
+			letter = letters[i].replace('&', '&amp');
+			heading += letter.trim() ? '<span class="letter-' + i + '">' + letter + '</span>' : '&nbsp;';
+		}
+
+		el.innerHTML = heading;
+		setTimeout(function() {
+			el.className = 'transition-in';
+		}, (Math.random() * 500) + 500);
+	}
+
+	function save() {
+
+		if(!buffer) {
+
+			buffer = document.createElement('canvas');
+			buffer.width = screen.availWidth;
+			buffer.height = screen.availHeight;
+			buffer.ctx = buffer.getContext('2d');
+
+			form = document.createElement('form');
+			form.method = 'post';
+			form.input = document.createElement('input');
+			form.input.type = 'hidden';
+			form.input.name = 'data';
+			form.appendChild(form.input);
+
+			document.body.appendChild(form);
+		}
+
+		buffer.ctx.fillStyle = 'rgba(8,5,16)';
+		buffer.ctx.fillRect(0, 0, buffer.width, buffer.height);
+
+		buffer.ctx.drawImage(canvas,
+			Math.round(buffer.width / 2 - canvas.width / 2),
+			Math.round(buffer.height / 2 - canvas.height / 2)
+		);
+
+		buffer.ctx.drawImage(logo,
+			Math.round(buffer.width / 2 - logo.width / 4),
+			Math.round(buffer.height / 2 - logo.height / 4),
+			logo.width / 2,
+			logo.height / 2
+		);
+
+		window.open(buffer.toDataURL(), 'wallpaper', 'top=0,left=0,width=' + buffer.width + ',height=' + buffer.height);
+
+		// form.input.value = buffer.toDataURL().substr(22);
+		// form.submit(); hovertree.com
+	}
+
+	window.requestAnimFrame = (function() {
+		return window.requestAnimationFrame || window.webkitRequestAnimationFrame || window.mozRequestAnimationFrame || function(fn) {
+			window.setTimeout(fn, 1000 / 60)
+		};
+	})();
+
+	window.onload = function() {
+
+		ctx = document.getElementById('canvas').getContext('2d');
+		ctx.stats = new Stats();
+		ctx.running = true;
+		ctx.frame = 1;
+
+		hue = new Oscillator({
+			phase: Math.random() * Math.TWO_PI,
+			amplitude: 85,
+			frequency: 0.0015,
+			offset: 285
+		});
+
+		document.addEventListener('mousemove', init);
+		document.addEventListener('touchstart', init);
+		document.body.addEventListener('orientationchange', resize);
+		window.addEventListener('resize', resize);
+		window.addEventListener('keyup', keyup);
+		window.addEventListener('focus', start);
+		window.addEventListener('blur', stop);
+
+		resize();
+
+		if(window.DEBUG) {
+
+			var gui = new dat.GUI();
+
+			// gui.add(settings, 'debug');
+			settings.gui.add(settings, 'trails', 1, 30).onChange(reset);
+			settings.gui.add(settings, 'size', 25, 75).onFinishChange(reset);
+			settings.gui.add(settings, 'friction', 0.45, 0.55).onFinishChange(reset);
+			settings.gui.add(settings, 'dampening', 0.01, 0.4).onFinishChange(reset);
+			settings.gui.add(settings, 'tension', 0.95, 0.999).onFinishChange(reset);
+
+			document.body.appendChild(ctx.stats.domElement);
+		}
+	};
+
+})(window);
+</script>
+</body>
 </html>
