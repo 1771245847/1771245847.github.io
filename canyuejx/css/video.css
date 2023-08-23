@@ -1,0 +1,6 @@
+.search{width:100%;padding:20px 0}
+.s-input{border-right:0;border-radius:0;}
+.am-selected-btn{border-color:#0e90d2;border-radius:0;padding:0.53em 1em;outline:none!important;}
+.am-btn-default:focus, .am-btn-default:hover, .am-dropdown.am-active .am-btn-default.am-dropdown-toggle{border-color:#0e90d2;background-color:#eee;}
+.start{float:right;margin-top:-38px}
+html body #player{margin-bottom:.3em;height:548px!important;width:100%}
