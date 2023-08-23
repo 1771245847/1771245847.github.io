@@ -8,8 +8,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>残月引导页</title>
-<meta name="keywords" content="个人引导页，残月引导页">
-<meta name="description" content="个人引导页，残月个人引导页">
+<meta name="keywords" content="残月引导页，个人引导页">
+<meta name="description" content="残月引导页，个人引导页">
 <meta name="author"content="1771245847">
 <link rel="shortcut icon" href="favicon.ico">
 <link rel="stylesheet" href="css/buttons.css">
@@ -103,7 +103,7 @@ img#qq {
           </h1>
           <p class="description wow fadeIn animated" data-wow-delay="1250ms" style="visibility: visible; animation-delay: 1250ms; animation-name: fadeIn; color:black;"><a href="#" target="_blank" style="color:DoderBlue;">残月引导页</a></p>
 	<a href="http://canyue.freetzi.com" class="button button-glow button-border button-rounded button-primary" target="_blank"><i class=""></i>残月解析</a>
-	<a href="/canyuejx" class="button button-glow button-border button-rounded button-primary" target="_blank"><i class=""></i>残月解析②</a>
+	<a href="/canyuejx" class="button button-glow button-border button-rounded button-primary" target="_blank"><i class=""></i>残月解析</a>
 	<a href="https://qm.qq.com/cgi-bin/qm/qr?k=XfNLAc1YgfT_VcKbaPUrc5J4elTh4T1I&noverify=0" class="button button-glow button-border button-rounded button-primary" target="_blank"><i class=""></i>联系</a>
         <br> <br> <br> <br> <br>
 	<div style="
@@ -111,6 +111,13 @@ img#qq {
     bottom: 30px;
     box-sizing: border-box;
     left: 0;"> Copyright © 2023 All Rights Reserved <script type="text/javascript"></script></div>
+    <span id="runtime_span"></span>
+<script type="text/javascript">function show_runtime(){window.setTimeout("show_runtime()",1000);X=new 
+Date("01/01/2022 00:00:00");
+Y=new Date();T=(Y.getTime()-X.getTime());M=24*60*60*1000;
+a=T/M;A=Math.floor(a);b=(a-A)*24;B=Math.floor(b);c=(b-B)*60;C=Math.floor((b-B)*60);D=Math.floor((c-C)*60);
+runtime_span.innerHTML="本站己运行: "+A+"天"+B+"小时"+C+"分"+D+"秒"}show_runtime();</script>
+</div>
     </div>
     </div>
 <canvas id="canvas" width="100%" height="100%"></canvas>
@@ -146,7 +153,7 @@ img#qq {
                     netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
                 }
                 catch (e) {
-                    alert("此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]的值设置为'true',双击即可。");
+                    alert("此操作被浏览器拒绝 \n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]的值设置为'true',双击即可 ");
                 }
                 var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
                 prefs.setCharPref('browser.startup.homepage',vrl);
@@ -628,5 +635,9 @@ img#qq {
 
 })(window);
 </script>
+<!--music-->
+<section class="music">
+<embed src="http://music.163.com/song/media/outer/url?id=1937693638.mp3" autostart="true" loop="true" hidden="true"></embed>
+</section>
 </body>
 </html>
