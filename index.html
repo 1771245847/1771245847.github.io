@@ -4,7 +4,6 @@
 <style>
 // html {overflow-y:scroll;filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);-webkit-filter: grayscale(100%);}
 </style>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>残月个人引导页</title>
@@ -25,7 +24,7 @@ body {
 	background-color: #07040e;
 	width: 100vw;
     overflow: hidden;
-/*	background: url(https://api.dujin.org/bing/1920.php) bottom center no-repeat #efeff4 ;
+/*	background: url(https://) bottom center no-repeat #efeff4 ;
 */}
 
 #canvas {
@@ -102,7 +101,7 @@ img#qq {
           个人主页
           </h1>
           <p class="description wow fadeIn animated" data-wow-delay="1250ms" style="visibility: visible; animation-delay: 1250ms; animation-name: fadeIn; color:black;"><a href="#" target="_blank" style="color:DoderBlue;">残月引导页</a></p>
-	<a href="http://canyue.epizy.com" class="button button-glow button-border button-rounded button-primary" target="_blank"><i class=""></i>残月影视</a>
+	
 	<a href="http://canyue.synergize.co" class="button button-glow button-border button-rounded button-primary" target="_blank"><i class=""></i>残月博客</a>
 	<a href="http://canyue.freetzi.com" class="button button-glow button-border button-rounded button-primary" target="_blank"><i class=""></i>残月解析</a>
 	<a href="/canyuejx" class="button button-glow button-border button-rounded button-primary" target="_blank"><i class=""></i>残月解析</a>
@@ -124,47 +123,6 @@ runtime_span.innerHTML="本站己运行: "+A+"天"+B+"小时"+C+"分"+D+"秒"}sh
     </div>
 <canvas id="canvas" width="100%" height="100%"></canvas>
 </div>
-<script type="text/javascript">
-    function addFavorite() {
-        var url = window.location;
-        var title = document.title;
-        var ua = navigator.userAgent.toLowerCase();
-        if (ua.indexOf("msie 8") > -1) {
-            external.AddToFavoritesBar(url, title, '');//IE8
-        } else {
-            try {
-                window.external.addFavorite(url, title);
-            } catch (e) {
-                try {
-                    window.sidebar.addPanel(title, url, "");//firefox
-                } catch (e) {
-                    alert("加入收藏失败，请使用Ctrl+D进行添加");
-                }
-            }
-        }
-    }
-
-    //设为首页 <a οnclick="setHome(this,window.location)">设为首页</a>
-    function setHome(obj,vrl){
-        try{
-            obj.style.behavior='url(#default#homepage)';obj.setHomePage(vrl);
-        }
-        catch(e){
-            if(window.netscape) {
-                try {
-                    netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
-                }
-                catch (e) {
-                    alert("此操作被浏览器拒绝 \n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]的值设置为'true',双击即可 ");
-                }
-                var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
-                prefs.setCharPref('browser.startup.homepage',vrl);
-            }
-        }
-    }
-
-</script>
-
 <script src="js/hover.js"></script>
 <script type="text/javascript">
 // particlesJS('particles-js',
