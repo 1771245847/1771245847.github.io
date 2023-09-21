@@ -1,0 +1,102 @@
+@color-white: #fff;
+@color-grey: #c4c4c4;
+
+@media screen and (min-width: 650px) {
+    html {
+        font-size: 28px !important;
+    }
+}
+
+body {
+    font-family: "微软雅黑", sans-serif;
+    background: url(https://api.xfyun.club/cos.php) no-repeat center;
+    background-size: cover;
+    -webkit-background-attachment: fixed;
+    background-attachment: fixed;
+    color: @color-white;
+
+    &::before {
+        content: '';
+        position: fixed;
+        left: 0;
+        top: 0;
+        z-index: -1;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, .6);
+    }
+}
+
+.content {
+    padding-top: 2.6667rem;
+    min-width: 20rem;
+    max-width: 20rem;
+    margin: 0 auto;
+    text-align: center;
+
+    .box {
+        img {
+            border: 1px solid @color-white;
+            border-radius: 50%;
+            width: 6rem;
+            height: 6rem;
+            -webkit-transition: transform .8s;
+            transition: transform .8s;
+
+            &:hover {
+                -webkit-transform: rotateZ(360deg);
+                transform: rotateZ(360deg);
+            }
+        }
+
+        h2 {
+            margin-top: 1.2rem;
+            font-size: 1.5rem;
+            letter-spacing: .4rem;
+        }
+
+        .as {
+            margin: 1.2rem auto;
+
+            p {
+                font-size: 1rem;
+                line-height: 1.7rem;
+                color: @color-grey;
+            }
+        }
+
+        .site {
+            display: flex;
+            flex-direction: column;
+
+            li {
+                display: inline-block;
+                margin: 1.2rem auto;
+
+                a {
+                    padding: .7rem 2rem;
+                    border-radius: .4rem;
+                    border: 1px solid @color-white;
+                    font-size: .9rem;
+                    -webkit-transition: background-color .8s;
+                    transition: background-color .8s;
+
+                    &:hover {
+                        background-color: rgba(255, 255, 255, .2);
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    html {
+        font-size: 23px !important;
+    }
+
+    .site {
+        flex-direction: row !important;
+        flex-wrap: wrap;
+    }
+}

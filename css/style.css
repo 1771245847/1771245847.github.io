@@ -1,0 +1,98 @@
+@media screen and (min-width: 650px) {
+  html {
+    font-size: 28px !important;
+  }
+}
+
+body {
+  font-family: "微软雅黑", sans-serif;
+  /* 这里修改背景图 */
+  background: url(../img/bg.jpg) no-repeat center;
+  background-size: cover;
+  -webkit-background-attachment: fixed;
+  background-attachment: fixed;
+  color: #fff;
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.content {
+  padding-top: 2.6667rem;
+  min-width: 20rem;
+  max-width: 20rem;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.content .box img {
+  border: 1px solid #fff;
+  border-radius: 50%;
+  width: 6rem;
+  height: 6rem;
+  -webkit-transition: transform 0.8s;
+  transition: transform 0.8s;
+}
+
+.content .box img:hover {
+  -webkit-transform: rotateZ(360deg);
+  transform: rotateZ(360deg);
+}
+
+.content .box h2 {
+  margin-top: 1.2rem;
+  font-size: 1.5rem;
+  letter-spacing: 0.4rem;
+}
+
+.content .box .as {
+  margin: 1.2rem auto;
+}
+
+.content .box .as p {
+  font-size: 1rem;
+  line-height: 1.7rem;
+  color: #c4c4c4;
+}
+
+.content .box .site {
+  display: flex;
+  flex-direction: column;
+}
+
+.content .box .site li {
+  display: inline-block;
+  margin: 1.2rem auto;
+}
+
+.content .box .site li a {
+  padding: 0.7rem 2rem;
+  border-radius: 0.4rem;
+  border: 1px solid #fff;
+  font-size: 0.9rem;
+  -webkit-transition: background-color 0.8s;
+  transition: background-color 0.8s;
+}
+
+.content .box .site li a:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+@media screen and (min-width: 1200px) {
+  html {
+    font-size: 23px !important;
+  }
+
+  .site {
+    flex-direction: row !important;
+    flex-wrap: wrap;
+  }
+}
