@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Base64加解密</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: #f2f2f2;
+            font-family: Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.5;
+            padding: 20px;
+        }
+
+        h1 {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(to right, #007AFF, #007AFF) no-repeat center center;
+            background-size: 100% 50px;
+            padding-bottom: 5px;
+            margin-bottom: 30px;
+            color: #fff;
+            text-align: center;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .input-label,
+        .result-label {
+            display: none;
+        }
+
+        .input-field {
+            display: block;
+            width: 100%;
+            padding: 18px;
+            border-radius: 5px;
+            border: none;
+            font-size: 18px;
+            line-height: 1.5;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+            background-color: #fff;
+            color: #555;
+        }
+
+        .submit-btn {
+            display: inline-block;
+            padding: 10px 20px;
+            margin-left: 10px;
+            background-color: #007AFF;
+            color: #fff;
+        border-radius: 5px;
+            border: none;
+            font-size: 16px;
+            line-height: 1.5;
+            cursor: pointer;
+            transition: all 0.2s ease-in-out;
+            margin-top: 20px;
+        }
+
+        .submit-btn:hover {
+            background-color: #1A5DE6;
+        }
+
+        .result-field {
+            display: block;
+            width: 100%;
+            padding: 18px;
+            margin-top: 10px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            font-family: Arial, sans-serif;
+            font-size: 18px;
+            line-height: 1.5;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+            background-color: #fff;
+            color: #555;
+        }
+        
+        .result-image {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 20px auto;
+            text-align: center;
+            pointer-events: none;
+        }
+        
+        .result-image img {
+            max-width: 100%;
+            pointer-events: none;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Base64</h1>
+    <div class="form-group">
+        <input type="text" id="text-input" placeholder="输入要加密/解密的内容" class="input-field">
+        <button onclick="encrypt()" class="submit-btn">加密</button>
+        <button onclick="decrypt()" class="submit-btn">解密</button>
+        <button onclick="clearInput()" class="submit-btn">清除</button>
+        <button onclick="copyResult()" class="submit-btn">复制</button>
+    </div>
+    <div class="form-group">
+        <textarea id="result" rows="10" cols="50" class="result-field"></textarea>
+        <div class="result-image">
+           
+        </div>
+    </div>
+
+    <script>
+        function encrypt() {
+            var input = document.getElementById("text-input").value;
+            var result = document.getElementById("result");
+            result.value = btoa(input);
+        }
+
+        function decrypt() {
+            var input = document.getElementById("text-input").value;
+            var result = document.getElementById("result");
+            result.value = atob(input);
+        }
+
+        function clearInput() {
+            document.getElementById("text-input").value = "";
+        }
+
+        function copyResult() {
+            var result = document.getElementById("result");
+            result.select();
+            document.execCommand("copy");
+        }
+        
+        
+        document.addEventListener('contextmenu', event => event.preventDefault());
+    </script>
+    
+</body>
+</html>
