@@ -1,65 +1,143 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <meta charset="UTF-8">
-  <meta name="keywords" content="Vip视频解析">
-  <meta name="description" content="vip视频解析">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-  <title>残月解析</title>
-  <link rel="icon" href="favicon.ico">
-  <link rel="stylesheet" href="css/style.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+<link rel="stylesheet" type="text/css" href="https://cdn.bootcss.com/amazeui/2.7.2/css/amazeui.flat.min.css">
+<link rel="shortcut icon" href="favicon.ico">
+<link href="css/Bootstrap.css" rel="stylesheet" />
+<title>残月解析 - vip视频解析</title>
+<meta name="keywords" content="残月解析,vip视频解析" />
+<meta name="description" content="残月解析是一个vip解析工具，用于vip视频全网解析,vip视频在线解析服务，打造一个免费vip视频解析网站" />
 </head>
-<body>
-  <div class="card">
-    <div class="card-front">
-    <div class="title">残月解析</div>
-      <div class="desc">
-      <img class="cat" src="img/cat.svg" alt="猫">
-      </div>
-      <form>
-        <input type="url" id="media-url" placeholder="请输入视频链接" required autocomplete="off">
-        <div class="apis">
-          <input type="radio" id="api1" class="api" name="contact" value="https://bfq.adminqt.cn/?url=" checked>
-          <label for="api1">解析线路1</label>
-  
-          <input type="radio" id="api2" class="api" name="contact" value="https://player.jkydns.com/?url=">
-          <label for="api2">解析线路2</label>
+  <body>
+    <header class="am-topbar am-topbar-inverse">
+      <div class="am-container">
+        <p class="am-topbar-brand">
+         <a href="/" class="am-topbar-logo">残月解析</a></p>
+        <a class="am-topbar-btn am-topbar-toggle am-btn am-btn-sm am-btn-success am-show-sm-only" data-am-collapse="{target: '#doc-topbar-collapse'}">
+         <span class="am-sr-only">导航切换</span>
+         <span class="am-icon-bars"></span>
+        </a>
+        <div class="am-collapse am-topbar-collapse" id="doc-topbar-collapse">
+          <ul class="am-nav am-nav-pills am-topbar-nav">
+            <li class="am-active">
+             <a href="/">首页</a></li>
+            <li>
+             <a href="//1771245847.github.io/canyuejx/">残月解析</a></li>
+            <li>
+             <a href="#">待添加</a></li>
+            <li>
+             <a href="https://qm.qq.com/cgi-bin/qm/qr?k=XfNLAc1YgfT_VcKbaPUrc5J4elTh4T1I&noverify=0">联系</a></li>
+          </ul>
         </div>
-        <button type="submit" class="play">解析播放</button>
-      </form>
-    </div>
-    <div class="card-back">
-      <iframe class="player"
-              src=""
-              frameborder="0"
-              allowfullscreen></iframe>
-      <div class="button-container">
-        <button class="return" title="返回首页">
-          <svg t="1597601040206" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="7757" width="20" height="20"><path d="M112.228037 296.934806c0 0 80.84119-125.866662 208.754464-193.404871s285.502429-48.095391 388.856355 17.396205 138.146337 120.750131 138.146337 120.750131l89.027639-51.16531c0 0 18.419512-9.209756 18.419512 12.279674s0 321.318146 0 321.318146 0 28.652574-21.48943 18.419512c-18.078751-8.609075-213.596749-120.784924-275.207969-156.176992-33.830503-15.226796-4.107551-27.595498-4.107551-27.595498l85.910649-49.541323c0 0-49.004087-61.923328-120.724549-94.717222-76.773548-40.359196-148.645458-45.144176-236.690724-11.608386-57.407478 21.86703-124.999922 77.853136-173.680645 160.560836C112.228037 296.934806 112.228037 296.934806 112.228037 296.934806zM910.406872 721.592552c0 0-80.84119 125.866662-208.754464 193.404871s-285.502429 48.095391-388.856355-17.396205-138.146337-120.750131-138.146337-120.750131l-89.027639 51.16531c0 0-18.419512 9.209756-18.419512-12.279674s0-321.318146 0-321.318146 0-28.652574 21.48943-18.419512c18.078751 8.609075 213.596749 120.784924 275.207969 156.176992 33.830503 15.226796 4.107551 27.595498 4.107551 27.595498l-85.910649 49.541323c0 0 49.004087 61.923328 120.724549 94.717222 76.773548 40.359196 148.645458 45.144176 236.690724 11.608386 57.407478-21.86703 124.999922-77.853136 173.680645-160.560836C910.406872 721.592552 910.406872 721.592552 910.406872 721.592552z" p-id="7758" fill="#ffffff"></path></svg>
-        </button>
-        <button class="timer" title="定时关闭">
-          <svg t="1613830889964" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="5347" width="20" height="20"><path d="M512 854.016q123.989333 0 210.986667-88.021333t86.997333-212.010667-86.997333-210.986667-210.986667-86.997333-210.986667 86.997333-86.997333 210.986667 86.997333 212.010667 210.986667 88.021333zM811.989333 315.989333q84.010667 105.984 84.010667 237.994667 0 157.994667-112 271.018667t-272 112.981333-272-112.981333-112-271.018667 112-271.018667 272-112.981333q130.005333 0 240 86.016l59.989333-61.994667q32 25.984 59.989333 59.989333zM470.016 598.016l0-256 84.010667 0 0 256-84.010667 0zM640 41.984l0 86.016-256 0 0-86.016 256 0z" p-id="5348" fill="#ffffff"></path></svg>
-        </button>
+    </header>
+    <body style="background:url()" >
+      <div class="col-xs-12 col-sm-10 col-md-8 col-lg-7 center-block" style="float: none;">
+        <h3 class="text-muted" align="center">关注公众号</h3>
+        <a rel="nofollow" href="/" target="_blank">
+          <img src="img/gzh.jpg" width="100%"></a>
+        <br></center>
+        </thead>
+        <table class="table table-bordered">
+          <tbody>
+            <div class="col-md-14 column">
+              <div class="panel panel-default">
+                <div id="kj" class="panel-body">
+                  <iframe src="https://1771245847.github.io/canyuejx/img/load.jpg" id="player" width="100%" height="520px" allowTransparency="true" allowfullscreen="true" frameborder="1" scrolling="no"></iframe>
+                </div>
+              </div>
+            </div>
+            <tr>
+              <div class="col-md-14 column">
+                <form method="get" id="1233911832">
+                  <div class="input-group" style="width: 100%;">
+                    <span class="input-group-addon input-lg" style="width: 80px; ">解析线路</span>
+                    <select class="form-control input-lg" id="jk">
+                      <option style="color: red;" value="http://aiweier.vip/?url=">解析线路1</option>
+                      <option value="https://jx.m3u8.tv/jiexi/?url=">解析线路2</option>
+                      <option value="https://tool.bitefu.net/video/?url=">解析线路3</option>
+                      </div>
+                  <br>
+                  <div class="input-group" style="width: 100%;">
+                    <span class="input-group-addon input-lg" style="width: 80px;">视频地址</span>
+                    <input class="form-control input-lg" type="search" placeholder="请输入视频地址" id="url"></div>
+                  <br>
+                  <div>
+                    <button id="bf" type="button" class="btn btn-success btn-lg btn-block" onclick="dihejk()">解析播放</button></a>
+                  </div>
+                </form>
+              </div>
+            </tr>
+          </tbody>
+        </table>
+        <table class="table table-bordered">
+          <thead>
+            <tr>
+              <th>
+                <img border="0" src="img/tuijian.gif" />若本站对您有所帮助，希望您打赏赞助一下</th></tr>
+            <tr>
+              <th>
+                <div class="row">
+                  <div class="col-xs-6 col-sm-3">
+                    <div class="logo-lie">
+                      <a href="https://qm.qq.com/cgi-bin/qm/qr?k=XfNLAc1YgfT_VcKbaPUrc5J4elTh4T1I&noverify=0" target="_blank" title="微信赞赏">
+                        <img class="img-responsive" src="https://pic3.zhimg.com/80/v2-5e3b875bdd86bec3edfee61813d4f396_1440w.jpg" />
+                        <br>
+                        <center>谢谢赞赏</center></a>
+                </div>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <h4>使用说明:</h4>
+                <ul style="list-style-type:none">
+                 <li>进入各大视频网站，找到想要观看的VIP视频，然后复制链接（浏览器上的视频地址）</li>
+                 
+                 <li>将复制的链接粘贴到视频地址输入框，并点击“解析播放”</li>
+                 
+                 <li>观看体验电脑端上体验最佳，手机访问会出现解析接口的广告</li>
+                 
+                 <li>本站只提供web页面服务仅供学习交流，不提供影片资源存储、录制、上传</li>
+                 <br>
+                 </div>
+                 <p>站长自营,利润微薄,支持一下</p>
+                <a rel="nofollow" href="https://qm.qq.com/cgi-bin/qm/qr?k=XfNLAc1YgfT_VcKbaPUrc5J4elTh4T1I&noverify=0" target="_blank">
+                  <img width="100%" src="https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/2dba4239c2db4c84f63cbcadeb663ffbd76b2f899528ebca0c0c21441bb4f00d7b30200c404abd5160b225a971863b9e?pictype=scale&from=30113&version=3.3.3.3&fname=zfb.jpeg&size=750" /></a>
+                <tr>
+                  <td>
+                    <h4>免责声明:</h4>
+                    <ul style="list-style-type:none">
+                      <li>本网站均来收集于互联网，请勿用于任何商业用途，仅供学习交流，如侵权，请联系删除</li>
+                      <br>
+                      <li>联系：邮箱: 1771245847@qq.com</li>
+                      </ul>
+          </tbody>
+        </table>
+        </script>
       </div>
-    </div>
-  </div>
-  <footer class="copyright">
-	  <p>
-	    <span class="cprt">Copyright</span>
-	    <span>&copy 2021</span>
-	    <a class="author-link" href="https://github.com/1771245847" target="_blank"></a>
-	    <a class="mail-link" href="1771245847@qq.com?subject=用户反馈" target="_blank">All Rights Reserved</a>
-	  </p>
-	</footer>
-  <div class="set-timer">
-    <div class="title">定时关闭</div>
-    <div class="select-minutes">
-      <button class="set-timer-30">30分钟</button>
-      <button class="set-timer-60">60分钟</button>
-      <button class="set-timer-90">90分钟</button>
-      <button class="cancel-btn">取消定时器</button>
-    </div>
-  </div>
-  <script src="js/script.js"></script>
+      </tr>
+      </tbody>
+      </table>
+      <div class="tips">
+        <div class="col-md-12">
+          <div style="border-radius: 0;" class="alert alert-success" role="alert">
+            <p style="text-align: center;">本站均来于互联网，请勿用于商业用途，仅供学习交流 </p></div>
+        </div>
+        <br></div>
+      </div>
+      <footer></div>
+      </footer>
+           <script src="js/jquery.min.js"></script>
+      <script src="js/amazeui.min.js"></script>
+     <script type="text/javascript" src="js/bootstrap.min.js"></script>
+ </div>
+</body>
+<div class="panel-body" style="text-align: center;">
+<div class="container-fluid">本站只提供web页面服务仅供学习交流，不提供影片资源存储、录制、上传</button> 
+<br><span class="copyright">Copyright © 2023 All Rights Reserved <a href="/" target="_blank" title="残月解析"> </a>  <a href="https://beian.miit.gov.cn/" target="_blank"></a></span>
+</div>
 </body>
 </html>
