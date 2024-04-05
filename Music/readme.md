@@ -1,6 +1,6 @@
 # HeoMusic
 
-![/Music/img/cover.webp][cover.webp]
+![demo](https://user-images.githubusercontent.com/31686695/91958610-269e0e00-ed3a-11ea-96fe-3f784cf4aca6.png)
 
 一个基于[Aplayer](https://github.com/DIYgod/APlayer)和[MetingJS](https://github.com/metowolf/MetingJS)的静态音乐播放器
 
