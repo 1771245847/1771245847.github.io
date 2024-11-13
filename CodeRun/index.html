@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<html>
+<head>
+<meta charset="UTF-8">
+<title>html代码运行-CodeRun</title>
+<meta name="author"content="1771245847">
+<link rel="shortcut icon" href="favicon.ico">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="keywords" content="html运行代码,html代码运行器,html代码在线运行">
+<meta name="description" content="html运行代码,html代码运行器,html代码在线运行">
+<style>
+        /* 通用样式 */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+
+        /* 标题样式 */
+        h1 {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+            margin: 0;
+        }
+
+        /* 主容器样式 */
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            border: 1px solid #ccc;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        /* 代码编辑器样式 */
+        #editor {
+            width: 100%;
+            height: 400px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+
+        /* 操作按钮容器样式 */
+        .actions {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        /* 运行按钮样式 */
+        #run-button {
+            flex: 1;
+            padding: 10px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+        }
+
+        /* 清除按钮样式 */
+        #clear-button {
+            flex: 1;
+            margin-left: 10px;
+            padding: 10px;
+            background-color: #dc3545;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+        }
+
+        /* 按钮悬停样式 */
+        .action-button:hover {
+            opacity: 0.8;
+        }
+
+        /* 结果显示区域样式 */
+        #output {
+            width: 100%;
+            max-height: 500px;
+            border: 1px solid #ccc;
+            padding: 10px;
+            background-color: #f5f5f5;
+            overflow-y: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>HTML、CSS、JS 代码运行 - CodeRun</h1>
+    <div class="container">
+        <p>在编辑框中输入HTML、CSS和JS代码，然后点击运行按钮查看结果：</p>
+        
+        <!-- HTML 代码输入框 -->
+        <textarea id="editor" placeholder="在这里输入HTML、CSS和JS代码"></textarea>
+        
+        <!-- 操作按钮容器 -->
+        <div class="actions">
+            <!-- 运行按钮 -->
+            <button id="run-button" class="action-button" onclick="runCode()">运行</button>
+            
+            <!-- 清除按钮 -->
+            <button id="clear-button" class="action-button" onclick="clearCode()">清除输入</button>
+        </div>
+        
+        <!-- 结果显示区域 -->
+        <div id="output"></div>
+    </div>
+
+    <!-- JavaScript 代码用于运行用户输入的代码和清除输入 -->
+    <script>
+        function runCode() {
+            var code = document.getElementById("editor").value;
+            var output = document.getElementById("output");
+            if (code.trim() === "") {
+                output.textContent = "请输入代码后再运行";
+                return;
+            }
+            try {
+                var iframe = document.createElement("iframe");
+                document.body.appendChild(iframe);
+                iframe.style.width = "100%";
+                iframe.style.border = "none";
+                iframe.style.height = "200px";
+                iframe.srcdoc = code;
+                output.innerHTML = "";
+                output.appendChild(iframe);
+            } catch (error) {
+                output.textContent = "运行时出错：" + error.message;
+            }
+        }
+
+        function clearCode() {
+            document.getElementById("editor").value = "";
+            document.getElementById("output").innerHTML = "";
+        }
+    </script>
+
+</body>
+</html>
