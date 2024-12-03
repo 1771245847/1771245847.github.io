@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>抖音斜体字生成</title>
+<link rel="shortcut icon" href="favicon.ico">
+<meta name="keywords" content="抖音斜体字生成,抖音斜体字在线生成" />
+<meta name="description" content="抖音斜体字生成,抖音斜体字在线生成" />
+<style>
+    body{
+      background-color: #7952b3;
+      padding: 0px;
+      margin: 20px;
+      margin-bottom: 10px;
+    }
+    .youname{
+      width: 100%;
+      height: 37px;
+      border: none;
+      box-shadow: 1px 1px 3px #584d69;
+      border-radius: 2px;
+      margin-bottom: 20px;
+      margin-top: 20px;
+      outline: none;
+      padding-left: 10px;
+      box-sizing: border-box;
+      line-height: 37px;
+      font-size: 16px;
+    }
+    .apptitle{
+      font-size: 24px;
+      color: #ffffff;
+      font-weight: bold;
+      text-shadow: 2px 2px 2px #fd2a2a;
+      font-style: italic;
+    }
+    button{
+      padding: .75rem;
+      background-image: linear-gradient(to bottom right,rgba(255,255,255,.2),rgba(255,255,255,.01));
+      box-shadow: 0 0.125rem 0.25rem rgba(0,0,0,.1);
+      background-color: #dc3545!important;
+      border: none;
+      width: 100%;
+      color: #ffffff;
+      border-radius: 2px;
+      outline: none;
+    }
+    .result{
+      width: 100%;
+      height: 80px;
+      border: none;
+      box-shadow: 1px 1px 3px #584d69;
+      border-radius: 2px;
+      outline: none;
+      box-sizing: border-box;
+      background-color: #ffffff;
+      margin-bottom: 10px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-weight: bold;
+      font-size: 24px;
+    }
+</style>
+</head>
+<body>
+  <div class="apptitle">抖音斜体字生成</div>
+  <div class="doc">
+    <input value="点击输入" placeholder="请输入昵称" id="youname" class="youname" >
+    <div class="result" id="result"></div>
+    <button onclick="ok()">点击生成</button>
+</div>
+<script>
+    const baseText = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+    const LowerCase = ['𝘼','𝘽','𝘾','𝘿','𝙀','𝙁','𝙂','𝙃','𝙄','𝙅','𝙆','𝙇','𝙈','𝙉','𝙊','𝙋','𝙌','𝙍','𝙎','𝙏','𝙐','𝙑','𝙒','𝙓','𝙔','𝙕']
+    const UpperCase = ['𝙖','𝙗','𝙘','𝙙','𝙚','𝙛','𝙜','𝙝','𝙞','𝙜','𝙠','𝙡','𝙢','𝙣','𝙤','𝙥','𝙦','𝙧','𝙨','𝙩','𝙪','𝙫','𝙬','𝙨','𝙮','𝙯']
+    function ok() {
+      var input = document.getElementById('youname')
+      var result = ''
+      for (var i of input.value) {
+        if (/[A-Za-z]/.test(i)) {
+          var index = baseText.indexOf(i.toLocaleUpperCase())
+          if (/[a-z]/.test(i)) {
+            result += UpperCase [index]
+          } else {
+            result += LowerCase[index]
+          }
+        } else {
+          result += i
+        }
+      }
+      document.getElementById('result').innerText = result
+    }
+</script>
+</body>
+</html>
