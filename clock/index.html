@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>极简时钟</title>
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<meta name="viewport"  content="width=device-width, initial-scale=1" />
+<meta name="keywords" content="桌面时钟,在线时钟,极简时钟,时钟同步" />
+<meta name="description" content="北京时间网提供桌面时钟，在线极简同步时钟" />
+<style>
+/* 全局样式 */
+        body {
+            /* 背景颜色 */
+            background-color: #86a8e7;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            color: white;
+        }
+
+        /* 时间显示样式 */
+        #clock {
+            font-size: 5em;
+            margin-bottom: 20px;
+        }
+
+        /* 日期显示样式 */
+        #date {
+            font-size: 2em;
+        }
+
+        /* 按钮样式 */
+        .button {
+            background-color: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            padding: 10px 20px;
+            border-radius: 20px;
+            color: white;
+            margin: 10px;
+            cursor: pointer;
+            transition: background-color 0.3s ease, transform 0.3s ease;
+        }
+
+        /* 按钮悬停效果 */
+        .button:hover {
+            background-color: rgba(255, 255, 255, 0.2);
+            transform: scale(1.05);
+}
+</style>
+</head>
+<body>
+    <!-- 时间显示 -->
+    <div id="clock">00:00:00</div>
+    
+    <!-- 日期显示 -->
+    <div id="date">YYYY-MM-DD</div>
+    
+    <script>
+        // 更新时间的函数
+        function updateTime() {
+            const clock = document.getElementById('clock');
+            const now = new Date();
+            const hours = String(now.getHours()).padStart(2, '0');
+            const minutes = String(now.getMinutes()).padStart(2, '0');
+            const seconds = String(now.getSeconds()).padStart(2, '0');
+            clock.textContent = `${hours}:${minutes}:${seconds}`;
+        }
+
+        // 更新日期的函数
+        function updateDate() {
+            const dateDiv = document.getElementById('date');
+            const now = new Date();
+            const year = now.getFullYear();
+            const month = String(now.getMonth() + 1).padStart(2, '0');
+            const day = String(now.getDate()).padStart(2, '0');
+            dateDiv.textContent = `${year}-${month}-${day}`;
+        }
+
+        // 初始化时间和日期
+        updateTime();
+        updateDate();
+
+        // 每秒更新一次时间
+        setInterval(updateTime, 1000);
+
+        // 每分钟更新一次日期
+        setInterval(updateDate, 60000);
+</script>
+
+</body>
+</html>
