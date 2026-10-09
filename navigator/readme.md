@@ -1,4 +1,4 @@
-# jianavi
+# navigator
 
 简约导航开源版
 
