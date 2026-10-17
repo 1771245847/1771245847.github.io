@@ -6,7 +6,9 @@ Welcome to My WebSite
 
 # 💰 赞赏
 <p>
-<img width="200" height="200" src="https://gitlab.com/1771245847/gitlab.vip/raw/master/wx.png">
+<img width="200" height="200" src="./img/wx.png">
 </p>
+
+# 免责声明
 
 本网站均来收集于互联网 请勿用于任何商业用途 仅供学习交流
