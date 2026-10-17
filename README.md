@@ -6,7 +6,7 @@ Welcome to My WebSite
 
 # 💰 赞赏
 <p>
-<img width="200" height="200" src="./img/wx.png">
+<img width="200" height="200" src="./img/wx.jpg">
 </p>
 
 # 免责声明
