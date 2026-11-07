@@ -1,0 +1,563 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>井字棋</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #e0e5ec;
+            color: #444;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 800px;
+            width: 100%;
+            padding: 30px;
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        
+        .header h1 {
+            font-size: 2.8rem;
+            margin-bottom: 10px;
+            color: #4a6fa5;
+            text-shadow: 2px 2px 4px rgba(163, 177, 198, 0.6),
+                        -2px -2px 4px rgba(255, 255, 255, 0.8);
+            letter-spacing: 2px;
+        }
+        
+        .header p {
+            font-size: 1.1rem;
+            color: #666;
+            max-width: 600px;
+            margin: 0 auto;
+            line-height: 1.5;
+        }
+        
+        .game-area {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            gap: 30px;
+        }
+        
+        .game-board {
+            flex: 1;
+            min-width: 300px;
+        }
+        
+        .game-info {
+            flex: 1;
+            min-width: 300px;
+        }
+        
+        .board {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            grid-template-rows: repeat(3, 1fr);
+            gap: 15px;
+            background-color: #e0e5ec;
+            border-radius: 20px;
+            padding: 20px;
+            box-shadow: 
+                20px 20px 30px rgba(163, 177, 198, 0.6),
+                -20px -20px 30px rgba(255, 255, 255, 0.8);
+        }
+        
+        .cell {
+            aspect-ratio: 1;
+            background-color: #e0e5ec;
+            border-radius: 15px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 4rem;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 
+                8px 8px 16px rgba(163, 177, 198, 0.6),
+                -8px -8px 16px rgba(255, 255, 255, 0.8);
+            user-select: none;
+        }
+        
+        .cell:hover {
+            transform: translateY(-5px);
+            box-shadow: 
+                12px 12px 24px rgba(163, 177, 198, 0.7),
+                -12px -12px 24px rgba(255, 255, 255, 0.9);
+        }
+        
+        .cell:active {
+            transform: translateY(0);
+            box-shadow: 
+                inset 8px 8px 16px rgba(163, 177, 198, 0.6),
+                inset -8px -8px 16px rgba(255, 255, 255, 0.8);
+        }
+        
+        .cell.x {
+            color: #ff6b6b;
+        }
+        
+        .cell.o {
+            color: #4d96ff;
+        }
+        
+        .cell.winner {
+            animation: pulse 1.5s infinite;
+            background-color: rgba(77, 150, 255, 0.1);
+        }
+        
+        @keyframes pulse {
+            0% { box-shadow: 0 0 0 0 rgba(77, 150, 255, 0.7); }
+            70% { box-shadow: 0 0 0 15px rgba(77, 150, 255, 0); }
+            100% { box-shadow: 0 0 0 0 rgba(77, 150, 255, 0); }
+        }
+        
+        .game-info {
+            background-color: #e0e5ec;
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 
+                20px 20px 30px rgba(163, 177, 198, 0.6),
+                -20px -20px 30px rgba(255, 255, 255, 0.8);
+        }
+        
+        .status {
+            font-size: 1.8rem;
+            text-align: center;
+            margin-bottom: 25px;
+            padding: 15px;
+            border-radius: 15px;
+            background-color: #e0e5ec;
+            box-shadow: 
+                inset 8px 8px 16px rgba(163, 177, 198, 0.6),
+                inset -8px -8px 16px rgba(255, 255, 255, 0.8);
+            color: #4a6fa5;
+            font-weight: 600;
+        }
+        
+        .player-info {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 30px;
+        }
+        
+        .player {
+            text-align: center;
+            padding: 15px;
+            border-radius: 15px;
+            width: 48%;
+            background-color: #e0e5ec;
+            box-shadow: 
+                8px 8px 16px rgba(163, 177, 198, 0.6),
+                -8px -8px 16px rgba(255, 255, 255, 0.8);
+        }
+        
+        .player.active {
+            background-color: rgba(77, 150, 255, 0.1);
+            box-shadow: 
+                inset 8px 8px 16px rgba(163, 177, 198, 0.6),
+                inset -8px -8px 16px rgba(255, 255, 255, 0.8);
+        }
+        
+        .player-icon {
+            font-size: 2rem;
+            margin-bottom: 10px;
+        }
+        
+        .player-x .player-icon {
+            color: #ff6b6b;
+        }
+        
+        .player-o .player-icon {
+            color: #4d96ff;
+        }
+        
+        .player-name {
+            font-size: 1.3rem;
+            font-weight: 600;
+            margin-bottom: 5px;
+        }
+        
+        .score {
+            font-size: 1.8rem;
+            font-weight: 700;
+        }
+        
+        .controls {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            margin-top: 30px;
+        }
+        
+        .btn {
+            padding: 16px;
+            border: none;
+            border-radius: 15px;
+            font-size: 1.1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-align: center;
+            color: #4a6fa5;
+            background-color: #e0e5ec;
+            box-shadow: 
+                8px 8px 16px rgba(163, 177, 198, 0.6),
+                -8px -8px 16px rgba(255, 255, 255, 0.8);
+        }
+        
+        .btn:hover {
+            transform: translateY(-5px);
+            box-shadow: 
+                12px 12px 24px rgba(163, 177, 198, 0.7),
+                -12px -12px 24px rgba(255, 255, 255, 0.9);
+        }
+        
+        .btn:active {
+            transform: translateY(0);
+            box-shadow: 
+                inset 8px 8px 16px rgba(163, 177, 198, 0.6),
+                inset -8px -8px 16px rgba(255, 255, 255, 0.8);
+        }
+        
+        .btn-reset {
+            background-color: #ff6b6b;
+            color: white;
+        }
+        
+        .btn-new-game {
+            background-color: #4d96ff;
+            color: white;
+        }
+        
+        .game-history {
+            margin-top: 25px;
+            padding: 15px;
+            border-radius: 15px;
+            background-color: #e0e5ec;
+            box-shadow: 
+                inset 8px 8px 16px rgba(163, 177, 198, 0.6),
+                inset -8px -8px 16px rgba(255, 255, 255, 0.8);
+            max-height: 150px;
+            overflow-y: auto;
+        }
+        
+        .game-history h3 {
+            margin-bottom: 10px;
+            color: #4a6fa5;
+        }
+        
+        .history-list {
+            list-style-type: none;
+        }
+        
+        .history-list li {
+            padding: 8px 0;
+            border-bottom: 1px solid rgba(163, 177, 198, 0.3);
+            font-size: 0.95rem;
+        }
+        
+        .history-list li:last-child {
+            border-bottom: none;
+        }
+        
+        .winner-x {
+            color: #ff6b6b;
+            font-weight: 600;
+        }
+        
+        .winner-o {
+            color: #4d96ff;
+            font-weight: 600;
+        }
+        
+        .draw {
+            color: #666;
+            font-weight: 600;
+        }
+        
+        .footer {
+            text-align: center;
+            margin-top: 30px;
+            color: #666;
+            font-size: 0.9rem;
+        }
+        
+        @media (max-width: 768px) {
+            .game-area {
+                flex-direction: column;
+            }
+            
+            .header h1 {
+                font-size: 2.2rem;
+            }
+            
+            .cell {
+                font-size: 3rem;
+            }
+        }
+</style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>拟态井字棋</h1>
+            <p>在拟态风格的游戏板上进行经典的井字棋对战。玩家轮流在3x3网格中放置X和O，先连成一条线（横、竖或对角线）的玩家获胜。</p>
+        </div>
+        
+        <div class="game-area">
+            <div class="game-board">
+                <div class="board" id="board">
+                    <!-- 井字棋格子将通过JavaScript动态生成 -->
+                </div>
+            </div>
+            
+            <div class="game-info">
+                <div class="status" id="status">轮到 X 玩家</div>
+                
+                <div class="player-info">
+                    <div class="player player-x active" id="playerX">
+                        <div class="player-icon"><i class="fas fa-times"></i></div>
+                        <div class="player-name">玩家 X</div>
+                        <div class="score" id="scoreX">0</div>
+                    </div>
+                    
+                    <div class="player player-o" id="playerO">
+                        <div class="player-icon"><i class="far fa-circle"></i></div>
+                        <div class="player-name">玩家 O</div>
+                        <div class="score" id="scoreO">0</div>
+                    </div>
+                </div>
+                
+                <div class="controls">
+                    <button class="btn btn-reset" id="resetBtn">
+                        <i class="fas fa-redo"></i> 重置本轮
+                    </button>
+                    <button class="btn btn-new-game" id="newGameBtn">
+                        <i class="fas fa-plus-circle"></i> 新游戏
+                    </button>
+                </div>
+                
+                <div class="game-history">
+                    <h3>游戏记录</h3>
+                    <ul class="history-list" id="historyList">
+                        <!-- 游戏历史记录将通过JavaScript动态生成 -->
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p>Copyright © 2025 All Rights Reserved</p>
+        </div>
+    </div>
+
+    <script>
+        // 游戏状态变量
+        let currentPlayer = 'X';
+        let gameBoard = ['', '', '', '', '', '', '', '', ''];
+        let gameActive = true;
+        let scores = { X: 0, O: 0 };
+        let gameHistory = [];
+        let moveCount = 0;
+
+        // 获胜组合
+        const winPatterns = [
+            [0, 1, 2], [3, 4, 5], [6, 7, 8], // 行
+            [0, 3, 6], [1, 4, 7], [2, 5, 8], // 列
+            [0, 4, 8], [2, 4, 6]             // 对角线
+        ];
+
+        // DOM元素
+        const boardElement = document.getElementById('board');
+        const statusElement = document.getElementById('status');
+        const scoreXElement = document.getElementById('scoreX');
+        const scoreOElement = document.getElementById('scoreO');
+        const playerXElement = document.getElementById('playerX');
+        const playerOElement = document.getElementById('playerO');
+        const resetBtn = document.getElementById('resetBtn');
+        const newGameBtn = document.getElementById('newGameBtn');
+        const historyList = document.getElementById('historyList');
+
+        // 初始化游戏板
+        function initializeBoard() {
+            boardElement.innerHTML = '';
+            
+            for (let i = 0; i < 9; i++) {
+                const cell = document.createElement('div');
+                cell.className = 'cell';
+                cell.dataset.index = i;
+                cell.addEventListener('click', () => handleCellClick(i));
+                boardElement.appendChild(cell);
+            }
+            
+            updateGameStatus();
+        }
+
+        // 处理格子点击
+        function handleCellClick(index) {
+            // 如果游戏已结束或格子已被占用，则忽略点击
+            if (!gameActive || gameBoard[index] !== '') return;
+            
+            // 更新游戏板状态
+            gameBoard[index] = currentPlayer;
+            moveCount++;
+            
+            // 更新UI
+            const cellElement = document.querySelector(`.cell[data-index="${index}"]`);
+            cellElement.textContent = currentPlayer;
+            cellElement.classList.add(currentPlayer.toLowerCase());
+            
+            // 检查游戏是否结束
+            if (checkWin()) {
+                endGame(false);
+                return;
+            }
+            
+            // 检查是否平局
+            if (moveCount === 9) {
+                endGame(true);
+                return;
+            }
+            
+            // 切换玩家
+            currentPlayer = currentPlayer === 'X' ? 'O' : 'X';
+            updateGameStatus();
+        }
+
+        // 检查是否有玩家获胜
+        function checkWin() {
+            for (const pattern of winPatterns) {
+                const [a, b, c] = pattern;
+                if (
+                    gameBoard[a] && 
+                    gameBoard[a] === gameBoard[b] && 
+                    gameBoard[a] === gameBoard[c]
+                ) {
+                    // 高亮显示获胜的格子
+                    pattern.forEach(index => {
+                        document.querySelector(`.cell[data-index="${index}"]`).classList.add('winner');
+                    });
+                    
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        // 结束游戏
+        function endGame(isDraw) {
+            gameActive = false;
+            
+            if (isDraw) {
+                statusElement.textContent = '游戏平局！';
+                gameHistory.unshift({ winner: 'draw', moves: moveCount });
+            } else {
+                statusElement.textContent = `玩家 ${currentPlayer} 获胜！`;
+                scores[currentPlayer]++;
+                updateScores();
+                gameHistory.unshift({ winner: currentPlayer, moves: moveCount });
+            }
+            
+            updateHistory();
+        }
+
+        // 更新游戏状态显示
+        function updateGameStatus() {
+            statusElement.textContent = `轮到 ${currentPlayer} 玩家`;
+            
+            // 更新活动玩家指示器
+            if (currentPlayer === 'X') {
+                playerXElement.classList.add('active');
+                playerOElement.classList.remove('active');
+            } else {
+                playerOElement.classList.add('active');
+                playerXElement.classList.remove('active');
+            }
+        }
+
+        // 更新分数显示
+        function updateScores() {
+            scoreXElement.textContent = scores.X;
+            scoreOElement.textContent = scores.O;
+        }
+
+        // 更新游戏历史记录
+        function updateHistory() {
+            historyList.innerHTML = '';
+            
+            gameHistory.forEach((game, index) => {
+                const li = document.createElement('li');
+                const date = new Date().toLocaleDateString();
+                
+                if (game.winner === 'draw') {
+                    li.innerHTML = `第${gameHistory.length - index}局: <span class="draw">平局</span> (${game.moves}步)`;
+                } else {
+                    const winnerClass = game.winner === 'X' ? 'winner-x' : 'winner-o';
+                    li.innerHTML = `第${gameHistory.length - index}局: <span class="${winnerClass}">玩家 ${game.winner}</span> 获胜 (${game.moves}步)`;
+                }
+                
+                historyList.appendChild(li);
+            });
+        }
+
+        // 重置当前游戏
+        function resetGame() {
+            gameBoard = ['', '', '', '', '', '', '', '', ''];
+            gameActive = true;
+            currentPlayer = 'X';
+            moveCount = 0;
+            
+            // 清除所有格子的内容和样式
+            document.querySelectorAll('.cell').forEach(cell => {
+                cell.textContent = '';
+                cell.classList.remove('x', 'o', 'winner');
+            });
+            
+            updateGameStatus();
+        }
+
+        // 开始新游戏（重置分数和历史）
+        function newGame() {
+            scores = { X: 0, O: 0 };
+            gameHistory = [];
+            updateScores();
+            updateHistory();
+            resetGame();
+        }
+
+        // 事件监听
+        resetBtn.addEventListener('click', resetGame);
+        newGameBtn.addEventListener('click', newGame);
+
+        // 初始化游戏
+        initializeBoard();
+        
+        // 添加一些初始历史记录示例
+        gameHistory = [
+            { winner: 'X', moves: 7 },
+            { winner: 'O', moves: 8 }
+        ];
+        updateHistory();
+    </script>
+</body>
+</html>
